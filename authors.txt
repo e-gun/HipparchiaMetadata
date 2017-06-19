@@ -1,0 +1,3458 @@
+[http://localhost:5000/databasecontents/authors]
+3455 Available authors
+
+ch0001  	Asia Minor [Chr.] (Grégoire, Recueil)
+ch0002  	Asia Minor [Chr.] (IK Ilion)
+ch0003  	Asia Minor [Chr.] (IK Assos)
+ch0004  	Asia Minor [Chr.] (IK Kyme)
+ch0005  	Asia Minor [Chr.] (IK Smyrna)
+ch0006  	Asia Minor [Chr.] (IK Klazomenai)
+ch0007  	Asia Minor [Chr.] (IK Erythrai)
+ch0008  	Asia Minor [Chr.] (IK Ephesos)
+ch0009  	Asia Minor [Chr.] (I.Magnesia)
+ch000a  	Asia Minor [Chr.] (IK Tralles)
+ch000b  	Asia Minor [Chr.] (Milet 1,9)
+ch000c  	Asia Minor [Chr.] (I.Didyma)
+ch000d  	Asia Minor [Chr.] (IK Iasos)
+ch000e  	Asia Minor [Chr.] (IK Mylasa)
+ch000f  	Asia Minor [Chr.] (IK Stratonikeia)
+ch0010  	Asia Minor [Chr.] (IK Keramos)
+ch0011  	Asia Minor [Chr.] (TAM 5,1 [Lydia])
+ch0012  	Asia Minor [Chr.] (Sardis 7,1)
+ch0013  	Asia Minor [Chr.] (IK Kios)
+ch0014  	Asia Minor [Chr.] (Bithynische Studien)
+ch0015  	Asia Minor [Chr.] (IK Nikaia)
+ch0016  	Asia Minor [Chr.] (TAM 4,1 [Nikomedeia])
+ch0017  	Asia Minor [Chr.] (IK Kalchedon)
+ch0018  	Asia Minor [Chr.] (TravMém 10.1987 [Bithynia])
+ch0019  	Asia Minor [Chr.] (IK Prusias ad Hypium)
+ch001a  	Asia Minor [Chr.] (IK Klaudiu polis)
+ch001b  	Asia Minor [Chr.] (DkschrWien 75:1 [Bithynia])
+ch001c  	Asia Minor [Chr.] (Gibson [Phrygia])
+ch001d  	Asia Minor [Chr.] (Nouv.inscr.Phrygie)
+ch001e  	Asia Minor [Chr.] (Anat.Stud. 29.1979 [Phrygia])
+ch001f  	Asia Minor [Chr.] (Haspels [Phrygia])
+ch0020  	Asia Minor [Chr.] (Laodicée du Lycos)
+ch0021  	Asia Minor [Chr.] (RECAM II [Galatia])
+ch0022  	Asia Minor [Chr.] (Anat.Stud. 27.1977 [Ancyra])
+ch0023  	Asia Minor [Chr.] (Byzantion 4.1927/28 [Ancyra])
+ch0024  	Asia Minor [Chr.] (Mél.Beyrouth 13.1928 [Ancyra])
+ch0025  	Asia Minor [Chr.] (JHS 19.1899 [Ancyra])
+ch0026  	Asia Minor [Chr.] (Pessinous)
+ch0027  	Asia Minor [Chr.] (Barata [Lykaonia])
+ch0028  	Asia Minor [Chr.] (BNgJ Suppl 1.1922)
+ch0029  	Asia Minor [Chr.] (MAMA I, IV–VIII)
+ch002a  	Asia Minor [Chr.] (TAM III,1 [Pisidia])
+ch002b  	Asia Minor [Chr.] (Lanckoronski II [Pisidia])
+ch002c  	Asia Minor [Chr.] (TAM II [Lykia])
+ch002d  	Asia Minor [Chr.] (DkschrWien 104 [Lykia])
+ch002e  	Asia Minor [Chr.] (Side[1947])
+ch002f  	Asia Minor [Chr.] (Side[1956])
+ch0030  	Asia Minor [Chr.] (Side[1965])
+ch0031  	Asia Minor [Chr.] (DkschrWien 85 [Pamphylia])
+ch0032  	Asia Minor [Chr.] (DkschrWien 102 [Pamphylia, Isauria])
+ch0033  	Asia Minor [Chr.] (DkschrWien 146 [Adrassus])
+ch0034  	Asia Minor [Chr.] (DkschrWien 190 [Anemurium])
+ch0035  	Asia Minor [Chr.] (DkschrWien 44:6 [Cilicia])
+ch0036  	Asia Minor [Chr.] (MAMA II–III)
+ch0037  	Asia Minor [Chr.] (I.Cilicie)
+ch0038  	Asia Minor [Chr.] (DkschrWien 138 [Cappadocia])
+ch0039  	Asia Minor [Chr.] (de Jerphanion [Cappadocia])
+ch003a  	Asia Minor [Chr.] (Thierry [Cappadocia])
+ch003b  	Asia Minor [Chr.] (Studia Pontica III,1)
+ch003c  	Asia Minor [Chr.] (BCH 19.1895 [Trebizond])
+ch003d  	Asia Minor [Chr.] (BCH 20.1896 [Trebizond])
+ch003e  	Asia Minor [Chr.] (BZ 18.1909 [Trebizond])
+ch003f  	Asia Minor [Chr.] (Le Bas and Waddington V [Asia Minor])
+ch0040  	Asia Minor [Chr.] (IGRR III–IV [Asia Minor])
+ch0041  	Asia Minor [Chr.] (IG XII,1–3, 7 and Suppl.)
+ch0042  	Asia Minor [Chr.] (ASAtene)
+ch0043  	Asia Minor [Chr.] (Clara Rhodos)
+ch0044  	Asia Minor [Chr.] (Lindos 2,2)
+ch0045  	Asia Minor [Chr.] (PrAkAth 1928)
+ch0046  	Asia Minor [Chr.] (VizVr 19,2.1912 [Syme])
+ch0101  	Macedonia and Thrace [Chr.] (Feissel, Recueil Macédoine)
+ch0102  	Macedonia and Thrace [Chr.] (IG X,2:1 [Thessalonike])
+ch0103  	Macedonia and Thrace [Chr.] (Inventaire Thessalonique)
+ch0104  	Macedonia and Thrace [Chr.] (H.Demetrios)
+ch0105  	Macedonia and Thrace [Chr.] (Kat.Thessalonik.)
+ch0106  	Macedonia and Thrace [Chr.] (Mt.Athos)
+ch0107  	Macedonia and Thrace [Chr.] (Demitsas)
+ch0108  	Macedonia and Thrace [Chr.] (Kavala)
+ch0109  	Macedonia and Thrace [Chr.] (IG XII,8 and Suppl.)
+ch010a  	Macedonia and Thrace [Chr.] (R.Thasos II)
+ch010b  	Macedonia and Thrace [Chr.] (Samothrace 2,1)
+ch010c  	Macedonia and Thrace [Chr.] (Dumont and Homolle [Thrace])
+ch010d  	Macedonia and Thrace [Chr.] (BSA 15.1908/9 [Ainos])
+ch010e  	Macedonia and Thrace [Chr.] (Beshevliev [Bulgaria])
+ch010f  	Macedonia and Thrace [Chr.] (Protobulgarian)
+ch0110  	Macedonia and Thrace [Chr.] (Popescu [Romania])
+ch0111  	Macedonia and Thrace [Chr.] (CIRB)
+ch0112  	Macedonia and Thrace [Chr.] (IOSPE IV)
+ch0113  	Macedonia and Thrace [Chr.] (Latyshev, Sbornik [S. Russia])
+ch0201  	Constantinople [Chr.] (CIG IV [part])
+ch0202  	Constantinople [Chr.] (Ekphrasis H. Sophias)
+ch0203  	Constantinople [Chr.] (Mercati, Coll.Byz. II)
+ch0204  	Constantinople [Chr.] (Byzantine Churches)
+ch0205  	Constantinople [Chr.] (Karije Djami I)
+ch0206  	Constantinople [Chr.] (Landmauer)
+ch0207  	Constantinople [Chr.] (Byzantine Constantinople)
+ch0208  	Constantinople [Chr.] (Ebersolt, Mission)
+ch0209  	Constantinople [Chr.] (Mango, AJA 55.1951)
+ch020a  	Constantinople [Chr.] (ArchAnz)
+ch020b  	Constantinople [Chr.] (Char.Orland. 1)
+ch020c  	Constantinople [Chr.] (DOP)
+ch020d  	Constantinople [Chr.] (Greek Anthology [part])
+ch020e  	Constantinople [Chr.] (Porphyrius the Charioteer)
+ch0301  	Greece [Chr.] (Inventaire Thessalie)
+ch0302  	Greece [Chr.] (Thessaly [various sources])
+ch0303  	Greece [Chr.] (Epirus [various sources])
+ch0304  	Greece [Chr.] (Hellas [various sources])
+ch0305  	Greece [Chr.] (Attica [various sources])
+ch0306  	Greece [Chr.] (Inventaire Peloponnèse)
+ch0307  	Greece [Chr.] (Corinth VIII,1–2 and XII)
+ch0308  	Greece [Chr.] (Peloponnesos [various sources])
+ch0309  	Greece [Chr.] (BCH 23.1899 [Mistra])
+ch030a  	Greece [Chr.] (Lead Seals [Peloponnesos])
+ch030b  	Greece [Chr.] (IG XII,5 [Central Aegean])
+ch030c  	Greece [Chr.] (Bandy [Crete])
+ch030d  	Greece [Chr.] (I.Creticae)
+ch0401  	Cyprus [Chr.] (Byzantion 20.1950)
+ch0402  	Cyprus [Chr.] (Salamine de Chypre XIII,2)
+ch0403  	Cyprus [Chr.] (Soloi I)
+ch0404  	Cyprus [Chr.] (Kourion)
+ch0405  	Cyprus [Chr.] (Stylianou, JÖByz 9.1960)
+ch0501  	Syria, Arabia and Palaestina [Chr.] (IGLSyrie I–VII, XIII,1 and XXI,2)
+ch0502  	Syria, Arabia and Palaestina [Chr.] (Le Bas and Waddington VI)
+ch0503  	Syria, Arabia and Palaestina [Chr.] (PPUAES III,A)
+ch0504  	Syria, Arabia and Palaestina [Chr.] (PAAES III)
+ch0505  	Syria, Arabia and Palaestina [Chr.] (Villages Syrie du nord)
+ch0506  	Syria, Arabia and Palaestina [Chr.] (Sanctuaires chrétiennes)
+ch0507  	Syria, Arabia and Palaestina [Chr.] (Limes de Chalcis)
+ch0508  	Syria, Arabia and Palaestina [Chr.] (Dura–Europos VII,2)
+ch0509  	Syria, Arabia and Palaestina [Chr.] (Nécropole Tyr)
+ch050a  	Syria, Arabia and Palaestina [Chr.] (Gerasa)
+ch050b  	Syria, Arabia and Palaestina [Chr.] (Piccirillo, Chiese e Mosaici)
+ch050c  	Syria, Arabia and Palaestina [Chr.] (Madaba Map)
+ch050d  	Syria, Arabia and Palaestina [Chr.] (Thomsen, Jerusalem)
+ch050e  	Syria, Arabia and Palaestina [Chr.] (Vincent and Abel, Nativité)
+ch050f  	Syria, Arabia and Palaestina [Chr.] (Beth–Shan)
+ch0510  	Syria, Arabia and Palaestina [Chr.] (Moab)
+ch0511  	Syria, Arabia and Palaestina [Chr.] (Nessana)
+ch0512  	Syria, Arabia and Palaestina [Chr.] (Negev)
+ch0513  	Syria, Arabia and Palaestina [Chr.] (RevBibl)
+ch0514  	Syria, Arabia and Palaestina [Chr.] (DOP 20.1966 [Sinai])
+ch0601  	Egypt and the Cyrenaica [Chr.] (Lefebvre, Recueil Égypte)
+ch0602  	Egypt and the Cyrenaica [Chr.] (Delta I)
+ch0603  	Egypt and the Cyrenaica [Chr.] (I.Fayoum)
+ch0604  	Egypt and the Cyrenaica [Chr.] (Portes du désert)
+ch0605  	Egypt and the Cyrenaica [Chr.] (Baillet, Syringes)
+ch0606  	Egypt and the Cyrenaica [Chr.] (Pan du désert)
+ch0607  	Egypt and the Cyrenaica [Chr.] (Akoris)
+ch0608  	Egypt and the Cyrenaica [Chr.] (Hibis)
+ch0609  	Egypt and the Cyrenaica [Chr.] (Philai II)
+ch060a  	Egypt and the Cyrenaica [Chr.] (Zucker, Debod)
+ch060b  	Egypt and the Cyrenaica [Chr.] (Milne, Cat. Cairo)
+ch060c  	Egypt and the Cyrenaica [Chr.] (Breccia, Cat. Alexandria)
+ch060d  	Egypt and the Cyrenaica [Chr.] (Inscr. métriques)
+ch060e  	Egypt and the Cyrenaica [Chr.] (Dittenberger, OGIS)
+ch060f  	Egypt and the Cyrenaica [Chr.] (Sammelbuch)
+ch0610  	Egypt and the Cyrenaica [Chr.] (JThS 11.1960 [Cyrenaica])
+ch0701  	Italy, Africa and the West [Chr.] (Kaibel, IG XIV)
+ch0702  	Italy, Africa and the West [Chr.] (Agnello [Sicily])
+ch0703  	Italy, Africa and the West [Chr.] (Strazzulla [Syracuse])
+ch0704  	Italy, Africa and the West [Chr.] (RivArchCr 17.1940, 18.1941 [Syracuse])
+ch0705  	Italy, Africa and the West [Chr.] (RPARA 22.1946/47 [Syracuse])
+ch0706  	Italy, Africa and the West [Chr.] (Rend.Lincei 37.1983 [Calabria])
+ch0707  	Italy, Africa and the West [Chr.] (RSBN 20.1983/84 [Calabria])
+ch0708  	Italy, Africa and the West [Chr.] (HarvUkrSt 7.1983 [Apulia])
+ch0709  	Italy, Africa and the West [Chr.] (I.Porto)
+ch070a  	Italy, Africa and the West [Chr.] (Moretti, IGUR [Rome])
+ch070b  	Italy, Africa and the West [Chr.] (IChrUR [Rome])
+ch070c  	Italy, Africa and the West [Chr.] (Bollini, Ravenna)
+ch070d  	Italy, Africa and the West [Chr.] (CIG [Italy, Sicily])
+ch070e  	Italy, Africa and the West [Chr.] (I.Chr.Gaule. I and XV)
+ch070f  	Italy, Africa and the West [Chr.] (Monceaux, RA ser. 4, 2.1903 [Africa])
+ch0710  	Italy, Africa and the West [Chr.] (Roman Tripolitania)
+ch0801  	Varia [Chr.] (SEG 1–36)
+ch0802  	Varia [Chr.] (Greek Anthology [remainder])
+ch0803  	Varia [Chr.] (CIG [remainder])
+ch0804  	Varia [Chr.] (Guarducci, EG IV)
+ch0805  	Varia [Chr.] (ILCV [Greek])
+ch0806  	Varia [Chr.] (Bull.épigr.)
+ch0807  	Varia [Chr.] (Halkin)
+ch0808  	Varia [Chr.] (Capitation)
+ch0809  	Varia [Chr.] (Revêtements)
+ch080a  	Varia [Chr.] (ArchByzMnemHell)
+ch080b  	Varia [Chr.] (ArchDeltion)
+ch080c  	Varia [Chr.] (AEMÖ)
+ch080d  	Varia [Chr.] (ArchEphemeris)
+ch080e  	Varia [Chr.] (AnatStud)
+ch080f  	Varia [Chr.] (Athena)
+ch0810  	Varia [Chr.] (AthMitt)
+ch0811  	Varia [Chr.] (BCH)
+ch0812  	Varia [Chr.] (BPhW 12.1892)
+ch0813  	Varia [Chr.] (Byzantion)
+ch0814  	Varia [Chr.] (Byzantinoslavica 19.1958)
+ch0815  	Varia [Chr.] (ByzZeitschr)
+ch0816  	Varia [Chr.] (DChAE ser. 1)
+ch0817  	Varia [Chr.] (DChAE ser. 4)
+ch0818  	Varia [Chr.] (EEBS)
+ch0819  	Varia [Chr.] (Hellenica)
+ch081a  	Varia [Chr.] (IstMitt)
+ch081b  	Varia [Chr.] (JHS)
+ch081c  	Varia [Chr.] (JÖAI)
+ch081d  	Varia [Chr.] (JÖByz)
+ch081e  	Varia [Chr.] (Kokalos 9.1963)
+ch081f  	Varia [Chr.] (Mél.Beyrouth)
+ch0820  	Varia [Chr.] (PraktArchHet)
+ch0821  	Varia [Chr.] (Syria)
+ch0822  	Varia [Chr.] (TravMém)
+ch0823  	Varia [Chr.] (ZbRadova)
+ch0824  	Varia [Chr.] (FestschrHunger[1984])
+ch0901  	Judaica (Frey, CIJ I–II)
+ch0902  	Judaica (Luederitz [Cyrenaica])
+ch0903  	Judaica (Le Bohec [Africa])
+ch0904  	Judaica (SEG 2–35)
+ch0a01  	Byzantine Documents (Cadastral Codex, Thebes)
+ch0a02  	Byzantine Documents (Praktikon, Athens)
+ch0a03  	Byzantine Documents (Chronicle of Monembasia)
+ch0b01  	Latin [other] (Res Gestae)
+ch0b02  	Latin [other] (Ludi Saeculares [CIL 6.32323])
+ch0b03  	Latin [other] (Laudatio Turiae)
+ch0b04  	Latin [other] (Acta fratrum Arvalium)
+ch0c01  	Late Antique Latin (Diehl, Inscr. Lat. Chr. Vet. I-II [ILCV])
+ch0c02  	Late Antique Latin (Dessau, Inscr. Lat. Sel. (part) [ILS])
+ch0c03  	Late Antique Latin (Diokletians Preisedikt, ed. Lauffer)
+ch0c04  	Late Antique Latin (Durliat, Ouvr. de défense Afr. byz.)
+ch0c05  	Late Antique Latin (Rugo, Iscr. dei sec. VI-VII-VIII, I-V)
+ch0c06  	Late Antique Latin (I.Ital. X,1-3 (part))
+ch0c07  	Late Antique Latin (Castello Sforzesco [Milano], Cat.)
+ch0c08  	Late Antique Latin (Iscr. biz. di Ravenna (1909) (part))
+ch0c09  	Late Antique Latin (Sanct. di S. Michele sul Gargano (1980))
+ch0c0a  	Late Antique Latin (Le Blant, Inscrs. chrét. Gaule [ICG])
+ch0c0b  	Late Antique Latin (Le Blant, Nouveau Recueil [NR])
+ch0c0c  	Late Antique Latin (CIL XII, Narbonensis)
+ch0c0d  	Late Antique Latin (Inscrs. lat. de Gaule (Narb.) [ILGN])
+ch0c0e  	Late Antique Latin (FOR, Carte archéol. de Gaule XII)
+ch0c0f  	Late Antique Latin (CIL XIII, Tres Galliae Germania)
+ch0c10  	Late Antique Latin (Inscrs. lat. des Trois Gaules [ILTG])
+ch0c11  	Late Antique Latin (FOR, Carte archéol. de Gaule XIII)
+ch0c12  	Late Antique Latin (Riv. arch. crist. 54.1978 (Lyon))
+ch0c13  	Late Antique Latin (Descombes, RICG XV, Viennoise du Nord)
+ch0c14  	Late Antique Latin (FOR, Carte arch. de Gaule XI)
+ch0c15  	Late Antique Latin (Gauthier, RICG I, Trèves (Trier))
+ch0c16  	Late Antique Latin (Gose, Kat. Trier (not in RICG I))
+ch0c17  	Late Antique Latin (Frühchr. Zeugnissse (1965) [FZ])
+ch0c18  	Late Antique Latin (Trier, Kaiserresidenz (1984))
+ch0c19  	Late Antique Latin (Boppert, Frühchr. Mittelrhein (part))
+ch0c1a  	Late Antique Latin (Bericht Röm.-germ. Komm., "Suppls." 1-4)
+ch0c1b  	Late Antique Latin (Kraus, Inschr. der Rheinlande I (part))
+ch0c1c  	Late Antique Latin (L'Année épigraphique 1937-1987 [AE])
+ch0c1d  	Late Antique Latin (Gallia 14.1956, 21.1963 29.1971)
+ch0c1e  	Late Antique Latin (Vives, ICERV2 Add. [Hispania])
+ch0c1f  	Late Antique Latin (Alföldy, Röm. Inschr. Tarraco [RIT])
+ch0c20  	Late Antique Latin (Early Chr. Monuments Wales (1950))
+ch0c21  	Late Antique Latin (Early Chr. Inscr. Stones SW Brit. (1993))
+ch0c22  	Late Antique Latin (Macalister, CIICelt. I (part))
+ch0c23  	Late Antique Latin (Early Chr. Monuments Scotland III (1903))
+ch0c24  	Late Antique Latin (Hübner, I.Brit.chr. (remainder))
+ch0d01  	Medieval Latin (MGH Poetae I-VI (part))
+ch0d02  	Medieval Latin (Kraus, Inschr. der Rheinlande II)
+ch0d03  	Medieval Latin (Die Deutschen Inschr. [DI] 1-39 (part))
+ch0d04  	Medieval Latin (Funken, Bauinschriften Köln)
+ch0d05  	Medieval Latin ("Grabsteine", BJb 1983)
+ch0d06  	Medieval Latin ("Bleierne Inschrifttafeln", BJb 1952)
+ch0d07  	Medieval Latin (Berges, Inschr. Hildesheim, AbhGött. 131)
+ch0d08  	Medieval Latin (Messerer, Bamberger Domschatz)
+ch0d09  	Medieval Latin (Inscrs. de la France méd. [CIFM] 1-16)
+ch0d0a  	Medieval Latin (Bertrand, La Tapisserie de Bayeux)
+ch0d0b  	Medieval Latin (Hübner, I.Hisp.chr. Suppl. (part))
+ch0d0c  	Medieval Latin (Gómez-Moreno, Igl. Mozárabes)
+ch0d0d  	Medieval Latin (Bol. de la R. Acad. de la Hist. [BAH])
+ch0d0e  	Medieval Latin (Durán Gudiol, Inscrs. med. Huesca)
+ch0d0f  	Medieval Latin ("Paleography", PBSR 16.1948 (part))
+ch0d10  	Medieval Latin ("Excursus", APAA2 13.1918 (part))
+ch0d11  	Medieval Latin (Scr. Vet. Nova Coll. V (1831) (part))
+ch0d12  	Medieval Latin (Roversi, Iscr. med. bolognesi (part))
+ch0d13  	Medieval Latin (CIMA Liguriae I-III (part))
+ch0d14  	Medieval Latin (Il Duomo di Modena (1984))
+ch0d15  	Medieval Latin (Montorsi, Iscr. modensi (part))
+ch0d16  	Medieval Latin (Scalia, "Epigraphica Pisana" (1963))
+ch0d17  	Medieval Latin (Billo, Iscr. veronesi (1934))
+ch0d18  	Medieval Latin (Scritti Cipolla I-II (1978))
+ch0d19  	Medieval Latin (Saporetti, Iscr. rom. Duomo di Fidenza)
+ch0d1a  	Medieval Latin (Porter, Lombard Architecture II-III)
+ch0d1b  	Medieval Latin (Iscr. med. di Cingoli (part))
+ch0d1c  	Medieval Latin (Glossar II IV (part) [Croatia])
+ch0d1d  	Medieval Latin (Anglo-Saxon Non-Runic Inscrs. [ASNR])
+ch0d1e  	Medieval Latin (Windows ... Canterbury Cath. (1901))
+ch0d1f  	Medieval Latin (Paintings Worcester Priory (1904))
+ch0d20  	Medieval Latin (English Romanesque Art (1984) (part))
+ch0d21  	Medieval Latin (Macalister, CIICelt. II (part))
+ch0d22  	Medieval Latin (Other British Isles (various sources))
+ch0d23  	Medieval Latin (CICrTS (1974) [Crusaders, Palestine])
+dp0001  	BGU (Vol 1)
+dp0002  	BGU (Vol 2)
+dp0003  	BGU (Vol 3)
+dp0004  	BGU (Vol 4)
+dp0005  	BGU (Vol 5)
+dp0006  	BGU (Vol 6)
+dp0007  	BGU (Vol 7)
+dp0008  	BGU (Vol 8)
+dp0009  	BGU (Vol 9)
+dp000a  	BGU (Vol 10)
+dp000b  	BGU (Vol 11)
+dp000c  	BGU (Vol 12)
+dp000d  	BGU (Vol 13)
+dp000e  	BGU (Vol 14)
+dp000f  	BGU (Vol 15)
+dp0101  	CPR (Vol 1)
+dp0102  	CPR (Vol 3)
+dp0103  	CPR (Vol 5)
+dp0104  	CPR (Vol 6)
+dp0105  	CPR (Vol 7)
+dp0106  	CPR (Vol 8)
+dp0107  	CPR (Vol 9)
+dp0108  	CPR (Vol 10)
+dp0109  	CPR (Vol 13)
+dp010a  	CPR (Vol 14)
+dp010b  	CPR (Vol 15)
+dp010c  	CPR (Vol 17A)
+dp010d  	CPR (Vol 17B)
+dp010e  	CPR (Vol 18)
+dp0201  	PAberd
+dp0301  	PAbinn
+dp0401  	PAchm
+dp0501  	PAdl
+dp0601  	PAlex
+dp0701  	PAlexGiss
+dp0801  	PAmh (Vol 1)
+dp0802  	PAmh (Vol 2)
+dp0901  	PAmst (Vol 1)
+dp0a01  	PAnag
+dp0b01  	PAnt (Vol 1)
+dp0b02  	PAnt (Vol 2)
+dp0b03  	PAnt (Vol 3)
+dp0c01  	PApoll
+dp0d01  	PAshm (Vol 1)
+dp0e01  	PAthen
+dp0f01  	PAthXyla
+dp1001  	PAustHerring
+dp1101  	PBabatha
+dp1201  	PBacch
+dp1301  	PBad (Vol 2)
+dp1302  	PBad (Vol 4)
+dp1303  	PBad (Vol 6)
+dp1401  	PBal (Vol 2)
+dp1501  	PBas
+dp1601  	PBatav
+dp1701  	PBerl (Bibl)
+dp1702  	PBerl (Bork)
+dp1703  	PBerl (Brash)
+dp1704  	PBerl (Frisk)
+dp1705  	PBerl (Leihg 1)
+dp1706  	PBerl (Leihg 2)
+dp1707  	PBerl (Moeller)
+dp1708  	PBerl (Sarisch)
+dp1709  	PBerl (Thun)
+dp170a  	PBerl (Zill)
+dp1801  	PBon
+dp1901  	PBour
+dp1a01  	PBrem
+dp1b01  	PBrook
+dp1c01  	PBrux (Vol 1)
+dp1d01  	PBub (Vol 1)
+dp1e01  	PCair (Good)
+dp1e02  	PCair (Isid)
+dp1e03  	PCair (Mas 1)
+dp1e04  	PCair (Mas 2)
+dp1e05  	PCair (Mas 3)
+dp1e06  	PCair (Mich)
+dp1e07  	PCair (Preis)
+dp1e08  	PCair (Zen 1)
+dp1e09  	PCair (Zen 2)
+dp1e0a  	PCair (Zen 3)
+dp1e0b  	PCair (Zen 4)
+dp1e0c  	PCair (Zen 5)
+dp1f01  	PCharite
+dp2001  	PCol (Vol 1)
+dp2002  	PCol (Vol 2)
+dp2003  	PCol (Vol 3)
+dp2004  	PCol (Vol 4)
+dp2005  	PCol (Vol 5)
+dp2006  	PCol (Vol 6)
+dp2007  	PCol (Vol 7)
+dp2008  	PCol (Vol 8)
+dp2101  	PColTeeter
+dp2201  	PCollYoutie (Vol 1)
+dp2202  	PCollYoutie (Vol 2)
+dp2301  	PCongr XV
+dp2401  	PCorn
+dp2501  	PCustoms
+dp2601  	PDavid
+dp2701  	PDiog
+dp2801  	PDion
+dp2901  	PDubl
+dp2a01  	PDura
+dp2b01  	PEdfou (Vol 1)
+dp2b02  	PEdfou (Vol 2)
+dp2b03  	PEdfou (Vol 3)
+dp2c01  	PEleph
+dp2d01  	PEnteux
+dp2e01  	PErasm (Vol 1)
+dp2e02  	PErasm (Vol 2)
+dp2f01  	PErl
+dp3001  	PFamTebt
+dp3101  	PFay
+dp3201  	PFlor (Vol 1)
+dp3202  	PFlor (Vol 2)
+dp3203  	PFlor (Vol 3)
+dp3301  	PFouad
+dp3401  	PFrankf
+dp3501  	PFreer
+dp3601  	PFreib (Vol 1)
+dp3602  	PFreib (Vol 2)
+dp3603  	PFreib (Vol 3)
+dp3604  	PFreib (Vol 4)
+dp3701  	PFuad I Univ
+dp3801  	PGen (Vol 1)
+dp3802  	PGen (Vol 2)
+dp3901  	PGenova (Vol 1)
+dp3902  	PGenova (Vol 2)
+dp3903  	PGenova (Vol 3)
+dp3a01  	PGiss
+dp3b01  	PGissUniv (Vol 1)
+dp3b02  	PGissUniv (Vol 3)
+dp3b03  	PGissUniv (Vol 6)
+dp3c01  	PGot
+dp3d01  	PGrad
+dp3e01  	PGraux (Vol 2)
+dp3f01  	PGrenf (Vol 1)
+dp3f02  	PGrenf (Vol 2)
+dp4001  	PGron
+dp4101  	PGur
+dp4201  	PHal
+dp4301  	PHamb (Vol 1)
+dp4302  	PHamb (Vol 2)
+dp4303  	PHamb (Vol 3)
+dp4401  	PHarr (Vol 1)
+dp4402  	PHarr (Vol 2)
+dp4501  	PHaun (Vol 1)
+dp4502  	PHaun (Vol 2)
+dp4503  	PHaun (Vol 3)
+dp4601  	PHeid (Vol 2)
+dp4602  	PHeid (Vol 3)
+dp4603  	PHeid (Vol 4)
+dp4604  	PHeid (Vol 5)
+dp4605  	PHeid (Vol 6)
+dp4606  	PHeid (Vol 7)
+dp4701  	PHels (Vol 1)
+dp4801  	PHerm
+dp4901  	PHermLandl
+dp4a01  	PHib (Vol 1)
+dp4a02  	PHib (Vol 2)
+dp4b01  	PHombert
+dp4c01  	PIand (Vol 2)
+dp4c02  	PIand (Vol 3)
+dp4c03  	PIand (Vol 4)
+dp4c04  	PIand (Vol 6)
+dp4c05  	PIand (Vol 7)
+dp4c06  	PIand (Vol 8)
+dp4c07  	PIand (Inv653)
+dp4d01  	PIFAO (Vol 1)
+dp4d02  	PIFAO (Vol 2)
+dp4d03  	PIFAO (Vol 3)
+dp4e01  	PItal (Vol 1)
+dp4e02  	PItal (Vol 2)
+dp4f01  	PJena
+dp5001  	PKarGoods
+dp5101  	PKell
+dp5201  	PKoeln (Vol 1)
+dp5202  	PKoeln (Vol 2)
+dp5203  	PKoeln (Vol 3)
+dp5204  	PKoeln (Vol 4)
+dp5205  	PKoeln (Vol 5)
+dp5206  	PKoeln (Vol 6)
+dp5207  	PKoeln (Vol 7)
+dp5301  	PKroll
+dp5401  	PKron
+dp5501  	PLaur (Vol 1)
+dp5502  	PLaur (Vol 2)
+dp5503  	PLaur (Vol 3)
+dp5504  	PLaur (Vol 4)
+dp5601  	PLeedsMus
+dp5701  	PLeidInst
+dp5801  	PLeipz
+dp5901  	PLeit
+dp5a01  	PLille (Vol 1)
+dp5b01  	PLips
+dp5c01  	PLond (Vol 1)
+dp5c02  	PLond (Vol 2)
+dp5c03  	PLond (Vol 3)
+dp5c04  	PLond (Vol 4)
+dp5c05  	PLond (Vol 5)
+dp5c06  	PLond (Vol 6)
+dp5c07  	PLond (Vol 7)
+dp5d01  	PLund (Vol 2)
+dp5d02  	PLund (Vol 3)
+dp5d03  	PLund (Vol 4)
+dp5d04  	PLund (Vol 6)
+dp5e01  	PMarm
+dp5f01  	PMasada
+dp6001  	PMatr
+dp6101  	PMert (Vol 1)
+dp6102  	PMert (Vol 2)
+dp6103  	PMert (Vol 3)
+dp6201  	PMeyer
+dp6301  	PMich (Vol 1)
+dp6302  	PMich (Vol 2)
+dp6303  	PMich (Vol 3)
+dp6304  	PMich (Vol 4/1)
+dp6305  	PMich (Vol 4/2)
+dp6306  	PMich (Vol 5)
+dp6307  	PMich (Vol 6)
+dp6308  	PMich (Vol 7)
+dp6309  	PMich (Vol 8)
+dp630a  	PMich (Vol 9)
+dp630b  	PMich (Vol 10)
+dp630c  	PMich (Vol 11)
+dp630d  	PMich (Vol 12)
+dp630e  	PMich (Vol 13)
+dp630f  	PMich (Vol 14)
+dp6310  	PMich (Vol 15)
+dp6311  	PMich (Aphrod)
+dp6312  	PMich (Michael)
+dp6401  	PMichael
+dp6501  	PMil (Vol 1)
+dp6502  	PMil (Vol 2)
+dp6503  	PMil (Congr XIV)
+dp6504  	PMil (Congr XVII)
+dp6505  	PMil (Congr XVIII)
+dp6506  	PMil (Congr XIX)
+dp6601  	PMilVogl (Vol 1)
+dp6602  	PMilVogl (Vol 2)
+dp6603  	PMilVogl (Vol 3)
+dp6604  	PMilVogl (Vol 4)
+dp6605  	PMilVogl (Vol 6)
+dp6606  	PMilVogl (Vol 7)
+dp6701  	PMuench (Vol 1)
+dp6702  	PMuench (Vol 3/1)
+dp6801  	PMur (Vol 2)
+dp6901  	PNagHamm
+dp6a01  	PNeph
+dp6b01  	PNess (Vol 3)
+dp6c01  	PNYU (Vol 1)
+dp6d01  	POslo (Vol 2)
+dp6d02  	POslo (Vol 3)
+dp6e01  	POxf
+dp6f01  	POxy (Vol 1)
+dp6f02  	POxy (Vol 2)
+dp6f03  	POxy (Vol 3)
+dp6f04  	POxy (Vol 4)
+dp6f05  	POxy (Vol 6)
+dp6f06  	POxy (Vol 7)
+dp6f07  	POxy (Vol 8)
+dp6f08  	POxy (Vol 9)
+dp6f09  	POxy (Vol 10)
+dp6f0a  	POxy (Vol 12)
+dp6f0b  	POxy (Vol 14)
+dp6f0c  	POxy (Vol 16)
+dp6f0d  	POxy (Vol 17)
+dp6f0e  	POxy (Vol 18)
+dp6f0f  	POxy (Vol 19)
+dp6f10  	POxy (Vol 20)
+dp6f11  	POxy (Vol 22)
+dp6f12  	POxy (Vol 24)
+dp6f13  	POxy (Vol 27)
+dp6f14  	POxy (Vol 31)
+dp6f15  	POxy (Vol 33)
+dp6f16  	POxy (Vol 34)
+dp6f17  	POxy (Vol 36)
+dp6f18  	POxy (Vol 38)
+dp6f19  	POxy (Vol 40)
+dp6f1a  	POxy (Vol 41)
+dp6f1b  	POxy (Vol 42)
+dp6f1c  	POxy (Vol 43)
+dp6f1d  	POxy (Vol 44)
+dp6f1e  	POxy (Vol 45)
+dp6f1f  	POxy (Vol 46)
+dp6f20  	POxy (Vol 47)
+dp6f21  	POxy (Vol 48)
+dp6f22  	POxy (Vol 49)
+dp6f23  	POxy (Vol 50)
+dp6f24  	POxy (Vol 51)
+dp6f25  	POxy (Vol 52)
+dp6f26  	POxy (Vol 53)
+dp6f27  	POxy (Vol 54)
+dp6f28  	POxy (Vol 55)
+dp6f29  	POxy (Vol 56)
+dp6f2a  	POxy (Vol 57)
+dp6f2b  	POxy (Vol 58)
+dp6f2c  	POxy (Vol 59)
+dp6f2d  	POxy (Vol 60)
+dp6f2e  	POxy (Vol 61)
+dp6f2f  	POxy (Descr)
+dp7001  	POxyHels
+dp7101  	PPanop
+dp7201  	PPanopBeatty
+dp7301  	PPar
+dp7401  	PPetaus
+dp7501  	PPetr (Vol 1)
+dp7502  	PPetr (Vol 2)
+dp7503  	PPetr (Vol 3)
+dp7504  	PPetr (Will)
+dp7601  	PPhil
+dp7701  	PPrag (Vol 1)
+dp7702  	PPrag (Vol 2)
+dp7801  	PPragVarcl (Vol 1)
+dp7802  	PPragVarcl (Vol 2)
+dp7803  	PPragVarcl (NS)
+dp7901  	PPrinc (Vol 1)
+dp7902  	PPrinc (Vol 2)
+dp7903  	PPrinc (Vol 3)
+dp7904  	PPrinc (Roll)
+dp7a01  	PQuseir
+dp7b01  	PRainCent
+dp7c01  	PRein (Vol 1)
+dp7c02  	PRein (Vol 2)
+dp7d01  	PRev
+dp7e01  	PRossGeorg (Vol 2)
+dp7e02  	PRossGeorg (Vol 3)
+dp7e03  	PRossGeorg (Vol 4)
+dp7e04  	PRossGeorg (Vol 5)
+dp7f01  	PRyl (Vol 2)
+dp7f02  	PRyl (Vol 3)
+dp7f03  	PRyl (Vol 4)
+dp8001  	PSI (Vol 1)
+dp8002  	PSI (Vol 3)
+dp8003  	PSI (Vol 4)
+dp8004  	PSI (Vol 5)
+dp8005  	PSI (Vol 6)
+dp8006  	PSI (Vol 7)
+dp8007  	PSI (Vol 8)
+dp8008  	PSI (Vol 9)
+dp8009  	PSI (Vol 10)
+dp800a  	PSI (Vol 12)
+dp800b  	PSI (Vol 13)
+dp800c  	PSI (Vol 14)
+dp800d  	PSI (Vol 15)
+dp800e  	PSI (Congr XI)
+dp800f  	PSI (Congr XVII)
+dp8010  	PSI (Congr XX)
+dp8011  	PSI (Congr XXI)
+dp8012  	PSI (Corr 1)
+dp8101  	PSakaon
+dp8201  	PSarap
+dp8301  	PSelect
+dp8401  	PSelWarga
+dp8501  	PSorb (Vol 1)
+dp8502  	PSorb (Vol 2)
+dp8601  	PSoter
+dp8701  	PStras (Vol 1)
+dp8702  	PStras (Vol 2)
+dp8703  	PStras (Vol 3)
+dp8704  	PStras (Vol 4)
+dp8705  	PStras (Vol 5)
+dp8706  	PStras (Vol 6)
+dp8707  	PStras (Vol 7)
+dp8708  	PStras (Vol 8)
+dp8709  	PStras (Vol 9)
+dp8801  	PTebt (Vol 1)
+dp8802  	PTebt (Vol 2)
+dp8803  	PTebt (Vol 3/1)
+dp8804  	PTebt (Vol 3/2)
+dp8805  	PTebt (Vol 4)
+dp8806  	PTebt (Tait)
+dp8807  	PTebt (Wall)
+dp8901  	PTheon
+dp8a01  	PThmouis (Vol 1)
+dp8b01  	PTor
+dp8c01  	PTorAmen
+dp8d01  	PTorChoach
+dp8e01  	PTurner
+dp8f01  	PUpsFrid
+dp9001  	PVars
+dp9101  	PVatAphrod
+dp9201  	PVind (Bosw)
+dp9202  	PVind (Pher)
+dp9203  	PVind (Sal)
+dp9204  	PVind (Sijp)
+dp9205  	PVind (Tandem)
+dp9206  	PVind (Worp)
+dp9301  	PWarr
+dp9401  	PWashUniv (Vol 1)
+dp9402  	PWashUniv (Vol 2)
+dp9501  	PWisc (Vol 1)
+dp9502  	PWisc (Vol 2)
+dp9601  	PWuerzb
+dp9701  	PYale (Vol 1)
+dp9801  	PZenPestm
+dp9901  	SB (Vol 1)
+dp9902  	SB (Vol 3)
+dp9903  	SB (Vol 4)
+dp9904  	SB (Vol 5)
+dp9905  	SB (Vol 6)
+dp9906  	SB (Vol 8)
+dp9907  	SB (Vol 10)
+dp9908  	SB (Vol 12)
+dp9909  	SB (Vol 14)
+dp990a  	SB (Vol 16)
+dp990b  	SB (Vol 18)
+dp9a01  	UPZ (Vol 1)
+dp9a02  	UPZ (Vol 2)
+dp9b01  	ChrMitt
+dp9c01  	ChrWilck
+dp9d01  	OAmst
+dp9e01  	OAshm
+dp9f01  	OAshmShelt
+dpa001  	OBerl
+dpa101  	OBodl (Vol 1)
+dpa102  	OBodl (Vol 2)
+dpa201  	OBrux
+dpa301  	OBuch
+dpa401  	OBuNjem
+dpa501  	OCair
+dpa601  	OCamb
+dpa701  	OClaud
+dpa801  	ODeiss
+dpa901  	ODouch (Vol 1)
+dpa902  	ODouch (Vol 2)
+dpa903  	ODouch (Vol 3)
+dpaa01  	OEdfou (Vol 1)
+dpaa02  	OEdfou (Vol 2)
+dpaa03  	OEdfou (Vol 3)
+dpab01  	OElkab
+dpac01  	OErem
+dpad01  	OFay
+dpae01  	OFlorida
+dpaf01  	OJoach
+dpb001  	OLeid
+dpb101  	OLund
+dpb201  	OMasada
+dpb301  	OMedinMadi
+dpb401  	OMich (Vol 1)
+dpb402  	OMich (Vol 2)
+dpb403  	OMich (Vol 3)
+dpb404  	OMich (Vol 4)
+dpb501  	OMinor
+dpb601  	ONarm
+dpb701  	OOasis
+dpb801  	OOntMus (Vol 1)
+dpb802  	OOntMus (Vol 2)
+dpb901  	OOslo
+dpba01  	OParis
+dpbb01  	OPetr
+dpbc01  	OSarga
+dpbd01  	OStras
+dpbe01  	OTebt
+dpbf01  	OTebtPad
+dpc001  	OTheb
+dpc101  	OVleem
+dpc201  	OWadiHamm
+dpc301  	OWaqfa
+dpc401  	OWilb
+dpc501  	OWilck
+dpc601  	TAlb
+dpc701  	TMomLouvre
+dpc801  	TVarie
+dpc901  	TVindol (Vol 1)
+dpc902  	TVindol (Vol 2)
+dpca01  	ChLA (Vol 1)
+dpca02  	ChLA (Vol 2)
+dpca03  	ChLA (Vol 3)
+dpca04  	ChLA (Vol 4)
+dpca05  	ChLA (Vol 5)
+dpca06  	ChLA (Vol 6)
+dpca07  	ChLA (Vol 7)
+dpca08  	ChLA (Vol 8)
+dpca09  	ChLA (Vol 9)
+dpca0a  	ChLA (Vol 10)
+dpca0b  	ChLA (Vol 11)
+dpca0c  	ChLA (Vol 12)
+dpca0d  	ChLA (Vol 13)
+dpca0e  	ChLA (Vol 14)
+dpca0f  	ChLA (Vol 17)
+dpca10  	ChLA (Vol 18)
+dpca11  	ChLA (Vol 19)
+dpca12  	ChLA (Vol 20)
+dpca13  	ChLA (Vol 21)
+dpca14  	ChLA (Vol 22)
+dpca15  	ChLA (Vol 25)
+dpca16  	ChLA (Vol 28)
+dpca17  	ChLA (Vol 29)
+dpca18  	ChLA (Vol 41)
+dpca19  	ChLA (Vol 42)
+dpca1a  	ChLA (Vol 43)
+dpca1b  	ChLA (Vol 46)
+dpcb01  	CEpLat
+dpcc01  	CEtiqMom
+dpcd01  	CIllumPap (Vol 1)
+dpce01  	CJudSyrEg
+dpcf01  	CMilRec
+dpd001  	CPapGr (Vol 1)
+dpd002  	CPapGr (2/1)
+dpd101  	PapAgon
+dpd201  	PapBiling
+dpd301  	PapChoix
+dpd401  	StudPal (Vol 1)
+dpd402  	StudPal (Vol 2)
+dpd403  	StudPal (Vol 3)
+dpd404  	StudPal (Vol 4)
+dpd405  	StudPal (Vol 5)
+dpd406  	StudPal (Vol 7)
+dpd407  	StudPal (Vol 8)
+dpd408  	StudPal (Vol 10)
+dpd409  	StudPal (Vol 13)
+dpd40a  	StudPal (Vol 14)
+dpd40b  	StudPal (Vol 17)
+dpd40c  	StudPal (Vol 20)
+dpd40d  	StudPal (Vol 22)
+gr0001  	Apollonius Rhodius (Epic.)
+gr0002  	Theognis (Eleg.)
+gr0003  	Thucydides (Hist.)
+gr0004  	Diogenes Laertius (Biogr.)
+gr0005  	Theocritus (Bucol.)
+gr0006  	Euripides (Trag.)
+gr0007  	Plutarchus (Biogr. et Phil.)
+gr0008  	Athenaeus (Soph.)
+gr0009  	Sappho (Lyr.)
+gr0010  	Isocrates (Orat.)
+gr0011  	Sophocles (Trag.)
+gr0012  	Homer - Homerus (Epic.)
+gr0013  	Homeric Hymns - Hymni Homerici
+gr0014  	Demosthenes (Orat.)
+gr0015  	Herodianus (Hist.)
+gr0016  	Herodotus (Hist.)
+gr0017  	Isaeus (Orat.)
+gr0018  	Philo Judaeus (Phil.)
+gr0019  	Aristophanes (Comic.)
+gr0020  	Hesiodus (Epic.)
+gr0022  	Nicander (Epic.)
+gr0023  	Oppianus (Epic.)
+gr0024  	Oppianus (Epic.)
+gr0026  	Aeschines (Orat.)
+gr0027  	Andocides (Orat.)
+gr0028  	Antiphon (Orat.)
+gr0029  	Dinarchus (Orat.)
+gr0030  	Hyperides (Orat.)
+gr0031  	New Testament - Novum Testamentum
+gr0032  	Xenophon (Hist.)
+gr0033  	Pindarus (Lyr.)
+gr0034  	Lycurgus (Orat.)
+gr0035  	Moschus (Bucol.)
+gr0036  	Bion (Bucol.)
+gr0037  	Anacharsidis Epistulae
+gr0038  	Arcesilai Epistula
+gr0039  	Mithridatis Epistula
+gr0040  	Calani Epistula
+gr0041  	Chionis Epistulae
+gr0042  	Alexandri Magni Epistulae
+gr0043  	Amasis Epistulae
+gr0044  	Antiochi Regis Epistulae
+gr0045  	Artaxerxis Epistulae
+gr0046  	Niciae Epistula
+gr0047  	Pausaniae I Et Xerxis Epistulae
+gr0048  	Philippus II (Rex Macedonum [Epist.])
+gr0049  	Pisistrati Epistula
+gr0050  	Ptolemaei II Philadelphi Et Eleazari Epistulae
+gr0051  	[Melissa] (Phil.)
+gr0052  	Menippus (Phil.)
+gr0053  	Phalaridis Epistulae
+gr0054  	[Theano] (Phil.)
+gr0055  	Themistoclis Epistulae
+gr0056  	Thrasybuli Epistula
+gr0057  	Galenus (Med.)
+gr0058  	Aeneas (Tact.)
+gr0059  	Plato (Phil.)
+gr0060  	Diodorus Siculus (Hist.)
+gr0061  	Lucianus , Pseudo- (Soph.)
+gr0062  	Lucianus (Soph.)
+gr0063  	Dionysius Thrax (Gramm.)
+gr0064  	Periplus Hannonis
+gr0065  	Scylax (Perieg.)
+gr0066  	Dicaearchus (Phil.)
+gr0067  	Agatharchides (Geogr.)
+gr0068  	Scymnus , Pseudo- (Geogr.)
+gr0069  	Dionysius (Geogr.)
+gr0071  	Periplus Maris Erythraei
+gr0072  	Anonymi Grammatici (Gramm.)
+gr0074  	Arrianus , Flavius (Hist. et Phil.)
+gr0075  	Periplus Ponti Euxini
+gr0077  	Periplus Maris Magni
+gr0079  	Menippus (Geogr.)
+gr0081  	Dionysius Halicarnassensis (Hist. et Rhet.)
+gr0082  	Apollonius Dyscolus (Gramm.)
+gr0083  	Dionysius (Geogr.)
+gr0084  	Dionysius (Perieg.)
+gr0085  	Aeschylus (Trag.)
+gr0086  	Aristotle - Aristoteles (Phil. et Corpus Aristotelicum)
+gr0087  	Herodianus , Aelius (et Pseudo-Herodianus Gramm. et Rhet.)
+gr0088  	Aristoxenus (Mus.)
+gr0089  	Praxiphanes (Phil.)
+gr0090  	Agathemerus (Geogr.)
+gr0092  	Anonymi Geographiae Expositio Compendiaria
+gr0093  	Theophrastus (Phil.)
+gr0094  	Plutarchus, Pseudo-
+gr0095  	Hermodorus (Phil.)
+gr0096  	Aesopus (Scr. Fab. et Aesopica)
+gr0097  	Diogenianus (Gramm.)
+gr0098  	Zenobius (Sophista [Paroemiogr.])
+gr0099  	Strabo (Geogr.)
+gr0116  	Abydenus (Hist.)
+gr0125  	Zenonis Epistula
+gr0127  	Archias , Aulus Licinius (Epigr.)
+gr0131  	Archimelus (Epigr.)
+gr0137  	Asclepiades (Epigr.)
+gr0141  	Athenaeus (Epigr.)
+gr0146  	Boethus (Epigr.)
+gr0165  	Diodorus (Rhet.)
+gr0174  	Diotimus (Epic.)
+gr0186  	Fronto , Marcus Cornelius (Rhet.)
+gr0197  	Hedyle (Epigr.)
+gr0198  	Hedylus (Epigr.)
+gr0199  	Bacchylides (Lyr.)
+gr0200  	Mantissa Proverbiorum
+gr0201  	Isyllus (Lyr.)
+gr0202  	Mace(donius) (Lyr.)
+gr0203  	Limenius (Lyr.)
+gr0204  	Aristonous (Lyr.)
+gr0205  	Philodamus (Lyr.)
+gr0206  	Theocles (Lyr.)
+gr0207  	Hermocles (Lyr.)
+gr0208  	Dosiadas (Lyr.)
+gr0209  	Seleucus (Lyr.)
+gr0210  	Euphronius (Lyr.)
+gr0211  	Simias (Gramm.)
+gr0212  	Philetas (Eleg. et Gramm.)
+gr0213  	Hermesianax (Eleg.)
+gr0214  	Phanocles (Eleg.)
+gr0215  	Antagoras (Epic.)
+gr0216  	Alexander (Lyr. et Trag.)
+gr0217  	Anacreon (Junior Eleg.)
+gr0218  	Nicaenetus (Epic.)
+gr0219  	Rhianus (Epic.)
+gr0220  	Moero (Epic.)
+gr0221  	Euphorion (Epic.)
+gr0222  	Eratosthenes (et Eratosthenica Philol.)
+gr0227  	Anonymi Curetum Hymnus
+gr0228  	Anonymi Hymnus In Dactylos Idaeos
+gr0230  	Lyrica Adespota ((CA))
+gr0231  	Elegiaca Adespota ((CA))
+gr0232  	Archilochus (Eleg. et Iamb.)
+gr0233  	Hipponax (Iamb.)
+gr0234  	Elegiaca Adespota ((IEG))
+gr0235  	Iambica Adespota ((IEG))
+gr0236  	Alcibiades ([Eleg.])
+gr0237  	Anacreon (Lyr.)
+gr0238  	Ananius (Iamb.)
+gr0239  	Antimachus (Eleg. et Epic.)
+gr0240  	Hermolochus (Lyr.)
+gr0241  	Aristoxenus ([Comic.])
+gr0242  	Asius (Eleg. et Epic.)
+gr0243  	Callinus (Eleg.)
+gr0244  	Cleobulina (Scriptor Aenigmatum)
+gr0245  	Demodocus (Eleg.)
+gr0246  	Dionysius Chalcus (Eleg.)
+gr0247  	Dionysius II ([Eleg.])
+gr0248  	Diphilus (Epic. et Iamb.)
+gr0249  	Echembrotus (Eleg. et Lyr.)
+gr0250  	Euclides (Comic. vel Iamb.)
+gr0251  	Euenus (Eleg.)
+gr0252  	Hermippus (Comic.)
+gr0253  	[Homerus] ([Epic.])
+gr0254  	Melanthius (Eleg. et Trag.)
+gr0255  	Mimnermus (Eleg.)
+gr0256  	Panarces (Scriptor Aenigmatum)
+gr0257  	Philiscus (Rhet.)
+gr0258  	Pigres (Eleg.)
+gr0259  	Scythinus (Poet. Phil.)
+gr0260  	Semonides (Eleg. et Iamb.)
+gr0261  	Simonides (Lyr.)
+gr0262  	Socrates (Phil.)
+gr0263  	Solon (Nomographus et Poeta)
+gr0264  	Susarion (Comic.)
+gr0265  	Timocreon (Lyr.)
+gr0266  	Tyrtaeus (Eleg.)
+gr0267  	Xenophanes (Poet. Phil.)
+gr0268  	Mesomedes (Lyr.)
+gr0269  	Nautarum Cantiunculae
+gr0271  	Conventus Avium
+gr0272  	De Arboribus Avibusque Fabulae
+gr0273  	Scolia Alphabetica
+gr0275  	Peirazomene
+gr0276  	Cantus Lugubris
+gr0277  	Monodia
+gr0278  	Praelusio Mimi
+gr0279  	Discipulorum Cantiuncula
+gr0280  	Andromachus (Poet. Med.)
+gr0281  	Marcellus (Poet. Med.)
+gr0282  	Anonymus De Viribus Herbarum
+gr0283  	Heraclides Ponticus (Junior Gramm.)
+gr0284  	Aristides , Aelius (Rhet.)
+gr0286  	Carmen Astrologicum
+gr0288  	Pisander (Epic.)
+gr0289  	Ammonius (Epigr.)
+gr0290  	Encomium Ducis Thebaidos
+gr0291  	Alcman (Lyr.)
+gr0292  	Stesichorus (Lyr.)
+gr0293  	Ibycus (Lyr.)
+gr0294  	Corinna (Lyr.)
+gr0295  	Carmina Popularia ((PMG))
+gr0296  	Carmina Convivialia ((PMG))
+gr0297  	Lyrica Adespota ((PMG))
+gr0298  	Eumelus (Epic.)
+gr0299  	Terpander (Lyr.)
+gr0300  	Acta Alexandrinorum
+gr0301  	Thespis (Trag.)
+gr0302  	Choerilus (Trag.)
+gr0303  	Phrynichus (Trag.)
+gr0304  	Acta Et Martyrium Apollonii
+gr0305  	Aristias (Trag.)
+gr0306  	Aristarchus (Trag.)
+gr0307  	Neophron (Trag.)
+gr0308  	Ion (Phil. et Poeta)
+gr0309  	Achaeus (Trag.)
+gr0310  	Carcinus (Trag.)
+gr0311  	Iophon (Trag.)
+gr0312  	Philocles (Trag.)
+gr0313  	Theognis (Trag.)
+gr0314  	Morsimus (Trag.)
+gr0315  	Sthenelus (Trag.)
+gr0316  	Xenocles (Trag.)
+gr0317  	Acta Joannis
+gr0318  	Agathon (Trag.)
+gr0319  	Critias (Eleg., Phil. et Trag.)
+gr0320  	Diogenes (Trag.)
+gr0321  	Aeschylus (Trag.)
+gr0322  	Dicaeogenes (Trag.)
+gr0323  	Antiphon (Trag.)
+gr0324  	Patrocles (Trag.)
+gr0325  	Astydamas (Trag.)
+gr0326  	Sophocles (Junior Trag.)
+gr0327  	Carcinus (Junior Trag.)
+gr0328  	Chaeremon (Trag.)
+gr0329  	Theodectas (Trag.)
+gr0330  	Dionysius I ([Trag.])
+gr0331  	[Polyidus] (Trag.)
+gr0332  	Cleaenetus (Trag.)
+gr0333  	Timocles (Trag.)
+gr0334  	Diogenes (Phil. et Trag.)
+gr0335  	Philiscus (Trag.)
+gr0336  	Crates (Poet. Phil.)
+gr0337  	Python (Trag.)
+gr0338  	Sosiphanes (Trag.)
+gr0339  	Moschion (Trag.)
+gr0340  	Sositheus (Trag.)
+gr0341  	Lycophron (Trag.)
+gr0342  	Nicomachus (Trag.)
+gr0343  	Ezechiel (Trag.)
+gr0344  	Melanthius (Trag.)
+gr0345  	Apollonides (Trag.)
+gr0346  	Pompeius Macer ([Trag.])
+gr0347  	Serapion (Trag.)
+gr0348  	Biotus (Trag.)
+gr0349  	Demonax ([Trag.])
+gr0350  	[Dionysius Scymnaeus] (Trag. vel Comic.)
+gr0351  	[Hippothoon] (Trag.)
+gr0352  	Isidorus (Trag.)
+gr0353  	[Sclerias] (Trag.)
+gr0354  	Zenodotus (Trag.)
+gr0355  	Zopyrus (Trag.)
+gr0357  	Didymus (Scriptor De Mensuris)
+gr0358  	Nicomachus (Math.)
+gr0359  	Isidorus (Scriptor Hymnorum)
+gr0360  	Armenidas (Hist.)
+gr0361  	Cleonides (Mus.)
+gr0363  	Ptolemaeus , Claudius (Math.)
+gr0364  	Danaïs (vel Danaïdes)
+gr0365  	Apollodorus (Lyr.)
+gr0366  	Lasus (Lyr.)
+gr0367  	Tynnichus (Lyr.)
+gr0368  	Cydias (Lyr.)
+gr0369  	Telesilla (Lyr.)
+gr0370  	Lamprocles (Lyr.)
+gr0371  	Diagoras (Lyr.)
+gr0372  	Praxilla (Lyr.)
+gr0373  	Melanippides (Lyr.)
+gr0374  	Licymnius (Lyr.)
+gr0375  	Cinesias (Lyr.)
+gr0376  	Timotheus (Lyr.)
+gr0377  	Telestes (Lyr.)
+gr0378  	Ariphron (Lyr.)
+gr0379  	Philoxenus (Lyr.)
+gr0380  	Philoxenus (Lyr.)
+gr0381  	Lycophronides (Lyr.)
+gr0382  	Castorion (Lyr.)
+gr0383  	Alcaeus (Lyr.)
+gr0384  	Acta Justini Et Septem Sodalium
+gr0385  	Dio Cassius - Cassius Dio (Hist.)
+gr0386  	Chilonis Epistula
+gr0387  	Sapphus (vel Alcaei Fragmenta)
+gr0388  	Acta Pauli
+gr0389  	Acta Petri
+gr0390  	Martyrium Carpi, Papyli Et Agathonicae
+gr0391  	Acta Scillitanorum Martyrum
+gr0392  	Acusilaus (Hist.)
+gr0394  	Apollonius (Comic.)
+gr0395  	Diophantus (Comic.)
+gr0396  	Euphanes (Comic.)
+gr0397  	Pronomus (Lyr.)
+gr0398  	Simylus (Comic.)
+gr0399  	Eudoxus (Comic.)
+gr0400  	Alcaeus (Comic.)
+gr0401  	Alexander (Comic.)
+gr0402  	Alexis (Comic.)
+gr0403  	Amipsias (Comic.)
+gr0404  	Amphis (Comic.)
+gr0405  	Anaxandrides (Comic.)
+gr0406  	Anaxilas (Comic.)
+gr0407  	Anaxippus (Comic.)
+gr0408  	Comica Adespota ((CAF))
+gr0409  	Antidotus (Comic.)
+gr0410  	Antiphanes (Comic.)
+gr0411  	Apollodorus (Comic.)
+gr0412  	Apollodorus (Carystius vel Gelous Comic.)
+gr0413  	Apollodorus (Comic.)
+gr0414  	Apollophanes (Comic.)
+gr0415  	Araros (Comic.)
+gr0416  	Archedicus (Comic.)
+gr0417  	Archippus (Comic.)
+gr0418  	Aristagoras (Comic.)
+gr0419  	Aristomenes (Comic.)
+gr0420  	Aristonymus (Comic.)
+gr0421  	Aristophon (Comic.)
+gr0422  	Athenio (Comic.)
+gr0423  	Autocrates (Comic.)
+gr0424  	Axionicus (Comic.)
+gr0425  	Bato (Comic.)
+gr0426  	Callias (Comic.)
+gr0427  	[Callippus] (Comic.)
+gr0428  	Cantharus (Comic.)
+gr0429  	Cephisodorus (Comic.)
+gr0430  	Chariclides (Comic.)
+gr0431  	Chionides (Comic.)
+gr0432  	Clearchus (Comic.)
+gr0433  	Crates (Comic.)
+gr0434  	Cratinus (Comic.)
+gr0435  	Cratinus (Junior Comic.)
+gr0436  	Crito (Comic.)
+gr0437  	Crobylus (Comic.)
+gr0438  	Damoxenus (Comic.)
+gr0439  	Demetrius (Comic.)
+gr0440  	Demetrius (Junior Comic.)
+gr0441  	Demonicus (Comic.)
+gr0442  	Dexicrates (Comic.)
+gr0443  	Diocles (Comic.)
+gr0444  	Diodorus (Comic.)
+gr0445  	Dionysius (Comic.)
+gr0446  	Dioxippus (Comic.)
+gr0447  	Diphilus (Comic.)
+gr0448  	Dromo (Comic.)
+gr0449  	Ecphantides (Comic.)
+gr0450  	Ephippus (Comic.)
+gr0451  	Epicrates (Comic.)
+gr0452  	Epigenes (Comic.)
+gr0453  	Epilycus (Comic.)
+gr0454  	Epinicus (Comic.)
+gr0455  	Eriphus (Comic.)
+gr0456  	Euangelus (Comic.)
+gr0457  	Eubulides (Comic.)
+gr0458  	Eubulus (Comic.)
+gr0459  	Eunicus (Comic.)
+gr0460  	Euphro (Comic.)
+gr0461  	Eupolis (Comic.)
+gr0462  	Euthycles (Comic.)
+gr0463  	Hegemon (Parodius)
+gr0464  	Hegesippus (Comic.)
+gr0465  	Heniochus (Comic.)
+gr0466  	Heraclides (Comic.)
+gr0467  	Timotheus (Trag.)
+gr0468  	Hipparchus (Comic.)
+gr0469  	Laon (Comic.)
+gr0470  	Leuco (Comic.)
+gr0471  	Lynceus (Comic.)
+gr0472  	Lysippus (Comic.)
+gr0473  	Machon (Comic.)
+gr0474  	Magnes (Comic.)
+gr0475  	Metagenes (Comic.)
+gr0476  	Mnesimachus (Comic.)
+gr0477  	Myrtilus (Comic.)
+gr0478  	Nausicrates (Comic.)
+gr0479  	Nico (Comic.)
+gr0480  	Nicochares (Comic.)
+gr0481  	Nicolaus (Comic.)
+gr0482  	Nicomachus (Comic.)
+gr0483  	Nicophon (Comic.)
+gr0484  	Nicostratus (Comic.)
+gr0485  	Ophelio (Comic.)
+gr0486  	Pherecrates (Comic.)
+gr0487  	Philemon (Comic.)
+gr0488  	Philemon (Junior Comic.)
+gr0489  	Philetaerus (Comic.)
+gr0490  	Philippides (Comic.)
+gr0491  	Philiscus (Comic.)
+gr0492  	Philonides (Comic.)
+gr0493  	Philostephanus (Comic.)
+gr0494  	Philyllius (Comic.)
+gr0495  	Phoenicides (Comic.)
+gr0496  	Phrynichus (Comic.)
+gr0497  	Plato (Comic.)
+gr0498  	Poliochus (Comic.)
+gr0499  	Polyzelus (Comic.)
+gr0500  	Posidippus (Comic.)
+gr0501  	Sannyrion (Comic.)
+gr0502  	Sophilus (Comic.)
+gr0503  	Sosicrates (Comic.)
+gr0504  	Sosipater (Comic.)
+gr0505  	Sotades (Comic.)
+gr0506  	Stephanus (Comic.)
+gr0507  	Straton (Comic.)
+gr0508  	Strattis (Comic.)
+gr0509  	[Myia] (Phil.)
+gr0510  	Teleclides (Comic.)
+gr0511  	Theognetus (Comic.)
+gr0512  	Theophilus (Comic.)
+gr0513  	Theopompus (Comic.)
+gr0514  	Thugenides (Comic.)
+gr0515  	Timocles (Comic.)
+gr0516  	Timostratus (Comic.)
+gr0517  	Timotheus (Comic.)
+gr0518  	Xenarchus (Comic.)
+gr0519  	Xeno (Comic.)
+gr0520  	Arcesilaus (Comic.)
+gr0521  	Epicharmus (Comic. et Pseudepicharmea)
+gr0522  	Pisander (Epic.)
+gr0523  	Menecrates (Comic.)
+gr0524  	Sophron (Mimogr.)
+gr0525  	Pausanias (Perieg.)
+gr0526  	Josephus , Flavius (Hist.)
+gr0527  	Septuaginta
+gr0528  	Aëtius (Doxogr.)
+gr0529  	Arius Didymus (Doxogr.)
+gr0530  	Galenus , Pseudo- (Med.)
+gr0531  	Hermias (Apol.)
+gr0532  	Achilles Tatius (Scr. Erot.)
+gr0533  	Callimachus (Philol.)
+gr0534  	Callisthenes (Hist.)
+gr0535  	Demades (Orat. et Rhet.)
+gr0536  	Ephorus (Hist.)
+gr0537  	Epicurus (Phil.)
+gr0538  	Hecataeus (Hist.)
+gr0539  	Hellanicus (Hist.)
+gr0540  	Lysias (Orat.)
+gr0541  	Menander (Comic.)
+gr0542  	Pollux , Julius (Gramm.)
+gr0543  	Polybius (Hist.)
+gr0544  	Sextus Empiricus (Phil.)
+gr0545  	Aelianus , Claudius (Soph.)
+gr0546  	Aelianus (Tact.)
+gr0547  	Anaximenes (Hist. et Rhet.)
+gr0548  	Apollodorus , Pseudo- (Myth.)
+gr0549  	Apollodorus (Gramm.)
+gr0550  	Apollonius (Geom.)
+gr0551  	Appianus (Hist.)
+gr0552  	Archimedes (Geom.)
+gr0553  	Artemidorus (Onir.)
+gr0554  	Chariton (Scr. Erot.)
+gr0555  	Clemens Alexandrinus (Theol.)
+gr0556  	Asclepiodotus (Tact.)
+gr0557  	Epictetus (Phil.)
+gr0558  	Hellenica
+gr0559  	Heron (Mech.)
+gr0560  	Pseudo-Longinus - [Longinus] (Rhet.)
+gr0561  	Longus (Scr. Erot.)
+gr0562  	Marcus Aurelius Antoninus (Imperator Phil.)
+gr0563  	Maximus (Soph.)
+gr0564  	Rufus (Med.)
+gr0565  	Soranus (Med.)
+gr0566  	Theopompus (Hist.)
+gr0568  	Antigonus (Paradox.)
+gr0569  	Apollonius (Paradox.)
+gr0570  	Archelaus (Paradox.)
+gr0571  	Aristocles (Paradox.)
+gr0572  	Gaius (Scr. Eccl.)
+gr0574  	Lysimachus (Hist.)
+gr0576  	Musaeus (Epic.)
+gr0577  	Nicolaus (Hist.)
+gr0578  	Nymphodorus (Hist.)
+gr0579  	Orphica
+gr0580  	Paradoxographus Florentinus
+gr0581  	Paradoxographus Palatinus
+gr0582  	Paradoxographus Vaticanus
+gr0583  	Philochorus (Hist.)
+gr0584  	Philostephanus (Hist.)
+gr0585  	Phlegon , Publius Aelius (Paradox.)
+gr0586  	Polemon (Perieg.)
+gr0587  	Sotion ([Paradox.])
+gr0591  	Antisthenes (Phil. et Rhet.)
+gr0592  	Hermogenes (Rhet.)
+gr0593  	Gorgias (Rhet. et Soph.)
+gr0594  	Alexander (Rhet. et Soph.)
+gr0595  	Zeno (Phil.)
+gr0597  	Zenodorus (Gramm.)
+gr0598  	Rhetorica Anonyma
+gr0601  	Zaleucus , [ (Nomographus] [Phil.])
+gr0602  	Comica Adespota ((FCG))
+gr0603  	Silenus (Trag.)
+gr0604  	Ptolemaeus IV Philopator (Trag.)
+gr0605  	Polybius (Rhet.)
+gr0606  	Rufus (Soph.)
+gr0607  	Theon , Aelius (Rhet.)
+gr0608  	Satyrus (Biogr.)
+gr0609  	Tryphon I (Gramm.)
+gr0610  	Alcidamas (Rhet.)
+gr0611  	Theodorus (Trag.)
+gr0612  	Dio Chrysostomus (Soph.)
+gr0613  	[Demetrius] (Rhet.)
+gr0614  	Babrius , Valerius (Scr. Fab.)
+gr0615  	Aspasius (Phil.)
+gr0616  	Polyaenus (Rhet.)
+gr0617  	Anaximenes (Phil.)
+gr0618  	Antigoni Epistula
+gr0619  	Apollonius (Phil.)
+gr0620  	Archytas (Phil.)
+gr0621  	[Ath]enodorus (Trag.)
+gr0622  	Cleobuli Epistula
+gr0623  	Cratetis Epistulae
+gr0624  	Demetrius (Hist. et Phil.)
+gr0625  	Polemaeus (Trag.)
+gr0626  	Heraclitus (Phil.)
+gr0627  	Hippocrates (Med. et Corpus Hippocraticum)
+gr0628  	Musonius Rufus , Gaius (Phil.)
+gr0629  	Periander ([Phil.])
+gr0630  	Pherecydes (Myth. et Phil.)
+gr0631  	Pittacus ([Lyr.])
+gr0632  	[Pythagoras] (Phil.)
+gr0633  	[Lysis] (Phil.)
+gr0634  	Xenocrates (Phil.)
+gr0635  	Zeno (Phil.)
+gr0636  	Socratis Epistulae
+gr0637  	Socraticorum Epistulae
+gr0638  	Philostratus , Flavius (Soph.)
+gr0639  	Menecrates (Med.)
+gr0640  	Alciphron (Rhet. et Soph.)
+gr0641  	Xenophon (Scr. Erot.)
+gr0643  	Anonymus Londinensis (Med.)
+gr0644  	Aristophanes (Gramm.)
+gr0645  	Justinus Martyr (Apol.)
+gr0646  	Justinus Martyr, Pseudo-
+gr0647  	Triphiodorus (Epic. et Gramm.)
+gr0648  	Onasander (Tact.)
+gr0649  	Lesbonax (Rhet.)
+gr0650  	Herodas (Mimogr.)
+gr0651  	Antoninus Liberalis (Myth.)
+gr0652  	Philostratus (Junior Soph.)
+gr0653  	Aratus (Astron. et Epic.)
+gr0654  	Cornutus , Lucius Annaeus (Phil.)
+gr0655  	Parthenius (Myth.)
+gr0656  	Dioscorides Pedanius (Med.)
+gr0657  	Crateuas (Med.)
+gr0658  	Heliodorus (Scr. Erot.)
+gr0659  	Comica Adespota ((Suppl. Com.))
+gr0660  	Apollonius (Med.)
+gr0661  	Archigenes (Med.)
+gr0662  	Comica Adespota ((CGFPR))
+gr0663  	Praecepta Salubria
+gr0666  	Adrianus (Rhet. et Soph.)
+gr0667  	Marcellinus I (Med.)
+gr0668  	Aegimius
+gr0671  	Philumenus (Med.)
+gr0673  	Aeschines Socraticus (Phil.)
+gr0676  	Aglaïs (Poet. Med.)
+gr0679  	Aeschrion (Lyr.)
+gr0683  	Aethiopis
+gr0686  	Aethlius (Hist.)
+gr0687  	Agaclytus (Hist.)
+gr0688  	Agathocles (Hist.)
+gr0690  	Erasistratus (Med.)
+gr0691  	Harpocrationis Epistula
+gr0693  	Albinus (Phil.)
+gr0695  	Alcimus (Hist.)
+gr0696  	Alcmaeonis
+gr0697  	Alexander , Cornelius (Polyhist.)
+gr0698  	Alexander (Rhet.)
+gr0700  	Apollodorus (Trag.)
+gr0703  	Numenius (Poet. Didac.)
+gr0706  	Philo (Med.)
+gr0707  	Alexis (Hist.)
+gr0708  	[Ammonius] (Gramm.)
+gr0710  	Amphiarai Exilium ((?))
+gr0713  	Anaxagoras (Phil.)
+gr0714  	Anaxarchus (Phil.)
+gr0715  	Paulus (Med.)
+gr0716  	Erotianus (Gramm. et Med.)
+gr0717  	Hypsicles (Astron. et Math.)
+gr0718  	Aëtius (Med.)
+gr0719  	Aretaeus (Med.)
+gr0720  	Harmodius (Trag.)
+gr0721  	Anonymi Medici (Med.)
+gr0722  	Oribasius (Med.)
+gr0723  	Leo (Phil.)
+gr0724  	Stephanus (Med. et Phil.)
+gr0725  	Anaximander (Phil.)
+gr0726  	Palladius (Med.)
+gr0727  	Joannes (Med.)
+gr0728  	Theophilus (Protospatharius, Damascius et Stephanus Atheniensis Med.)
+gr0729  	Theophilus (Protospatharius Med.)
+gr0730  	Meletius (Med.)
+gr0731  	Adamantius (Judaeus Med.)
+gr0732  	Alexander (Phil.)
+gr0733  	Cassius (Iatrosophista Med.)
+gr0734  	Lucas , [ (Apostolus] Med.)
+gr0736  	Stephanus (Med.)
+gr0737  	Julianus (Scriptor Legis De Medicis)
+gr0738  	Hippiatrica
+gr0740  	Jusjurandum Medicum
+gr0742  	Hymni Anonymi
+gr0743  	Nemesius (Theol.)
+gr0744  	Alexander (Med.)
+gr0745  	Hierophilus (Phil. et Soph.)
+gr0746  	Theophilus (Protospatharius et Stephanus Atheniensis Med.)
+gr0748  	Severus (Iatrosophista Med.)
+gr0749  	Antyllus (Med.)
+gr0750  	Heliodorus (Trag.)
+gr0751  	Hippocrates , Pseudo- (Med.)
+gr0752  	Eutecnius (Soph.)
+gr0766  	Alcmaeon (Phil.)
+gr0816  	Theudo[tus] (Trag.)
+gr0825  	Melito (Trag.)
+gr0833  	Anaxion (Trag.)
+gr0845  	Ctesias (Hist. et Med.)
+gr0856  	Dieuches (Med.)
+gr0876  	Phrynichus II (Trag.)
+gr0888  	Eudemus (Poet. Med.)
+gr0889  	Timesitheus (Trag.)
+gr0897  	Euthydemus (Med.)
+gr0900  	Cleomenes (Lyr.)
+gr0918  	Lamynthius (Lyr.)
+gr0971  	Oeniades (Lyr.)
+gr0981  	Stesichorus II (Lyr.)
+gr1004  	Thessalus (Astrol. et Med.)
+gr1016  	Ostanes (Magus Alchem.)
+gr1021  	Meropis
+gr1052  	Posidonius (Phil.)
+gr1083  	Isigonus (Paradox.)
+gr1087  	Cleophon (Trag.)
+gr1094  	Theodorides (Trag.)
+gr1096  	Euaretus (Trag.)
+gr1105  	Timaeus Praxidas (Astrol.)
+gr1115  	Archestratus (Trag.)
+gr1118  	Dioscorides , Pseudo- (Med.)
+gr1121  	Anaximenis Milesii Epistulae
+gr1123  	Andron (Hist.)
+gr1124  	Andronicus Rhodius (Phil.)
+gr1125  	Androtion (Hist.)
+gr1127  	Anonyma De Musica Scripta Bellermanniana
+gr1128  	Anonymi Commentarius In Platonis Theaetetum
+gr1129  	Anonymi De Barbarismo Et Soloecismo (Gramm.)
+gr1131  	Anonymus Ad Avircium Marcellum Contra Cataphrygas
+gr1132  	Anonymus Alexandri (Phil.)
+gr1133  	Anonymus Diodori (Phil.)
+gr1134  	Anonymus Iamblichi (Phil.)
+gr1135  	Anonymus Photii (Phil.)
+gr1136  	Anonymus Presbyter (Scr. Eccl.)
+gr1138  	Lycon (Phil.)
+gr1139  	Anonymi Historici ((FGrH))
+gr1141  	Antimachus (Epic.)
+gr1143  	Antiochus (Phil.)
+gr1145  	Antiochus (Hist.)
+gr1146  	Antipater (Phil.)
+gr1147  	Antiphon (Soph.)
+gr1148  	Antonius Diogenes (Scr. Erot.)
+gr1149  	Antonini Pii Imperatoris Epistula
+gr1150  	Aphareus (Rhet.)
+gr1152  	Apion (Gramm.)
+gr1153  	Apocalypsis Adam
+gr1154  	Apocalypsis Baruch
+gr1155  	Apocalypsis Syriaca Baruchi
+gr1156  	Apocalypsis Eliae
+gr1157  	Apocalypsis Esdrae
+gr1158  	Apocalypsis Joannis
+gr1160  	Apocalypsis Sophoniae
+gr1161  	Apocryphon Ezechiel
+gr1162  	Apollas (Hist.)
+gr1163  	Apollinarius , Claudius (Apol.)
+gr1164  	Apollodorus (Hist.)
+gr1165  	Apollodorus (Mech.)
+gr1166  	Apollodorus (Phil.)
+gr1167  	Apollonius (Biogr.)
+gr1168  	Apollonius (Soph.)
+gr1170  	Apollonius (Hist.)
+gr1171  	Apollonius (Scr. Eccl.)
+gr1172  	Arcesilaus (Phil.)
+gr1173  	Archedemus (Phil.)
+gr1174  	Archemachus (Hist.)
+gr1175  	Archestratus (Parodius)
+gr1176  	Archytas (Epic.)
+gr1177  	Archytas , Pseudo- (Phil.)
+gr1178  	[Aresas] (Phil.)
+gr1179  	[Arimnestus] (Phil.)
+gr1180  	[Aristaeus] (Phil.)
+gr1181  	Aristarchus (Astron.)
+gr1182  	[Aristeas] (Epic.)
+gr1183  	Aristeae Epistula
+gr1184  	Aristides (Apol.)
+gr1186  	Aristobulus (Judaeus Phil.)
+gr1188  	Aristocles (Phil.)
+gr1189  	Aristocrates (Hist.)
+gr1190  	Aristagoras (Hist.)
+gr1191  	[Aristombrotus] (Phil.)
+gr1192  	Ariston (Phil.)
+gr1193  	Ariston (Phil.)
+gr1194  	Aristonicus (Gramm.)
+gr1196  	Aristophanes (Hist.)
+gr1197  	Artemon (Gramm.)
+gr1199  	Asclepiades (Gramm. et Hist.)
+gr1200  	Asclepiades (Myth.)
+gr1201  	Assumptio Mosis
+gr1202  	[Athamas] (Phil.)
+gr1203  	Paeanes ((CA))
+gr1204  	Athenaeus (Mech.)
+gr1205  	Athenagoras (Apol.)
+gr1206  	Athenodorus (Phil.)
+gr1207  	Attalus (Astron. et Math.)
+gr1208  	Atticus (Phil.)
+gr1210  	Autolycus (Astron.)
+gr1211  	Balagrus (Hist.)
+gr1212  	Atridarum Reditus
+gr1213  	Balbilla , Julia (Lyr.)
+gr1216  	Barnabae Epistula
+gr1218  	Basilis (Hist.)
+gr1219  	Bato (Hist. et Rhet.)
+gr1220  	Batrachomyomachia
+gr1222  	Beros(s)us (Astrol. et Hist.)
+gr1223  	Bias ([Phil.])
+gr1224  	Bion (Phil.)
+gr1225  	Bion (Hist.)
+gr1226  	Biton (Mech.)
+gr1227  	Blaesus (Comic.)
+gr1228  	[Boeo] (Epic.)
+gr1229  	[Boeus] (Epic.)
+gr1230  	[Brotinus] (Phil.)
+gr1231  	[Bryson] (Phil.)
+gr1232  	[Butherus] (Phil.)
+gr1237  	[Callicratidas] (Phil.)
+gr1239  	Callistratus , Domitius (Hist.)
+gr1240  	Callixenus (Hist.)
+gr1241  	Carmen Naupactium
+gr1242  	Canon Librorum
+gr1244  	Carneiscus (Phil.)
+gr1245  	Carystius (Hist.)
+gr1247  	[Cebes] (Phil.)
+gr1248  	Celsus (Phil.)
+gr1249  	Cephalion (Hist. et Rhet.)
+gr1250  	Cercidas (Iamb.)
+gr1251  	Chamaeleon (Phil.)
+gr1252  	Certamen Homeri Et Hesiodi
+gr1254  	Charax (Hist.)
+gr1256  	Chares (Gnom.)
+gr1257  	Charinus (Choliamb.)
+gr1258  	Charon (Hist.)
+gr1259  	Charondas , [ (Nomographus] [Phil.])
+gr1260  	[Chersias] (Epic.)
+gr1262  	Choerilus (Epic.)
+gr1263  	Choerilus (Epic.)
+gr1264  	Chrysippus (Phil.)
+gr1266  	Tyrannion (Gramm.)
+gr1268  	Claudius Iolaus (Hist.)
+gr1269  	Cleanthes (Phil.)
+gr1270  	Clearchus (Phil.)
+gr1271  	Clemens Romanus (Theol. et Clementina)
+gr1272  	Cleomedes (Astron.)
+gr1273  	Cleon (Eleg.)
+gr1274  	Cleobulus (Epigr. et Lyr.)
+gr1275  	Cleostratus (Poet. Phil.)
+gr1276  	Clidemus (Hist.)
+gr1277  	[Clinias] (Phil.)
+gr1278  	Clitarchus (Gnom.)
+gr1281  	[Clitophon] (Hist.)
+gr1282  	Clytus (Hist.)
+gr1285  	Conon (Hist.)
+gr1286  	Corpus Hermeticum
+gr1287  	Crantor (Phil.)
+gr1288  	Craterus (Hist.)
+gr1289  	Crates (Hist.)
+gr1291  	Creophylus (Hist.)
+gr1292  	Crito (Phil.)
+gr1293  	Crinis (Phil.)
+gr1294  	Critolaus (Phil.)
+gr1296  	Cypria
+gr1297  	Damippus (Phil.)
+gr1298  	Demetrii Phalerei Epistula
+gr1301  	Demetrius (Poet. Phil.)
+gr1302  	Demetrius (Rhet.)
+gr1303  	Demochares (Hist. et Orat.)
+gr1304  	Democritus (Phil.)
+gr1305  	Democritus (Hist.)
+gr1306  	Bolus (Med. et Phil.)
+gr1307  	Demon (Hist.)
+gr1308  	Demosthenes (Epic.)
+gr1309  	Dialexeis (Διϲϲοὶ λόγοἰ
+gr1310  	Dictys (Hist.)
+gr1311  	Didache XII Apostolorum
+gr1312  	Didymus (Gramm.)
+gr1313  	Dieuchidas (Hist.)
+gr1314  	Dinias (Hist.)
+gr1315  	Dinolochus (Comic.)
+gr1316  	Dinon (Hist.)
+gr1318  	Diodorus (Rhet.)
+gr1319  	Diogenes (Phil.)
+gr1320  	Diogenes (Phil.)
+gr1321  	Diogenes (Phil.)
+gr1322  	Diogenianus (Phil.)
+gr1323  	Dionysius , Aelius (Attic.)
+gr1324  	Dionysius (Hist.)
+gr1325  	Diogenis Sinopensis Epistulae
+gr1326  	Dionysius (Epic.)
+gr1327  	Dionis Epistulae
+gr1328  	Dionysius (Hist.)
+gr1329  	Dionysius (Scr. Eccl.)
+gr1332  	[Diotogenes] (Phil.)
+gr1334  	Dius (Phil.)
+gr1337  	Dorotheus (Astrol.)
+gr1338  	Dosiadas (Hist.)
+gr1339  	Duris (Hist.)
+gr1340  	[Eccelus] (Phil.)
+gr1341  	[Ecphantus] (Phil.)
+gr1342  	Empedocles (Poet. Phil.)
+gr1343  	Eparchides (Hist.)
+gr1344  	Epica Adespota ((CA))
+gr1345  	Epica Incerta ((CA))
+gr1346  	Ephraem (Scr. Eccl.)
+gr1347  	Epimenides (Phil.)
+gr1349  	Epistula A Martyribus Lugdunensibus
+gr1350  	Epistula Ad Diognetum
+gr1351  	Epigoni
+gr1352  	Epistula Ecclesiarum Apud Lugdunum Et Viennam
+gr1353  	Epitaphium Abercii
+gr1354  	Ergias (Hist.)
+gr1355  	Erinna (Lyr.)
+gr1357  	Eudemus (Phil.)
+gr1358  	Eudoxus (Astron.)
+gr1360  	[Euryphamus] (Phil.)
+gr1361  	Eumedes (Comic.)
+gr1362  	[Eurytus] (Phil.)
+gr1364  	Evangelium Aegyptium
+gr1365  	Melampus (Scriptor De Divinatione)
+gr1366  	Evangelium Bartholomaei
+gr1367  	Euripidis Epistulae
+gr1368  	Evangelium Ebionitum
+gr1369  	Evangelium Mariae
+gr1371  	Evangelium Petri
+gr1372  	Evangelium Evae
+gr1373  	Evangelium Philippi
+gr1374  	Evangelium Secundum Hebraeos
+gr1375  	Evangelium Thomae
+gr1376  	Eudemus (Rhet.)
+gr1377  	Favorinus (Phil. et Rhet.)
+gr1379  	Fragmenta Alchemica
+gr1381  	Fragmentum Synodicae Epistulae Concilii Caesariensis
+gr1382  	Fragmentum Teliambicum
+gr1383  	Geminus (Astron.)
+gr1386  	Historia Alexandri Magni
+gr1387  	(H)agias-Dercylus (Hist.)
+gr1388  	Harmodius (Hist.)
+gr1389  	Harpocration (Gramm.)
+gr1390  	Hecataeus (Hist.)
+gr1391  	Hegemon (Epic.)
+gr1392  	Hegesander (Hist.)
+gr1393  	Hegesianax (Astron. et Epic.)
+gr1395  	[Hegesinus] (Epic.)
+gr1397  	Hegesippus (Hist.)
+gr1398  	Hegesippus (Scr. Eccl.)
+gr1399  	Pamphilus (Trag.)
+gr1400  	Heliodorus (Perieg.)
+gr1402  	Hephaestion (Gramm.)
+gr1405  	Heraclides (Criticus Perieg.)
+gr1406  	Heraclides (Hist.)
+gr1407  	Heraclides Lembus (Hist.)
+gr1408  	Heraclides (Gramm.)
+gr1409  	Heraclides Ponticus (Phil.)
+gr1411  	Heracliti Ephesii Epistulae
+gr1412  	Heracliti Epistulae, Pseudo-
+gr1413  	Heraclitus (Paradox.)
+gr1414  	Heraclitus (Phil.)
+gr1416  	(H)eren(n)ius Philo (Gramm. et Hist.)
+gr1419  	Pastor Hermae - Hermas (Scr. Eccl.)
+gr1420  	Hermias (Iamb.)
+gr1421  	Hermippus (Gramm. et Hist.)
+gr1425  	Hermonax (Epic.)
+gr1426  	Herodes Atticus (Soph.)
+gr1427  	Herodorus (Hist.)
+gr1428  	Hestiaeus (Hist.)
+gr1429  	Hierocles (Phil.)
+gr1430  	Hieronymus (Phil.)
+gr1431  	Hipparchus (Astron. et Geogr.)
+gr1432  	[Hipparchus] (Phil.)
+gr1433  	Hipparchus ([Epigr.])
+gr1434  	Hippias (Soph.)
+gr1435  	Hippias (Hist.)
+gr1436  	[Hippodamus] (Phil.)
+gr1437  	Hippon (Phil.)
+gr1438  	Hippys (Hist.)
+gr1439  	Hermarchus (Phil.)
+gr1441  	Iamblichus (Scr. Erot.)
+gr1442  	Idomeneus (Hist.)
+gr1443  	Ignatius (Scr. Eccl.)
+gr1444  	Ilias Parva
+gr1445  	Iliu Persis
+gr1446  	Ion (Eleg.)
+gr1447  	Irenaeus (Theol.)
+gr1450  	Ister (Hist.)
+gr1451  	Josephus Et Aseneth
+gr1452  	Juba II (Rex Mauretaniae [Hist.])
+gr1459  	Lepidus (Hist.)
+gr1460  	Lesbonax (Gramm.)
+gr1461  	Leucippus (Phil.)
+gr1462  	Liber Eldad Et Modad
+gr1463  	Liber Enoch
+gr1464  	Liber Jubilaeorum
+gr1466  	Lollianus (Scr. Erot.)
+gr1469  	Lyceas (Hist.)
+gr1470  	Lycus (Hist.)
+gr1471  	Lyrica Adespota ((SLG))
+gr1475  	Maiistas (Epic.)
+gr1476  	Mamercus (Eleg.)
+gr1477  	Manetho (Hist.)
+gr1479  	Marci Aurelii Epistula
+gr1482  	Cyranides
+gr1483  	Martyrium Et Ascensio Isaiae
+gr1484  	Martyrium Polycarpi
+gr1485  	Martyrium Ptolemaei Et Lucii
+gr1486  	Matron (Parodius)
+gr1487  	Maximus (Astrol.)
+gr1488  	Maximus (Theol.)
+gr1489  	Megasthenes (Hist.)
+gr1490  	[Megillus] (Phil.)
+gr1491  	Melanthius (Hist.)
+gr1493  	Melinno (Lyr.)
+gr1494  	Melissus (Phil.)
+gr1495  	Melito (Apol.)
+gr1496  	Memnon (Hist.)
+gr1498  	Menander (Hist.)
+gr1499  	Menecles (Hist.)
+gr1500  	Menecrates (Poet. Phil.)
+gr1503  	Menecrates (Hist.)
+gr1504  	Menelaus (Epic.)
+gr1505  	Menesthenes (Hist.)
+gr1506  	Menodotus (Hist.)
+gr1507  	[Metopus] (Phil.)
+gr1508  	Metrodorus (Phil.)
+gr1509  	[Milon] ([Phil.])
+gr1511  	Mimnermus (Trag.)
+gr1512  	Minyas
+gr1514  	Mnaseas (Perieg.)
+gr1515  	Moeris (Attic.)
+gr1516  	Molpis (Hist.)
+gr1521  	Vita Et Sententiae Secundi
+gr1523  	Myron (Hist.)
+gr1524  	Naumachius (Epic.)
+gr1525  	Neanthes (Hist.)
+gr1526  	Neoptolemus (Gramm.)
+gr1527  	Nepualius (Med. et Phil.)
+gr1529  	Nicander (Gramm.)
+gr1530  	Nicanor (Gramm.)
+gr1533  	Nicias (Epigr.)
+gr1534  	Nicocles (Hist.)
+gr1535  	Nicocrates (Hist.)
+gr1541  	Nostoi
+gr1542  	Numenius (Phil.)
+gr1544  	Nymphis (Hist.)
+gr1545  	Ocellus (Phil.)
+gr1546  	Oechaliae Halosis
+gr1547  	Oedipodea
+gr1548  	Oenomaus (Phil.)
+gr1549  	[Onatas] (Phil.)
+gr1550  	Oracula Chaldaica
+gr1551  	Oracula Sibyllina
+gr1552  	Oratio Josephi
+gr1553  	[Palaephatus] (Myth.)
+gr1555  	Pancrates (Epic.)
+gr1556  	Pancrates (Epigr.)
+gr1557  	Panyassis (Epic.)
+gr1558  	Papias (Scr. Eccl.)
+gr1559  	Bucolicum
+gr1560  	Matthiae Traditiones
+gr1562  	Parmenides (Poet. Phil.)
+gr1566  	Parmeno (Iamb.)
+gr1567  	Parrhasius (Epigr.)
+gr1568  	Parthax (Hist.)
+gr1569  	Pausanias (Attic.)
+gr1570  	Epitaphium Pectorii
+gr1571  	[Pempelus] (Phil.)
+gr1572  	[Perictione] (Phil.)
+gr1574  	Persaeus (Phil.)
+gr1576  	Phaedimus ([Epic.])
+gr1577  	Phaedimus (Epigr.)
+gr1578  	Phaenias (Phil.)
+gr1580  	Phaestus (Epic.)
+gr1583  	Phanodemus (Hist.)
+gr1584  	Pherecydes (Hist.)
+gr1585  	Pherecydis Epistula
+gr1587  	Philiades (Eleg.)
+gr1588  	Philicus (Lyr.)
+gr1590  	Philippus (Hist.)
+gr1591  	Philistus (Hist.)
+gr1594  	Philo (Judaeus Senior Epic.)
+gr1595  	Philodemus (Phil.)
+gr1596  	Philolaus (Phil.)
+gr1597  	[Telauges] (Phil.)
+gr1599  	Philo (Mech.)
+gr1600  	Philostratus (Major Soph.)
+gr1602  	Philoxenus (Gramm.)
+gr1603  	[Phintys] (Phil.)
+gr1604  	Phocylides (Eleg. et Gnom.)
+gr1605  	Phocylides , Pseudo- (Gnom.)
+gr1606  	Phoenix (Iamb.)
+gr1607  	Phoronis
+gr1608  	Phrynichus (Attic.)
+gr1609  	Phylarchus (Hist.)
+gr1611  	Tyrannion (Junior Gramm.)
+gr1613  	Pittaci Epistula
+gr1615  	Platonius (Gramm.)
+gr1617  	Polemon , Marcus Antonius (Soph.)
+gr1622  	Polycarpus (Scr. Eccl.)
+gr1623  	Polycharmus (Hist.)
+gr1625  	Polyclitus (Phil.)
+gr1626  	Polycrates (Scr. Eccl.)
+gr1627  	Polycrates (Hist.)
+gr1629  	Polystratus (Phil.)
+gr1632  	Posidippus (Epigr.)
+gr1633  	Praxiteles ([Epigr.])
+gr1634  	Prodicus (Soph.)
+gr1635  	Protagoras (Soph.)
+gr1636  	Protagorides (Hist.)
+gr1637  	Protevangelium Jacobi
+gr1638  	Proxenus (Hist.)
+gr1639  	Pseudo-Auctores Hellenistae ((PsVTGr))
+gr1641  	Ptolemaeus (Gnost.)
+gr1642  	Ptolemaeus, Pseudo-
+gr1643  	Ptolemaeus (Gramm.)
+gr1645  	Ptolemaeus VIII Euergetes II ([Hist.])
+gr1646  	Ptolemaeus (Hist.)
+gr1648  	Pyrgion (Hist.)
+gr1649  	Pythaenetus (Hist.)
+gr1650  	Pytheas (Perieg.)
+gr1651  	Pythermus (Hist.)
+gr1654  	Rhinthon (Comic.)
+gr1661  	Satyrus (Hist.)
+gr1662  	Sciras (Comic.)
+gr1663  	Semus (Gramm.)
+gr1664  	Seniores Alexandrini (Scr. Eccl.)
+gr1665  	Seniores Apud Irenaeum (Scr. Eccl.)
+gr1666  	Sententiae Sexti
+gr1667  	[Septem Sapientes] (Phil.)
+gr1670  	Serapion (Scr. Eccl.)
+gr1675  	Simylus (Eleg.)
+gr1676  	Simylus (Iamb.)
+gr1678  	Socrates (Hist.)
+gr1679  	Socrates (Hist.)
+gr1680  	[Sodamus] (Eleg.)
+gr1681  	Solonis Epistulae
+gr1682  	Sopater (Comic.)
+gr1683  	Sophaenetus (Hist.)
+gr1685  	Sosibius (Gramm.)
+gr1687  	Sosicrates (Hist.)
+gr1688  	Sostratus (Gramm.)
+gr1690  	Sotadea
+gr1691  	Sotades (Iamb.)
+gr1692  	Speusippus (Phil.)
+gr1693  	Sphaerus (Phil.)
+gr1695  	[Sthenidas] (Phil.)
+gr1696  	Straton (Phil.)
+gr1698  	Telephus (Gramm.)
+gr1699  	Teles (Phil.)
+gr1700  	Testamenta XII Patriarcharum
+gr1701  	Testamentum Abrahae
+gr1702  	Testamentum Jobi
+gr1703  	Teucer (Astrol.)
+gr1704  	Teucer (Hist.)
+gr1705  	Thales (Phil.)
+gr1706  	Thallus (Hist.)
+gr1709  	Theagenes (Hist.)
+gr1710  	[Theages] (Phil.)
+gr1711  	[Thearidas] (Phil.)
+gr1712  	Thebaïs
+gr1713  	Themison (Hist.)
+gr1714  	Theocritus (Soph.)
+gr1715  	Theodoridas (Epigr.)
+gr1719  	Theodosius (Astron. et Math.)
+gr1720  	Theodotus (Judaeus Epic.)
+gr1723  	Theolytus (Epic.)
+gr1724  	Theon (Phil.)
+gr1725  	Theophilus (Apol.)
+gr1726  	Theopompus (Epic.)
+gr1727  	Theotimus (Hist.)
+gr1728  	Theseus (Hist.)
+gr1729  	Thrasymachus (Rhet. et Soph.)
+gr1732  	Timachidas (Hist.)
+gr1733  	Timaeus (Hist.)
+gr1734  	Timaeus (Phil.)
+gr1735  	Timon (Phil.)
+gr1736  	Timonax (Hist.)
+gr1737  	Titanomachia
+gr1738  	Tragica Adespota
+gr1746  	Valentinus (Gnost.)
+gr1747  	Vita Adam Et Evae
+gr1748  	Sosigenes (Phil.)
+gr1749  	Vitae Hesiodi Particula
+gr1750  	Vitae Prophetarum
+gr1751  	Xanthus (Hist.)
+gr1752  	Xenagoras (Geogr. et Hist.)
+gr1753  	Xenion (Hist.)
+gr1754  	Xenophontis Epistulae
+gr1756  	Demetrius (Gramm.)
+gr1757  	Julius (Epic.)
+gr1759  	Sententiae Pythagoreorum
+gr1760  	Suetonius Tranquillus , Gaius (Gramm. et Hist.)
+gr1763  	Tryphon II (Gramm.)
+gr1764  	Vettius Valens (Astrol.)
+gr1765  	Vitae Aesopi
+gr1766  	Tatianus (Apol.)
+gr1771  	Montanus (et Montanistae Theol.)
+gr1772  	Paraleipomena Jeremiou
+gr1775  	Agathon , Pseudo- (Epigr.)
+gr1779  	Anonymus Epicureus (Phil.)
+gr1780  	Alcimenes (Comic.)
+gr1781  	Philippus (Comic.)
+gr1782  	Augeas (Comic.)
+gr1783  	Callicrates (Comic.)
+gr1784  	[Heraclitus] (Comic.)
+gr1785  	Paramonus (Comic.)
+gr1786  	Sogenes (Comic.)
+gr1787  	[Menippus] (Comic.)
+gr1788  	Phormis (Comic.)
+gr1791  	Menandri Et Philistionis Sententiae
+gr1792  	Biottus (Comic.)
+gr1793  	Timoxenus (Comic.)
+gr1794  	Philocles (Comic.)
+gr1795  	Chaerion (Comic.)
+gr1797  	Choliambica Adespota ((ALG))
+gr1799  	Euclides (Geom.)
+gr1800  	Euboeus (Parodius)
+gr1801  	Parodica Anonyma
+gr1802  	Homerica
+gr1803  	Bruti Epistulae
+gr1804  	Ninus
+gr1805  	Vitae Homeri
+gr1811  	Metrodorus (Major Phil.)
+gr1812  	Demaratus (Hist.)
+gr1813  	Anonymus De Plantis Aegyptiis
+gr1814  	Ptolemais (Phil.)
+gr1815  	Sappho (et Alcaeus Lyr.)
+gr1816  	Epica Adespota ((GDRK))
+gr1817  	Fragmenta Anonyma ((PsVTGr))
+gr1819  	Demosthenes , Pseudo- (Epigr.)
+gr1821  	Iambica Adespota ((ALG))
+gr1828  	Pamphila (Hist.)
+gr1832  	Acesander (Hist.)
+gr1833  	Pratinas (Trag.)
+gr1835  	Agroetas (Hist.)
+gr1836  	Anonymi Aulodia
+gr1838  	Theon (Gramm.)
+gr1839  	Polyphrasmon (Trag.)
+gr1840  	Euripides II (Trag.)
+gr1843  	Nicomachus (Trag.)
+gr1844  	Hera[clides] (Trag.)
+gr1845  	Callistratus (Trag.)
+gr1846  	Spintharus (Trag.)
+gr1848  	Meletus (Junior Trag.)
+gr1849  	Demetrius (Trag.)
+gr1858  	Oratio Manassis
+gr1859  	Liber Jannes Et Jambres
+gr1867  	Crito (Hist.)
+gr1868  	Damastes (Hist.)
+gr1871  	Bion (Hist.)
+gr1875  	Aristodemus (Hist. et Myth.)
+gr1881  	Dionysius Scytobrachion (Gramm.)
+gr1890  	Moderatus (Phil.)
+gr1896  	[Dositheus] (Hist.)
+gr1899  	Aristonicus (Hist.)
+gr1906  	Simonides (Epic.)
+gr1907  	Cratippus (Hist.)
+gr1908  	Daimachus (Hist.)
+gr1911  	Diyllus (Hist.)
+gr1912  	Euphantus (Phil.)
+gr1915  	Eudoxus (Hist.)
+gr1917  	Demetrius (Hist.)
+gr1918  	Timagenes (Hist.)
+gr1923  	Stesimbrotus (Hist.)
+gr1941  	Leo (Hist.)
+gr1945  	Antigenes (Hist.)
+gr1949  	Potamon (Hist.)
+gr1953  	Hieronymus (Hist.)
+gr1954  	Heraclides (Phil.)
+gr1967  	Leschides (Epic.)
+gr1969  	Philinus (Hist.)
+gr1970  	Silenus (Hist.)
+gr1972  	Eumachus (Hist.)
+gr1976  	Metrodorus (Hist.)
+gr1977  	Lucullus , Lucius Licinius (Hist.)
+gr1978  	Leo (Hist.)
+gr1981  	Theophanes (Hist.)
+gr1987  	Theodorus (Poeta)
+gr1992  	Ariston (Apol.)
+gr2000  	Plotinus (Phil.)
+gr2001  	Themistius (Phil. et Rhet.)
+gr2002  	Anonymus Seguerianus (Rhet.)
+gr2003  	Julian the Apostate - Julianus , Flavius Claudius (Imperator Phil.)
+gr2004  	Amelii Epistula
+gr2005  	Martyrium Pionii
+gr2006  	Synesius (Phil.)
+gr2007  	Martyrium Potamiaenae Et Basilidis
+gr2008  	Martyrium Cononis
+gr2009  	Martyrium Marini
+gr2010  	Martyrium Dasii
+gr2011  	Martyrium Agapae, Irenae, Chionae Et Sodalium
+gr2012  	Acta Eupli
+gr2014  	Acta Phileae
+gr2015  	Testamentum XL Martyrum
+gr2016  	Passio Perpetuae Et Felicitatis
+gr2017  	Gregorius Nyssenus (Theol.)
+gr2018  	Eusebius (Scr. Eccl. et Theol.)
+gr2019  	Pelagius (Alchem.)
+gr2020  	Theodosius (Gramm.)
+gr2021  	Epiphanius (Scr. Eccl.)
+gr2022  	Gregorius Nazianzenus (Theol.)
+gr2023  	Iamblichus (Phil.)
+gr2025  	Maximus (Rhet.)
+gr2027  	Apsines , Valerius (Rhet.)
+gr2029  	Anonymi Geographia In Sphaera Intelligenda
+gr2030  	Geographica Adespota ((GGM))
+gr2031  	Sopater (Rhet.)
+gr2032  	Pappus (Math.)
+gr2033  	Theon (Math.)
+gr2034  	Porphyrius (Phil.)
+gr2035  	Athanasius (Theol.)
+gr2036  	Dexippus (Phil.)
+gr2037  	Stobaeus , Joannes (Anthologus)
+gr2038  	Acta Thomae
+gr2039  	Diophantus (Math.)
+gr2040  	Basilius (Theol.)
+gr2041  	Marcellus (Theol.)
+gr2042  	Origenes (Theol.)
+gr2043  	Hephaestion (Astrol.)
+gr2045  	Nonnus (Epic.)
+gr2046  	Quintus (Epic.)
+gr2047  	Syriani, Sopatri Et Marcellini Scholia Ad Hermogenis Status
+gr2048  	Sozomenus , Salaminius Hermias (Scr. Eccl.)
+gr2049  	Sallustius (Phil.)
+gr2050  	Eunapius (Hist. et Soph.)
+gr2051  	Himerius (Soph.)
+gr2052  	Horapollo (Gramm.)
+gr2053  	Paulus (Astrol.)
+gr2054  	Aristides Quintilianus (Mus.)
+gr2055  	Serenus (Geom.)
+gr2057  	Socrates (Scholasticus Hist.)
+gr2058  	Philostorgius (Scr. Eccl.)
+gr2059  	Alexander (Theol.)
+gr2060  	Asterius (Scr. Eccl.)
+gr2061  	Asterius (Sophista Scr. Eccl.)
+gr2062  	John Chrysostom - Joannes Chrysostomus (Scr. Eccl.)
+gr2063  	Gregorius Thaumaturgus (Scr. Eccl.)
+gr2064  	Acacius (Theol.)
+gr2074  	Apollinaris (Theol.)
+gr2084  	Basilius (Med. et Scr. Eccl.)
+gr2102  	Didymus the Blind - Didymus Caecus (Scr. Eccl.)
+gr2109  	Macarius , Pseudo- (Scr. Eccl.)
+gr2110  	Cyrillus (Scr. Eccl.)
+gr2111  	Palladius (Scr. Eccl.)
+gr2112  	Amphilochius (Scr. Eccl.)
+gr2115  	Hippolytus (Scr. Eccl.)
+gr2116  	Arcadius (Gramm.)
+gr2117  	Anonymus De Metrorum Ratione
+gr2118  	Gryllus
+gr2119  	Christodorus (Epic.)
+gr2120  	Panteleius (Epic.)
+gr2121  	Dioscorus (Poeta)
+gr2122  	Asinius Quadratus , Gaius (Hist.)
+gr2127  	Troilus (Soph.)
+gr2130  	Arethas (Philol. et Scr. Eccl.)
+gr2133  	Achilles Tatius (Astron.)
+gr2140  	Iamblichus (Alchem.)
+gr2141  	Dexippus , Publius Herennius (Hist.)
+gr2148  	Aristodemus (Hist.)
+gr2151  	Praxagoras (Hist.)
+gr2153  	Bion (Math. et Phil.)
+gr2157  	Magnus (Hist.)
+gr2158  	Eutychianus (Hist.)
+gr2160  	Pyrrhus (Hist.)
+gr2162  	Aratus (Hist.)
+gr2168  	Apollophanes (Phil.)
+gr2169  	Herillus (Phil.)
+gr2171  	Stesiclides (Hist.)
+gr2172  	Andron (Hist.)
+gr2173  	Antileon (Hist.)
+gr2175  	[Autocharis] (Hist.)
+gr2178  	Longinus , Cassius (Phil. et Rhet.)
+gr2181  	Moses (Alchem.)
+gr2182  	Staphylus (Hist.)
+gr2185  	Dionysius Μεταθέμενοϲ (Phil.)
+gr2186  	Leo (Hist.)
+gr2187  	Posidonius (Hist.)
+gr2189  	Callinicus (Soph.)
+gr2190  	[Clitonymus] (Hist.)
+gr2192  	[Agatharchides] (Hist.)
+gr2193  	[Aretades] (Hist.)
+gr2194  	[Aristides] (Hist.)
+gr2195  	[Chrysermus] (Hist.)
+gr2196  	[Dercyllus] (Hist.)
+gr2200  	Libanius (Rhet. et Soph.)
+gr2201  	[Ctesiphon] (Hist.)
+gr2202  	[Menyllus] (Hist.)
+gr2203  	[Theophilus] (Hist.)
+gr2204  	Autocrates (Hist.)
+gr2205  	Autesion (Hist.)
+gr2210  	Anaxicrates (Hist.)
+gr2212  	Lyceas (Hist.)
+gr2213  	[Timotheus] (Hist.)
+gr2215  	Ar(i)aethus (Hist.)
+gr2216  	Aristippus (Hist.)
+gr2217  	Nicias (Hist.)
+gr2218  	Calliphon (et Democedes Med. et Phil.)
+gr2219  	Amelesagoras (Hist.)
+gr2225  	Parm(en)iscus (Phil.)
+gr2226  	Iccus (Phil.)
+gr2227  	Paron (Phil.)
+gr2228  	Menestor (Phil.)
+gr2229  	Xuthus (Phil.)
+gr2230  	Boïdas (Phil.)
+gr2231  	Thrasyalces (Phil.)
+gr2232  	Damon (Mus.)
+gr2233  	Polemon, Pseudo-
+gr2234  	Oenopides (Phil.)
+gr2235  	Hippocrates (Math.)
+gr2236  	Eutropius (Hist.)
+gr2237  	Theodorus (Math.)
+gr2239  	Pythagoristae ((D-K) Phil.)
+gr2240  	Hicetas (Phil.)
+gr2241  	Xenophilus (Mus. et Phil.)
+gr2242  	Echecrates (Phil.)
+gr2243  	Apocalypsis Sedrach
+gr2244  	Damon (et Phintias Phil.)
+gr2245  	Simus (Phil.)
+gr2246  	Lycon (Phil.)
+gr2247  	Petron (Phil.)
+gr2248  	Acta Xanthippae Et Polyxenae
+gr2255  	Gorgias (Hist.)
+gr2260  	Hippasus (Phil.)
+gr2265  	Diodorus (Perieg.)
+gr2268  	Timagoras (Hist.)
+gr2270  	Callippus (Hist.)
+gr2273  	Damon (Hist.)
+gr2274  	Hesychius (Illustrius Hist.)
+gr2275  	Theagenes (Phil.)
+gr2277  	Hypermenes (Hist.)
+gr2278  	Phanodicus (Hist.)
+gr2282  	Melisseus (Hist.)
+gr2284  	Anaxandridas (Hist.)
+gr2286  	Cercops (Phil.)
+gr2287  	Fragmentum Stoicum
+gr2289  	Echephylidas (Hist.)
+gr2291  	Cratylus (Phil.)
+gr2294  	Zeno (Phil.)
+gr2298  	Lysanias (Hist.)
+gr2300  	Promathidas (Hist.)
+gr2303  	Archelaus (Phil.)
+gr2304  	Idaeus (Phil.)
+gr2305  	Clidemus (Phil.)
+gr2306  	Xenomedes (Hist.)
+gr2307  	Artemon (Hist.)
+gr2313  	Antisthenes (Phil.)
+gr2314  	Diogenes (Phil.)
+gr2317  	Hermias (Phil.)
+gr2319  	Apollodorus (Phil.)
+gr2322  	Antenor (Hist.)
+gr2326  	Dei(l)ochus (Hist.)
+gr2328  	Diogenes (Hist.)
+gr2330  	Scamon (Hist.)
+gr2331  	Myrsilus (Hist.)
+gr2333  	Possis (Hist.)
+gr2334  	Nausiphanes (Phil.)
+gr2336  	Hereas (Hist.)
+gr2339  	Maeandrius (Hist.)
+gr2340  	Diotimus (Phil.)
+gr2341  	Aristocritus (Hist.)
+gr2345  	Agl(a)osthenes (Hist.)
+gr2346  	Andriscus (Hist.)
+gr2349  	[Pyrander] (Hist.)
+gr2354  	Dionysius (Hist.)
+gr2355  	Xeniades (Soph.)
+gr2357  	Gorgon (Hist.)
+gr2364  	Zeno (Hist.)
+gr2367  	Theognis (Hist.)
+gr2371  	Chronicon Paschale
+gr2372  	Euagon (Hist.)
+gr2383  	Diodorus (Phil.)
+gr2384  	Hermias (Hist.)
+gr2385  	Polycritus (Hist.)
+gr2386  	Timonides (Hist.)
+gr2387  	Athanis (Hist.)
+gr2391  	Hippostratus (Hist.)
+gr2392  	Artemon (Hist.)
+gr2393  	Andreas (Hist.)
+gr2396  	Hyperochus (Hist.)
+gr2397  	Boethus (Phil.)
+gr2398  	Basilides (Phil.)
+gr2399  	Eudromus (Phil.)
+gr2404  	Philogelos
+gr2409  	Dioscurides (Hist.)
+gr2412  	Androetas (Hist.)
+gr2417  	Cineas (Rhet.)
+gr2418  	Archinus (Hist.)
+gr2423  	Asclepiades (Gramm. et Hist.)
+gr2424  	Chaeremon (Hist. et Phil.)
+gr2426  	Hermaeus (Hist.)
+gr2428  	Thrasyllus (Hist.)
+gr2434  	Aelius Dius (Hist.)
+gr2444  	Lycophron (Soph.)
+gr2445  	Amometus (Hist.)
+gr2449  	Timotheus (Gramm.)
+gr2455  	Aristocreon (Hist.)
+gr2456  	Nessas (Phil.)
+gr2458  	Marcellus (Hist.)
+gr2460  	Glaucus (Hist.)
+gr2461  	Uranius (Hist.)
+gr2466  	Dionysius (Hist.)
+gr2474  	Nicander (Hist.)
+gr2475  	Menecrates (Hist.)
+gr2479  	Patrocles (Hist.)
+gr2482  	Daimachus (Hist.)
+gr2499  	Eustochius (Soph.)
+gr2506  	Capito (Hist.)
+gr2511  	Demetrius (Hist.)
+gr2512  	Paeon (Hist.)
+gr2525  	Laetus (Hist.)
+gr2531  	Metrophanes (Hist.)
+gr2532  	[Hermesianax] (Hist.)
+gr2533  	Timolaus (Hist.)
+gr2536  	Andron (Geogr.)
+gr2539  	Diophantus (Hist.)
+gr2542  	Fabius Pictor , Quintus (Hist.)
+gr2543  	Cincius Alimentus , Lucius (Hist.)
+gr2545  	Acilius , Gaius (Hist. et Phil.)
+gr2546  	Rutilius Rufus , Publius (Hist.)
+gr2547  	Antigonus
+gr2548  	Promathion (Hist.)
+gr2552  	Critolaus (Hist.)
+gr2555  	Agesilaus (Hist.)
+gr2556  	[Alexarchus] (Hist.)
+gr2557  	[Aristobulus] (Hist.)
+gr2559  	[Chrysippus] (Hist.)
+gr2560  	Pythocles (Hist.)
+gr2565  	Mnesimachus (Hist.)
+gr2566  	[Agathon] (Hist.)
+gr2568  	[Sosthenes] (Hist.)
+gr2571  	Hierocles (Phil.)
+gr2573  	Pausanias (Hist.)
+gr2577  	Anatolius (Math. et Phil.)
+gr2578  	Joannes (Gramm. et Poeta)
+gr2580  	Lydus , Joannes Laurentius (Hist.)
+gr2583  	Manetho (Astrol.)
+gr2585  	Marcellinus (Biogr.)
+gr2586  	Menander (Rhet.)
+gr2587  	Ariston (Phil.)
+gr2589  	Olympiodorus (Alchem.)
+gr2591  	Orion (Gramm.)
+gr2592  	Pediasimus , Joannes (Philol. et Rhet.)
+gr2594  	Phillis (Hist.)
+gr2595  	Philo (Paradox.)
+gr2596  	Phoebammon (Soph.)
+gr2598  	Procopius (Rhet. et Scr. Eccl.)
+gr2600  	Simon (Scriptor De Re Equestri)
+gr2601  	Tiberius (Rhet.)
+gr2602  	Timaeus (Sophista Gramm.)
+gr2604  	Ulpianus (Gramm. et Rhet.)
+gr2605  	Agamestor (Eleg.)
+gr2606  	Agathyllus (Eleg.)
+gr2607  	Alexinus (Phil.)
+gr2608  	Archebulus (Poeta)
+gr2609  	Asopodorus (Iamb.)
+gr2610  	Boiscus (Iamb.)
+gr2611  	Butas (Eleg.)
+gr2612  	Caecalus ((?) Epic.)
+gr2613  	Callimachus (Junior Epic.)
+gr2614  	Cleomachus (Poeta)
+gr2615  	Daphitas (Gramm. vel Soph.)
+gr2616  	Demareta (Poeta)
+gr2617  	Demetrius (Poeta)
+gr2618  	Didymarchus (Poeta)
+gr2619  	Dionysius (Epic.)
+gr2620  	Dionysius Iambus (Gramm. et Poeta)
+gr2621  	Diophilus (vel Diophila Poeta)
+gr2622  	Dorieus (Poeta)
+gr2623  	Euanthes (Epic.)
+gr2624  	Hermias (Poeta)
+gr2625  	Herodicus (Gramm.)
+gr2626  	Hipparchus (Parodius)
+gr2627  	Damianus (Scriptor De Opticis)
+gr2628  	Idaeus (Epic.)
+gr2630  	Lobo (Poeta)
+gr2631  	Menophilus (Poeta)
+gr2632  	Comarius (Alchem.)
+gr2633  	Niceratus (Epic.)
+gr2634  	Pamphilus (Poeta)
+gr2635  	Persinus (Poeta)
+gr2636  	Pherenicus (Epic.)
+gr2638  	Philo (Poeta)
+gr2639  	Posidonius (Epic.)
+gr2640  	Eusebius (Phil.)
+gr2641  	Priscus (Epic.)
+gr2642  	Astrampsychus , [ (Magus] Onir.)
+gr2644  	Sminthes (Astron.)
+gr2645  	Stratonicus (Poeta)
+gr2646  	Fragmenta Adespota ((SH))
+gr2647  	Zenothemis (Geogr.)
+gr2648  	Adespota Papyracea ((SH))
+gr2649  	Amyntas (Epigr.)
+gr2650  	Arrianus (Epic.)
+gr2651  	Artemidorus (Eleg.)
+gr2652  	Diodorus (Eleg.)
+gr2653  	Erycius (Poeta)
+gr2654  	Physiologus
+gr2655  	Damigeron , [ (Magus])
+gr2657  	Martyrium Ignatii
+gr2679  	Testamentum Salomonis
+gr2680  	Scythinus (Epigr.)
+gr2681  	Diodorus (Phil.)
+gr2691  	[Musaeus] (Phil.)
+gr2693  	Ptolemaeus III Euergetes I ([Epigr.])
+gr2694  	Sostratus (Poeta)
+gr2695  	Vitae Aristotelis
+gr2696  	Theodorus (Poeta)
+gr2697  	Timolaus (Rhet.)
+gr2699  	Amphicrates (Rhet.)
+gr2701  	Georgius Pisides (Poeta)
+gr2702  	Psellus , Michael (Polyhist.)
+gr2703  	Anna Comnena (Hist.)
+gr2714  	Theodorus Studites (Scr. Eccl. et Theol.)
+gr2718  	Philes , Manuel (Poeta et Scr. Rerum Nat.)
+gr2721  	Prodromus , Theodorus (Poeta et Polyhist.)
+gr2724  	Ammonius (Scr. Eccl.)
+gr2729  	Prorus (Phil.)
+gr2733  	Evagrius (Scholasticus Scr. Eccl.)
+gr2734  	Justinianus , Flavius (Imperator Theol.)
+gr2738  	Chronographiae Anonymae
+gr2742  	Apophthegmata
+gr2744  	Historia Monachorum In Aegypto
+gr2762  	Gennadius I (Scr. Eccl.)
+gr2766  	Eudocia Augusta (Poeta)
+gr2770  	Callinicus (Biogr.)
+gr2797  	Hesychius (Scr. Eccl.)
+gr2798  	Dionysius Areopagita , Pseudo- (Scr. Eccl. et Theol.)
+gr2800  	Basilius (Scr. Eccl.)
+gr2806  	Marcus (Diaconus Scr. Eccl.)
+gr2807  	Antonius (Hagiographus Scr. Eccl.)
+gr2816  	Joannes (Gramm. et Theol.)
+gr2860  	Alexander (Scr. Eccl.)
+gr2865  	Olympiodorus (Diaconus Scr. Eccl.)
+gr2866  	Oecumenius (Phil. et Rhet.)
+gr2871  	Joannes Malalas (Chronogr.)
+gr2877  	Cyrillus (Biogr.)
+gr2881  	Romanus Melodus (Hymnographus)
+gr2892  	Maximus Confessor (Theol.)
+gr2894  	Constitutiones Apostolorum
+gr2903  	Minucianus (Junior Rhet.)
+gr2904  	Nicolaus (Rhet. et Soph.)
+gr2914  	Leontius (Scr. Eccl.)
+gr2934  	John of Damascus - Joannes Damascenus (Scr. Eccl. et Theol.)
+gr2937  	Lachares (Soph.)
+gr2945  	Gnomologium Vaticanum
+gr2946  	Priscus (Hist. et Rhet.)
+gr2948  	Acta Philippi
+gr2949  	Acta Barnabae
+gr2950  	Adamantius (Theol.)
+gr2956  	Julius Africanus , Sextus (Hist.)
+gr2960  	Oracula Tiburtina
+gr2962  	Petrus (Scr. Eccl. et Theol.)
+gr2966  	Phileas (Scr. Eccl.)
+gr2967  	Theodorus (Heracleensis vel Mopsuestenus Scr. Eccl.)
+gr2968  	Monimus (Phil.)
+gr2969  	Demonax (Phil.)
+gr2970  	Severus (Phil.)
+gr2971  	Georgius Peccator (Poeta)
+gr2972  	Anonymi De Terrae Motibus
+gr2995  	Orus (Gramm.)
+gr3002  	Prolegomena De Comoedia
+gr3014  	Camaterus , Joannes (Astrol. et Astron.)
+gr3015  	Cameniates , Joannes (Hist.)
+gr3018  	Cedrenus , Georgius (Chronogr.)
+gr3020  	Cinnamus , Joannes (Gramm. et Hist.)
+gr3023  	Constantinus VII Porphyrogenitus (Imperator Hist.)
+gr3027  	Doxapatres , Joannes (Rhet.)
+gr3039  	Galenus , Joannes (Gramm.)
+gr3040  	Genesius , Josephus (Hist.)
+gr3043  	Georgius (Monachus Chronogr.)
+gr3045  	Georgius Syncellus (Chronogr.)
+gr3047  	Glycas , Michael (Astrol. et Hist.)
+gr3051  	Georgius Monachus Continuatus
+gr3063  	Joannes Scylitzes (Hist.)
+gr3064  	Scylitzes Continuatus
+gr3069  	Leo (Diaconus Hist.)
+gr3070  	Symeon Logothetes (Hist.)
+gr3074  	Manasses , Constantinus (Hist. et Poeta)
+gr3075  	Mauricius , Pseudo- (Tact.)
+gr3079  	Michael Attaliates (Hist.)
+gr3086  	Nicephorus I (Scr. Eccl., Hist. et Theol.)
+gr3088  	Nicephorus Bryennius (Hist.)
+gr3094  	Nicetas Choniates (Hist., Scr. Eccl. et Rhet.)
+gr3100  	Nicolaus I (Mysticus Theol. et Epist.)
+gr3115  	Symeon Metaphrastes (Biogr. et Hist.)
+gr3120  	Patria Constantinopoleos
+gr3125  	Theodosius (Diaconus Hist. et Poeta)
+gr3127  	Nonnus, Pseudo-
+gr3128  	Theognostus (Gramm.)
+gr3130  	Theophylactus Simocatta (Epist. et Hist.)
+gr3135  	Zonaras , Joannes (Gramm. et Hist.)
+gr3136  	Zonaras , Pseudo- (Lexicogr.)
+gr3139  	Chalcocondyles , Laonicus (Hist.)
+gr3140  	Joel (Chronogr.)
+gr3141  	Acropolites , Georgius (Hist.)
+gr3142  	Pachymeres , Georgius (Hist.)
+gr3143  	Sphrantzes , Georgius (Hist.)
+gr3144  	Cananus , Joannes (Hist.)
+gr3145  	Anagnostes , Joannes (Hist. et Poeta)
+gr3146  	Ducas (Hist.)
+gr3147  	Critobulus , Michael (Hist.)
+gr3155  	Joannes (Protospatharius Gramm.)
+gr3156  	Anonymi Exegesis In Hesiodi Theogoniam
+gr3157  	Theodorus (Scutariota Hist.)
+gr3158  	Theodorus (Epist.)
+gr3159  	Barlaam (Math., Theol. et Epist.)
+gr3168  	Codinus , Pseudo- (Hist.)
+gr3169  	Joannes VI Cantacuzenus
+gr3170  	Ephraem (Hist. et Poeta)
+gr3173  	Joannes (Theol.)
+gr3176  	Sphrantzes , Pseudo- (Hist.)
+gr3177  	Scriptor Incertus De Leone Armenio (Hist.)
+gr3178  	Anonymi Lexeis Rhetoricae
+gr3181  	Nicephorus II Phocas (Imperator Tact.)
+gr3182  	Symeon , Pseudo- (Hist.)
+gr3185  	Anonymus De Scientia Politica (Hist.)
+gr3186  	Anonymus Dialogus Cum Judaeis
+gr3187  	Georgius (Gramm.)
+gr3188  	Joannes Actuarius (Med.)
+gr4000  	Aristaenetus (Epist.)
+gr4001  	Aeneas (Phil. et Rhet.)
+gr4003  	Marcianus (Geogr.)
+gr4005  	Anonymus (Discipulus Isidori Milesii Mech.)
+gr4013  	Simplicius (Phil.)
+gr4014  	Priscianus (Phil.)
+gr4015  	Joannes Philoponus (Phil.)
+gr4016  	Ammonius (Phil.)
+gr4017  	Syrianus (Phil.)
+gr4018  	Asclepius (Phil.)
+gr4019  	Olympiodorus (Phil.)
+gr4020  	Elias (Phil.)
+gr4021  	David (Phil.)
+gr4024  	Agathias (Scholasticus Epigr. et Hist.)
+gr4026  	Anonymi In Aristotelis Artem Rhetoricam (Rhet.)
+gr4027  	Anonymi In Aristotelis Categorias (Phil.)
+gr4028  	Stephanus (Gramm.)
+gr4029  	Procopius (Hist.)
+gr4030  	Sophonias (Phil.)
+gr4031  	Eustratius (Phil.)
+gr4032  	Anonymi In Aristotelis Librum Primum Analyticorum Posteriorum Commentarium
+gr4033  	Anonymi In Aristotelis Ethica Nicomachea (Phil.)
+gr4034  	Michael (Phil.)
+gr4036  	Proclus (Phil.)
+gr4037  	Anonymi Paradoxographi
+gr4038  	Pamprepius (Epic.)
+gr4039  	Paulus (Silentiarius Poeta)
+gr4040  	Photius (Lexicogr., Scr. Eccl. et Theol.)
+gr4046  	Theophanes Confessor (Chronogr.)
+gr4061  	Cosmas Indicopleustes (Geogr.)
+gr4066  	Damascius (Phil.)
+gr4072  	Eutocius (Math.)
+gr4075  	Marinus (Phil.)
+gr4076  	Menander (Protector Hist.)
+gr4080  	Geoponica
+gr4081  	Colluthus (Epic.)
+gr4082  	Musaeus (Grammaticus Epic.)
+gr4083  	Eustathius (Philol. et Scr. Eccl.)
+gr4084  	Zosimus (Hist.)
+gr4085  	Hesychius (Lexicogr.)
+gr4086  	[Agathodaemon] (Alchem.)
+gr4088  	Anthemius (Math. et Mech.)
+gr4089  	Theodoretus (Scr. Eccl. et Theol.)
+gr4090  	Cyrillus (Theol.)
+gr4091  	Callistratus (Soph.)
+gr4093  	Choeroboscus , Georgius (Gramm.)
+gr4094  	Choricius (Rhet. et Soph.)
+gr4096  	Dositheus (Magister Gramm.)
+gr4097  	Etymologicum Genuinum
+gr4098  	Etymologicum Gudianum
+gr4099  	Etymologicum Magnum
+gr4100  	Aphthonius (Rhet.)
+gr4101  	Etymologicum Parvum
+gr4102  	Catenae ((Novum Testamentum))
+gr4105  	Julianus (Scr. Eccl.)
+gr4110  	Evagrius (Scr. Eccl.)
+gr4115  	Theophilus (Scr. Eccl.)
+gr4117  	Eustathius (Scr. Eccl. et Theol.)
+gr4124  	Eusebius (Scr. Eccl.)
+gr4126  	Theodorus (Scr. Eccl.)
+gr4134  	Diodorus (Scr. Eccl.)
+gr4135  	Theodorus (Theol.)
+gr4138  	Ephraem Syrus (Theol.)
+gr4139  	Severianus (Scr. Eccl.)
+gr4145  	Nicephorus Gregoras (Hist.)
+gr4147  	Florilegium Cyrillianum
+gr4149  	Sophronius (Gramm.)
+gr4150  	Anacreontea
+gr4153  	Theophanes Continuatus
+gr4157  	Joannes (Rhet.)
+gr4161  	Vitae Arati Et Varia De Arato
+gr4163  	Telegonia
+gr4165  	Anonymi In Aristotelis Librum De Interpretatione (Phil.)
+gr4166  	Vitae Aeschinis
+gr4167  	Leontius (Mech.)
+gr4170  	Vitae Pindari Et Varia De Pindaro
+gr4171  	Anonymi In Oppiani Opera
+gr4172  	Vitae Oppiani
+gr4173  	Vitae Dionysii Periegetae
+gr4174  	Paraphrases In Dionysium Periegetam
+gr4175  	Commentaria In Dionysii Thracis Artem Grammaticam
+gr4184  	Dionysius (Soph.)
+gr4187  	Leo Magentinus (Phil.)
+gr4193  	Anonymi In Aristotelis Sophisticos Elenchos (Phil.)
+gr4201  	Joannes Chortasmenus (Phil.)
+gr4227  	Anonymus De Philosophia Platonica (Phil.)
+gr4235  	Joannes (Rhet.)
+gr4236  	Trophonius (Rhet. et Soph.)
+gr4237  	Argyropulus , Joannes (Gramm.)
+gr4238  	Athanasius (Soph.)
+gr4239  	Severus (Soph.)
+gr4242  	Cyrus (Rhet.)
+gr4282  	Anonymus Manichaeus (Biogr.)
+gr4286  	Lexica Syntactica
+gr4287  	Etymologia Alphabeti
+gr4288  	Lexicon αἱμωδεῖν
+gr4289  	Lexica Segueriana
+gr4290  	Lexicon Artis Grammaticae
+gr4291  	Verba In Scripturis De Christo
+gr4292  	Lexicon De Atticis Nominibus
+gr4293  	Fragmentum Lexici Graeci
+gr4294  	Lexicon Vindobonense
+gr4300  	Lexicon Sabbaiticum
+gr4301  	Lexicon Rhetoricum Cantabrigiense
+gr4302  	Lexicon Patmense
+gr4303  	Lexica In Opera Gregorii Nazianzeni
+gr4304  	Glossae In Herodotum
+gr4305  	Claudius Casilon (Gramm.)
+gr4307  	Lexica Synonymica
+gr4311  	Etymologicum Symeonis
+gr4318  	Vita Sophoclis
+gr4319  	Zosimus (Alchem.)
+gr4323  	Eugenius (Alchem.)
+gr4324  	Synesius (Alchem.)
+gr4325  	[Hermes] (Alchem.)
+gr4326  	Pappus (Alchem.)
+gr4327  	Joannes (Archiereus Alchem.)
+gr4328  	Philosophus Christianus (Alchem.)
+gr4329  	Philosophus Anonymus (Alchem.)
+gr4330  	Cosmas (Hieromonachus Alchem.)
+gr4331  	Hierotheus (Alchem.)
+gr4332  	Hierotheus (Alchem. et Poeta)
+gr4333  	Blemmydes , Nicephorus (Alchem.)
+gr4334  	Isis , [ (Prophetissa] Alchem.)
+gr4335  	Cleopatra (Alchem.)
+gr4337  	Heliodorus (Alchem. et Poeta)
+gr4338  	Theophrastus (Alchem. et Poeta)
+gr4339  	Archelaus (Alchem. et Poeta)
+gr4340  	Salmanas (Alchem.)
+gr4344  	Menecrates (Hist.)
+gr4345  	Menecrates (Hist.)
+gr4346  	Menecrates (Hist.)
+gr4347  	Andron (Hist.)
+gr4361  	Apomasar (Astrol.)
+gr4374  	Anonymi De Astrologia Dialogus (Astrol.)
+gr4390  	Democles (Hist.)
+gr4391  	Glaucus (Hist.)
+gr4392  	Joannes Epiphaniensis (Hist.)
+gr4393  	Nonnosus (Hist.)
+gr4394  	Joannes Antiochenus (Hist.)
+gr4395  	Menetor (Hist.)
+gr4396  	Timagetus (Hist.)
+gr4397  	Myronianus (Hist.)
+gr5000  	Concilia Oecumenica ((ACO))
+gr5002  	Magica
+gr5003  	Erotica Adespota
+gr5004  	Epimerismi
+gr5008  	Scholia In Aelium Aristidem
+gr5009  	Scholia In Aeschinem
+gr5010  	Scholia In Aeschylum
+gr5012  	Scholia In Apollonium Rhodium
+gr5013  	Scholia In Aratum
+gr5014  	Scholia In Aristophanem
+gr5015  	Scholia In Aristotelem
+gr5016  	Scholia In Callimachum
+gr5017  	Scholia In Demosthenem
+gr5018  	Scholia In Dionysium Byzantium
+gr5019  	Scholia In Dionysium Periegetam
+gr5021  	Scholia In Diophantum
+gr5022  	Scholia In Euclidem
+gr5023  	Scholia In Euripidem
+gr5024  	Anonymi In Hermogenem (Rhet.)
+gr5025  	Scholia In Hesiodum
+gr5026  	Scholia In Homerum
+gr5027  	Scholia In Iamblichum Philosophum
+gr5028  	Scholia In Isocratem
+gr5029  	Scholia In Lucianum
+gr5030  	Scholia In Lycophronem
+gr5031  	Scholia In Nicandrum
+gr5032  	Scholia In Oppianum
+gr5033  	Scholia In Pausaniam
+gr5034  	Scholia In Pindarum
+gr5035  	Scholia In Platonem
+gr5037  	Scholia In Sophoclem
+gr5038  	Scholia In Theocritum
+gr5039  	Scholia In Thucydidem
+gr5040  	Scholia In Xenophontem
+gr5045  	Anonymi In Aphthonium (Rhet.)
+gr5046  	Scholia In Theonem Rhetorem
+gr5048  	Scholia In Clementem Alexandrinum
+gr5052  	Scholia in Maximum Confessorem
+gr7000  	AG - Anthologia Graeca
+gr7051  	Doctrina Patrum
+gr7052  	Anthologiae Graecae Appendix
+gr9003  	Anonymus Lexicographus (Lexicogr.)
+gr9004  	Anonymi In Aristotelis Librum Alterum Analyticorum Posteriorum Commentarium
+gr9006  	Gregorius (Paroemiogr.)
+gr9007  	Appendix Proverbiorum
+gr9008  	Chrysocephalus , Macarius (Paroemiogr.)
+gr9009  	Apostolius , Michael (Paroemiogr.)
+gr9010  	Suidas - Suda
+gr9012  	Ignatius (Biogr. et Poeta)
+gr9018  	Arsenius (Paroemiogr.)
+gr9019  	Stephanus (Phil.)
+gr9020  	Stephanus (Gramm.)
+gr9021  	Stephanus (Alchem.)
+gr9022  	Tzetzes , Joannes (Gramm. et Poeta)
+gr9023  	Thomas Magister (Philol.)
+in0001  	Attica (IG I3 1-2 [1-500 501-1517])
+in0002  	Attica (IG I2 (remainder))
+in0003  	Attica (Dedications Ath. Akropolis [DAA])
+in0004  	Attica (IG II/III2 1 [1-1369])
+in0005  	Attica (IG II/III2 2 [1370-2788])
+in0006  	Attica (IG II/III2 3,1 [2789-5219])
+in0007  	Attica (IG II/III2 3,2 [5220-13247])
+in0008  	Attica (IG II III (remainder))
+in0009  	Attica (Peek, "Nachträge", MDAI(A) 67 (1942))
+in000a  	Attica (Hellenistic Decrees, Outside Attica)
+in000b  	Attica (Agora XV, Councillors)
+in000c  	Attica (Agora XVII, Funerary Monuments)
+in000d  	Attica (Agora XIX, Horoi [H 1-131])
+in000e  	Attica (Agora XIX, Poletai [P 1-56, PA 1-8])
+in000f  	Attica (Agora XIX, Leases [L 1-15, LA 1-8])
+in0010  	Attica (Agora XXI, Graffiti Dipinti)
+in0011  	Attica (Kerameikos III)
+in0012  	Attica (Aleshire, Ath. Asklepieion)
+in0013  	Attica (Peek, Att. Grabschriften II)
+in0014  	Attica (Kroll, Ath. Bronze Allotment Plates)
+in0015  	Attica (Braun, "Pferdewerte," MDAI(A) 85 (1970))
+in0016  	Attica (Kroll, "Archive," Hesperia 46 (1977))
+in0017  	Attica (Pouilloux, Forteresse de Rhamnonte)
+in0018  	Attica (Clinton, Sacred Officals)
+in0019  	Attica (FD III,2 2-66 (part) [Pythaïs Lists])
+in001a  	Attica (Suppl. Epigr. Gr. 1-41 [SEG])
+in001b  	Attica (Hesperia Suppls.)
+in001c  	Attica (Archaiologike Ephemeris [AE])
+in001d  	Attica (Archaiologikon Deltion [AD])
+in001e  	Attica (Mitt. Dt. Arch. Inst., Ath. Abt. [MDAI(A)])
+in001f  	Attica (Bull. corr. hellénique Suppls. [BCH])
+in0020  	Attica (Ergon Arch. Hetaireias)
+in0021  	Attica (Praktika Ath. Arch. Hetaireias [PAAH])
+in0022  	Attica (Polemon)
+in0023  	Attica (Bull. épigraphique [BE] (miscellaneous))
+in0024  	Attica (Miscellaneous Periodicals)
+in0025  	Attica (Miscellaneous Books)
+in0026  	Attica (Curse Tablets (various sources))
+in0101  	Attica [Latin] (SIA VI)
+in0201  	Peloponnesos (IG IV [Argolid, Corinthia Aigina])
+in0202  	Peloponnesos (IG IV(2),1 [Epidauros])
+in0203  	Peloponnesos (Neue Inschr. Epidauros [NIEpi])
+in0204  	Peloponnesos (Neue Inschr. Askl. Epidauros [IAEpid])
+in0205  	Peloponnesos (Corinth 8,1-3 (Greek))
+in0206  	Peloponnesos (IG V,1 [Lakonia Messenia])
+in0207  	Peloponnesos (IG V,2 [Arkadia])
+in0208  	Peloponnesos (Prozessrechtl. Inschr. Arkad. [IPArk])
+in0209  	Peloponnesos (Olympia V [IvO])
+in020a  	Peloponnesos (SEG 1–41 [Olympia])
+in020b  	Peloponnesos (SEG 1–41 [excl. Olympia])
+in0301  	Peloponnesos [Latin] (Corinth 8,2-3)
+in0401  	Central and Northwest Greece (IG VII [Megarid, Oropos, Boiotia])
+in0402  	Central and Northwest Greece (IG IX,1 [Phokis, E.Lokr., Ionian Isl.])
+in0403  	Central and Northwest Greece (IG IX,1(2):1-3 [Aitol., Akarn., Lokr.])
+in0501  	Delphi (Fouilles de Delphes [FD] III 1-6)
+in0502  	Delphi (Fouilles de Delphes [FD] II)
+in0503  	Delphi (Fouilles de Delphes [FD] IV V)
+in0504  	Delphi (Corpus Inscr. Delphes [CID] 1-3)
+in0505  	Delphi (Dittenberger, Sylloge3 [SIG])
+in0506  	Delphi (Samml. gr. Dialekt-Inschr. II [SGDI])
+in0507  	Delphi (Bull. corr. hellénique [BCH])
+in0508  	Delphi (Klio)
+in0509  	Delphi (Miscellaneous)
+in0601  	Thessaly (IG IX,2)
+in0602  	Thessaly (Helly, Gonnoi II)
+in0603  	Thessaly (SEG 1–41)
+in0604  	Thessaly (Amer. Journal of Philology [AJPh])
+in0605  	Thessaly (Annals Br. Sch. at Athens [ABSA])
+in0606  	Thessaly (Arch. Analekta ex Athenon [AAA])
+in0607  	Thessaly (Archaiologike Ephemeris [ArchEph])
+in0608  	Thessaly (Archaiologikon Deltion [Deltion])
+in0609  	Thessaly (Archäologischer Anzeiger [AA])
+in060a  	Thessaly (Archeologia Classica [AC])
+in060b  	Thessaly (Arvanitopoulos, Thessalika Mnemeia)
+in060c  	Thessaly (Axenidis, He Pelasgis Larisa)
+in060d  	Thessaly (Béquignon, Rech. Arch. à Pherès)
+in060e  	Thessaly (Berliner philol. Wochenschr. [BPhW])
+in060f  	Thessaly (Bull. corr. hellénique [BCH])
+in0610  	Thessaly (Byz–neugriech. Jahrbücher [BNGJ])
+in0611  	Thessaly (Chiron)
+in0612  	Thessaly (Ergon Arch. Hetaireias [EAAH])
+in0613  	Thessaly (Hellenika)
+in0614  	Thessaly (Hermes)
+in0615  	Thessaly (Hesperia)
+in0616  	Thessaly (Journal of Hellenic Studies [JHS])
+in0617  	Thessaly (Klio)
+in0618  	Thessaly (Liverpool Ann. Arch. Anthr. [LAAA])
+in0619  	Thessaly (Mélanges hell. offerts à G. Daux)
+in061a  	Thessaly (Mitt. Dt. Arch. Inst., Ath. Abt. [AM])
+in061b  	Thessaly (Moretti, Iscr. stor. ellenistische)
+in061c  	Thessaly (Nouv. choix d'inscr. gr. [NChoix])
+in061d  	Thessaly (Peek, Gr. Vers–Inschriften [GVI])
+in061e  	Thessaly (Peek, GVI aus Thessalien)
+in061f  	Thessaly (Polemon)
+in0620  	Thessaly (Praktika Ath. Arch. Hetaireias [PAAH])
+in0621  	Thessaly (Revue archéologique N.S. [RA,ns])
+in0622  	Thessaly (Revue des études anciennes [REA])
+in0623  	Thessaly (Revue de philologie [RPh])
+in0624  	Thessaly (Rheinisches Museum [RhM])
+in0625  	Thessaly (Robert, Hellenica)
+in0626  	Thessaly (Salviat/Vatin, I. Gr. Centrale [IGC])
+in0627  	Thessaly (Thessalika)
+in0628  	Thessaly (Wilhelm, Beiträge zur gr. Inschr.)
+in0629  	Thessaly (Zeitschr. f. Papyr. u. Epigr. [ZPE])
+in0701  	Macedonia (IG X 2,1 [Thessalonike])
+in0702  	Macedonia (Epigraphes Ano Makedonias I [EAM])
+in0703  	Macedonia (SEG 1–41)
+in0704  	Macedonia (Vulic/, Spomenik 71–98 [NW Mac.])
+in0801  	Moesia and Thrace (IGBulg I(2), II, III,1-2 IV)
+in0901  	Black Sea and Scythia Minor (IosPE I(2) [Scythia])
+in0902  	Black Sea and Scythia Minor (Corpus Inscr. regni Bosporani [CIRB])
+in0903  	Black Sea and Scythia Minor (Inscriptiones Olbiae [IOlbia])
+in0904  	Black Sea and Scythia Minor (N. Ep. Pam. Khersonesa I–II [NEPKh])
+in0905  	Black Sea and Scythia Minor (Tolstoi, Grecheskie graffiti)
+in0906  	Black Sea and Scythia Minor (SEG 1–41 [N. Shore Black Sea])
+in0907  	Black Sea and Scythia Minor (Antich. istoriia i kultura [AIKSP])
+in0908  	Black Sea and Scythia Minor (Audollent, Defixionum Tabellae)
+in0909  	Black Sea and Scythia Minor (Eirene)
+in090a  	Black Sea and Scythia Minor (Izvestiia Arkh. komissii [IAK])
+in090b  	Black Sea and Scythia Minor (Krat. soob. Inst. arkh. [KSIA])
+in090c  	Black Sea and Scythia Minor (Krat. soob. Od. arkh. muz. [KSOGAM])
+in090d  	Black Sea and Scythia Minor (Kultura antichnogo mira [KAM])
+in090e  	Black Sea and Scythia Minor (Materialy arkh. Sev. Prichern. [MASP])
+in090f  	Black Sea and Scythia Minor (Mitt. Dt. Arch. Inst., Ath. Abt. [AM])
+in0910  	Black Sea and Scythia Minor (Moretti, Iscr. stor. ellenistische)
+in0911  	Black Sea and Scythia Minor (Numizmatika i epigrafika [NE])
+in0912  	Black Sea and Scythia Minor (Olviia. Temenos i agora (1964))
+in0913  	Black Sea and Scythia Minor (Olviia (1975))
+in0914  	Black Sea and Scythia Minor (Peek, Gr. Vers–Inschriften [GVI])
+in0915  	Black Sea and Scythia Minor (Philologus)
+in0916  	Black Sea and Scythia Minor (Soobshcheniia Gos. Ermitazha [SGE])
+in0917  	Black Sea and Scythia Minor (Sovetskaia arkheologiia [SA])
+in0918  	Black Sea and Scythia Minor (Vestnik drevnei istorii [VDI])
+in0919  	Black Sea and Scythia Minor (Vinogradov, Politicheskaia istoriia)
+in091a  	Black Sea and Scythia Minor (Inscr. Scythiae Minoris II,1 [Istros])
+in091b  	Black Sea and Scythia Minor (Inscr. Scythiae Minoris II,2 [Tomis])
+in0a01  	Black Sea [Chersonesos] [Latin] (Solomonik, Lat. Nadpisi [Chersonesos])
+in0b01  	Delos (I.Délos 6-7 [ID 1-104])
+in0b02  	Delos (IG XI,2 [105-289])
+in0b03  	Delos (I.Délos 1-2 [ID 290-509])
+in0b04  	Delos (IG XI,4 [510-1349])
+in0b05  	Delos (I.Délos 3-5 [ID 1400-2879])
+in0b06  	Delos (Expl.Arch.Dél. 30 (1974), Rheneia)
+in0b07  	Delos (SEG 1-41)
+in0c01  	Rhodes and Rhodian Peraia (IG XII,1 [Rhodes])
+in0c02  	Rhodes and Rhodian Peraia (Blinkenberg, Lindos II)
+in0c03  	Rhodes and Rhodian Peraia (Maiuri, Nuova silloge epigr. [NSER])
+in0c04  	Rhodes and Rhodian Peraia (Tituli Camirenses [TitCam])
+in0c05  	Rhodes and Rhodian Peraia (Tituli Camirenses. Supplementum)
+in0c06  	Rhodes and Rhodian Peraia (Suppl. epigr. rodio [SERodio])
+in0c07  	Rhodes and Rhodian Peraia (Nuovo suppl. epigr. rodio [NSERodio])
+in0c08  	Rhodes and Rhodian Peraia (Clara Rhodos [Rhodes] [ClRhodos])
+in0c09  	Rhodes and Rhodian Peraia (Clara Rhodos [other isl.] [ClRhodos])
+in0c0a  	Rhodes and Rhodian Peraia (Nilsson, Timbres amph. de Lindos)
+in0c0b  	Rhodes and Rhodian Peraia (IK Rhodische Peraia [IK RhPeraia])
+in0c0c  	Rhodes and Rhodian Peraia (SEG 1–41 [Rhodes])
+in0c0d  	Rhodes and Rhodian Peraia (Amer. Journal of Philology [AJPh])
+in0c0e  	Rhodes and Rhodian Peraia (Ann. Sc. Arch. [Rhodes] [ASAtene])
+in0c0f  	Rhodes and Rhodian Peraia (Ann. Sc. Arch. [other isl.] [ASAtene])
+in0c10  	Rhodes and Rhodian Peraia (Arch. Analekta ex Athenon [AAA])
+in0c11  	Rhodes and Rhodian Peraia (Archaiologike Ephemeris [ArchEph])
+in0c12  	Rhodes and Rhodian Peraia (Archaiologikon Deltion [Deltion])
+in0c13  	Rhodes and Rhodian Peraia (Arch–ep. Mitt. Öst–Ung. [AEMÖ])
+in0c14  	Rhodes and Rhodian Peraia (Archeologia Classica [AC])
+in0c15  	Rhodes and Rhodian Peraia (Archiv f. Religionswiss. [ARW])
+in0c16  	Rhodes and Rhodian Peraia (Atti Ist. Veneto [AIV])
+in0c17  	Rhodes and Rhodian Peraia (Blinkenberg, Lindiaka 6 8)
+in0c18  	Rhodes and Rhodian Peraia (Bollettino d'Arte [BollArte])
+in0c19  	Rhodes and Rhodian Peraia (Bull. corr. hellénique [BCH])
+in0c1a  	Rhodes and Rhodian Peraia (Bull. Soc. Arch. Alexandrie [BSAA])
+in0c1b  	Rhodes and Rhodian Peraia (Chiron)
+in0c1c  	Rhodes and Rhodian Peraia (Dioniso)
+in0c1d  	Rhodes and Rhodian Peraia (Hermes)
+in0c1e  	Rhodes and Rhodian Peraia (Jahreshefte öst. arch Inst. [JÖAI])
+in0c1f  	Rhodes and Rhodian Peraia (Memorie F.E.R.T.)
+in0c20  	Rhodes and Rhodian Peraia (Mitt. Dt. Arch. Inst., Ath. Abt. [AM])
+in0c21  	Rhodes and Rhodian Peraia (Nilsson, Gesch. der gr. Religion)
+in0c22  	Rhodes and Rhodian Peraia (Papachristodoulou, He Ialysia)
+in0c23  	Rhodes and Rhodian Peraia (La Parola del Passato [PP])
+in0c24  	Rhodes and Rhodian Peraia (Peek, "Epigr. Nisyros," WZHalle 16)
+in0c25  	Rhodes and Rhodian Peraia (Peek, "I. dorisch. Inseln," AbhL 62.I)
+in0c26  	Rhodes and Rhodian Peraia (Pfuhl/Möbius, Die ostgr. Grabreliefs)
+in0c27  	Rhodes and Rhodian Peraia (Revue des études grecques [REG])
+in0c28  	Rhodes and Rhodian Peraia (Riv. di filologia e di istr. [RFIC])
+in0c29  	Rhodes and Rhodian Peraia (Sitzungsber. Ak. Wiss. [SBBerlAk])
+in0c2a  	Rhodes and Rhodian Peraia (Studi Ciaceri)
+in0d01  	Cos and Calymna (Paton/Hicks, Inscr. of Cos [PH])
+in0d02  	Cos and Calymna (Segre, Iscr. di Cos [IdiCos])
+in0d03  	Cos and Calymna (Maiuri, Nuova silloge epigr. [NSER])
+in0d04  	Cos and Calymna (Herzog, Heil. Gesetze v. Kos [HGK])
+in0d05  	Cos and Calymna (Herzog, Koische Forschungen [KFF])
+in0d06  	Cos and Calymna (SEG 1–41 [Cos])
+in0d07  	Cos and Calymna (Ann. Sc. Arch. Atene [ASAtene])
+in0d08  	Cos and Calymna (Archaiologikon Deltion [Deltion])
+in0d09  	Cos and Calymna (Archäologische Anzeiger [AA])
+in0d0a  	Cos and Calymna (Berliner Philol. Wochenschr. [BPhW])
+in0d0b  	Cos and Calymna (Boesch, Theoros)
+in0d0c  	Cos and Calymna (Bull. corr. hellénique [BCH])
+in0d0d  	Cos and Calymna (Bull. mus. imp. romana [BMusImp])
+in0d0e  	Cos and Calymna (Bull. Soc. Arch. Alexandrie [BSAA])
+in0d0f  	Cos and Calymna (Clara Rhodos [ClRhodos])
+in0d10  	Cos and Calymna (Dittenberger, Sylloge(3) [Syll(3)])
+in0d11  	Cos and Calymna (Hellenica)
+in0d12  	Cos and Calymna (Hesperia)
+in0d13  	Cos and Calymna (Historia)
+in0d14  	Cos and Calymna (Historische Zeitschrift [HistZeit])
+in0d15  	Cos and Calymna (Holleaux, Études d'épigraphie)
+in0d16  	Cos and Calymna (IK Erythrai Klazomenai)
+in0d17  	Cos and Calymna (Klee, Geschichte der gymn. Agone)
+in0d18  	Cos and Calymna (Maier, Gr. Mauerbauinschriften)
+in0d19  	Cos and Calymna (Marcadé, Recueil Sculpteurs Grecs)
+in0d1a  	Cos and Calymna (Mélanges syrièns René Dussaud)
+in0d1b  	Cos and Calymna (Memorie F.E.R.T.)
+in0d1c  	Cos and Calymna (Miscellanea Augusto Rostagni [MSAAR])
+in0d1d  	Cos and Calymna (Mitt. Dt. Arch. Inst., Ath. Abt. [AM])
+in0d1e  	Cos and Calymna (Orient. Literaturzeitung [OLZ])
+in0d1f  	Cos and Calymna (La Parola del Passato [PP])
+in0d20  	Cos and Calymna (Peek, Gr. Vers–Inschriften [GVI])
+in0d21  	Cos and Calymna (Pfuhl/Möbius, Die ostgr. Grabreliefs)
+in0d22  	Cos and Calymna (Rend. Pont. Acc. di Arch. [RPAA])
+in0d23  	Cos and Calymna (Riv. di filologia e di istr. [RFIC])
+in0d24  	Cos and Calymna (Sherwin–White, Ancient Cos)
+in0d25  	Cos and Calymna (Sitzungsber. Ak. Wiss. [SBBerlAk])
+in0d26  	Cos and Calymna (Synteleia: Vincenzo Arangio-Ruiz)
+in0d27  	Cos and Calymna (Welles, Royal Correspondence)
+in0d28  	Cos and Calymna (Zeitschr. f. Papyr. u. Epigr. [ZPE])
+in0d29  	Cos and Calymna (Segre, Tituli Calymnii [TitCal])
+in0e01  	Aegean Islands [general] (IG XII,2 [Lesbos])
+in0e02  	Aegean Islands [general] (IG XII Suppl. 1-149, 689-693)
+in0e03  	Aegean Islands [general] (IG XII,3 Suppl. [Doric Sporades])
+in0e04  	Aegean Islands [general] (IG XII Suppl. 150-166, 694-701)
+in0e05  	Aegean Islands [general] (IG XII,5 [Cyclades])
+in0e06  	Aegean Islands [general] (IG XII Suppl. 167-329)
+in0e07  	Aegean Islands [general] (IG XII,7 [Amorgos])
+in0e08  	Aegean Islands [general] (IG XII Suppl. 330-336)
+in0e09  	Aegean Islands [general] (IG XII,8 [N. Aegean])
+in0e0a  	Aegean Islands [general] (IG XII Suppl. 337-526, 702)
+in0e0b  	Aegean Islands [general] (ASAtene 19-20, 1941/42 [Lemnos])
+in0e0c  	Aegean Islands [general] (IG XII,9 [Euboia])
+in0e0d  	Aegean Islands [general] (IG XII Suppl. 527-688)
+in0f01  	Crete (IC I:i (Aigaion Antron))
+in0f02  	Crete (IC I:ii (Amnisos))
+in0f03  	Crete (IC I:iii (Apollonia))
+in0f04  	Crete (IC I:iv (Arbion))
+in0f05  	Crete (IC I:v (Arkades))
+in0f06  	Crete (IC I:vi (Biannos))
+in0f07  	Crete (IC I:vii (Chersonesos))
+in0f08  	Crete (IC I:viii (Knosos))
+in0f09  	Crete (IC I:ix (Dreros))
+in0f0a  	Crete (IC I:x (Eltynia))
+in0f0b  	Crete (IC I:xi (Heraklion))
+in0f0c  	Crete (IC I:xii (Idaion Antron))
+in0f0d  	Crete (IC I:xiii (Inatos))
+in0f0e  	Crete (IC I:xiv (Istron))
+in0f0f  	Crete (IC I:xv (Lasaia))
+in0f10  	Crete (IC I:xvi (Lato))
+in0f11  	Crete (IC I:xvii (Lebena))
+in0f12  	Crete (IC I:xviii (Lyttos))
+in0f13  	Crete (IC I:xix (Malla))
+in0f14  	Crete (IC I:xx (Matala))
+in0f15  	Crete (IC I:xxi (Milatos))
+in0f16  	Crete (IC I:xxii (Olous))
+in0f17  	Crete (IC I:xxiii (Phaistos))
+in0f18  	Crete (IC I:xxiv (Priansos))
+in0f19  	Crete (IC I:xxv (Pyloros?))
+in0f1a  	Crete (IC I:xxvi (Pyranthos))
+in0f1b  	Crete (IC I:xxvii (Rhaucos))
+in0f1c  	Crete (IC I:xxviii (Rhizenia?))
+in0f1d  	Crete (IC I:xxix (Rhytion))
+in0f1e  	Crete (IC I:xxx (Tylisos))
+in0f1f  	Crete (IC I:xxxi (Loca inc. med.))
+in0f20  	Crete (IC II:i (Allaria))
+in0f21  	Crete (IC II:ii (Anopolis))
+in0f22  	Crete (IC II:iii (Aptera))
+in0f23  	Crete (IC II:iv (Aradena))
+in0f24  	Crete (IC II:v (Axos))
+in0f25  	Crete (IC II:vi (Kantanos))
+in0f26  	Crete (IC II:vii (Kaudos))
+in0f27  	Crete (IC II:viii (Kisamos))
+in0f28  	Crete (IC II:ix (Kranaion Antron))
+in0f29  	Crete (IC II:x (Kydonia))
+in0f2a  	Crete (IC II:xi (Diktynnaion))
+in0f2b  	Crete (IC II:xii (Eleutherna))
+in0f2c  	Crete (IC II:xiii (Elyros))
+in0f2d  	Crete (IC II:xiv (Hydramia))
+in0f2e  	Crete (IC II:xv (Hyrtakina))
+in0f2f  	Crete (IC II:xvi (Lappa))
+in0f30  	Crete (IC II:xvii (Lisos))
+in0f31  	Crete (IC II:xviii (Phalanna?))
+in0f32  	Crete (IC II:xix (Phalasarna))
+in0f33  	Crete (IC II:xx (Phoinix))
+in0f34  	Crete (IC II:xxi (Poikilasion))
+in0f35  	Crete (IC II:xxii (Polichna))
+in0f36  	Crete (IC II:xxiii (Polyrhenia))
+in0f37  	Crete (IC II:xxiv (Rhithymna))
+in0f38  	Crete (IC II:xxv (Soulia))
+in0f39  	Crete (IC II:xxvi (Sybrita))
+in0f3a  	Crete (IC II:xxvii (Syia))
+in0f3b  	Crete (IC II:xxviii (Tallaion Antron))
+in0f3c  	Crete (IC II:xxix (Tarrha))
+in0f3d  	Crete (IC II:xxx (Loca inc. occident.))
+in0f3e  	Crete (IC III:i (Ampelos))
+in0f3f  	Crete (IC III:ii (Diktaion Hieron))
+in0f40  	Crete (IC III:iii (Hierapytna))
+in0f41  	Crete (IC III:iv (Itanos))
+in0f42  	Crete (IC III:v (Oleros))
+in0f43  	Crete (IC III:vi (Praisos))
+in0f44  	Crete (IC III:vii (Samonion Hieron))
+in0f45  	Crete (IC III:viii (Setaia))
+in0f46  	Crete (IC III:ix (Loca inc. orient.))
+in0f47  	Crete (IC IV (Gortyna))
+in1001  	Asia Minor [general] (TAM IV,1 Nikomedeia)
+in1002  	Asia Minor [general] (IK Kalchedon)
+in1003  	Asia Minor [general] (IK Kios)
+in1004  	Asia Minor [general] (IK Apameia Pylai)
+in1005  	Asia Minor [general] (IK Prusa ad Olympum I-II)
+in1006  	Asia Minor [general] (IK Prusias ad Hypium)
+in1007  	Asia Minor [general] (IK Klaudiu polis)
+in1008  	Asia Minor [general] (Pergamon 8,1-3)
+in1009  	Asia Minor [general] (TAM V,1-2 Lydia)
+in100a  	Asia Minor [general] (Sardis 7,1)
+in100b  	Asia Minor [general] (IK Knidos I)
+in100c  	Asia Minor [general] (Roueché, P. P. at Aphrodisias)
+in100d  	Asia Minor [general] (TAM I Lykia [1Greek]1)
+in100e  	Asia Minor [general] (TAM II,1-3 Lykia)
+in100f  	Asia Minor [general] (Balland, Fouilles de Xanthos VII)
+in1010  	Asia Minor [general] (Schindler, Inschr. von Boubon)
+in1011  	Asia Minor [general] (Bean, Journeys in N. Lycia)
+in1012  	Asia Minor [general] (Studia Pontica III)
+in1013  	Asia Minor [general] (RECAM II N. Galatia)
+in1014  	Asia Minor [general] (Bosch, Quellen Ankara)
+in1015  	Asia Minor [general] (Anat.St. 27 (1977) 63-103, Ankyra)
+in1016  	Asia Minor [general] (MAMA I, IV-VII, VIII (part), IX-X)
+in1017  	Asia Minor [general] (TAM III Termessos)
+in1018  	Asia Minor [general] (IK Selge)
+in1019  	Asia Minor [general] (IK Side I)
+in101a  	Asia Minor [general] (Inscrs. Side 1947-1961 (remainder))
+in101b  	Asia Minor [general] (Dagron Feissel, I. de Cilicie)
+in101c  	Asia Minor [general] (MAMA II-III)
+in1101  	Mysia and Troas [Munich] (Nördliche Troas)
+in1102  	Mysia and Troas [Munich] (Skamander und Nebentäler)
+in1103  	Mysia and Troas [Munich] (Südliche Troas)
+in1104  	Mysia and Troas [Munich] (Adramyttenos Kolpos)
+in1105  	Mysia and Troas [Munich] (Kaikos)
+in1106  	Mysia and Troas [Munich] (Granikos mit Pariane)
+in1107  	Mysia and Troas [Munich] (Aisepos und Kadiköy Dere)
+in1108  	Mysia and Troas [Munich] (Kyzikene, Propontisinseln)
+in1109  	Mysia and Troas [Munich] (Kyzikene, Kapu Dağ)
+in110a  	Mysia and Troas [Munich] (Kyzikene Propontisküste)
+in110b  	Mysia and Troas [Munich] (Kyzikene, L. Dascylitis)
+in110c  	Mysia and Troas [Munich] (L. Apolloniatis und Miletupolis)
+in110d  	Mysia and Troas [Munich] (Mittlerer Makestos)
+in110e  	Mysia and Troas [Munich] (Abrettene)
+in110f  	Mysia and Troas [Munich] (Olympene)
+in1110  	Mysia and Troas [Munich] (Siegelinschriften)
+in1201  	Ionia (Chios)
+in1202  	Ionia (Didyma)
+in1203  	Ionia (Ephesos)
+in1204  	Ionia (Supplement to Ephesos (Hamburg))
+in1205  	Ionia (Erythrai)
+in1206  	Ionia (Klazomenai)
+in1207  	Ionia (Kolophon)
+in1208  	Ionia (Lebedos)
+in1209  	Ionia (Lepsia)
+in120a  	Ionia (Leros)
+in120b  	Ionia (Metropolis)
+in120c  	Ionia (Miletos)
+in120d  	Ionia (Notion)
+in120e  	Ionia (Patmos)
+in120f  	Ionia (Phokaia)
+in1210  	Ionia (Priene)
+in1211  	Ionia (Samos)
+in1212  	Ionia (Smyrna)
+in1213  	Ionia (Teichioussa)
+in1214  	Ionia (Teos)
+in1301  	Caria (Alabanda)
+in1302  	Caria (Amyzon)
+in1303  	Caria (Aphrodisias)
+in1304  	Caria (Apollonia Salbake)
+in1305  	Caria (Attouda)
+in1306  	Caria (Bargylia)
+in1307  	Caria (Euromos)
+in1308  	Caria (Halikarnassos)
+in1309  	Caria (Herakleia Latmia)
+in130a  	Caria (Herakleia Salbake)
+in130b  	Caria (Hyllarima)
+in130c  	Caria (Iasos)
+in130d  	Caria (Kaunos)
+in130e  	Caria (Keramos)
+in130f  	Caria (Kidrama)
+in1310  	Caria (Knidos)
+in1311  	Caria (Labraunda)
+in1312  	Caria (Lagina)
+in1313  	Caria (Magnesia)
+in1314  	Caria (Mylasa)
+in1315  	Caria (Myndos)
+in1316  	Caria (Nysa)
+in1317  	Caria (Olymos)
+in1318  	Caria (Panamara)
+in1319  	Caria (Rhodian Peraia)
+in131a  	Caria (Sebastopolis)
+in131b  	Caria (Sinuri)
+in131c  	Caria (Stratonikeia)
+in131d  	Caria (Tabai)
+in131e  	Caria (Theangela)
+in131f  	Caria (Tralles)
+in1401  	Cyprus (The Inscriptions of Kourion)
+in1402  	Cyprus (The Nymphaeum of Kafizin)
+in1403  	Cyprus (Salamine de Chypre. XIII.Test.Sal.2)
+in1404  	Cyprus (Mitford/Nicolaou, ISalamis (part))
+in1405  	Cyprus (La chapelle d'Achoris à Karnak)
+in1406  	Cyprus (Kition-Bamboula (amph. stamps))
+in1407  	Cyprus (Nea Paphos I (amph. stamps))
+in1408  	Cyprus (Salamine III (amph. stamps))
+in1409  	Cyprus (Inscr. chypriotes syllabiques [ICS])
+in140a  	Cyprus (Les inscr. syll. de Rantidi-Paphos)
+in140b  	Cyprus (Les inscr. syll. de Kouklia-Paphos)
+in140c  	Cyprus (SEG 1–41)
+in1501  	Egypt (Kayser, Alexandrie impériale)
+in1502  	Egypt (Breccia, Mus. Alexandrie)
+in1503  	Egypt (Delta I,1-3)
+in1504  	Egypt (Terenouthis (various sources))
+in1505  	Egypt (Milne, Mus. Caire)
+in1506  	Egypt (Fayoum I-III)
+in1507  	Egypt (Akôris)
+in1508  	Egypt (Graffites gr. du Memnonion d'Abydos)
+in1509  	Egypt (Portes du désert)
+in150a  	Egypt (Pan du désert)
+in150b  	Egypt (De Koptos à Kosseir)
+in150c  	Egypt (Paneion d'el-Kanaïs)
+in150d  	Egypt (Les Oasis d'Égypte)
+in150e  	Egypt (Temple of Hibis, II)
+in150f  	Egypt (Graffites du Gebel Teir)
+in1510  	Egypt (Colosse de Memnon)
+in1511  	Egypt (Baillet, Syringes)
+in1512  	Egypt (Bataille, Temple de Hatshepsout)
+in1513  	Egypt (De Thèbes à Syène)
+in1514  	Egypt (Philae I-II)
+in1515  	Egypt (Von Debod bis Bab Kalabsche, III)
+in1516  	Egypt (Temple du Kalabchah)
+in1517  	Egypt (Tempel von Dakke, III)
+in1518  	Egypt (Faras IV)
+in1519  	Egypt (SEG 1-41)
+in151a  	Egypt (Sammelbuch 1-18 [SB] (not in SEG))
+in151b  	Egypt (OGIS I-II (Egypt))
+in151c  	Egypt (IGRR I,5 (not in OGIS))
+in151d  	Egypt (Inscr. métriques)
+in151e  	Egypt (Prose sur pierre)
+in151f  	Egypt (Lefebvre, IGChrÉg.)
+in1520  	Egypt (Frey, CIJud. II (Egypt))
+in1521  	Egypt (Bernand, Mus. du Louvre)
+in1601  	Italy, Occident (IG XIV)
+in1602  	Italy, Occident (Inscr. Gr. Urbis Romae I–IV [IGUR])
+in1603  	Italy, Occident (Iscr. gr. d'Italia. Napoli I)
+in1604  	Italy, Occident (Iscr. gr. d'Italia. Porto)
+in1605  	Italy, Occident (Iscr. gr. di Ravenna)
+in1606  	Italy, Occident (Iscr. gr. lap. Museo Palermo)
+in1607  	Italy, Occident (Silloge epigrafi Acrensi [IAkrai])
+in1608  	Italy, Occident (Stato e soc. in Locri Epizef. [ILocri])
+in1609  	Italy, Occident (Las inscripciones ampuritanas)
+in1701  	Varia [Sacred Laws] (Lois sacr. de l'Asie Mineure [LSAM])
+in1702  	Varia [Sacred Laws] (Lois sacr. des cités gr. Supp. [LSS])
+in1703  	Varia [Sacred Laws] (Lois sacr. des cités grecques [LS])
+lt0002  	Annius, Titus Luscus
+lt0004  	Appius Claudius Caecus
+lt0005  	Aquilius , comoed.
+lt0007  	Atilius
+lt0010  	Brutus, Marcus Iunius [iur.]
+lt0013  	Caecilius Statius
+lt0016  	Calpurnius, Lucius Piso Frugi
+lt0019  	Carbo, Gaius Papirius
+lt0022  	Cato - Cato, Marcus Porcius
+lt0025  	Cato, Marcus Porcius M.f.M.n.
+lt0027  	Cincius, Lucius Alimentus
+lt0028  	Coelius, Lucius Antipater
+lt0031  	Cornelia , mater Gracchorum
+lt0034  	Curio, Gaius Scribonius avus
+lt0037  	Curio, Gaius Scribonius pater
+lt0043  	Ennius, Quintus
+lt0046  	Epicadus, Cornelius
+lt0058  	Fabius, Q. Maximus Servilianus
+lt0061  	Fabius Pictor
+lt0064  	Fannius, Gaius
+lt0067  	Favorinus
+lt0070  	Gellius, Gnaeus
+lt0073  	Gracchus, Gaius Sempronius
+lt0076  	Hemina, Gaius Cassius
+lt0079  	Hostius
+lt0082  	Silanus, Decimus Iunius
+lt0085  	Laelius, Gaius Sapiens
+lt0088  	Lepidus, M. Aemilius Porcina
+lt0091  	Imbrex, Licinius
+lt0094  	Andronicus, Lucius Livius
+lt0097  	Lucilius, Gaius
+lt0100  	Lanuvinus, Luscius
+lt0103  	Marcius, Gnaeus vates
+lt0104  	Memmius, Gaius
+lt0106  	Metellus, Caecilius
+lt0109  	Metellus, Q. Caecilius Maced.
+lt0112  	Naevius, Gnaeus
+lt0116  	Pacuvius, Marcus
+lt0117  	Papinius , epigram.
+lt0118  	Paulus, L. Aemilius L.f.M.n.
+lt0119  	Plautus, Titus Maccius
+lt0122  	Postumius, Aulus Albinus
+lt0125  	Scaevola, Publius Mucius
+lt0127  	Scipio, P. Cornel. Afr. ma.
+lt0128  	Scipio, P. Cornel. Aem. Afr.
+lt0130  	Scipio, P. Cornel. Nasica Ser.
+lt0134  	Terence - Terentius, Publius
+lt0137  	Titinius
+lt0140  	Titius, Gaius
+lt0143  	Trabea
+lt0146  	Turpilius, Sextus
+lt0149  	Carmen Arvale
+lt0300  	Asellio, Sempronius
+lt0301  	Ahenobarbus, Gnaeus Domitius
+lt0302  	Antonius, Marcus
+lt0303  	Aurelius Opillus
+lt0306  	Carmen Devotionis
+lt0309  	Carmen Evocationis
+lt0312  	Dossennus, Fabius
+lt0315  	Gracchanus, Marcus Iunius
+lt0321  	Porcius Licinus
+lt0324  	Saserna
+lt0327  	Stilo, L. Aelius Praeconinus
+lt0330  	Volcacius Sedigitus
+lt0400  	Accius, Lucius
+lt0401  	Aufustius
+lt0402  	Aedituus, Valerius
+lt0404  	Afranius, Lucius
+lt0405  	Clodius Tuscus
+lt0406  	Alfenus, Publius Varus
+lt0408  	Antonius, Marcus triumvir
+lt0409  	Cornificius, Quintus
+lt0410  	Aprissius (?)
+lt0412  	Aquilius, Gaius Gallus
+lt0413  	Gavius Bassus
+lt0414  	Arruntius, Lucius
+lt0416  	Ateius, Lucius Praetextatus
+lt0418  	Atta, Titus Quinctius
+lt0419  	Orbilius, Lucius Pupillus
+lt0420  	Namusa, Publius Aufidius
+lt0423  	Balbus, Lucius Herennius
+lt0425  	Rutilius, Publius Lupus
+lt0426  	Anonymous, Bellum Africum [
+lt0428  	Anonymous, Bellum Alexandrinum [
+lt0430  	Anonymous, Bellum Hispaniense [
+lt0432  	Bibaculus, Marcus Furius
+lt0436  	Brutus, Marcus Iunius [tyr.]
+lt0442  	Caecina, Aulus
+lt0444  	Caelius, Marcus Rufus
+lt0445  	Caepasius, Gaius vel Lucius
+lt0446  	Caepio, Quintus Servilius
+lt0448  	Caesar - Caesar, Gaius Iulius
+lt0450  	Caesar, Lucius Iulius
+lt0451  	Sinnius Capito
+lt0452  	Strabo, Gaius Iulius Caesar
+lt0454  	Calidius, Marcus
+lt0455  	Calpurnius, Gaius Piso
+lt0456  	Calvus, Gaius Licinius Macer
+lt0458  	Cannutius, Publius
+lt0460  	Carbo, Gaius Papirius Arvina
+lt0466  	Cascellius, Aulus
+lt0469  	Cassius, Lucius Longinus
+lt0470  	Cato, Marcus Porcius Uticensis
+lt0472  	Catullus, Gaius Valerius
+lt0473  	Catulus, Q. Lutatius iunior
+lt0474  	Cicero - Cicero, Marcus Tullius
+lt0478  	Cicero, Quintus Tullius
+lt0484  	Cincius, Lucius
+lt0486  	Cinna, Gaius Helvius
+lt0487  	Clodius, Publius Pulcher
+lt0488  	Clodius, Servius
+lt0490  	Cominius, Publius
+lt0492  	Commentarii Augurum
+lt0494  	Commentarii Consulares
+lt0496  	Commentarius Anquisit. Sergii
+lt0498  	Cotta, Gaius Aurelius
+lt0500  	Crassus, Lucius Licinius
+lt0502  	Cremutius, Aulus Cordus
+lt0510  	Dolabella, Publius Cornelius
+lt0512  	Duronius, Marcus
+lt0514  	Egnatius
+lt0515  	Ennius, Sextus (vel Spurius)
+lt0516  	Erucius, Gaius
+lt0518  	Furius, Aulus Antias
+lt0522  	Gallus, Gaius Aelius
+lt0524  	Gallus - Gallus, Gaius Cornelius
+lt0526  	Glaucia, Gaius Servilius
+lt0527  	Gannius
+lt0528  	Granius Flaccus
+lt0530  	Hirtius, Aulus
+lt0532  	Hortensius, Quintus Hortalus
+lt0533  	Hyginus, Gaius Iulius
+lt0534  	Iuventius , comoed.
+lt0535  	Iuventius, Marcus Laterensis
+lt0536  	Laberius, Decimus
+lt0537  	Labienus, Titus
+lt0538  	Laevius
+lt0540  	Laurea, Tullius
+lt0541  	Lentulus, Cn. Cornel. Marcell.
+lt0546  	Mucianus, Gaius Licinius
+lt0550  	Lucretius, Titus Carus
+lt0552  	Lutatius, Quintus Catulus
+lt0556  	Macer, Gaius Licinius
+lt0558  	Maecenas, Gaius Cilnius
+lt0560  	Mancia, Helvius
+lt0562  	Manilius , poet.
+lt0564  	Manilius, Manius
+lt0568  	Matius, Gnaeus
+lt0574  	Memmius, Gaius L. f.
+lt0576  	Messalla, M. Valerius Rufus
+lt0582  	Metellus, Q. Caecilius Numid.
+lt0584  	Mimi Poetarum Incertorum
+lt0586  	Mummius
+lt0587  	Naevius , iunior
+lt0588  	Nepos, Cornelius
+lt0590  	Nigidius, Publius Figulus
+lt0591  	Ninnius Crassus
+lt0592  	Novius , comoed.
+lt0594  	Novius, Lucius
+lt0596  	Numitorius
+lt0600  	Oppius, Gaius
+lt0606  	Philippus, Lucius Marcius
+lt0614  	Pompeius, Q. Q.f.A.n. Rufus
+lt0615  	Pompeius, Q. Q.f.Q.n. Rufus
+lt0616  	Pompilius
+lt0618  	Pomponius, Lucius Bononiensis
+lt0620  	Propertius, Sextus
+lt0622  	Publilius Syrus
+lt0624  	Quadrigarius, Quintus Claudius
+lt0625  	Quinctius, Lucius
+lt0628  	Rutilius, Publius Rufus
+lt0630  	Sacra Argeorum
+lt0631  	Sallustius, Gaius Crispus
+lt0634  	Santra
+lt0635  	Saturius, Publius
+lt0636  	Scaevola, Quintus Mucius
+lt0638  	Scaevola, Q. Mucius [pontifex]
+lt0640  	Scaurus, Marcus Aemilius
+lt0642  	Sevius Nicanor
+lt0644  	Sextilius Ena
+lt0646  	Sisenna, Lucius Cornelius
+lt0648  	Staberius Eros
+lt0650  	Sueius
+lt0652  	Sulla, Lucius Cornelius
+lt0656  	Sulpicius, Servius Rufus
+lt0658  	Tabulae Censoriae
+lt0660  	Tibullus, Albius
+lt0661  	Ticidas
+lt0662  	Tiro, Marcus Tullius
+lt0664  	Trebatius, Gaius Testa
+lt0668  	Tremelius, Gnaeus Scrofa
+lt0670  	Tubero, Quintus Aelius
+lt0672  	Turranius Niger
+lt0674  	Valerius , comoed.
+lt0676  	Valerius Antias
+lt0678  	Valerius, Quintus Soranus
+lt0680  	Valgius, Gaius Rufus
+lt0682  	Varius, Lucius Rufus
+lt0684  	Varro - Varro, Marcus Terentius
+lt0686  	Varro, P. Terentius Atacinus
+lt0690  	Virgil - Vergilius, Publius
+lt0692  	Vergiliana, Appendix
+lt0694  	Volumnius
+lt0703  	Arbonius Silo
+lt0706  	Carmen de Bello Aegyptiaco
+lt0709  	Domitius Marsus
+lt0721  	Antonius Panurgus
+lt0724  	Cloatius Verus
+lt0727  	Cornificius Longus
+lt0730  	Tarquitius Priscus
+lt0800  	Pedo, Albinovanus
+lt0803  	Asconius, Quintus Pedianus
+lt0806  	Capito, Gaius Ateius
+lt0809  	Aufidius Bassus
+lt0812  	Bassus, Gaius Caesius
+lt0815  	Bruttedius Niger
+lt0821  	Bucolica Einsidlensia
+lt0824  	Caelius, Cn. Arulenus Sabinus
+lt0827  	Caesellius Vindex
+lt0830  	Calpurnius, Titus Siculus
+lt0836  	Celsus, Aulus Cornelius
+lt0842  	Clodius, Gaius Licinus
+lt0845  	Columella, L. Iunius Moderatus
+lt0851  	Cornelius Severus
+lt0854  	Cornificius Gallus
+lt0857  	Cornutus, Lucius Annaeus
+lt0860  	Curtius, Quintus Rufus
+lt0863  	Dorcatius
+lt0866  	Fenestella
+lt0869  	Verrius, Marcus Flaccus
+lt0875  	Gaetulicus, Cn. Cornel. Lentulus
+lt0878  	Gallus, Gaius Asinius
+lt0881  	Germanicus, Claudius Caesar
+lt0884  	Gracchus , trag.
+lt0887  	Grattius
+lt0890  	Homerus Latinus
+lt0893  	Horace - Horatius, Quintus
+lt0899  	Hyginus Astronomus
+lt0902  	Africanus, Iulius
+lt0905  	Labeo, Marcus Antistius
+lt0908  	Labeo, Attius
+lt0911  	Laus Pisonis
+lt0914  	Livy - Livius, Titus
+lt0917  	Lucanus, Marcus Annaeus
+lt0920  	Lucilius iunior
+lt0923  	Macer, Aemilius
+lt0926  	Manilius - Manilius, Marcus
+lt0929  	Mela, Pomponius
+lt0932  	Messalla, M. Valerius Corvinus
+lt0935  	Modestus, Iulius
+lt0938  	Montanus, Iulius
+lt0944  	Nero, Imperator
+lt0959  	Ovidius, Publius Naso
+lt0963  	Palaemon, Quintus Remmius
+lt0966  	Passienus Crispus
+lt0969  	Persius, Aulus Flaccus
+lt0972  	Petronius
+lt0975  	Phaedrus
+lt0978  	Pliny - Plinius, Gaius
+lt0981  	Pollio, Gaius Asinius
+lt0984  	Trogus, Pompeius
+lt0987  	Pomponius, Publius Secundus
+lt0990  	Precatio Omnium Herbarum
+lt0993  	Precatio Terrae
+lt0996  	Probus, Marcus Valerius
+lt1000  	Pupius (?)
+lt1002  	Quintilianus, Marcus Fabius
+lt1005  	Rabirius
+lt1011  	Largus, Scribonius
+lt1014  	Seneca, Lucius Annaeus senior
+lt1017  	Seneca, Lucius Annaeus iunior
+lt1020  	Statius, Publius Papinius
+lt1023  	Sulpicia , Caleni uxor
+lt1029  	Turnus
+lt1032  	Vagellius
+lt1035  	Valerius, Gaius Flaccus
+lt1038  	Valerius Maximus
+lt1041  	Varro, Pseudo-
+lt1044  	Velleius Paterculus
+lt1047  	Veranius
+lt1050  	Verginius, Lucius Rufus
+lt1053  	Vibius Crispus
+lt1056  	Vitruvius
+lt1100  	Calpurnius Flaccus
+lt1103  	Priapea
+lt1203  	Avitus, Alfius
+lt1206  	Ampelius, Lucius
+lt1209  	Annianus
+lt1212  	Apuleius Madaurensis
+lt1218  	Augurinus, Sentius
+lt1221  	Augustus, C. Iul. Caes. Octavianus
+lt1224  	Aurelius, Marcus
+lt1227  	Balbus , grom.
+lt1229  	Caper, Flavius
+lt1234  	Didascaliae et Argum. in Plautum
+lt1235  	Didascaliae et Per. in Terentium
+lt1236  	Festus, Sextus Pompeius
+lt1242  	Florus, Annius
+lt1245  	Frontinus, Sextus Iulius
+lt1248  	Fronto, Marcus Cornelius
+lt1251  	Gaius - Gaius
+lt1254  	Gellius, Aulus
+lt1257  	Granius Licinianus
+lt1260  	Hadrianus
+lt1263  	Hyginus , myth.
+lt1266  	Hyginus Gromaticus
+lt1276  	Juvenal - Iuvenalis, Decimus Iunius
+lt1279  	Laelius Felix
+lt1282  	Lentulus , mimus
+lt1285  	Maecianus, Lucius Volusius
+lt1291  	Marianus
+lt1294  	Martialis, Marcus Valerius
+lt1297  	Marullus
+lt1306  	Neratius, Lucius Priscus
+lt1318  	Pliny - Plinius, C.
+lt1321  	Pomponius, Sextus
+lt1327  	Sabidius
+lt1336  	Scaevus Memor
+lt1339  	Septimius Serenus
+lt1342  	Siculus Flaccus
+lt1345  	Silius Italicus
+lt1348  	Suetonius, Gaius Tranquillus
+lt1351  	Tacitus, Cornelius
+lt1357  	Trajan - Traianus, Imp. Marcus Ulpius
+lt1363  	Asper, Aemilius
+lt1370  	Scaurus, Quintus Terentius
+lt1374  	Velius Longus
+lt1377  	Fragmenta Bobiensia
+lt1380  	Philumenus medicus
+lt1500  	Altercatio Hadr. et Epicteti
+lt1506  	Fragmenta, Anonymi de Iure Fisci
+lt1512  	Porphyrio, Pomponius
+lt1515  	Serenus, Quintus (Sammonicus)
+lt1518  	Maurus, Terentianus
+lt1604  	Atherianus, Iulius
+lt1672  	Valerius, Iulius
+lt1908  	Antipater, Gallus
+lt2000  	Ablabius
+lt2002  	Albinus , poet.
+lt2003  	Apicius, Caelius
+lt2028  	Chalcidius
+lt2097  	Paconianus, Sextus
+lt2123  	Publilius Optatianus Porfyrius
+lt2150  	Zeno of Verona
+lt2300  	Aemilius Sura
+lt2301  	Symmachus, Q. Aurelius Memmius
+lt2302  	Symmachus, L. Aurel. Avianius
+lt2305  	Aurelianus, Caelius
+lt2331  	Scriptores Historiae Augustae
+lt2335  	Fronto, Anonymi de Differentiis [
+lt2349  	Servius - Servius, Maurus
+lt2434  	Hilarius Arelatensis
+lt2456  	Parthenius Presbyter
+lt2468  	Augustinus, Aurelius
+lt2806  	Justinian - Iustinianus
+lt3211  	Argum. Aen. et Tetrast.
+lt9221  	Paulus Quaestor
+lt9254  	Titius , gram.
+lt9500  	Anonymi Epici et Lyrici
+lt9505  	Anonymi Comici et Tragici
+lt9510  	Anonymi Grammatici
+lt9969  	Vita Iuvenalis

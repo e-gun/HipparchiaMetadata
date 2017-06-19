@@ -1,0 +1,58 @@
+[http://localhost:5000/databasecontents/augenres]
+55 Available augenres
+
+  	Alchemistae
+  	Apologetici
+  	Astrologici
+  	Astronomici
+  	Atticistae
+  	Biographi
+  	Bucolici
+  	Choliambographi
+  	Chronographi
+  	Comici
+  	Doxographi
+  	Elegiaci
+  	Epici
+  	Epigrammatici
+  	Epistolographi
+  	Geographi
+  	Geometri
+  	Gnomici
+  	Gnostici
+  	Grammatici
+  	Hagiographi
+  	Historici
+  	Hymnographi
+  	Iambici
+  	Lexicographi
+  	Lyrici
+  	Mathematici
+  	Mechanici
+  	Medici
+  	Mimographi
+  	Musici
+  	Mythographi
+  	Nomographi
+  	Onirocritici
+  	Oratores
+  	Paradoxographi
+  	Parodii
+  	Paroemiographi
+  	Periegetae
+  	Philologi
+  	Philosophici
+  	Poetae
+  	Poetae Didactici
+  	Poetae Medici
+  	Poetae Philosophi
+  	Polyhistorici
+  	Rhetorici
+  	Scriptores Ecclesiastici
+  	Scriptores Erotici
+  	Scriptores Fabularum
+  	Scriptores Rerum Naturalium
+  	Sophistae
+  	Tactici
+  	Theologici
+  	Tragici

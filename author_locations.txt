@@ -1,0 +1,319 @@
+[http://localhost:5000/databasecontents/aulocations]
+316 Available aulocations
+
+  	Abdera
+  	Adramytteum
+  	Aegae
+  	Aegean Islands [general]
+  	Aegina
+  	Aegyptus
+  	Aenus
+  	Aetolia
+  	Africa and the West [Chr.]
+  	Agrigentum [vel Acragas]
+  	Alabanda
+  	Alexandria
+  	Alexandria (Troadis)
+  	Amasia
+  	Amastris (Paphlagoniae)
+  	Amathus
+  	Amida
+  	Amisus
+  	Amorgos [vel Amorgus]
+  	Amphissa
+  	Anazarba
+  	Ancyra
+  	Antinoe
+  	Antinoupolis
+  	Antiochia
+  	Antiochia (Pisidiae)
+  	Apamea
+  	Aphrodisias
+  	Aphrodito (Aegypti)
+  	Apollonia
+  	Arabia
+  	Arabia and Palaestina [Chr.]
+  	Arcadia
+  	Arelate [vel Arelas]
+  	Argos
+  	Artemita
+  	Ascalon
+  	Ascra
+  	Asia Minor [Chr.]
+  	Asia Minor [general]
+  	Aspendos [vel Aspendus]
+  	Assos [vel Assus]
+  	Athenae
+  	Attica
+  	Attica [Latin]
+  	Babylonia
+  	Babylonia (fort. Aegypti)
+  	Barce
+  	Bena
+  	Berytus
+  	Bithynia
+  	Black Sea [Chersonesos] [Latin]
+  	Black Sea and Scythia Minor
+  	Boeotia
+  	Borysthenis
+  	Bulgaria
+  	Byblos [vel Byblus]
+  	Byzantine Documents
+  	Byzantium
+  	Caesarea (Cappadociae)
+  	Caesarea (Palaestinae)
+  	Calabria
+  	Calacte
+  	Callatia [vel Callatis]
+  	Caloe+
+  	Camiros [vel Camirus]
+  	Cappadocia
+  	Capreae
+  	Cardia
+  	Caria
+  	Carrhae
+  	Carthago
+  	Caryanda
+  	Carystos [vel Carystus]
+  	Cassandrea
+  	Catana [vel Catina]
+  	Central and Northwest Greece
+  	Ceos [vel Cea]
+  	Chaeronea
+  	Chalcedon
+  	Chalcis
+  	Chersonesus
+  	Chios [vel Chius]
+  	Chonai
+  	Citium
+  	Clazomenae
+  	Cnidos [vel Cnidus]
+  	Cnidos [vel Cnidus] (Calliphon)
+  	Colophon
+  	Constantia (Cypri)
+  	Constantinople [Chr.]
+  	Constantinopolis
+  	Coptos [vel Coptus]
+  	Corcyra [vel Cercyra]
+  	Corinthos [vel Corinthus]
+  	Cos
+  	Cos and Calymna
+  	Creta
+  	Crete
+  	Croton
+  	Croton (Democedes)
+  	Cumae
+  	Curium
+  	Cydonia
+  	Cypros [vel Cyprus]
+  	Cyprus
+  	Cyprus [Chr.]
+  	Cyrene [vel Cyrenae]
+  	Cyrrhus
+  	Cythera
+  	Cyzicos [vel Cyzicus vel Cyzicum]
+  	Daldis
+  	Damascos [vel Damascus]
+  	Delos
+  	Delphi
+  	Egypt
+  	Egypt and the Cyrenaica [Chr.]
+  	Elaea
+  	Elea
+  	Eleusis
+  	Emesa
+  	Ephesos [vel Ephesus]
+  	Epidaurus [vel Epidaurum]
+  	Epiphania
+  	Epiphania (Syriae)
+  	Epiros [vel Epirus]
+  	Eresos [vel Eresus]
+  	Eretria
+  	Erythrae
+  	Euboea
+  	Florentia
+  	Gabala
+  	Gadara
+  	Gades
+  	Gaza
+  	Gela
+  	Gerasa
+  	Greece [Chr.]
+  	Halicarnassus
+  	Helenopolis
+  	Heraclea
+  	Heraclea (Ponti)
+  	Hermione
+  	Hierapolis
+  	Hierosolyma
+  	Himera
+  	Iasus
+  	Iconium
+  	Ilium [vel Troja]
+  	Imbros [vel Imbrus]
+  	Ionia
+  	Isauria
+  	Italy
+  	Judaica
+  	Lacedaemon [vel Sparta]
+  	Lampsacum
+  	Laodicea
+  	Laranda
+  	Larissa
+  	Late Antique Latin
+  	Latin [other]
+  	Lemnos [vel Lemnus]
+  	Leontini
+  	Lepreum [vel Lepreos]
+  	Leros [vel Lerus]
+  	Lesbos [vel Lesbus]
+  	Leucadia
+  	Lindos [vel Lindus]
+  	Locri [vel Locrae vel Locra]
+  	Lucania
+  	Lugdunum
+  	Lycia
+  	Lycopolis
+  	Lydia
+  	Macedonia
+  	Macedonia and Thrace [Chr.]
+  	Magnesia
+  	Mallos [vel Mallus]
+  	Massilia
+  	Mauretania
+  	Mecyberna
+  	Medieval Latin
+  	Megalopolis
+  	Megara
+  	Melos
+  	Mendes
+  	Mesopotamia
+  	Messana [vel Messina]
+  	Metapontum
+  	Methymna
+  	Miletos [vel Miletus]
+  	Moesia and Thrace
+  	Monembasia
+  	Mopsuestia
+  	Myndos [vel Myndus]
+  	Myra (Lyciae)
+  	Myrina
+  	Myrlea
+  	Mysia
+  	Mysia and Troas [Munich]
+  	Mytilene
+  	Naucratis
+  	Nazianzus
+  	Neapolis
+  	Neapolis (Samariae)
+  	Neocaesarea
+  	Nicaea
+  	Nicomedia
+  	Nilopolis
+  	Numidia
+  	Nyssa
+  	Oasis
+  	Occident
+  	Oene
+  	Oenoanda
+  	Oenoe
+  	Olbiopolis
+  	Olynthos [vel Olynthus]
+  	Orchomenus
+  	Oxyrhynchus
+  	Palaestina
+  	Palmyra
+  	Panium
+  	Panopolis
+  	Panormus [vel Panormum]
+  	Paphlagonia
+  	Paphos [vel Paphus]
+  	Parium
+  	Paros
+  	Patavium
+  	Patrae
+  	Pella
+  	Peloponnesos
+  	Peloponnesos [Latin]
+  	Perga
+  	Pergamum
+  	Perinthos [vel Perinthus]
+  	Persia
+  	Petra
+  	Phalerum
+  	Phanagoria
+  	Pharsalos [vel Pharsalus]
+  	Phaselis
+  	Philadelphia
+  	Phlius
+  	Phocis
+  	Phrygia (Montanus)
+  	Pieria
+  	Pitane
+  	Plataeae [vel Plataea]
+  	Pontos [vel Pontus]
+  	Priene
+  	Proconnesos [vel Proconnesus]
+  	Prusa
+  	Pygela
+  	Rhegium
+  	Rhodes and Rhodian Peraia
+  	Rhodos [vel Rhodus]
+  	Roma
+  	Rufinianae
+  	Salamis
+  	Samaria
+  	Samos [vel Samus]
+  	Samosata
+  	Samothraca [vel Samothrace vel Samothracia]
+  	Sardis [vel Sardes]
+  	Scarphea
+  	Scepsis
+  	Scythopolis
+  	Seleucia
+  	Selinus
+  	Selymbria
+  	Sicilia
+  	Sicyon
+  	Side [vel Sida]
+  	Sidon
+  	Sigeum
+  	Sinope
+  	Smyrna
+  	Soli
+  	Sphettos
+  	Stagira
+  	Stymphalus [vel Stymphalum]
+  	Sybaris
+  	Syracusae
+  	Syria
+  	Tanagra
+  	Tarentum [vel Taras]
+  	Tarsos [vel Tarsus]
+  	Tauromenium
+  	Tegea
+  	Teium
+  	Telmessos [vel Telmessus vel Telmissus]
+  	Telos [vel Telus]
+  	Tenedos [vel Tenedus]
+  	Thasos [vel Thasus]
+  	Theangela
+  	Thebae
+  	Thebae (Aegypti)
+  	Thera
+  	Thessalia
+  	Thessalonicensis
+  	Thessaly
+  	Thmuis
+  	Thurii
+  	Thyatira
+  	Tragilos [vel Tragilus]
+  	Tralles
+  	Tripolis
+  	Troezen
+  	Tyana
+  	Tyros [vel Tyrus]
+  	Varia [Chr.]
+  	Varia [Sacred Laws]
+  	Volsinii
+  	Xanthos [vel Xanthus]
