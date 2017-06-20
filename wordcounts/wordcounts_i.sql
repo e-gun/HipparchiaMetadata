@@ -42,8 +42,8 @@ ALTER TABLE wordcounts_i OWNER TO hippa_wr;
 --
 
 COPY wordcounts_i (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-i	10849	6558	1788	1279	576	648
-ia	121	12	34	9	20	46
+i	10852	6558	1788	1282	576	648
+ia	122	12	34	10	20	46
 iaah	1	0	0	0	1	0
 iaba	1	0	0	0	0	1
 iabius	1	0	0	0	0	1
@@ -169,8 +169,7 @@ iacobo	8	0	0	0	0	8
 iacobque	1	0	0	0	0	1
 iacobum	7	0	0	1	0	6
 iacobumque	1	0	0	0	0	1
-iacobus	127	0	0	0	0	127
-iacob＇us	6	0	0	0	0	6
+iacobus	133	0	0	0	0	133
 iacomus	1	0	0	0	0	1
 iaconi	1	0	0	0	0	1
 iaconus	3	0	0	0	0	3
@@ -473,7 +472,7 @@ ialyso	1	0	1	0	0	0
 ialysos	1	0	1	0	0	0
 ialysum	4	0	4	0	0	0
 ialysus	1	0	1	0	0	0
-iam	14930	124	14382	24	35	365
+iam	14931	124	14382	25	35	365
 iamaiusm	1	0	0	0	0	1
 iamb	132	131	0	0	1	0
 iambe	5	2	3	0	0	0
@@ -639,9 +638,10 @@ ianuier	1	0	0	0	0	1
 ianuis	11	0	7	0	0	4
 ianum	43	0	37	0	1	5
 ianumque	5	0	5	0	0	0
-ianus	53	0	41	2	1	9
+ianus	54	0	41	2	2	9
 ianuspater	1	0	1	0	0	0
 ianusue	2	0	2	0	0	0
+ianus˙	1	0	0	1	0	0
 ianuuaria	1	0	0	0	0	1
 ianyarias	2	0	0	0	0	2
 iapeti	7	0	7	0	0	0
@@ -1033,7 +1033,7 @@ icitur	2	0	2	0	0	0
 icius	2	0	0	0	0	2
 iclu	2	0	0	0	0	2
 icnc	1	0	0	0	0	1
-ico	6	0	0	2	1	3
+ico	5	0	0	1	1	3
 icogenes	1	0	0	0	0	1
 icolui	2	0	0	0	0	2
 icom	1	0	0	1	0	0
@@ -1200,8 +1200,7 @@ idĕm	1	0	1	0	0	0
 idi	4	0	1	0	1	2
 idia	1	0	0	0	1	0
 idib	2	0	0	1	1	0
-idibus	256	2	136	12	11	95
-idib＇us	1	0	0	0	0	1
+idibus	257	2	136	12	11	96
 idict	1	0	0	0	1	0
 idictione	2	0	0	0	0	2
 idigernus	1	0	0	0	0	1
@@ -1309,7 +1308,7 @@ idume	2	0	2	0	0	0
 idumea	2	0	0	0	0	2
 idumen	2	0	2	0	0	0
 iduplicarius	1	0	0	1	0	0
-idus	1566	2	218	100	30	1216
+idus	1588	2	218	100	30	1238
 idusque	1	0	1	0	0	0
 idut	3	0	0	0	0	3
 iduum	31	0	15	5	0	11
@@ -1332,7 +1331,6 @@ idémst	1	0	1	0	0	0
 idéntidem	1	0	1	0	0	0
 idóneum	1	0	1	0	0	0
 idús	1	0	0	0	0	1
-id＇us	22	0	0	0	0	22
 ie	80	29	2	0	21	28
 iea	1	0	0	0	0	1
 ieaa	1	0	0	0	0	1
@@ -1565,7 +1563,7 @@ ifodcau	1	0	0	0	0	1
 ifrᾶprossgeorg	1	0	0	1	0	0
 ifu	1	0	0	0	0	1
 ifui	1	0	1	0	0	0
-ig	2887	8	0	3	2799	77
+ig	2888	8	0	4	2799	77
 iga	1	0	0	1	0	0
 igas	1	0	0	0	0	1
 igata	1	0	0	0	1	0
@@ -1585,10 +1583,9 @@ igilgili	1	0	1	0	0	0
 igilii	1	0	1	0	0	0
 igilium	2	0	2	0	0	0
 igit	1	0	1	0	0	0
-igitur	5700	235	5387	8	13	57
+igitur	5702	235	5387	8	13	59
 igiturque	1	0	1	0	0	0
 igitúr	5	0	5	0	0	0
-igit＇ur	2	0	0	0	0	2
 iglinus	1	0	0	1	0	0
 iglsyr	2	0	0	0	0	2
 igm	3	3	0	0	0	0
@@ -2065,11 +2062,12 @@ ihrlu	1	0	0	0	0	1
 ihs	23	0	0	0	0	23
 ihu	2	0	0	0	0	2
 ihuso	1	0	0	0	0	1
-ii	9420	5715	1424	831	442	1008
+ii	9422	5715	1424	832	443	1008
 iia	8	0	0	0	3	5
 iiab	1	0	0	0	1	0
 iiacet	1	0	0	0	0	1
 iiadc	1	0	0	0	1	0
+iiai	1	0	0	0	1	0
 iiaii	1	0	0	0	1	0
 iib	6	1	0	0	3	2
 iic	8	0	0	0	1	7
@@ -2116,7 +2114,7 @@ iiidcxxui	1	0	0	1	0	0
 iiiet	3	0	0	2	0	1
 iiif	1	0	0	0	1	0
 iiiguosa	2	0	0	0	0	2
-iiii	2014	15	727	149	102	1021
+iiii	2015	15	727	149	102	1022
 iiiia	4	0	0	0	0	4
 iiiic	1	0	0	0	0	1
 iiiicccl	1	0	0	1	0	0
@@ -2154,7 +2152,6 @@ iiiix	11	0	0	0	0	11
 iiiixx	1	0	0	0	0	1
 iiiixxxxxx	1	0	0	0	0	1
 iiiiἱ	1	0	0	0	1	0
-iiii＇	1	0	0	0	0	1
 iiija	1	0	0	0	0	1
 iiin	3	2	0	0	0	1
 iiinonas	3	0	0	3	0	0
@@ -2264,6 +2261,7 @@ ikana	1	0	0	0	1	0
 ikapai	1	0	0	0	1	0
 ikarnak	2	0	0	0	2	0
 ikarus	2	0	0	0	1	1
+ikillio	1	0	0	0	0	1
 ikimamenose	1	0	0	0	1	0
 ikosatai	1	0	0	0	1	0
 ikosatoi	2	0	0	0	2	0
@@ -2474,7 +2472,7 @@ iliturgitanum	1	0	1	0	0	0
 ilium	92	4	88	0	0	0
 iliuperside	1	0	0	0	1	0
 ilius	6	0	3	0	1	2
-ill	20	1	14	1	0	4
+ill	21	1	14	2	0	4
 illa	7714	147	7449	9	8	101
 illabere	2	0	0	0	0	2
 illaberetur	1	0	1	0	0	0
@@ -2535,7 +2533,6 @@ illaue	1	0	1	0	0	0
 illayn	1	0	0	0	0	1
 illaé	3	0	3	0	0	0
 illaéc	3	0	3	0	0	0
-illcasalent	1	0	0	1	0	0
 ille	9017	122	8652	8	8	227
 illec	3	0	0	3	0	0
 illecebra	3	1	2	0	0	0
@@ -3890,12 +3887,12 @@ imnoaldus	1	0	0	1	0	0
 imnobertus	1	0	0	1	0	0
 imnox	1	0	0	0	0	1
 imntur	1	0	1	0	0	0
-imo	345	9	302	2	5	27
+imo	346	9	302	2	6	27
 imonia	1	0	1	0	0	0
 imoque	9	0	9	0	0	0
 imorum	1	0	1	0	0	0
 imos	39	0	39	0	0	0
-imose	1	0	0	0	1	0
+imose	2	0	0	1	1	0
 imosque	4	0	4	0	0	0
 imp	614	28	91	14	75	406
 impacata	2	0	2	0	0	0
@@ -6261,9 +6258,8 @@ incarceratum	2	0	0	0	0	2
 incarna	1	0	0	0	0	1
 incarnaci	1	0	0	0	0	1
 incarnacion	2	0	0	0	0	2
-incarnacione	36	0	0	0	0	36
+incarnacione	37	0	0	0	0	37
 incarnacionis	24	0	0	0	0	24
-incarnac＇ione	1	0	0	0	0	1
 incarnati	12	0	0	0	0	12
 incarnatio	3	0	0	0	0	3
 incarnatione	94	0	0	0	0	94
@@ -6499,10 +6495,9 @@ inceptum	86	1	76	0	1	8
 inceptumque	3	0	3	0	0	0
 inceptumst	1	0	1	0	0	0
 incepturus	2	0	2	0	0	0
-inceptus	2	0	2	0	0	0
+inceptus	3	0	2	0	0	1
 inceptust	1	0	1	0	0	0
 inceptás	1	0	1	0	0	0
-incept＇us	1	0	0	0	0	1
 incerare	2	0	2	0	0	0
 incerato	1	0	1	0	0	0
 inceraui	1	0	1	0	0	0
@@ -8775,7 +8770,7 @@ indictio	13	0	2	0	0	11
 indiction	1	0	0	0	0	1
 indictionae	2	0	0	0	0	2
 indictionali	5	0	0	0	2	3
-indictione	618	0	2	39	0	577
+indictione	620	0	2	39	0	579
 indictionem	5	0	1	3	0	1
 indictiones	1	0	1	0	0	0
 indictionibus	1	0	1	0	0	0
@@ -8794,7 +8789,6 @@ indictumst	1	0	1	0	0	0
 indicturi	1	0	1	0	0	0
 indicturus	2	0	2	0	0	0
 indictus	3	0	3	0	0	0
-indict＇ione	1	0	0	0	0	1
 indicum	37	1	36	0	0	0
 indicumue	1	0	1	0	0	0
 indicunt	2	0	2	0	0	0
@@ -9646,7 +9640,6 @@ indústrior	1	0	1	0	0	0
 indúta	2	0	2	0	0	0
 indútiae	1	0	1	0	0	0
 indúxit	1	0	1	0	0	0
-ind＇ictione	1	0	0	0	0	1
 ine	10	0	4	2	1	3
 inea	1	0	0	0	1	0
 ineamus	3	0	3	0	0	0
@@ -9896,6 +9889,7 @@ inesi	1	0	1	0	0	0
 inesse	255	14	233	0	0	8
 inessent	10	0	10	0	0	0
 inesset	35	1	34	0	0	0
+inexploratae	1	0	1	0	0	0
 inessnamiiseieim	1	0	1	0	0	0
 inest	337	9	317	1	0	10
 inestque	1	0	1	0	0	0
@@ -10016,7 +10010,6 @@ inexplicitis	1	0	1	0	0	0
 inexplicitosque	1	0	1	0	0	0
 inexplorabilis	1	1	0	0	0	0
 inexplorata	3	0	3	0	0	0
-inexploratae	1	0	1	0	0	0
 inexplorate	1	0	1	0	0	0
 inexplorati	1	0	1	0	0	0
 inexploratis	1	0	1	0	0	0
@@ -11436,7 +11429,7 @@ ingaunorum	2	0	2	0	0	0
 ingaunos	2	0	2	0	0	0
 ingaunum	2	0	2	0	0	0
 inge	1	0	1	0	0	0
-ingebrand＇us	2	0	0	0	0	2
+ingebrandus	2	0	0	0	0	2
 ingeldus	1	0	0	0	0	1
 ingelheim	1	0	0	0	0	1
 ingemat	2	0	1	0	0	1
@@ -11745,10 +11738,9 @@ ingratorum	10	0	10	0	0	0
 ingratos	41	1	40	0	0	0
 ingratum	111	0	109	0	0	2
 ingratumque	2	0	2	0	0	0
-ingratus	154	1	153	0	0	0
+ingratus	155	1	153	0	0	1
 ingratusque	2	0	2	0	0	0
 ingratusue	1	0	1	0	0	0
-ingrat＇us	1	0	0	0	0	1
 ingrauantibus	1	0	1	0	0	0
 ingrauat	6	0	6	0	0	0
 ingrauatus	1	0	1	0	0	0
@@ -12167,7 +12159,7 @@ inhumatum	4	1	3	0	0	0
 inhumatumque	1	0	1	0	0	0
 inhumatus	7	0	7	0	0	0
 inhumés	1	0	0	0	0	1
-ini	14	0	5	3	0	6
+ini	13	0	5	2	0	6
 inia	2	0	0	0	0	2
 iniae	1	0	0	1	0	0
 inias	1	0	0	0	0	1
@@ -12708,7 +12700,7 @@ injuriam	1	1	0	0	0	0
 injuste	2	1	0	0	0	1
 injusticie	1	0	0	0	0	1
 injustitiae	1	1	0	0	0	0
-inl	71	0	1	27	0	43
+inl	72	0	1	28	0	43
 inla	1	0	1	0	0	0
 inlabatur	1	0	1	0	0	0
 inlabefacta	2	0	2	0	0	0
@@ -12834,7 +12826,6 @@ inlepidum	3	0	3	0	0	0
 inlepidus	1	0	1	0	0	0
 inler	2	0	0	0	0	2
 inlesam	1	0	0	1	0	0
-inlest	1	0	0	1	0	0
 inleuerit	1	0	1	0	0	0
 inleuit	1	0	1	0	0	0
 inlex	2	0	2	0	0	0
@@ -14071,6 +14062,7 @@ inobseruati	1	0	1	0	0	0
 inobseruatum	1	0	1	0	0	0
 inobseruatus	2	0	2	0	0	0
 inobsessam	1	0	1	0	0	0
+inoc	1	0	0	0	1	0
 inoccantur	1	0	1	0	0	0
 inoccare	1	0	1	0	0	0
 inoccataque	1	0	1	0	0	0
@@ -14078,7 +14070,6 @@ inoccatum	1	0	1	0	0	0
 inoccidui	1	0	1	0	0	0
 inocciduis	2	0	2	0	0	0
 inocciduus	1	0	1	0	0	0
-inocco	1	0	0	0	1	0
 inoce	1	0	0	0	0	1
 inocensa	1	0	0	0	0	1
 inocenti	3	0	0	0	0	3
@@ -16771,6 +16762,7 @@ inseuerit	4	0	4	0	0	0
 inseuisset	1	0	1	0	0	0
 inseuit	3	0	3	0	0	0
 insexit	2	0	2	0	0	0
+insi	1	0	0	1	0	0
 insibilat	5	0	5	0	0	0
 insiccata	1	0	1	0	0	0
 insiccatumque	1	0	1	0	0	0
@@ -17106,7 +17098,6 @@ insitam	37	2	35	0	0	0
 insitarum	1	0	1	0	0	0
 insitas	6	0	6	0	0	0
 insiti	3	0	3	0	0	0
-insitia	1	0	0	1	0	0
 insiticia	2	0	2	0	0	0
 insiticii	1	0	1	0	0	0
 insiticio	2	0	2	0	0	0
@@ -17266,7 +17257,6 @@ inspargit	1	0	1	0	0	0
 inspargito	1	0	1	0	0	0
 inspargitur	2	0	2	0	0	0
 insparsa	1	0	1	0	0	0
-inspe	1	0	0	0	1	0
 inspeciosus	1	0	1	0	0	0
 inspecta	16	0	14	1	1	0
 inspectabi	1	0	0	1	0	0
@@ -17357,7 +17347,7 @@ inspexerimus	2	0	2	0	0	0
 inspexeris	8	0	8	0	0	0
 inspexerit	10	0	10	0	0	0
 inspexerunt	4	1	1	0	0	2
-inspexi	18	0	13	0	3	2
+inspexi	19	0	13	0	4	2
 inspeximus	1	0	0	1	0	0
 inspexisse	4	0	4	0	0	0
 inspexissent	2	0	2	0	0	0
@@ -17467,7 +17457,7 @@ insputari	1	0	1	0	0	0
 insputarier	1	0	1	0	0	0
 insputatur	1	0	1	0	0	0
 inspuunt	1	0	1	0	0	0
-inst	48	40	2	0	3	3
+inst	49	40	2	1	3	3
 insta	4	0	4	0	0	0
 instabam	2	0	2	0	0	0
 instabant	17	0	17	0	0	0
@@ -17835,7 +17825,6 @@ institutusque	4	1	3	0	0	0
 instituunt	21	1	20	0	0	0
 instituuntque	1	0	1	0	0	0
 instituuntur	12	0	12	0	0	0
-instnti	1	0	0	1	0	0
 insto	5	0	5	0	0	0
 instr	1	0	0	0	0	1
 instragula	2	0	2	0	0	0
@@ -17920,7 +17909,7 @@ instructurus	1	0	1	0	0	0
 instructus	88	0	85	0	0	3
 instructusque	3	0	3	0	0	0
 instructου	1	1	0	0	0	0
-instruc＇us	1	0	0	0	0	1
+instrucus	1	0	0	0	0	1
 instrue	4	0	3	1	0	0
 instruebamus	1	0	1	0	0	0
 instruebant	3	0	3	0	0	0
@@ -18459,8 +18448,7 @@ intellecturos	4	0	4	0	0	0
 intellecturosque	1	0	1	0	0	0
 intellecturum	4	0	4	0	0	0
 intellecturus	2	0	2	0	0	0
-intellectus	55	3	50	0	0	2
-intellect＇us	1	0	0	0	0	1
+intellectus	56	3	50	0	0	3
 intellegam	43	0	43	0	0	0
 intellegamque	1	0	1	0	0	0
 intellegamus	139	0	139	0	0	0
@@ -19713,7 +19701,6 @@ intermittentis	1	0	1	0	0	0
 intermittere	16	0	16	0	0	0
 intermitterem	2	0	2	0	0	0
 intermitterent	3	1	2	0	0	0
-interpellabant	1	0	1	0	0	0
 intermitterentur	1	0	1	0	0	0
 intermitteret	2	0	2	0	0	0
 intermitteretur	5	0	5	0	0	0
@@ -19834,6 +19821,7 @@ interoscitantis	1	0	1	0	0	0
 interp	3	3	0	0	0	0
 interpatet	1	1	0	0	0	0
 interpella	2	0	2	0	0	0
+interpellabant	1	0	1	0	0	0
 interpellabat	1	0	1	0	0	0
 interpellabitur	4	0	4	0	0	0
 interpellabo	2	0	2	0	0	0
@@ -22441,8 +22429,7 @@ inurito	1	0	1	0	0	0
 inuritur	4	0	4	0	0	0
 inurunt	2	0	2	0	0	0
 inuruntur	3	0	3	0	0	0
-inus	28	1	5	4	1	17
-inuscs	1	0	0	0	1	0
+inus	29	1	5	4	2	17
 inusi	1	0	1	0	0	0
 inusitata	20	0	20	0	0	0
 inusitatae	5	0	5	0	0	0
@@ -22773,7 +22760,7 @@ iohanni	33	1	0	8	0	24
 iohannia	1	0	0	1	0	0
 iohanniis	1	0	0	0	0	1
 iohannipolis	1	0	0	0	0	1
-iohannis	277	6	0	35	0	236
+iohannis	278	6	0	35	0	237
 iohannitis	3	0	0	2	0	1
 iohannu	3	0	0	3	0	0
 iohannula	3	0	0	0	0	3
@@ -22783,7 +22770,6 @@ iohes	1	0	0	0	0	1
 iohia	1	0	1	0	0	0
 iohnnes	2	0	0	0	0	2
 iohnse	1	0	0	0	0	1
-ioh＇annis	1	0	0	0	0	1
 ioi	5	0	0	0	0	5
 ioiu	1	0	0	0	0	1
 iok	2	2	0	0	0	0
@@ -22896,8 +22882,7 @@ iordanes	4	0	2	0	0	2
 iordani	1	0	0	0	0	1
 iordanis	10	1	0	0	0	9
 iordann	1	0	0	0	0	1
-iordanus	9	0	0	0	0	9
-iordan＇us	1	0	0	0	0	1
+iordanus	10	0	0	0	0	10
 iordas	2	0	0	0	0	2
 iorem	1	0	0	1	0	0
 iori	3	0	0	0	0	3
@@ -22936,7 +22921,7 @@ iositis	2	0	0	0	0	2
 iospe	75	0	0	0	75	0
 iosqu	2	0	0	0	0	2
 iosue	3	0	0	0	0	3
-ios＇us	1	0	0	0	0	1
+iosus	1	0	0	0	0	1
 iota	3	0	2	0	1	0
 iotacismi	2	0	2	0	0	0
 iotacismus	2	0	2	0	0	0
@@ -23002,6 +22987,7 @@ ioulio	1	0	0	1	0	0
 ioum	1	0	1	0	0	0
 iounm	1	0	0	0	0	1
 iouo	1	0	0	0	0	1
+iourdannen	1	0	0	0	0	1
 iours	1	0	0	0	0	1
 ioustinianos	1	0	0	0	0	1
 iousto	1	0	0	0	0	1
@@ -23015,7 +23001,6 @@ ioxxc	1	1	0	0	0	0
 iozeeph	1	0	0	0	0	1
 iozhannes	1	0	0	0	0	1
 ioˊ	2	0	0	2	0	0
-io͜urdannen	1	0	0	0	0	1
 ioϲm	1	0	0	0	1	0
 ip	12	2	5	2	0	3
 ipalacen	1	0	0	1	0	0
@@ -23138,10 +23123,8 @@ ipsisque	19	0	13	0	4	2
 ipsissimus	2	0	2	0	0	0
 ipsist	1	0	1	0	0	0
 ipsitilla	1	0	1	0	0	0
-ipsius	1709	27	1487	22	11	162
+ipsius	1713	27	1487	22	11	166
 ipsiusque	8	0	6	0	0	2
-ipsiu＇s	1	0	0	0	0	1
-ipsi＇us	3	0	0	0	0	3
 ipso	2804	74	2621	49	3	57
 ipson	1	0	1	0	0	0
 ipsoque	23	2	21	0	0	0
@@ -23182,7 +23165,7 @@ iqseiqise	1	0	0	1	0	0
 iqu	2	0	0	0	0	2
 ique	5	0	3	0	0	2
 iquidi	1	0	0	0	0	1
-ir	15	1	6	1	3	4
+ir	16	1	6	2	3	4
 ira	1210	27	1145	0	0	38
 iracumdum	1	0	1	0	0	0
 iracun	1	0	1	0	0	0
@@ -23323,9 +23306,9 @@ ircosque	1	0	1	0	0	0
 ircpr	1	0	0	1	0	0
 ircus	1	0	1	0	0	0
 irdug	1	0	0	0	0	1
-ire	1345	8	1295	8	0	34
+ire	1344	8	1295	7	0	34
 irebuc	2	0	0	0	0	2
-irec	1	0	0	1	0	0
+irec	2	0	0	1	1	0
 irei	1	0	0	0	0	1
 irem	18	0	17	1	0	0
 iremus	5	0	5	0	0	0
@@ -24162,9 +24145,8 @@ istituit	2	0	0	0	0	2
 istituuerunt	2	0	0	0	0	2
 istituuit	1	0	0	0	0	1
 istiu	1	0	1	0	0	0
-istius	704	9	558	0	0	137
+istius	709	9	558	0	0	142
 istiusmodi	26	0	26	0	0	0
-isti＇us	5	0	0	0	0	5
 isto	747	6	637	0	0	104
 istoc	82	1	81	0	0	0
 istocin	1	0	1	0	0	0
@@ -24235,7 +24217,7 @@ isus	4	0	0	0	0	4
 is˙	1	0	0	1	0	0
 isϙ	1	0	1	0	0	0
 is𐆆	1	0	1	0	0	0
-it	363	9	260	9	12	73
+it	364	9	260	9	13	73
 ita	15507	403	14828	55	41	180
 itabat	1	0	1	0	0	0
 itaeomelin	1	0	1	0	0	0
@@ -24570,11 +24552,10 @@ itís	1	0	1	0	0	0
 itúrum	1	0	1	0	0	0
 itε	1	0	0	0	0	1
 itεrauimus	1	0	0	0	0	1
-iu	3457	2749	221	59	331	97
+iu	3459	2749	221	61	331	97
 iua	5	2	0	0	2	1
 iuacattos	1	0	0	0	0	1
 iuactaréi	1	0	0	0	0	1
-iuae	1	0	0	1	0	0
 iuaf	1	0	0	0	0	1
 iualiano	1	0	1	0	0	0
 iualini	1	0	0	0	0	1
@@ -25276,7 +25257,7 @@ iuiular	1	0	0	0	1	0
 iuius	3	0	0	0	1	2
 iuix	4	0	4	0	0	0
 iuixit	1	0	0	0	0	1
-iul	217	4	26	11	15	161
+iul	219	4	26	13	15	161
 iula	1	0	0	1	0	0
 iulario	2	0	0	0	0	2
 iulcenturia	1	0	0	1	0	0
@@ -25353,7 +25334,7 @@ iulittes	1	0	0	0	0	1
 iuliu	1	0	0	1	0	0
 iulium	116	0	78	6	17	15
 iuliun	1	0	0	0	1	0
-iulius	874	4	215	342	110	203
+iulius	873	4	215	341	110	203
 iuliusque	1	0	1	0	0	0
 iulió	2	0	0	0	1	1
 iulī	1	0	1	0	0	0
@@ -25368,7 +25349,6 @@ iullos	1	0	1	0	0	0
 iullum	1	0	1	0	0	0
 iullus	1	0	1	0	0	0
 iullusque	1	0	1	0	0	0
-iulnt	1	0	0	1	0	0
 iulo	24	0	24	0	0	0
 iulon	1	0	1	0	0	0
 iulos	3	0	3	0	0	0
@@ -25396,7 +25376,7 @@ iumentum	33	0	33	0	0	0
 iumentumque	2	0	2	0	0	0
 iumeto	1	0	0	0	0	1
 iumne	1	0	0	1	0	0
-iun	355	1	88	2	1	263
+iun	356	1	88	3	1	263
 iunce	2	0	2	0	0	0
 iuncea	6	0	6	0	0	0
 iunceam	1	0	1	0	0	0
@@ -25454,7 +25434,7 @@ iunctores	1	0	1	0	0	0
 iunctorum	2	0	2	0	0	0
 iunctos	39	5	33	0	0	1
 iunctosque	2	0	2	0	0	0
-iunctu	2	0	2	0	0	0
+iunctu	3	0	2	1	0	0
 iunctum	58	3	51	0	0	4
 iunctumque	1	0	1	0	0	0
 iunctura	27	2	25	0	0	0
@@ -25466,19 +25446,16 @@ iuncturas	9	0	9	0	0	0
 iuncturi	1	0	1	0	0	0
 iuncturis	6	0	6	0	0	0
 iuncturum	4	0	4	0	0	0
-iunctus	75	0	58	0	0	17
+iunctus	76	0	58	0	0	18
 iunctusque	2	0	2	0	0	0
-iunctuuum	1	0	0	1	0	0
 iunctám	1	0	1	0	0	0
 iunctí	1	0	1	0	0	0
-iunct＇us	1	0	0	0	0	1
 iunculae	1	0	1	0	0	0
 iuncum	6	0	5	0	1	0
 iuncus	12	0	12	0	0	0
 iuncusque	1	0	1	0	0	0
 iuncxisti	1	0	0	0	0	1
 iuncxit	8	0	4	0	0	4
-iunerunt	1	0	0	1	0	0
 iung	1	0	0	1	0	0
 iungam	20	0	20	0	0	0
 iungamus	11	0	11	0	0	0
@@ -25592,7 +25569,7 @@ iuniori	25	0	6	0	2	17
 iunioribus	19	0	19	0	0	0
 iunioribusque	1	0	1	0	0	0
 iunioris	81	0	6	6	0	69
-iuniorum	62	0	39	2	0	21
+iuniorum	63	0	39	2	0	22
 iuniorumque	1	0	1	0	0	0
 iunios	1	0	1	0	0	0
 iuniperi	12	0	12	0	0	0
@@ -25659,7 +25636,6 @@ iunxissetque	1	0	1	0	0	0
 iunxisti	3	0	3	0	0	0
 iunxit	143	0	122	0	0	21
 iunxitque	2	0	2	0	0	0
-iun͜iorum	1	0	0	0	0	1
 iuo	7	0	0	0	6	1
 iuobiuini	1	0	0	0	0	1
 iuona	1	0	0	0	0	1
@@ -25679,7 +25655,7 @@ iuppiterne	1	0	1	0	0	0
 iuppiti	1	0	1	0	0	0
 iuppitér	1	0	1	0	0	0
 iuppíter	2	0	2	0	0	0
-iur	3	0	0	1	1	1
+iur	2	0	0	0	1	1
 iura	905	3	788	7	3	104
 iurabant	4	0	4	0	0	0
 iurabas	7	0	7	0	0	0
@@ -25889,7 +25865,7 @@ iurulentus	1	0	1	0	0	0
 iurum	2	0	2	0	0	0
 iuráti	1	0	1	0	0	0
 iurét	1	0	1	0	0	0
-ius	3017	26	2811	47	47	86
+ius	3020	26	2811	49	47	87
 iusa	1	0	0	0	0	1
 iusb	1	0	0	1	0	0
 iuscellatum	1	0	1	0	0	0
@@ -26009,7 +25985,7 @@ iustas	49	1	48	0	0	0
 iustasque	1	0	1	0	0	0
 iustaua	1	0	0	0	0	1
 iustaue	1	0	1	0	0	0
-iuste	157	10	102	0	5	40
+iuste	159	10	102	0	5	42
 iusteque	4	0	4	0	0	0
 iustes	1	0	0	0	0	1
 iustȩ	2	0	0	0	0	2
@@ -26114,9 +26090,8 @@ iustuleius	1	0	1	0	0	0
 iustum	274	7	240	2	8	17
 iustumne	1	0	1	0	0	0
 iustumque	9	1	8	0	0	0
-iustus	232	5	134	3	4	86
+iustus	233	5	134	3	4	87
 iustusque	2	0	2	0	0	0
-iust＇us	1	0	0	0	0	1
 iusue	1	0	1	0	0	0
 iusus	2	1	0	1	0	0
 iut	2	0	0	0	0	2
@@ -26607,7 +26582,6 @@ ïul	1	0	0	0	1	0
 ïure	1	0	0	1	0	0
 ïustu	4	0	0	4	0	0
 i̶i̶s̶	1	0	1	0	0	0
-i͜killio	1	0	0	0	0	1
 iίia	1	0	0	0	1	0
 iίiiip	1	0	0	0	1	0
 iβ	1	1	0	0	0	0
@@ -26660,8 +26634,6 @@ iↄ	1	0	1	0	0	0
 iↄↄ	3	0	3	0	0	0
 iↄↄↄ	18	0	18	0	0	0
 i∷̈́	1	0	1	0	0	0
-i＇us	1	0	0	0	0	1
-i＇uste	2	0	0	0	0	2
 j	397	363	0	0	33	1
 jabresb	1	1	0	0	0	0
 jabresbericht	1	1	0	0	0	0
@@ -26762,7 +26734,7 @@ jezabel	2	0	0	0	0	2
 jheronimus	1	0	0	0	0	1
 jhesum	1	0	0	1	0	0
 jhs	58	0	0	0	57	1
-jilsuit͜h	1	0	0	0	0	1
+jilsuith	1	0	0	0	0	1
 jinete	1	0	0	0	0	1
 jita	1	0	0	0	0	1
 jl	13	4	0	0	6	3

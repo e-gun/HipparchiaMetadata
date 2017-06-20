@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_p OWNER TO hippa_wr;
 --
 
 COPY wordcounts_p (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-p	33712	28002	4048	132	377	1153
+p	33713	28002	4048	133	377	1153
 pa	597	139	348	13	48	49
 paa	4	4	0	0	0	0
 paace	2	0	0	0	0	2
@@ -1778,7 +1778,7 @@ pandŏ	1	0	0	0	0	1
 pandrose	1	0	1	0	0	0
 pandroso	1	0	1	0	0	0
 pandrosos	1	0	1	0	0	0
-pandulf＇us	1	0	0	0	0	1
+pandulfus	1	0	0	0	0	1
 pandulphi	2	0	0	0	0	2
 pandum	1	0	1	0	0	0
 pandunt	27	0	20	0	0	7
@@ -1843,7 +1843,7 @@ pangito	1	0	1	0	0	0
 pangitur	6	0	6	0	0	0
 pango	4	0	4	0	0	0
 pangonus	2	0	2	0	0	0
-pangrati＇us	1	0	0	0	0	1
+pangratius	1	0	0	0	0	1
 pangunt	4	0	3	0	0	1
 panguntur	5	0	5	0	0	0
 panhormi	5	0	5	0	0	0
@@ -4036,7 +4036,7 @@ pasile	3	0	0	0	3	0
 pasileo	1	0	0	0	1	0
 pasileose	13	0	0	0	13	0
 pasilese	2	0	0	0	2	0
-pasileumenane	1	0	0	0	1	0
+pasileu	1	0	0	0	1	0
 pasileuse	11	0	0	0	11	0
 pasilewa	1	0	0	0	1	0
 pasilewatau	1	0	0	0	1	0
@@ -4188,8 +4188,7 @@ passurusne	1	0	1	0	0	0
 passurós	1	0	1	0	0	0
 passus	651	6	594	1	8	42
 passusque	7	0	7	0	0	0
-passuum	439	23	355	0	29	32
-passuum͜	1	0	0	0	1	0
+passuum	440	23	355	0	30	32
 passá	1	0	0	0	0	1
 passérculus	1	0	1	0	0	0
 passím	2	0	2	0	0	0
@@ -5297,8 +5296,7 @@ paulinianus	7	0	0	5	0	2
 paulino	36	0	17	0	1	18
 paulinu	1	0	0	0	0	1
 paulinum	10	0	8	0	0	2
-paulinus	50	1	16	7	1	25
-paulin＇us	2	0	0	0	0	2
+paulinus	52	1	16	7	1	27
 paulipser	1	0	1	0	0	0
 pauliq	1	0	0	0	0	1
 paulique	5	0	1	0	0	4
@@ -5343,7 +5341,7 @@ paulum	596	5	579	0	2	10
 paulumne	1	0	1	0	0	0
 paulumque	39	0	37	0	0	2
 paulumue	1	0	1	0	0	0
-paulus	2186	5	1966	12	6	197
+paulus	2189	5	1966	12	6	200
 paulusne	1	0	1	0	0	0
 paulusq	1	0	0	0	0	1
 paulusque	3	0	0	0	0	3
@@ -5351,7 +5349,6 @@ paulísper	1	0	1	0	0	0
 pauló	1	0	1	0	0	0
 paulúm	1	0	1	0	0	0
 paulε	2	0	0	0	0	2
-paul＇us	3	0	0	0	0	3
 paum	1	0	0	1	0	0
 pauni	6	0	0	6	0	0
 paunine	1	0	0	1	0	0
@@ -5409,9 +5406,8 @@ pauperemque	3	0	3	0	0	0
 pauperes	85	0	70	1	0	14
 pauperet	1	0	1	0	0	0
 pauperi	46	1	42	0	0	3
-pauperibus	121	0	43	1	0	77
+pauperibus	122	0	43	1	0	78
 pauperibusque	5	0	0	0	0	5
-pauperib＇us	1	0	0	0	0	1
 pauperie	9	0	9	0	0	0
 pauperiei	1	0	1	0	0	0
 pauperiem	35	0	32	0	0	3
@@ -5632,7 +5628,7 @@ pbst	2	0	0	0	0	2
 pbus	1	0	0	0	1	0
 pbθt	1	1	0	0	0	0
 pbϲ	2	2	0	0	0	0
-pc	154	5	17	0	0	132
+pc	155	5	17	0	1	132
 pca	1	0	0	0	0	1
 pcairgoodsp	3	0	0	3	0	0
 pcairisid	58	0	0	58	0	0
@@ -5653,7 +5649,6 @@ pcorn	11	0	0	11	0	0
 pcs	1	0	0	0	0	1
 pcuciatur	1	0	0	1	0	0
 pcui	1	0	0	1	0	0
-pcuiremc	1	0	0	0	1	0
 pcustoms	35	0	0	35	0	0
 pcε	1	0	0	0	0	1
 pd	32	25	0	0	0	7
@@ -8394,7 +8389,7 @@ perdente	1	0	1	0	0	0
 perdentem	2	0	2	0	0	0
 perdentis	2	0	2	0	0	0
 perdepsuit	1	0	1	0	0	0
-perdere	231	1	217	0	0	13
+perdere	232	1	217	0	0	14
 perderem	8	0	8	0	0	0
 perderemus	3	0	3	0	0	0
 perderent	9	0	9	0	0	0
@@ -8738,7 +8733,6 @@ perdát	1	0	1	0	0	0
 perdénda	1	0	1	0	0	0
 perdíta	1	0	1	0	0	0
 perdítus	1	0	1	0	0	0
-perd͜ere	1	0	0	0	0	1
 pere	4	1	2	0	0	1
 perea	1	0	0	1	0	0
 peream	32	1	31	0	0	0
@@ -8841,10 +8835,9 @@ peregrinos	76	5	69	0	1	1
 peregrinosque	4	0	4	0	0	0
 peregrinu	1	0	0	0	0	1
 peregrinum	73	3	62	0	0	8
-peregrinus	99	0	69	0	1	29
+peregrinus	100	0	69	0	1	30
 peregrinusque	2	0	2	0	0	0
 peregrinων	1	1	0	0	0	0
-peregrin＇us	1	0	0	0	0	1
 peregrique	1	0	1	0	0	0
 peregrum	2	0	0	0	0	2
 peregrí	1	0	1	0	0	0
@@ -9111,10 +9104,9 @@ perfecturi	1	0	1	0	0	0
 perfecturos	2	0	2	0	0	0
 perfecturum	7	0	7	0	0	0
 perfecturus	2	0	2	0	0	0
-perfectus	69	1	62	1	1	4
+perfectus	70	1	62	1	1	5
 perfectusque	1	0	1	0	0	0
 perfectís	1	0	1	0	0	0
-perfect＇us	1	0	0	0	0	1
 perfecunda	1	0	1	0	0	0
 perfecít	1	0	1	0	0	0
 perfelix	1	0	0	0	0	1
@@ -9875,7 +9867,7 @@ periclymenus	5	0	5	0	0	0
 pericolas	1	0	0	1	0	0
 perictionae	1	0	1	0	0	0
 perictione	1	0	1	0	0	0
-pericula	376	1	374	0	0	1
+pericula	377	1	374	0	0	2
 periculaque	9	0	9	0	0	0
 periculatus	2	0	2	0	0	0
 periculi	324	1	319	0	2	2
@@ -9903,6 +9895,7 @@ periculosis	14	0	12	0	0	2
 periculosisque	1	0	1	0	0	0
 periculosissima	9	0	9	0	0	0
 periculosissimam	2	0	2	0	0	0
+perimitur	3	0	3	0	0	0
 periculosissimas	1	0	1	0	0	0
 periculosissime	1	0	1	0	0	0
 periculosissimi	2	0	2	0	0	0
@@ -9925,7 +9918,6 @@ periculum	1027	3	1020	0	0	4
 periculumne	1	0	1	0	0	0
 periculumque	14	0	14	0	0	0
 periculumst	1	0	1	0	0	0
-peric＇ula	1	0	0	0	0	1
 peridiae	6	0	6	0	0	0
 peridonea	1	0	1	0	0	0
 peridoneae	1	0	1	0	0	0
@@ -10025,7 +10017,6 @@ perimi	3	0	3	0	0	0
 periminia	1	0	0	0	0	1
 perimis	1	0	0	0	0	1
 perimit	9	0	7	0	0	2
-perimitur	3	0	3	0	0	0
 perimpeditus	1	0	1	0	0	0
 perimplet	1	0	0	0	0	1
 perimu	1	0	1	0	0	0
@@ -12566,7 +12557,8 @@ pertaesumst	1	0	1	0	0	0
 pertaesus	5	0	5	0	0	0
 pertalis	1	0	1	0	0	0
 pertangito	1	0	1	0	0	0
-pertcc	2	0	0	0	1	1
+pertc	1	0	0	0	1	0
+pertcc	1	0	0	0	0	1
 pertegamus	1	0	1	0	0	0
 pertegant	1	0	1	0	0	0
 pertegere	1	0	1	0	0	0
@@ -14135,10 +14127,9 @@ petrumque	3	0	0	0	0	3
 petrunace	1	0	0	0	0	1
 petrunax	1	0	0	0	0	1
 petrunia	4	0	0	1	0	3
-petrus	523	2	5	19	2	495
+petrus	529	2	5	19	2	501
 petrusmonogramm	2	0	0	0	0	2
 petrušeuski	1	0	0	0	1	0
-petr＇us	6	0	0	0	0	6
 petsas	5	0	0	0	5	0
 petsireos	1	0	0	1	0	0
 petti	3	0	3	0	0	0
@@ -14250,7 +14241,6 @@ pȩnas	4	0	0	0	0	4
 pȩnis	3	0	0	0	0	3
 pȩnitet	1	0	0	0	0	1
 pȩnituit	1	0	0	0	0	1
-pe͜tr͜i	1	0	0	0	0	1
 pe`	1	1	0	0	0	0
 pf	126	119	0	2	0	5
 pfaff	1	1	0	0	0	0
@@ -14559,7 +14549,7 @@ phantasmata	1	0	1	0	0	0
 phantasmate	1	0	0	0	0	1
 phantasos	1	0	1	0	0	0
 phantastischer	1	0	0	0	0	1
-phan＇us	1	0	0	0	0	1
+phanus	1	0	0	0	0	1
 phaon	6	0	6	0	0	0
 phaone	1	0	1	0	0	0
 phaonem	1	0	1	0	0	0
@@ -15059,12 +15049,11 @@ philipporum	1	0	1	0	0	0
 philippos	37	2	35	0	0	0
 philippson	4	4	0	0	0	0
 philippum	221	0	214	1	0	6
-philippus	345	11	287	1	2	44
+philippus	349	11	287	1	2	48
 philippí	1	0	1	0	0	0
 philippís	1	0	1	0	0	0
 philippós	1	0	1	0	0	0
 philippúm	1	0	1	0	0	0
-philipp＇us	4	0	0	0	0	4
 philipum	1	1	0	0	0	0
 philipus	8	0	0	0	0	8
 philis	1	0	0	0	1	0
@@ -16018,7 +16007,7 @@ phψsicis	1	1	0	0	0	0
 phψsicorym	1	1	0	0	0	0
 phψsicum	1	1	0	0	0	0
 phψsiologa	1	1	0	0	0	0
-pi	53	3	18	2	18	12
+pi	54	3	18	2	19	12
 pia	415	1	166	1	6	241
 piabant	1	0	1	0	0	0
 piabat	2	0	2	0	0	0
@@ -17198,8 +17187,7 @@ pisanorum	1	0	1	0	0	0
 pisanos	1	0	1	0	0	0
 pisant	2	0	2	0	0	0
 pisanum	7	0	4	0	0	3
-pisanus	1	0	0	0	0	1
-pisan＇us	1	0	0	0	0	1
+pisanus	2	0	0	0	0	2
 pisarum	4	0	1	0	0	3
 pisas	28	0	28	0	0	0
 pisasque	1	0	1	0	0	0
@@ -17585,9 +17573,8 @@ piul	1	0	0	1	0	0
 pium	116	1	78	0	3	34
 piumque	16	0	16	0	0	0
 piumue	1	0	1	0	0	0
-pius	765	4	349	2	61	349
+pius	766	4	349	2	61	350
 piusque	1	0	1	0	0	0
-pius⌉	1	0	0	0	0	1
 pix	44	2	41	0	0	1
 pixodaro	1	0	1	0	0	0
 pixodarus	3	0	3	0	0	0
@@ -18557,9 +18544,8 @@ plenitudine	11	2	8	0	0	1
 plenitudinem	5	0	5	0	0	0
 plenitudinis	5	0	5	0	0	0
 plenitudo	6	0	5	0	0	1
-plenius	150	4	136	0	0	10
+plenius	151	4	136	0	0	11
 pleniusque	1	0	1	0	0	0
-pleni＇us	1	0	0	0	0	1
 plennus	1	0	1	0	0	0
 pleno	165	4	148	0	1	12
 plenoque	9	0	9	0	0	0
@@ -18572,12 +18558,11 @@ plentur	1	0	1	0	0	0
 plenum	291	9	268	4	1	9
 plenumque	13	1	12	0	0	0
 plenumst	1	0	1	0	0	0
-plenus	203	6	155	0	0	42
+plenus	204	6	155	0	0	43
 plenusque	10	1	5	0	0	4
 plenust	1	0	1	0	0	0
 plení	1	0	1	0	0	0
 plenúm	1	0	1	0	0	0
-plen＇us	1	0	0	0	0	1
 pleonasmos	9	0	9	0	0	0
 pleonasmus	1	0	1	0	0	0
 pleores	3	0	1	0	0	2
@@ -18725,7 +18710,7 @@ plm	84	0	0	0	0	84
 plminus	1	0	0	0	0	1
 plms	2	0	0	0	0	2
 plns	1	0	0	0	0	1
-plo	1	0	1	0	0	0
+plo	2	0	1	0	1	0
 ploca	1	0	0	0	1	0
 plocame	1	0	1	0	0	0
 plocami	2	0	1	0	1	0
@@ -18905,9 +18890,8 @@ plumbeos	2	0	2	0	0	0
 plumbet	1	0	1	0	0	0
 plumbeum	18	1	16	0	1	0
 plumbeus	6	0	6	0	0	0
-plumbi	61	0	61	0	0	0
+plumbi	62	0	61	1	0	0
 plumbique	3	0	3	0	0	0
-plumbir	1	0	0	1	0	0
 plumbo	57	0	57	0	0	0
 plumboque	3	0	3	0	0	0
 plumbosa	1	0	1	0	0	0
@@ -19019,7 +19003,7 @@ plurumisque	4	1	3	0	0	0
 plurumos	5	0	5	0	0	0
 plurumum	23	0	23	0	0	0
 plurímum	1	0	1	0	0	0
-plus	3673	45	2861	12	14	741
+plus	3675	45	2861	12	14	743
 pluscula	1	0	1	0	0	0
 plusculae	2	0	2	0	0	0
 plusculam	2	0	2	0	0	0
@@ -19167,7 +19151,6 @@ plúris	1	0	0	0	0	1
 plús	11	0	11	0	0	0
 plúsculum	2	0	2	0	0	0
 pl☧us	1	0	0	0	0	1
-pl＇us	1	0	0	0	0	1
 pm	77	14	0	0	1	62
 pmaniat	1	0	0	1	0	0
 pmarg	17	17	0	0	0	0
@@ -19176,6 +19159,7 @@ pmb	1	0	0	0	0	1
 pmert	10	0	0	10	0	0
 pmeyer	1	0	0	1	0	0
 pmg	46	46	0	0	0	0
+pmiae	1	0	0	1	0	0
 pmich	96	0	0	96	0	0
 pmichmichael	31	0	0	31	0	0
 pmil	65	0	0	65	0	0
@@ -19216,7 +19200,7 @@ pny	1	0	0	0	0	1
 pnytagoras	1	0	1	0	0	0
 pnψy	2	0	0	2	0	0
 pnϲ	1	1	0	0	0	0
-po	65	0	30	6	11	18
+po	66	0	30	7	11	18
 poa	1	0	1	0	0	0
 poan	1	0	1	0	0	0
 pob	1	0	0	0	1	0
@@ -19243,7 +19227,7 @@ poclís	1	0	1	0	0	0
 poclúm	1	0	1	0	0	0
 pococke	1	1	0	0	0	0
 pocu	1	0	0	1	0	0
-pocula	273	0	262	0	0	11
+pocula	274	0	262	0	0	12
 poculaque	5	0	5	0	0	0
 poculenta	1	0	1	0	0	0
 poculi	10	0	10	0	0	0
@@ -19254,7 +19238,6 @@ poculoque	1	0	1	0	0	0
 poculorum	13	0	12	0	1	0
 poculum	72	4	66	0	0	2
 poculumque	2	0	2	0	0	0
-pocul͜a	1	0	0	0	0	1
 podaetum	1	0	1	0	0	0
 podager	1	0	1	0	0	0
 podagra	20	0	20	0	0	0
@@ -19321,7 +19304,7 @@ poeduculi	1	0	1	0	0	0
 poeeessa	2	0	2	0	0	0
 poeeticon	1	0	1	0	0	0
 poekomenone	2	0	0	0	2	0
-poem	3	2	0	1	0	0
+poem	2	2	0	0	0	0
 poema	47	1	46	0	0	0
 poemae	1	0	1	0	0	0
 poemaneni	1	0	1	0	0	0
@@ -19916,10 +19899,9 @@ polluimus	2	0	2	0	0	0
 polluisse	3	0	3	0	0	0
 polluisset	3	0	3	0	0	0
 polluisti	3	0	3	0	0	0
-polluit	34	1	32	0	0	1
+polluit	35	1	32	0	0	2
 polluite	1	0	1	0	0	0
 polluitur	3	0	3	0	0	0
-polluit＇	1	0	0	0	0	1
 pollulas	1	0	1	0	0	0
 pollulis	1	0	1	0	0	0
 pollulum	2	0	2	0	0	0
@@ -20295,7 +20277,7 @@ pompaticas	1	0	1	0	0	0
 pompatico	1	0	1	0	0	0
 pompe	2	0	1	0	0	1
 pompedius	2	0	0	0	0	2
-pompei	543	3	531	3	2	4
+pompei	544	3	531	4	2	4
 pompeia	49	0	33	0	3	13
 pompeiae	7	0	5	0	1	1
 pompeiam	8	0	6	2	0	0
@@ -20327,7 +20309,7 @@ pompeiorum	3	0	3	0	0	0
 pompeios	13	0	13	0	0	0
 pompeiosque	1	0	1	0	0	0
 pompeique	2	0	2	0	0	0
-pompeis	6	0	5	1	0	0
+pompeis	5	0	5	0	0	0
 pompeium	456	2	449	0	0	5
 pompeiumne	1	0	1	0	0	0
 pompeiumque	14	0	14	0	0	0
@@ -21986,7 +21968,7 @@ possím	1	0	1	0	0	0
 possís	1	0	1	0	0	0
 possúm	5	0	5	0	0	0
 possúmus	1	0	1	0	0	0
-post	9120	676	7415	94	35	900
+post	9127	676	7415	94	35	907
 posta	9	0	8	0	0	1
 postae	1	0	0	1	0	0
 postarum	1	0	1	0	0	0
@@ -22397,7 +22379,6 @@ postés	1	0	0	0	0	1
 postícum	1	0	1	0	0	0
 postílla	2	0	2	0	0	0
 postεru	1	0	0	0	0	1
-post＇	4	0	0	0	0	4
 posu	10	0	1	0	2	7
 posuaerunt	3	0	0	0	0	3
 posue	2	0	0	0	0	2
@@ -22658,7 +22639,7 @@ potest	9247	186	8973	4	30	54
 potesta	1	0	0	0	0	1
 potestacia	2	0	0	0	0	2
 potestacie	1	0	0	0	0	1
-potestas	649	12	588	3	1	45
+potestas	650	12	588	3	1	46
 potestasque	13	0	12	0	1	0
 potestate	1751	19	1552	3	127	50
 potestatem	949	16	905	6	2	20
@@ -22957,7 +22938,6 @@ potíti	1	0	1	0	0	0
 potítur	1	0	1	0	0	0
 potítus	2	0	0	0	0	2
 potíuit	1	0	1	0	0	0
-pot＇estas	1	0	0	0	0	1
 pou	1	0	0	0	1	0
 pouacsuit	1	0	0	0	1	0
 pougeoise	1	0	0	0	0	1
@@ -23123,7 +23103,7 @@ ppw	1	1	0	0	0	0
 ppyaes	1	0	0	0	0	1
 ppϲ	1	1	0	0	0	0
 pq	2	2	0	0	0	0
-pr	882	615	113	18	46	90
+pr	883	615	113	19	46	90
 pra	4	0	1	2	1	0
 praaeterea	1	0	1	0	0	0
 pracacius	1	0	0	0	0	1
@@ -27524,7 +27504,7 @@ prbx	1	1	0	0	0	0
 prbψa	1	1	0	0	0	0
 prccibus	1	0	0	0	0	1
 prd	1	0	0	0	0	1
-pre	27	2	7	3	0	15
+pre	28	2	7	3	0	16
 preare	1	0	0	0	0	1
 preb	3	0	0	1	0	2
 prebe	1	0	0	0	0	1
@@ -27675,10 +27655,9 @@ preciano	1	0	1	0	0	0
 precianum	1	0	1	0	0	0
 preciari	1	0	0	0	0	1
 precibu	3	0	3	0	0	0
-precibus	619	2	388	2	1	226
+precibus	620	2	388	2	1	227
 precibusne	1	0	1	0	0	0
 precibusque	38	0	32	0	0	6
-precib＇us	1	0	0	0	0	1
 precidantur	1	0	0	0	0	1
 precidentur	1	0	0	0	0	1
 precii	1	0	0	0	0	1
@@ -27725,8 +27704,7 @@ preclarior	1	0	0	0	0	1
 preclaris	1	0	0	0	0	1
 preclaro	2	0	0	0	0	2
 preclarum	1	0	0	0	0	1
-preclarus	13	0	0	0	0	13
-preclar＇us	1	0	0	0	0	1
+preclarus	14	0	0	0	0	14
 precluis	3	0	0	0	0	3
 preco	5	0	0	0	0	5
 precognoscendo	1	0	0	0	0	1
@@ -27785,7 +27763,6 @@ prediis	3	0	0	0	0	3
 predio	6	0	0	0	0	6
 predis	1	0	0	0	0	1
 preditus	3	0	0	0	0	3
-predium	1	0	0	1	0	0
 predixerunt	3	0	0	0	0	3
 predixit	1	0	0	0	0	1
 predones	1	0	0	0	0	1
@@ -27817,8 +27794,7 @@ prefecto	11	0	0	0	0	11
 prefectorum	2	0	0	0	0	2
 prefectum	1	0	0	0	0	1
 prefectura	1	0	0	0	0	1
-prefectus	14	0	0	0	0	14
-prefect＇us	2	0	0	0	0	2
+prefectus	16	0	0	0	0	16
 prefer	1	1	0	0	0	0
 preferende	1	0	0	0	0	1
 preferre	1	0	0	0	0	1
@@ -28112,9 +28088,8 @@ prepositorum	1	0	0	0	0	1
 prepositu	3	0	0	3	0	0
 prepositum	3	0	0	2	0	1
 prepositura	1	0	0	0	0	1
-prepositus	39	0	0	0	0	39
+prepositus	40	0	0	0	0	40
 prepositusque	1	0	0	0	0	1
-preposit＇us	1	0	0	0	0	1
 prepotens	2	0	0	0	0	2
 prepusa	1	0	0	0	1	0
 prermisit	1	0	1	0	0	0
@@ -28195,8 +28170,7 @@ presentem	19	0	0	9	0	10
 presentes	12	0	0	3	0	9
 presenti	32	0	1	25	0	6
 presentia	23	0	0	16	0	7
-presentibus	16	0	0	6	1	9
-presentib＇us	1	0	0	0	0	1
+presentibus	17	0	0	6	1	10
 presentis	13	1	0	3	0	9
 presentium	2	0	0	0	0	2
 presentum	2	0	0	0	0	2
@@ -28296,9 +28270,8 @@ pressurae	2	0	2	0	0	0
 pressuram	2	0	2	0	0	0
 pressuris	1	0	0	0	0	1
 pressurus	2	0	2	0	0	0
-pressus	62	1	56	0	0	5
+pressus	63	1	56	0	0	6
 pressusque	3	0	3	0	0	0
-press＇us	1	0	0	0	0	1
 presta	4	0	0	0	0	4
 prestabas	1	0	0	0	0	1
 prestam	1	0	0	1	0	0
@@ -28833,10 +28806,9 @@ primumdum	8	0	8	0	0	0
 primumque	68	4	64	0	0	0
 primumst	1	0	1	0	0	0
 primun	1	0	0	0	0	1
-primus	1701	59	1472	2	28	140
+primus	1704	59	1472	2	28	143
 primusque	71	2	65	0	0	4
 primusue	1	0	1	0	0	0
-primu＇s	1	0	0	0	0	1
 primym	1	1	0	0	0	0
 primys	7	7	0	0	0	0
 primé	1	0	1	0	0	0
@@ -28847,7 +28819,6 @@ primúm	3	0	3	0	0	0
 primúmdum	1	0	1	0	0	0
 primús	1	0	1	0	0	0
 primεnius	1	0	0	0	0	1
-prim＇us	2	0	0	0	0	2
 prin	13	0	10	1	0	2
 prinas	1	0	1	0	0	0
 prinassum	1	0	1	0	0	0
@@ -28897,9 +28868,8 @@ principiale	1	0	1	0	0	0
 principiales	1	0	0	0	0	1
 principiali	1	0	1	0	0	0
 principib	1	0	0	0	0	1
-principibus	262	6	224	1	4	27
+principibus	263	6	224	1	4	28
 principibusque	11	0	11	0	0	0
-principib＇us	1	0	0	0	0	1
 principii	11	0	11	0	0	0
 principiis	160	13	144	3	0	0
 principio	536	16	484	0	0	36
@@ -28932,8 +28902,7 @@ priora	133	20	105	0	0	8
 priorat	1	0	0	0	0	1
 prioratu	6	0	0	0	0	6
 prioratui	1	0	0	0	0	1
-prioratus	1	0	0	0	0	1
-priorat＇us	1	0	0	0	0	1
+prioratus	2	0	0	0	0	2
 priore	577	10	546	8	1	12
 priorem	282	6	265	0	1	10
 prioremque	3	0	3	0	0	0
@@ -29191,7 +29160,7 @@ priulleius	1	0	0	0	1	0
 priumunda	1	0	0	0	0	1
 priuo	1	0	1	0	0	0
 priuos	8	0	8	0	0	0
-prius	2525	41	2410	2	3	69
+prius	2526	41	2410	2	3	70
 priusne	2	0	2	0	0	0
 priusquam	615	6	607	1	0	1
 priusque	25	0	25	0	0	0
@@ -29208,7 +29177,6 @@ priùs	1	0	0	0	0	1
 priˊscus	1	0	0	1	0	0
 priδe	1	0	0	0	0	1
 priε	1	0	0	0	0	1
-pri＇us	1	0	0	0	0	1
 prk	1	1	0	0	0	0
 pro	14381	484	12057	193	260	1387
 proaedificatum	1	0	1	0	0	0
@@ -29536,14 +29504,13 @@ probrís	1	0	1	0	0	0
 probum	69	0	66	1	0	2
 probumque	2	0	2	0	0	0
 probumst	1	0	1	0	0	0
-probus	201	18	134	2	5	42
+probus	202	18	134	2	5	43
 probust	3	0	3	0	0	0
 probábili	1	0	1	0	0	0
 probándus	1	0	1	0	0	0
 probé	1	0	1	0	0	0
 probís	1	0	1	0	0	0
 probús	1	0	1	0	0	0
-prob＇us	1	0	0	0	0	1
 proc	29	0	0	0	19	10
 proca	3	0	3	0	0	0
 procace	1	0	1	0	0	0
@@ -32971,8 +32938,7 @@ propibus	1	0	1	0	0	0
 propicii	2	0	0	0	0	2
 propicio	2	0	0	0	0	2
 propicium	2	0	2	0	0	0
-propicius	1	0	0	0	0	1
-propici＇us	1	0	0	0	0	1
+propicius	2	0	0	0	0	2
 propie	2	0	1	0	0	1
 propietatem	1	1	0	0	0	0
 propii	1	0	1	0	0	0
@@ -33038,7 +33004,7 @@ propinquiora	1	0	1	0	0	0
 propinquioribus	1	0	1	0	0	0
 propinquioris	1	0	0	1	0	0
 propinquique	5	0	5	0	0	0
-propinquis	131	1	126	0	0	4
+propinquis	133	1	126	0	0	6
 propinquisque	6	0	6	0	0	0
 propinquitas	20	0	20	0	0	0
 propinquitate	37	0	37	0	0	0
@@ -33056,7 +33022,6 @@ propinquos	87	0	82	0	0	5
 propinquosque	6	0	6	0	0	0
 propinquum	89	0	89	0	0	0
 propinquus	50	1	44	1	0	4
-propinqu͜is	2	0	0	0	0	2
 propio	18	0	1	0	0	17
 propior	193	1	189	1	0	2
 propiora	43	1	42	0	0	0
@@ -34256,7 +34221,7 @@ protectorem	5	0	0	0	0	5
 protectores	3	0	1	2	0	0
 protectori	5	0	0	0	0	5
 protectoribus	12	0	2	3	0	7
-protectoris	3	0	0	1	1	1
+protectoris	4	0	0	1	1	2
 protectorum	7	0	0	0	4	3
 protectos	1	0	1	0	0	0
 protectoue	2	0	2	0	0	0
@@ -35438,7 +35403,6 @@ próximum	1	0	1	0	0	0
 próximus	1	0	1	0	0	0
 próxumae	2	0	2	0	0	0
 prúrit	1	0	1	0	0	0
-pr͜e	1	0	0	0	0	1
 prέambyle	1	1	0	0	0	0
 prδ	1	0	0	0	0	1
 prεsbutεrum	1	0	0	0	0	1
@@ -38957,9 +38921,6 @@ pϲ	10	10	0	0	0	0
 pϲa	1	1	0	0	0	0
 pϲjxψ	1	1	0	0	0	0
 pὁi	1	0	0	0	1	0
-p＇lus	1	0	0	0	0	1
-p＇ost	3	0	0	0	0	3
-p＇rotectoris	1	0	0	0	0	1
 \.
 
 

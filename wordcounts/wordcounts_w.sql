@@ -57,6 +57,7 @@ wadouulfo	1	0	0	1	0	0
 waduulfi	1	0	0	1	0	0
 waduulfo	6	0	0	6	0	0
 waelkens	1	0	0	0	1	0
+waes	3	0	0	0	0	3
 waeschke	8	8	0	0	0	0
 wag	1	0	0	0	0	1
 wagendenror	2	0	0	0	0	2
@@ -99,8 +100,7 @@ wallies	22	22	0	0	0	0
 wallis	1	1	0	0	0	0
 wallonis	1	0	0	0	0	1
 walpertii	1	0	0	0	0	1
-walpertus	2	0	0	0	0	2
-walpert＇us	2	0	0	0	0	2
+walpertus	4	0	0	0	0	4
 walpodo	3	0	0	0	0	3
 walpurgis	1	0	0	0	0	1
 waltarii	1	0	0	0	0	1
@@ -147,7 +147,7 @@ warns	1	0	0	0	0	1
 warrior	4	0	0	0	3	1
 warriors	1	0	0	0	1	0
 wart	1	0	0	0	0	1
-wart͜h	1	0	0	0	0	1
+warth	1	0	0	0	0	1
 was	11	2	0	0	6	3
 wasa	1	0	0	0	1	0
 wasaba	1	0	0	0	0	1
@@ -160,7 +160,6 @@ wattenheim	1	0	0	0	0	1
 wattenhein	1	0	0	0	0	1
 watzinger	1	0	0	0	1	0
 waxc	2	2	0	0	0	0
-wa͜es	3	0	0	0	0	3
 wb	1	1	0	0	0	0
 wbisψψaψb	1	1	0	0	0	0
 wbkry	1	0	0	0	1	0
@@ -251,12 +250,11 @@ werfer	41	41	0	0	0	0
 werinherus	1	0	0	0	0	1
 werkzeichen	8	0	0	0	8	0
 wernerus	1	0	0	0	0	1
-wernhard＇us	2	0	0	0	0	2
+wernhardus	2	0	0	0	0	2
 wernher	2	0	0	0	0	2
 wernheri	1	0	0	0	0	1
 wernhero	2	0	0	0	0	2
-wernherus	4	0	0	0	0	4
-wernher＇us	2	0	0	0	0	2
+wernherus	6	0	0	0	0	6
 werokokereti	1	0	0	0	1	0
 weroseapoi	1	0	0	0	1	0
 wes	1	0	0	0	0	1
@@ -307,7 +305,7 @@ wiboradȩ	2	0	0	0	0	2
 wicelino	1	0	0	0	0	1
 wichfrido	2	0	0	0	0	2
 wichmannus	1	0	0	0	0	1
-wichman＇us	1	0	0	0	0	1
+wichmanus	1	0	0	0	0	1
 wickens	1	0	0	0	1	0
 wicksnuffer	1	0	0	0	0	1
 wicksnuffers	1	0	0	0	0	1
@@ -322,11 +320,11 @@ widekino	1	0	0	0	0	1
 widerecus	1	0	0	0	0	1
 widerici	1	0	0	0	0	1
 widerlegungen	1	1	0	0	0	0
+widh	1	0	0	0	0	1
 wido	4	0	0	0	0	4
 widone	1	0	0	0	0	1
 widonem	1	0	0	0	0	1
 widonis	5	0	0	0	0	5
-wid͜h	1	0	0	0	0	1
 wie	17	11	0	0	5	1
 wiebliche	1	0	0	0	0	1
 wieder	2	0	0	0	0	2
@@ -376,7 +374,7 @@ wilielmo	1	0	0	0	0	1
 wilielmus	1	0	0	0	0	1
 wiligelme	1	0	0	0	0	1
 wiligelmus	1	0	0	0	0	1
-wililelm＇us	1	0	0	0	0	1
+wililelmus	1	0	0	0	0	1
 wilileua	1	0	0	1	0	0
 wililiwae	1	0	0	1	0	0
 wilke	1	1	0	0	0	0
@@ -490,7 +488,7 @@ wlabenius	1	0	0	0	0	1
 wlbn	1	0	0	0	0	1
 wlbnyhwn	1	0	0	0	0	1
 wleder	1	0	0	0	0	1
-wlfma͜eg	1	0	0	0	0	1
+wlfmaeg	1	0	0	0	0	1
 wlfrici	1	0	0	0	0	1
 wlielmus	1	0	0	0	0	1
 wligue	1	0	0	0	0	1
@@ -507,9 +505,9 @@ wlzub	1	1	0	0	0	0
 wlzxsubsu	1	1	0	0	0	0
 wmarg	3	3	0	0	0	0
 wn	1	1	0	0	0	0
+wne	1	0	0	0	0	1
 wnglsts	1	0	0	0	0	1
 wnus	1	0	0	0	0	1
-wn͜e	1	0	0	0	0	1
 wo	11	6	0	0	4	1
 woalone	1	0	0	0	1	0
 wobst	6	6	0	0	0	0
@@ -591,7 +589,7 @@ woruto	1	0	0	0	1	0
 wosatikoyamiiyalo	1	0	0	0	1	0
 wose	6	0	0	0	6	0
 wosἱ	1	0	0	0	1	0
-wot͜h	1	0	0	0	0	1
+woth	1	0	0	0	0	1
 would	1	0	0	0	1	0
 wowemus	1	0	0	0	0	1
 wowimus	1	0	0	0	0	1

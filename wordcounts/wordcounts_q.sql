@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_q OWNER TO hippa_wr;
 --
 
 COPY wordcounts_q (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-q	2838	316	2044	26	64	388
+q	2840	316	2044	28	64	388
 qa	3	2	1	0	0	0
 qabla	1	0	0	0	0	1
 qabr	1	0	0	0	0	1
@@ -84,7 +84,6 @@ qdquit	1	0	0	0	0	1
 qe	10	0	0	1	0	9
 qec	1	0	0	0	0	1
 qecaecat	1	1	0	0	0	0
-qedi	1	0	0	1	0	0
 qem	4	0	0	0	0	4
 qeo	1	0	1	0	0	0
 qfili	1	0	0	0	1	0
@@ -130,7 +129,7 @@ qquinquennalibus	1	0	0	0	0	1
 qr	4	3	0	1	0	0
 qrauida	1	1	0	0	0	0
 qrstux	1	0	0	0	0	1
-qs	5	2	0	3	0	0
+qs	4	2	0	2	0	0
 qsm	1	0	0	0	0	1
 qt	7	1	0	0	0	6
 qu	180	65	22	27	6	60
@@ -926,9 +925,8 @@ quando	1892	24	1814	7	0	47
 quandoc	3	0	3	0	0	0
 quandocumque	39	1	36	0	0	2
 quandona	1	0	0	0	0	1
-quandoque	252	3	233	2	0	14
+quandoque	253	3	233	2	0	15
 quandoquidem	86	5	78	0	1	2
-quandoq＇ue	1	0	0	0	0	1
 quandoue	1	0	1	0	0	0
 quandō	1	0	1	0	0	0
 quandrantem	1	0	1	0	0	0
@@ -939,7 +937,7 @@ quanka	1	0	0	0	0	1
 quanquam	100	4	93	0	0	3
 quans	1	0	0	0	0	1
 quant	4	4	0	0	0	0
-quanta	808	13	768	0	0	27
+quanta	810	13	768	0	0	29
 quantacumque	14	0	14	0	0	0
 quantacunque	1	0	1	0	0	0
 quantae	101	1	100	0	0	0
@@ -1025,7 +1023,7 @@ quantumque	90	1	87	0	0	2
 quantumst	8	0	8	0	0	0
 quantumue	3	0	1	0	1	1
 quantumuis	12	0	12	0	0	0
-quantus	224	2	213	0	0	9
+quantus	226	2	213	0	0	11
 quantuscumque	8	0	8	0	0	0
 quantusne	1	0	1	0	0	0
 quantusquae	2	0	0	0	0	2
@@ -1035,7 +1033,6 @@ quantám	1	0	1	0	0	0
 quantísper	2	0	2	0	0	0
 quantó	2	0	2	0	0	0
 quantúm	2	0	2	0	0	0
-quant＇us	2	0	0	0	0	2
 quapiam	4	0	4	0	0	0
 quapropter	270	3	241	4	0	22
 quaprotelare	1	0	1	0	0	0
@@ -1115,9 +1112,8 @@ quartu	9	0	0	0	0	9
 quartua	1	0	0	0	0	1
 quartum	307	2	283	0	2	20
 quartumque	2	0	2	0	0	0
-quartus	193	5	159	0	3	26
+quartus	195	5	159	0	3	28
 quartusque	1	0	1	0	0	0
-quart＇us	2	0	0	0	0	2
 quarum	934	24	871	2	8	29
 quarumcumque	2	0	2	0	0	0
 quarumdam	1	0	1	0	0	0
@@ -1353,7 +1349,7 @@ qud	4	0	0	0	0	4
 qudde	1	0	0	0	0	1
 qudra	1	0	0	1	0	0
 qudrantem	1	0	0	1	0	0
-que	1268	41	149	54	22	1002
+que	1270	41	149	54	22	1004
 queam	36	0	33	0	0	3
 queamus	14	0	14	0	0	0
 queant	63	1	59	0	0	3
@@ -1675,8 +1671,8 @@ quȩro	2	0	0	0	0	2
 quȩrunt	1	0	0	0	0	1
 quȩsierat	1	0	0	0	0	1
 quȩstio	2	0	0	0	0	2
-qui	52296	1136	45447	345	211	5157
-quia	11879	224	11417	29	11	198
+qui	52298	1136	45447	345	211	5159
+quia	11881	224	11417	29	11	200
 quiaeto	1	0	0	0	0	1
 quiam	1	0	1	0	0	0
 quian	2	0	2	0	0	0
@@ -1696,7 +1692,7 @@ quibit	3	0	2	0	0	1
 quibo	3	0	3	0	0	0
 quibu	11	1	10	0	0	0
 quibucum	1	0	1	0	0	0
-quibus	10764	234	10225	62	48	195
+quibus	10766	234	10225	62	48	197
 quibuscum	79	1	76	2	0	0
 quibuscumque	78	0	77	1	0	0
 quibuscunque	1	0	1	0	0	0
@@ -1709,7 +1705,6 @@ quibusue	7	0	7	0	0	0
 quibusuis	7	0	7	0	0	0
 quibó	1	0	1	0	0	0
 quibús	2	0	2	0	0	0
-quib＇us	2	0	0	0	0	2
 quic	5	0	5	0	0	0
 quicq	1	0	0	1	0	0
 quicquam	1733	34	1690	4	0	5
@@ -1726,14 +1721,13 @@ quicquíd	1	0	1	0	0	0
 quicuiusmodi	1	0	1	0	0	0
 quicum	106	1	104	0	0	1
 quicumq	3	0	0	0	0	3
-quicumque	432	5	349	0	2	76
+quicumque	433	5	349	0	2	77
 quicumquest	1	0	1	0	0	0
 quicumq˙ue	1	0	0	0	0	1
-quicumq＇ue	1	0	0	0	0	1
 quicumuis	1	0	1	0	0	0
 quicunque	28	4	11	2	0	11
 quicúmque	1	0	1	0	0	0
-quid	21319	207	20854	76	30	152
+quid	21321	207	20854	76	30	154
 quidam	3547	59	3459	1	3	25
 quidamque	6	0	6	0	0	0
 quidamst	1	0	1	0	0	0
@@ -2113,7 +2107,7 @@ quinquatribus	11	0	11	0	0	0
 quinquatrus	20	0	20	0	0	0
 quinquatruum	2	0	2	0	0	0
 quinquāginta	1	0	1	0	0	0
-quinque	1914	50	1451	54	147	212
+quinque	1915	50	1451	54	147	213
 quinquedentem	1	0	0	0	1	0
 quinquefoliae	2	0	2	0	0	0
 quinquefolii	16	0	16	0	0	0
@@ -2188,7 +2182,6 @@ quinquátrubus	1	0	1	0	0	0
 quinquértio	1	0	1	0	0	0
 quinquértiones	1	0	1	0	0	0
 quinquε	1	0	0	0	0	1
-quinq＇ue	1	0	0	0	0	1
 quinsac	1	0	0	0	0	1
 quint	44	0	38	0	1	5
 quinta	207	5	141	4	3	54
@@ -2293,8 +2286,7 @@ quintuiδus	1	0	0	0	0	1
 quintula	1	0	0	0	0	1
 quintum	354	1	329	1	5	18
 quintumque	6	0	6	0	0	0
-quintus	326	4	300	0	0	22
-quint＇us	4	0	0	0	0	4
+quintus	330	4	300	0	0	26
 quinum	33	0	31	0	0	2
 quinus	2	0	0	0	0	2
 quinze	1	0	0	0	0	1
@@ -2480,7 +2472,7 @@ qunque	1	0	0	0	0	1
 qunquε	1	0	0	0	0	1
 qunt	1	0	0	1	0	0
 qunuicsit	1	0	0	0	0	1
-quo	19310	369	18216	107	26	592
+quo	19311	369	18216	107	26	593
 quoa	1	0	0	1	0	0
 quoactile	2	0	0	0	1	1
 quoactus	2	0	0	2	0	0
@@ -2822,10 +2814,6 @@ quósum	1	0	1	0	0	0
 quót	3	0	3	0	0	0
 quótiens	1	0	1	0	0	0
 quóue	1	0	1	0	0	0
-qu͜anta	2	0	0	0	0	2
-qu͜i	1	0	0	0	0	1
-qu͜ia	2	0	0	0	0	2
-qu͜id	2	0	0	0	0	2
 quε	5	0	0	0	0	5
 quεi	1	0	0	0	0	1
 quεm	1	0	0	0	0	1
@@ -2845,9 +2833,6 @@ qz	1	0	0	0	0	1
 qâid	1	0	0	0	0	1
 qφs	1	0	0	0	0	1
 qϲ	3	3	0	0	0	0
-q＇ue	2	0	0	0	0	2
-q＇ui	1	0	0	0	0	1
-q＇uo	1	0	0	0	0	1
 \.
 
 

@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_z OWNER TO hippa_wr;
 --
 
 COPY wordcounts_z (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-z	1506	1414	23	26	36	7
+z	1507	1414	23	27	36	7
 za	14	9	0	3	0	2
 zab	1	0	0	1	0	0
 zaba	1	0	1	0	0	0
@@ -206,8 +206,7 @@ zea	9	0	7	0	1	1
 zeae	1	0	1	0	0	0
 zeas	1	0	1	0	0	0
 zeathum	1	0	1	0	0	0
-zeb	3	0	0	3	0	0
-zebai	1	0	0	1	0	0
+zeb	4	0	0	4	0	0
 zebedaei	1	0	1	0	0	0
 zebedei	2	0	0	0	0	2
 zebedeo	1	0	0	0	0	1
@@ -669,7 +668,6 @@ zoyli	4	0	0	0	0	4
 zozimas	1	0	0	0	0	1
 zpe	5	3	0	0	1	1
 zrw	3	0	0	0	0	3
-zs	1	0	0	1	0	0
 ztg	1	1	0	0	0	0
 zu	201	172	1	0	6	22
 zuaiene	1	0	0	0	0	1

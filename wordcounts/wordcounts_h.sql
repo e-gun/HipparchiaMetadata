@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_h OWNER TO hippa_wr;
 --
 
 COPY wordcounts_h (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-h	5527	4997	299	49	39	143
+h	5532	4997	299	53	40	143
 ha	44	16	18	1	1	8
 haas	1	1	0	0	0	0
 hab	20	5	1	3	0	11
@@ -169,8 +169,7 @@ haberens	2	0	0	0	0	2
 haberent	426	13	412	1	0	0
 haberentque	1	0	1	0	0	0
 haberentue	1	0	1	0	0	0
-haberentur	51	2	49	0	0	0
-haberent＇ur	2	0	0	0	0	2
+haberentur	53	2	49	0	0	2
 habereque	7	0	7	0	0	0
 haberes	107	0	106	1	0	0
 haberet	1100	12	1077	2	2	7
@@ -639,6 +638,8 @@ haeduum	4	0	4	0	0	0
 haeduus	5	0	5	0	0	0
 haegra	1	0	1	0	0	0
 haei	1	0	0	1	0	0
+haelda	1	0	0	0	0	1
+haelges	1	0	0	0	0	1
 haelia	2	0	0	0	0	2
 haeliae	1	0	0	0	0	1
 haelianae	1	0	0	0	0	1
@@ -1207,7 +1208,7 @@ hanaθ	1	1	0	0	0	0
 hanaψ	1	1	0	0	0	0
 hanb	1	1	0	0	0	0
 hanbt	1	1	0	0	0	0
-hanc	5498	154	4699	70	22	553
+hanc	5499	154	4699	70	22	554
 hanciliam	1	0	1	0	0	0
 hanciliorum	1	0	1	0	0	0
 hancin	3	0	3	0	0	0
@@ -1492,11 +1493,9 @@ harsa	1	0	1	0	0	0
 hart	1	1	0	0	0	0
 hartgarius	1	0	0	0	0	1
 hartmanni	2	0	0	0	0	2
-hartmannus	2	0	0	0	0	2
-hartmann＇us	2	0	0	0	0	2
+hartmannus	4	0	0	0	0	4
 hartmano	1	0	0	0	0	1
-hartmudus	1	0	0	0	0	1
-hartmud＇us	1	0	0	0	0	1
+hartmudus	2	0	0	0	0	2
 hartnandus	1	0	0	0	0	1
 hartxc	1	1	0	0	0	0
 haru	1	1	0	0	0	0
@@ -1559,7 +1558,7 @@ haruspéx	1	0	1	0	0	0
 haruxcψa	1	1	0	0	0	0
 harúndinem	1	0	1	0	0	0
 harúspicem	1	0	1	0	0	0
-has	1286	28	1184	9	5	60
+has	1285	28	1184	8	5	60
 hasal	2	0	0	0	0	2
 hasce	75	1	71	0	1	2
 hascia	1	0	0	1	0	0
@@ -1797,7 +1796,7 @@ hautu	1	0	1	0	0	0
 hauεtε	1	0	0	0	0	1
 hauξa	1	1	0	0	0	0
 haw	2	2	0	0	0	0
-haward͜h	1	0	0	0	0	1
+hawardh	1	0	0	0	0	1
 hax	3	3	0	0	0	0
 hayd	15	15	0	0	0	0
 hayduck	25	25	0	0	0	0
@@ -1816,8 +1815,6 @@ hăc	2	0	2	0	0	0
 hăec	1	0	1	0	0	0
 hănc	4	0	4	0	0	0
 hăs	1	0	1	0	0	0
-ha͜elda	1	0	0	0	0	1
-ha͜elges	1	0	0	0	0	1
 haθ	1	1	0	0	0	0
 haθtu	1	1	0	0	0	0
 haθtψaψb	1	1	0	0	0	0
@@ -1984,7 +1981,7 @@ hebrique	2	0	2	0	0	0
 hebris	1	0	1	0	0	0
 hebriue	1	0	1	0	0	0
 hebro	14	0	14	0	0	0
-hebroin＇us	1	0	0	0	0	1
+hebroinus	1	0	0	0	0	1
 hebronensis	2	0	0	0	0	2
 hebrum	23	0	23	0	0	0
 hebrumque	2	0	2	0	0	0
@@ -1992,7 +1989,7 @@ hebrus	23	0	23	0	0	0
 hebrusque	1	0	1	0	0	0
 hebudes	1	0	1	0	0	0
 hebulum	1	0	1	0	0	0
-hec	406	138	10	7	2	249
+hec	407	138	10	7	2	250
 hecab	1	1	0	0	0	0
 hecabe	8	0	8	0	0	0
 hecaben	2	0	2	0	0	0
@@ -2078,7 +2075,6 @@ hecubam	11	0	11	0	0	0
 hecura	1	0	1	0	0	0
 hecyra	12	2	10	0	0	0
 hecyram	1	0	1	0	0	0
-hec͜	1	0	0	0	0	1
 hed	1	0	0	0	0	1
 hedbunis	1	0	0	0	0	1
 heddo	1	0	0	0	0	1
@@ -2110,6 +2106,7 @@ hedeuigis	1	0	0	0	0	1
 hedewa	1	0	0	0	0	1
 hedewig	1	0	0	0	0	1
 hedewigis	3	0	0	0	0	3
+hedh	1	0	0	0	0	1
 hediae	1	0	1	0	0	0
 hedifficari	1	0	0	0	0	1
 hedificabismus	1	0	0	0	0	1
@@ -2138,7 +2135,6 @@ hedypnoide	1	0	1	0	0	0
 hedys	1	0	1	0	0	0
 hedysmata	1	0	1	0	0	0
 hedytium	1	0	1	0	0	0
-hed͜h	1	0	0	0	0	1
 hee	1	1	0	0	0	0
 heeg	2	2	0	0	0	0
 heelpis	1	0	0	0	0	1
@@ -2227,8 +2223,7 @@ heinrichs	1	0	0	0	0	1
 heinrici	14	0	0	0	0	14
 heinricio	1	0	0	0	0	1
 heinrico	11	0	0	0	0	11
-heinricus	43	0	0	0	0	43
-heinric＇us	11	0	0	0	0	11
+heinricus	54	0	0	0	0	54
 heinriet	1	0	0	0	0	1
 heinrih	2	0	0	0	0	2
 heinrus	2	0	0	0	0	2
@@ -2312,7 +2307,7 @@ helepolim	4	0	4	0	0	0
 helepolis	1	0	1	0	0	0
 heleusinius	1	0	0	0	0	1
 helfric	1	0	0	0	0	1
-helfric＇us	4	0	0	0	0	4
+helfricus	4	0	0	0	0	4
 helgas	1	0	1	0	0	0
 heli	8	0	0	3	0	5
 helia	10	0	0	6	0	4
@@ -2462,12 +2457,12 @@ helles	18	0	18	0	0	0
 hellesponti	26	1	23	0	0	2
 hellespontia	3	0	3	0	0	0
 hellespontiaca	1	0	1	0	0	0
+hellespontiacae	1	0	0	0	1	0
 hellespontiacas	1	0	1	0	0	0
 hellespontiaci	4	0	4	0	0	0
 hellespontiacis	2	0	2	0	0	0
 hellespontiaco	1	0	1	0	0	0
 hellespontiacos	1	0	1	0	0	0
-hellespontiac͜ae	1	0	0	0	1	0
 hellespontian	1	0	1	0	0	0
 hellesponticum	3	0	3	0	0	0
 hellespontii	1	0	1	0	0	0
@@ -2730,8 +2725,7 @@ henrici	21	0	0	0	0	21
 henrico	19	1	0	0	0	18
 henricu	1	0	0	0	0	1
 henricum	2	0	0	0	0	2
-henricus	41	0	0	0	0	41
-henric＇us	3	0	0	0	0	3
+henricus	44	0	0	0	0	44
 henry	76	7	0	0	69	0
 hense	62	62	0	0	0	0
 hentoru	1	0	0	1	0	0
@@ -2841,7 +2835,7 @@ heraclian	1	0	0	1	0	0
 heracliani	1	0	1	0	0	0
 heraclianum	1	0	1	0	0	0
 heraclianus	7	0	2	4	1	0
-heraclid	17	17	0	0	0	0
+heraclid	18	17	0	1	0	0
 heraclida	3	0	2	0	0	1
 heraclidae	3	1	2	0	0	0
 heraclidam	3	0	3	0	0	0
@@ -2856,7 +2850,6 @@ heraclideo	1	1	0	0	0	0
 heraclides	37	9	25	1	2	0
 heraclidesque	1	0	1	0	0	0
 heraclidi	2	0	2	0	0	0
-heraclidimose	1	0	0	1	0	0
 heraclidis	6	0	6	0	0	0
 heraclidu	2	0	0	1	1	0
 heraclie	1	0	0	0	0	1
@@ -2911,6 +2904,7 @@ heranes	3	0	0	3	0	0
 herardi	1	0	0	0	0	1
 herardus	1	0	0	0	0	1
 heras	3	0	2	1	0	0
+herasmi	1	0	0	0	0	1
 heratemis	1	1	0	0	0	0
 heratianon	2	0	0	2	0	0
 herba	446	3	442	0	0	1
@@ -3207,15 +3201,14 @@ heresue	4	0	3	1	0	0
 heret	1	0	0	0	0	1
 hereward	1	0	0	0	1	0
 herezo	2	0	0	0	0	2
-herfegtat͜h	1	0	0	0	0	1
+herfegtath	1	0	0	0	0	1
 hergates	1	0	1	0	0	0
 hergenuuuheim	1	0	0	0	0	1
 heri	133	2	128	0	1	2
 heribert	5	0	0	0	0	5
 heriberte	1	0	0	0	0	1
 heriberts	4	0	0	0	0	4
-heribertus	6	0	0	0	0	6
-heribert＇us	1	0	0	0	0	1
+heribertus	7	0	0	0	0	7
 heribrmno	1	0	0	0	0	1
 hericke	2	0	0	0	0	2
 heridanus	1	1	0	0	0	0
@@ -3280,8 +3273,7 @@ hermanni	8	4	0	0	0	4
 hermannique	1	0	0	0	0	1
 hermanno	6	1	0	0	0	5
 hermannum	3	2	0	0	0	1
-hermannus	12	0	0	0	0	12
-hermann＇us	3	0	0	0	0	3
+hermannus	15	0	0	0	0	15
 hermanricus	1	0	0	0	0	1
 hermanus	1	0	0	0	0	1
 hermaphroditas	1	0	1	0	0	0
@@ -3572,7 +3564,7 @@ herticheos	1	0	1	0	0	0
 hertl	1	1	0	0	0	0
 hertlein	1	1	0	0	0	0
 hertofile	1	0	0	0	0	1
-hertwic＇us	2	0	0	0	0	2
+hertwicus	2	0	0	0	0	2
 hertz	5	5	0	0	0	0
 hertzattici	1	1	0	0	0	0
 herue	1	0	0	0	0	1
@@ -3696,7 +3688,7 @@ hetaeriae	1	0	1	0	0	0
 hetaerias	1	0	1	0	0	0
 hetaerice	1	0	1	0	0	0
 hetas	1	0	0	0	0	1
-hetechens͜ten	2	0	0	0	0	2
+hetechensten	2	0	0	0	0	2
 heteloo	1	0	0	0	0	1
 hetereio	1	0	1	0	0	0
 hetereius	1	0	1	0	0	0
@@ -3771,7 +3763,7 @@ heía	3	0	3	0	0	0
 heú	5	0	5	0	0	0
 heús	16	0	16	0	0	0
 heˊrculem	1	0	0	1	0	0
-hē͜afuna͜es	1	0	0	0	0	1
+hēafunaes	1	0	0	0	0	1
 hĕm	2	0	2	0	0	0
 hĕrcle	3	0	3	0	0	0
 hĕrclest	1	0	1	0	0	0
@@ -3823,6 +3815,7 @@ hiabat	2	0	2	0	0	0
 hiacet	1	0	0	0	0	1
 hiacinthus	1	0	0	0	0	1
 hiacyntho	1	0	0	0	0	1
+hiae	3	0	0	0	0	3
 hian	1	0	0	1	0	0
 hianda	1	0	1	0	0	0
 hiandum	1	0	1	0	0	0
@@ -3858,7 +3851,6 @@ hiatum	17	0	17	0	0	0
 hiatus	65	0	65	0	0	0
 hiatusque	3	0	3	0	0	0
 hiauit	4	0	4	0	0	0
-hia͜e	3	0	0	0	0	3
 hibeh	2	2	0	0	0	0
 hiber	15	0	13	2	0	0
 hibera	25	0	23	0	0	2
@@ -4081,7 +4073,7 @@ hierax	8	0	0	8	0	0
 hieremiae	1	0	0	0	0	1
 hieremiam	3	2	0	0	0	1
 hieremias	7	0	0	0	0	7
-hiereneoth͜	1	0	0	0	0	1
+hiereneoth	1	0	0	0	0	1
 hiereum	1	0	0	1	0	0
 hierher	1	0	0	0	0	1
 hiericho	2	0	0	0	0	2
@@ -4257,7 +4249,7 @@ hilará	1	0	1	0	0	0
 hild	1	0	0	0	0	1
 hilda	1	0	0	0	0	1
 hildbertus	2	0	0	0	0	2
-hilddigyt͜h	1	0	0	0	0	1
+hilddigyth	1	0	0	0	0	1
 hildebaldi	2	0	0	0	0	2
 hildebaldus	1	0	0	0	0	1
 hildebertus	5	0	0	0	0	5
@@ -4289,7 +4281,7 @@ hildigarda	7	0	0	0	0	7
 hildigardis	1	0	0	0	0	1
 hildigerno	2	0	0	2	0	0
 hildigrim	2	0	0	0	0	2
-hildit͜hryt͜h	1	0	0	0	0	1
+hildithryth	1	0	0	0	0	1
 hildomundus	1	0	1	0	0	0
 hildprand	2	0	0	0	0	2
 hildric	1	0	0	0	0	1
@@ -4324,7 +4316,7 @@ hilperici	1	0	0	0	0	1
 hilpθ	1	1	0	0	0	0
 hilritiu	1	0	0	0	0	1
 hiltibalt	2	0	0	0	0	2
-hiltibb͜oald＇us	2	0	0	0	0	2
+hiltibboaldus	2	0	0	0	0	2
 hilui	1	0	0	0	0	1
 hilum	24	0	24	0	0	0
 hiluria	1	0	0	0	1	0
@@ -4373,7 +4365,7 @@ himnigilda	1	0	0	0	0	1
 himpe	1	0	0	0	1	0
 himself	2	0	0	0	2	0
 hin	4	0	0	0	0	4
-hina͜e	2	0	0	0	0	2
+hinae	2	0	0	0	0	2
 hinblick	1	1	0	0	0	0
 hinc	3087	53	2799	1	1	233
 hincmar	5	0	0	0	0	5
@@ -4647,8 +4639,7 @@ hique	21	0	21	0	0	0
 hir	1	0	1	0	0	0
 hira	1	0	1	0	0	0
 hiraclius	3	0	0	0	0	3
-hirae	1	0	1	0	0	0
-hira͜e	1	0	0	0	0	1
+hirae	2	0	1	0	0	1
 hirci	21	0	20	0	1	0
 hircina	1	0	1	0	0	0
 hircini	4	0	4	0	0	0
@@ -4748,7 +4739,7 @@ hirsutum	7	0	7	0	0	0
 hirsutumque	5	1	4	0	0	0
 hirsutus	10	0	9	0	0	1
 hirta	17	0	17	0	0	0
-hirtac＇us	1	0	0	0	0	1
+hirtacus	1	0	0	0	0	1
 hirtae	8	0	8	0	0	0
 hirtaeque	2	0	2	0	0	0
 hirtaeue	1	0	1	0	0	0
@@ -4801,7 +4792,7 @@ hirundo	25	0	24	0	0	1
 hirzel	1	1	0	0	0	0
 hirúdinem	1	0	1	0	0	0
 hirúndo	1	0	1	0	0	0
-his	8989	269	8347	117	21	235
+his	8990	269	8347	117	21	236
 hisagogi	3	0	0	0	0	3
 hisb	1	0	0	1	0	0
 hisbo	1	0	1	0	0	0
@@ -5023,7 +5014,6 @@ hiérocles	1	0	1	0	0	0
 hiúlca	1	0	1	0	0	0
 hĭc	33	0	33	0	0	0
 hĭnc	6	0	6	0	0	0
-hi＇s	1	0	0	0	0	1
 hk	4	4	0	0	0	0
 hkd	1	0	0	0	0	1
 hkma	3	3	0	0	0	0
@@ -5400,9 +5390,8 @@ hominesque	70	0	69	1	0	0
 hominesue	2	0	2	0	0	0
 homini	860	17	825	1	0	17
 hominib	2	0	0	0	0	2
-hominibus	1061	30	994	3	5	29
+hominibus	1064	30	994	3	5	32
 hominibusque	42	0	42	0	0	0
-hominib＇us	3	0	0	0	0	3
 hominique	2	0	2	0	0	0
 hominis	1382	56	1294	1	3	28
 hominisne	1	0	1	0	0	0
@@ -6551,7 +6540,7 @@ hristo	1	0	0	0	0	1
 hroatorum	1	0	0	0	0	1
 hrodberctum	1	0	0	0	0	1
 hrodperctus	1	0	0	0	0	1
-hroethberhta͜e	1	0	0	0	0	1
+hroethberhtae	1	0	0	0	0	1
 hronaes	1	0	0	0	0	1
 hrotgangus	2	0	0	0	0	2
 hrothardus	1	0	0	0	0	1
@@ -6560,7 +6549,7 @@ hrr	46	46	0	0	0	0
 hrt	1	0	0	0	0	1
 hruodberti	1	0	0	0	0	1
 hruodon	1	0	0	0	0	1
-hs	377	39	321	6	3	8
+hs	376	39	321	5	3	8
 hsantwn	1	1	0	0	0	0
 hsch	13	13	0	0	0	0
 hsd	48	48	0	0	0	0
@@ -6588,7 +6577,6 @@ htθm	1	1	0	0	0	0
 hu	84	74	2	0	0	8
 huaenae	2	0	0	0	1	1
 hualguerius	1	0	0	0	0	1
-huam	1	0	0	1	0	0
 huat	2	0	2	0	0	0
 hubaldi	1	0	0	0	0	1
 hubaldus	1	0	0	0	0	1
@@ -6629,18 +6617,16 @@ huiius	2	0	0	0	0	2
 huit	1	1	0	0	0	0
 huiu	21	0	21	0	0	0
 huiuis	2	0	0	0	0	2
-huius	3673	81	3105	32	24	431
+huius	3691	81	3105	32	24	449
 huiusce	218	2	209	3	0	4
 huiuscemodi	100	6	93	1	0	0
 huiusmodi	335	18	312	3	1	1
 huiusne	2	0	2	0	0	0
 huiusque	7	0	1	1	0	5
 huiusue	1	0	1	0	0	0
-huiu͜s	2	0	0	0	0	2
 huizecha	1	0	0	0	0	1
 huiús	1	0	1	0	0	0
 huĭc	2	0	2	0	0	0
-hui＇us	14	0	0	0	0	14
 huj	1	1	0	0	0	0
 hujus	16	14	0	0	0	2
 hujusmodi	1	1	0	0	0	0
@@ -6885,8 +6871,7 @@ hungrorum	2	0	0	0	0	2
 hunilam	1	0	1	0	0	0
 hunni	4	1	0	0	0	3
 hunnorum	2	2	0	0	0	0
-hunoldus	1	0	0	0	0	1
-hunold＇us	2	0	0	0	0	2
+hunoldus	3	0	0	0	0	3
 hunorum	5	0	0	0	0	5
 hunt	23	22	0	0	0	1
 hunum	2	0	0	0	0	2
@@ -6898,7 +6883,7 @@ hurio	1	0	0	0	0	1
 hurocus	1	0	0	0	0	1
 hursus	1	0	0	0	0	1
 hurum	1	0	0	0	0	1
-hus	5	0	0	2	1	2
+hus	6	0	0	3	1	2
 huscarl	1	0	0	0	0	1
 huschke	2	2	0	0	0	0
 husel	1	0	0	0	0	1
@@ -6927,9 +6912,9 @@ huψ	3	3	0	0	0	0
 huψaψb	1	1	0	0	0	0
 hw	3	2	0	0	0	1
 hwa	1	0	0	0	0	1
-hwa͜etred	1	0	0	0	0	1
+hwaetred	1	0	0	0	0	1
 hwchr	1	0	0	1	0	0
-hwet͜hra͜e	1	0	0	0	0	1
+hwethrae	1	0	0	0	0	1
 hwlm	2	0	0	0	0	2
 hwψa	1	1	0	0	0	0
 hx	1	1	0	0	0	0
@@ -7734,9 +7719,6 @@ hἠλίαϲ	1	0	0	1	0	0
 hἡρακλέων	1	0	0	1	0	0
 hὑπό	1	1	0	0	0	0
 hὡρ	11	0	0	11	0	0
-h＇anc	1	0	0	0	0	1
-h＇erasmi	1	0	0	0	0	1
-h＇uius	2	0	0	0	0	2
 \.
 
 

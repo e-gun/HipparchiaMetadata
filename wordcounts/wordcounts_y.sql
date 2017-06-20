@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_y OWNER TO hippa_wr;
 --
 
 COPY wordcounts_y (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-y	867	801	25	6	5	30
+y	869	803	25	6	5	30
 ya	4	1	0	2	1	0
 yaabalathi	1	0	0	1	0	0
 yabalathi	1	0	0	1	0	0
@@ -544,10 +544,8 @@ yαρᾶϲ	2	0	0	0	2	0
 yαρᾷ	1	0	0	0	1	0
 yαυ	2	0	0	0	2	0
 yιρθμεν	1	0	0	0	0	1
-yω	5	5	0	0	0	0
+yω	6	6	0	0	0	0
 yωm	1	1	0	0	0	0
-y⌉	2	2	0	0	0	0
-y⌉ω	1	1	0	0	0	0
 \.
 
 

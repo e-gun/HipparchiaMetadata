@@ -42,11 +42,11 @@ ALTER TABLE wordcounts_b OWNER TO hippa_wr;
 --
 
 COPY wordcounts_b (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-b	24899	23771	188	101	341	498
-ba	140	58	47	17	4	14
+b	24907	23771	188	109	341	498
+ba	142	58	47	19	4	14
 baae	1	0	0	1	0	0
 baatns	1	0	0	0	0	1
-bab	6	4	0	1	1	0
+bab	5	4	0	0	1	0
 baba	2	0	0	0	2	0
 babacos	1	0	0	0	1	0
 babae	10	1	9	0	0	0
@@ -413,6 +413,7 @@ baelone	1	0	1	0	0	0
 baenae	1	0	0	0	0	1
 baene	1	0	0	0	0	1
 baenemerenti	1	0	0	0	0	1
+baer	1	0	0	0	0	1
 baesadine	1	0	1	0	0	0
 baesidiae	1	0	1	0	0	0
 baesippo	3	0	3	0	0	0
@@ -1090,8 +1091,7 @@ barbarosque	1	0	1	0	0	0
 barbarossaae	2	0	0	0	0	2
 barbarossae	1	0	0	0	0	1
 barbarum	66	0	63	0	1	2
-barbarus	112	0	101	5	2	4
-barbar＇us	1	0	0	0	0	1
+barbarus	113	0	101	5	2	5
 barbas	9	0	7	0	0	2
 barbasatis	1	0	0	1	0	0
 barbastrensis	1	0	0	0	0	1
@@ -1300,7 +1300,7 @@ barroniano	1	0	0	0	0	1
 barros	1	0	1	0	0	0
 barroua	3	0	0	0	0	3
 barrus	4	0	4	0	0	0
-bars	2	0	0	2	0	0
+bars	3	0	0	3	0	0
 barsa	1	0	0	0	0	1
 barsames	1	0	0	0	0	1
 barsemea	1	0	0	1	0	0
@@ -1315,7 +1315,6 @@ barsimsi	7	0	0	7	0	0
 barsimsus	5	0	0	5	0	0
 barsine	1	0	1	0	0	0
 barsines	2	0	1	1	0	0
-barss	1	0	0	1	0	0
 barsum	1	0	0	1	0	0
 barsumius	1	0	0	1	0	0
 barta	1	0	0	0	0	1
@@ -1325,12 +1324,9 @@ bartholemeo	1	0	0	0	0	1
 bartholomaei	3	0	0	0	0	3
 bartholomaeus	9	0	0	0	0	9
 bartholomee	1	0	0	0	0	1
-bartholomei	22	0	0	0	0	22
+bartholomei	23	0	0	0	0	23
 bartholomeo	4	0	0	0	0	4
-bartholomeus	31	0	0	0	0	31
-bartholome＇us	3	0	0	0	0	3
-barthol＇omei	1	0	0	0	0	1
-barthol＇omeus	1	0	0	0	0	1
+bartholomeus	35	0	0	0	0	35
 bartikian	1	0	0	0	0	1
 barto	1	0	0	0	0	1
 bartoletti	2	2	0	0	0	0
@@ -1339,10 +1335,9 @@ bartolmeus	1	0	0	0	0	1
 bartolome	1	0	0	0	0	1
 bartolomei	6	0	0	0	0	6
 bartolomeo	1	0	0	0	0	1
-bartolomeus	24	0	0	0	0	24
-bartolomeu＇s	1	0	0	0	0	1
+bartolomeus	25	0	0	0	0	25
 bartolomius	1	0	0	0	0	1
-bartol＇us	1	0	0	0	0	1
+bartolus	1	0	0	0	0	1
 bartone	2	0	0	0	0	2
 bartω	1	0	0	0	0	1
 barualemtini	1	0	0	0	0	1
@@ -1475,8 +1470,7 @@ basilla	4	0	0	0	0	4
 basillae	1	0	0	0	0	1
 basilo	5	0	5	0	0	0
 basilum	5	0	5	0	0	0
-basilus	5	0	5	0	0	0
-basil＇us	1	0	0	0	0	1
+basilus	6	0	5	0	0	1
 basim	18	0	17	0	1	0
 basimque	1	0	1	0	0	0
 basin	1	0	1	0	0	0
@@ -1760,7 +1754,6 @@ bazge	1	0	0	0	0	1
 bazuzice	1	0	0	0	0	1
 baétere	1	0	1	0	0	0
 baétite	1	0	1	0	0	0
-ba͜er	1	0	0	0	0	1
 bb	121	117	0	1	0	3
 bba	1	0	0	1	0	0
 bbaei	1	0	0	1	0	0
@@ -2121,17 +2114,17 @@ bcu	12	12	0	0	0	0
 bcuald	21	21	0	0	0	0
 bcubcawd	1	1	0	0	0	0
 bcumald	1	1	0	0	0	0
+bcumnyωδ	1	1	0	0	0	0
 bcusyω	1	1	0	0	0	0
 bcusω	2	2	0	0	0	0
 bcuxcψa	1	1	0	0	0	0
+bcuφmoω	1	1	0	0	0	0
+bcuφn	1	1	0	0	0	0
+bcuφnω	1	1	0	0	0	0
 bcuφδ	1	1	0	0	0	0
 bcuφω	9	9	0	0	0	0
 bcuφωδ	1	1	0	0	0	0
 bcuωδ	1	1	0	0	0	0
-bcu⌉mnyωδ	1	1	0	0	0	0
-bcu⌉φmoω	1	1	0	0	0	0
-bcu⌉φn	1	1	0	0	0	0
-bcu⌉φnω	1	1	0	0	0	0
 bcw	1	1	0	0	0	0
 bcwd	3	3	0	0	0	0
 bcx	1	1	0	0	0	0
@@ -2152,7 +2145,7 @@ bcψ	1	1	0	0	0	0
 bcψaψb	1	1	0	0	0	0
 bcω	1	1	0	0	0	0
 bcωδ	1	1	0	0	0	0
-bd	2810	2803	0	3	1	3
+bd	2809	2803	0	2	1	3
 bda	1	1	0	0	0	0
 bdaehθ	1	1	0	0	0	0
 bdb	1	0	0	0	0	1
@@ -2272,7 +2265,7 @@ bdpty	39	39	0	0	0	0
 bdpuψa	1	1	0	0	0	0
 bdpxψaψbξa	1	1	0	0	0	0
 bdpy	39	39	0	0	0	0
-bdsae	1	0	0	1	0	0
+bds	1	0	0	1	0	0
 bdsjψψaψbξa	1	1	0	0	0	0
 bdssm	1	0	0	0	1	0
 bdt	1	1	0	0	0	0
@@ -2286,7 +2279,7 @@ bdxψ	2	2	0	0	0	0
 bdy	4	4	0	0	0	0
 bdθ	4	4	0	0	0	0
 bdψa	1	1	0	0	0	0
-be	221	106	4	7	28	76
+be	222	106	4	8	28	76
 bea	7	0	0	0	0	7
 beabit	3	0	2	0	0	1
 beam	1	0	0	1	0	0
@@ -2376,12 +2369,11 @@ beatulus	2	0	2	0	0	0
 beatum	188	5	160	1	1	21
 beatumque	3	1	2	0	0	0
 beatur	1	0	0	0	0	1
-beatus	284	9	186	0	0	89
+beatus	288	9	186	0	0	93
 beatusne	3	0	3	0	0	0
 beatusque	1	0	1	0	0	0
 beatust	1	0	1	0	0	0
 beatym	1	1	0	0	0	0
-beat＇us	4	0	0	0	0	4
 beauerit	1	0	1	0	0	0
 beaufort	1	0	0	0	1	0
 beauit	10	0	0	0	0	10
@@ -2505,7 +2497,6 @@ behθab	1	1	0	0	0	0
 behθu	3	3	0	0	0	0
 bei	77	74	0	1	0	2
 beia	1	0	1	0	0	0
-beias	1	0	0	1	0	0
 beibl	3	0	0	0	0	3
 beide	2	0	0	0	1	1
 beiden	9	1	0	0	2	6
@@ -2856,7 +2847,7 @@ bellária	1	0	1	0	0	0
 bellí	1	0	0	0	0	1
 bellórum	1	0	0	0	0	1
 bellúm	2	0	2	0	0	0
-belo	16	2	11	1	2	0
+belo	15	2	11	0	2	0
 beloacinsi	1	0	0	1	0	0
 beloch	1	0	0	0	1	0
 belona	1	0	1	0	0	0
@@ -2970,9 +2961,8 @@ benedictionis	2	0	0	1	0	1
 benedictis	2	1	1	0	0	0
 benedicto	10	0	0	1	0	9
 benedictum	12	0	0	0	0	12
-benedictus	73	0	13	0	0	60
+benedictus	76	0	13	0	0	63
 benedictâ	1	0	0	0	0	1
-benedict＇us	3	0	0	0	0	3
 benedicunt	2	0	0	0	0	2
 benedixerat	1	0	0	0	0	1
 benedixeris	1	0	0	0	0	1
@@ -3249,11 +3239,10 @@ benignosque	1	0	1	0	0	0
 benigns	1	0	0	0	0	1
 benignu	2	0	0	0	1	1
 benignum	26	0	17	0	0	9
-benignus	106	1	30	0	0	75
+benignus	107	1	30	0	0	76
 benignusne	1	0	1	0	0	0
 benignusque	1	0	1	0	0	0
 benignusue	2	1	1	0	0	0
-benign＇us	1	0	0	0	0	1
 benigua	1	0	0	0	0	1
 benimerenti	2	0	0	0	0	2
 benimus	1	0	0	0	0	1
@@ -3462,7 +3451,7 @@ berhthilt	1	0	0	0	0	1
 berhtoldi	2	0	0	0	0	2
 berhtoldo	1	0	0	0	0	1
 berhtoldus	1	0	0	0	0	1
-berhtsuit͜he	1	0	0	0	0	1
+berhtsuithe	1	0	0	0	0	1
 bericht	1	1	0	0	0	0
 berichte	1	1	0	0	0	0
 berici	1	0	0	0	0	1
@@ -3498,10 +3487,9 @@ bernardakis	2	2	0	0	0	0
 bernarde	1	0	0	0	0	1
 bernardi	26	0	0	0	0	26
 bernardini	1	0	0	0	0	1
-bernardo	5	0	0	0	0	5
+bernardo	6	0	0	0	0	6
 bernardum	1	0	0	0	0	1
-bernardus	91	0	0	0	0	91
-bernard＇us	1	0	0	0	0	1
+bernardus	92	0	0	0	0	92
 bernarδus	1	0	0	0	0	1
 bernat	1	0	0	0	0	1
 bernays	17	17	0	0	0	0
@@ -3544,7 +3532,7 @@ bero	2	0	0	0	0	2
 beroald	1	0	0	1	0	0
 beroaldus	2	0	0	2	0	0
 beroardi	4	0	0	0	0	4
-berod͜hor	1	0	0	0	0	1
+berodhor	1	0	0	0	0	1
 beroe	6	0	6	0	0	0
 beroea	7	0	7	0	0	0
 beroeaeus	3	0	3	0	0	0
@@ -3608,8 +3596,7 @@ berthoarae	1	0	0	0	0	1
 berthobodus	1	0	0	1	0	0
 berthold	1	0	0	0	1	0
 bertholdo	1	0	0	0	0	1
-bertholdus	7	0	0	0	0	7
-berthold＇us	1	0	0	0	0	1
+bertholdus	8	0	0	0	0	8
 bertichildis	3	0	0	0	0	3
 bertigisilo	1	0	0	1	0	0
 bertille	1	0	0	0	0	1
@@ -3620,8 +3607,7 @@ bertisindis	3	0	0	0	0	3
 bertoald	1	0	0	1	0	0
 bertold	1	0	0	0	0	1
 bertoldo	1	0	0	0	0	1
-bertoldus	2	0	0	0	0	2
-bertold＇us	2	0	0	0	0	2
+bertoldus	4	0	0	0	0	4
 bertolenus	2	0	0	2	0	0
 bertolfus	1	0	0	0	0	1
 bertolinus	1	0	0	0	0	1
@@ -4485,8 +4471,8 @@ bigor	2	0	0	0	0	2
 bigorritano	1	0	0	0	0	1
 bigot	1	0	0	0	0	1
 bigoten	1	0	0	0	0	1
-bihē͜ald	1	0	0	0	0	1
-bihē͜aldun	1	0	0	0	0	1
+bihēald	1	0	0	0	0	1
+bihēaldun	1	0	0	0	0	1
 bihi	2	0	0	0	0	2
 biho	1	0	0	0	0	1
 biibn	1	0	0	0	0	1
@@ -4815,7 +4801,7 @@ bishops	2	0	0	0	1	1
 bisica	1	0	0	0	0	1
 bisis	1	0	0	0	0	1
 bisit	16	0	0	0	0	16
-bisma͜era͜edu	1	0	0	0	0	1
+bismaeraedu	1	0	0	0	0	1
 bismi	1	0	0	0	0	1
 bisne	1	0	1	0	0	0
 biso	2	0	0	2	0	0
@@ -5329,7 +5315,7 @@ blo	1	0	0	1	0	0
 bloch	1	0	0	0	1	0
 block	9	0	0	0	9	0
 blocks	1	0	0	0	1	0
-bloda͜e	1	0	0	0	0	1
+blodae	1	0	0	0	0	1
 blode	1	0	0	0	0	1
 blomf	2	2	0	0	0	0
 bloss	1	0	0	0	0	1
@@ -5361,7 +5347,7 @@ blándior	1	0	1	0	0	0
 blánditer	1	0	1	0	0	0
 blánditia	1	0	1	0	0	0
 blándum	1	0	1	0	0	0
-bm	488	449	0	1	1	37
+bm	487	449	0	0	1	37
 bmarg	5	5	0	0	0	0
 bmba	2	2	0	0	0	0
 bmc	1	1	0	0	0	0
@@ -5371,7 +5357,6 @@ bmf	3	3	0	0	0	0
 bmg	1	1	0	0	0	0
 bmgcdeglθ	1	1	0	0	0	0
 bmgegl	1	1	0	0	0	0
-bmi	1	0	0	1	0	0
 bmm	79	79	0	0	0	0
 bmn	7	7	0	0	0	0
 bmnanbθtuxcψψaψb	1	1	0	0	0	0
@@ -5479,8 +5464,7 @@ bobodl	1	0	0	1	0	0
 bobolen	4	0	0	4	0	0
 bobolena	2	0	0	2	0	0
 boboleni	1	0	0	0	0	1
-bobolenus	2	0	0	1	0	1
-bobolenus͜	1	0	0	0	0	1
+bobolenus	3	0	0	1	0	2
 bobosen	2	0	0	2	0	0
 bobosenus	1	0	0	1	0	0
 bobosind	1	0	0	1	0	0
@@ -5518,7 +5502,7 @@ boculus	2	0	2	0	0	0
 bocunlus	1	0	1	0	0	0
 bocus	1	0	0	1	0	0
 boçalinus	1	0	0	0	0	1
-boçarin＇us	1	0	0	0	0	1
+boçarinus	1	0	0	0	0	1
 bod	1	0	0	1	0	0
 bodatole	1	0	0	0	0	1
 boddi	2	0	0	0	0	2
@@ -5771,9 +5755,8 @@ bomo	1	0	0	0	0	1
 bomonicae	2	0	2	0	0	0
 bon	27	7	0	1	1	18
 bona	2538	43	2292	8	22	173
-bonacursi	1	0	0	0	0	1
+bonacursi	2	0	0	0	0	2
 bonacursus	1	0	0	0	0	1
-bonacurs͜i	1	0	0	0	0	1
 bonae	790	2	382	5	19	382
 bonaeque	4	0	4	0	0	0
 bonagratia	2	0	0	0	0	2
@@ -5834,7 +5817,7 @@ bonetate	1	0	0	0	0	1
 boneti	2	0	0	0	0	2
 bonetus	4	0	0	0	0	4
 boneuallis	1	0	0	0	0	1
-boni	1004	26	942	2	1	33
+boni	1005	26	942	2	1	34
 bonifa	1	0	0	0	0	1
 bonifacii	9	1	0	0	0	8
 bonifacio	4	0	0	1	0	3
@@ -5967,7 +5950,6 @@ bonós	1	0	1	0	0	0
 bonúm	1	0	1	0	0	0
 bonúst	1	0	1	0	0	0
 bonε	2	0	0	0	0	2
-bon＇i	1	0	0	0	0	1
 book	7	5	0	0	0	2
 boona	2	0	0	0	0	2
 boopidis	1	0	1	0	0	0
@@ -6034,8 +6016,7 @@ borr	13	12	0	0	0	1
 borrel	1	0	0	0	0	1
 borreli	1	0	0	0	0	1
 borrelli	1	0	0	0	0	1
-borrellus	1	0	0	0	0	1
-borrell＇us	1	0	0	0	0	1
+borrellus	2	0	0	0	0	2
 borret	5	5	0	0	0	0
 borriano	1	0	0	0	0	1
 borries	6	6	0	0	0	0
@@ -6634,7 +6615,7 @@ bricciofrida	2	0	0	0	0	2
 bricii	2	0	0	0	0	2
 bricis	1	0	0	1	0	0
 bricius	1	0	0	0	0	1
-briciu＇us	1	0	0	0	0	1
+briciuus	1	0	0	0	0	1
 brick	1	0	0	0	0	1
 brickstamp	33	0	0	0	0	33
 brictius	1	0	0	0	0	1
@@ -7060,7 +7041,7 @@ brεuis	1	0	0	0	0	1
 brφmω	1	1	0	0	0	0
 brφnω	1	1	0	0	0	0
 brψaψb	1	1	0	0	0	0
-bs	21	12	0	5	0	4
+bs	20	12	0	4	0	4
 bsa	26	0	0	0	26	0
 bsaἀ	1	0	0	0	1	0
 bsc	1	1	0	0	0	0
@@ -7398,7 +7379,7 @@ bulnera	1	0	0	0	0	1
 buloto	1	0	1	0	0	0
 buluba	1	0	1	0	0	0
 bului	2	0	0	0	2	0
-bum	17	13	1	2	0	1
+bum	16	13	1	1	0	1
 buma	1	0	1	0	0	0
 bumae	1	1	0	0	0	0
 bumald	1	1	0	0	0	0
@@ -7474,8 +7455,7 @@ burcart	1	0	0	0	0	1
 burchard	2	0	0	0	0	2
 burchardi	4	0	0	0	0	4
 burchardo	5	0	0	0	0	5
-burchardus	3	0	0	0	0	3
-burchard＇us	1	0	0	0	0	1
+burchardus	4	0	0	0	0	4
 burcino	1	0	0	0	0	1
 burckardus	1	0	0	0	0	1
 burckh	1	1	0	0	0	0
@@ -7497,8 +7477,8 @@ burdonem	1	0	1	0	0	0
 burdones	1	0	1	0	0	0
 burdonis	4	0	0	0	3	1
 burdubasta	1	0	1	0	0	0
-bure	3	0	0	2	0	1
-buredrūd͜h	1	0	0	0	0	1
+bure	2	0	0	1	0	1
+buredrūdh	1	0	0	0	0	1
 burei	1	0	1	0	0	0
 buresa	6	0	0	6	0	0
 buresch	1	1	0	0	0	0
@@ -7567,7 +7547,7 @@ bursocauis	1	0	0	0	0	1
 burstein	2	0	0	0	2	0
 burtsitsinis	1	0	0	0	1	0
 burtt	1	1	0	0	0	0
-bus	56	2	22	10	3	19
+bus	58	2	22	11	4	19
 busa	2	0	2	0	0	0
 busae	1	0	1	0	0	0
 busalussorum	1	1	0	0	0	0
@@ -7589,7 +7569,7 @@ busiris	16	2	13	0	0	1
 busiriten	1	0	1	0	0	0
 buskerum	1	0	0	0	0	1
 busketi	2	0	0	0	0	2
-busket＇us	1	0	0	0	0	1
+busketus	1	0	0	0	0	1
 busomum	1	0	0	0	0	1
 busreui	1	0	1	0	0	0
 buss	1	1	0	0	0	0
@@ -7599,7 +7579,6 @@ bussenius	1	0	1	0	0	0
 bussi	1	0	0	0	0	1
 bussinus	1	0	0	1	0	0
 busso	1	0	1	0	0	0
-bussuis	1	0	0	1	0	0
 bust	11	0	0	0	10	1
 busta	80	0	65	0	0	15
 bustale	1	0	0	0	0	1
@@ -7734,20 +7713,18 @@ buˊ	1	0	0	1	0	0
 buφmoω	1	1	0	0	0	0
 buφmω	1	1	0	0	0	0
 buφnoω	1	1	0	0	0	0
+buφnoωδ	1	1	0	0	0	0
+buφnω	3	3	0	0	0	0
 buφosω	1	1	0	0	0	0
-buφyω	3	3	0	0	0	0
+buφyω	4	4	0	0	0	0
+buφyωδ	2	2	0	0	0	0
 buφʹ	1	0	0	0	1	0
 buφω	4	4	0	0	0	0
 buφωδ	6	6	0	0	0	0
 buψ	1	1	0	0	0	0
 buψa	1	1	0	0	0	0
 buψaψb	2	2	0	0	0	0
-buω	3	3	0	0	0	0
-bu⌉φnoωδ	1	1	0	0	0	0
-bu⌉φnω	3	3	0	0	0	0
-bu⌉φyω	1	1	0	0	0	0
-bu⌉φyωδ	2	2	0	0	0	0
-bu⌉ω	3	3	0	0	0	0
+buω	6	6	0	0	0	0
 bw	13	13	0	0	0	0
 bwchr	4	0	0	4	0	0
 bwdms	1	0	0	0	0	1
@@ -8023,7 +8000,6 @@ bὁμοίωϲ	1	1	0	0	0	0
 bῥέθοϲ	1	1	0	0	0	0
 b⏗	1	1	0	0	0	0
 b⏘	1	1	0	0	0	0
-b＇ernardo	1	0	0	0	0	1
 \.
 
 

@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_n OWNER TO hippa_wr;
 --
 
 COPY wordcounts_n (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-n	4893	3503	339	88	330	633
+n	4900	3503	339	95	330	633
 na	178	42	61	7	10	58
 naagb	1	1	0	0	0	0
 naamaei	1	0	0	1	0	0
@@ -192,6 +192,7 @@ naeuiis	1	0	1	0	0	0
 naeuio	32	0	31	0	1	0
 naeuium	34	0	34	0	0	0
 naeuius	98	0	98	0	0	0
+naeum	1	0	0	1	0	0
 naeuo	1	0	1	0	0	0
 naeuole	14	0	14	0	0	0
 naeuolos	1	0	1	0	0	0
@@ -253,12 +254,8 @@ naman	2	0	0	0	0	2
 namantabagio	1	0	1	0	0	0
 namarini	1	0	1	0	0	0
 namatius	2	0	0	0	0	2
-name	244	1	0	0	159	84
+name	249	1	0	0	164	84
 named	2	0	0	0	1	1
-namedemotic	1	0	0	0	1	0
-namedemoticαιων	1	0	0	0	1	0
-namedemoticλα	2	0	0	0	2	0
-namedemoticρατ	1	0	0	0	1	0
 namen	7	0	0	0	4	3
 namenliste	2	0	0	0	2	0
 namens	3	0	0	0	0	3
@@ -1085,7 +1082,7 @@ naturis	41	4	37	0	0	0
 naturális	1	0	0	0	0	1
 naturám	1	0	1	0	0	0
 naturε	1	0	0	0	0	1
-natus	1242	29	1033	5	16	159
+natus	1247	29	1033	5	16	164
 natusque	14	0	12	0	0	2
 natust	5	0	5	0	0	0
 natux	1	1	0	0	0	0
@@ -1099,7 +1096,6 @@ natúra	1	0	1	0	0	0
 natús	1	0	1	0	0	0
 natûra	1	0	1	0	0	0
 natε	1	0	0	0	0	1
-nat＇us	5	0	0	0	0	5
 nau	4	3	0	1	0	0
 naua	3	0	3	0	0	0
 nauabo	1	0	1	0	0	0
@@ -1222,7 +1218,7 @@ naufragum	16	0	16	0	0	0
 naufragus	50	0	50	0	0	0
 naufrágia	1	0	1	0	0	0
 naufylax	1	0	0	0	1	0
-naui	193	2	185	3	1	2
+naui	194	2	185	4	1	2
 nauia	3	0	3	0	0	0
 nauibus	716	1	703	2	2	8
 nauibusne	1	0	1	0	0	0
@@ -1377,7 +1373,7 @@ nauitas	7	0	7	0	0	0
 nauitatem	1	0	1	0	0	0
 nauiter	35	0	27	0	0	8
 nauitis	3	0	3	0	0	0
-nauium	387	7	376	1	2	1
+nauium	386	7	376	0	2	1
 nauiumque	4	0	4	0	0	0
 nauius	4	0	4	0	0	0
 nauli	3	0	1	0	1	1
@@ -1547,8 +1543,7 @@ nazareni	1	0	0	0	0	1
 nazarenos	1	0	0	0	0	1
 nazarenu	1	0	0	0	0	1
 nazarenum	2	0	0	0	0	2
-nazarenus	68	0	0	0	0	68
-nazaren＇us	2	0	0	0	0	2
+nazarenus	70	0	0	0	0	70
 nazareos	1	0	0	0	0	1
 nazareth	1	0	0	0	0	1
 nazareus	2	0	0	0	0	2
@@ -3596,7 +3591,6 @@ nexili	1	0	1	0	0	0
 nexilibus	2	0	2	0	0	0
 nexilibusque	1	0	1	0	0	0
 nexilis	5	0	5	0	0	0
-nexillrunt	1	0	0	1	0	0
 nexique	1	0	1	0	0	0
 nexis	14	0	14	0	0	0
 nexisti	2	0	2	0	0	0
@@ -3649,7 +3643,7 @@ nhugm	1	1	0	0	0	0
 nhugmrm	2	2	0	0	0	0
 nhum	2	2	0	0	0	0
 nhwϲ	1	1	0	0	0	0
-ni	940	9	838	20	14	59
+ni	941	9	838	21	14	59
 nia	13	0	1	0	5	7
 niaco	1	0	0	1	0	0
 niae	3	0	1	0	1	1
@@ -3662,7 +3656,6 @@ nianarum	1	0	0	0	0	1
 niane	2	0	0	0	0	2
 niano	1	0	0	0	0	1
 nianum	1	0	0	0	1	0
-nianus˙	1	0	0	1	0	0
 niar	1	0	0	0	0	1
 niarum	2	0	0	0	1	1
 niau	1	0	0	0	0	1
@@ -3778,9 +3771,8 @@ nichlaum	1	0	0	0	0	1
 nichodemus	1	0	0	0	0	1
 nicholai	9	0	0	0	0	9
 nicholao	2	0	0	0	0	2
-nicholaus	4	0	0	0	0	4
+nicholaus	6	0	0	0	0	6
 nicholay	1	0	0	0	0	1
-nichola＇us	2	0	0	0	0	2
 nichomachus	2	0	2	0	0	0
 nicht	41	10	0	0	29	2
 nichts	2	1	0	0	1	0
@@ -3831,7 +3823,7 @@ nicolaus	43	8	0	5	2	28
 nicolausque	1	0	1	0	0	0
 nicole	9	5	0	0	0	4
 nicoleonti	1	0	0	0	0	1
-nicol＇us	1	0	0	0	0	1
+nicolus	1	0	0	0	0	1
 nicom	23	23	0	0	0	0
 nicomach	1	1	0	0	0	0
 nicomachea	1	1	0	0	0	0
@@ -4703,7 +4695,7 @@ nnostrum	1	0	0	0	1	0
 nns	2	0	0	0	0	2
 nnul	1	0	0	0	0	1
 nnus	1	0	0	0	0	1
-no	398	44	42	21	163	128
+no	400	44	42	23	163	128
 noa	26	24	1	0	0	1
 noachi	1	1	0	0	0	0
 noachum	1	1	0	0	0	0
@@ -4712,7 +4704,6 @@ noah	3	0	0	0	0	3
 noaie	1	0	0	0	0	1
 noaldus	1	0	0	1	0	0
 noam	1	1	0	0	0	0
-noanec	1	0	0	1	0	0
 noat	1	0	0	0	0	1
 nob	56	0	0	0	0	56
 noba	7	0	0	0	0	7
@@ -4777,9 +4768,8 @@ nobilesque	2	0	2	0	0	0
 nobilest	1	0	1	0	0	0
 nobili	114	2	102	0	4	6
 nobilia	20	0	19	0	0	1
-nobilibus	69	0	68	0	0	1
+nobilibus	71	0	68	0	0	3
 nobilibusque	3	0	1	0	0	2
-nobilib＇us	2	0	0	0	0	2
 nobilinio	1	0	0	0	1	0
 nobilio	1	0	1	0	0	0
 nobilior	62	1	41	0	2	18
@@ -4866,9 +4856,8 @@ nobiliter	25	0	14	0	0	11
 nobilitetur	1	0	0	0	0	1
 nobilium	119	4	103	1	0	11
 nobiliumque	1	0	1	0	0	0
-nobilius	23	0	21	0	0	2
+nobilius	25	0	21	0	0	4
 nobiliusue	1	0	1	0	0	0
-nobili＇us	2	0	0	0	0	2
 nobillissimis	6	0	0	0	3	3
 nobillssimo	1	0	0	0	0	1
 nobilís	1	0	1	0	0	0
@@ -5272,7 +5261,7 @@ nomas	24	0	23	0	1	0
 nomasque	2	0	2	0	0	0
 nome	3	0	1	0	1	1
 nomem	1	0	0	1	0	0
-nomen	4672	102	3716	35	493	326
+nomen	4674	102	3716	35	495	326
 nomena	2	0	0	1	0	1
 nomenata	1	0	0	1	0	0
 nomenato	1	0	0	1	0	0
@@ -5294,8 +5283,6 @@ nomenculator	5	0	5	0	0	0
 nomenculatores	2	0	2	0	0	0
 nomenculatoribus	1	0	1	0	0	0
 nomenculatoris	2	0	2	0	0	0
-nomendemoticum	1	0	0	0	1	0
-nomendemoticumτιο	1	0	0	0	1	0
 nomene	29	0	0	5	0	24
 nomeni	4	0	0	0	0	4
 nomenione	1	0	0	0	1	0
@@ -5460,7 +5447,7 @@ nominauimus	6	0	6	0	0	0
 nominauisse	1	0	1	0	0	0
 nominauisset	2	0	2	0	0	0
 nominauit	95	1	93	0	0	1
-nomine	5288	109	4114	79	40	946
+nomine	5289	109	4114	79	40	947
 nominebus	3	0	0	3	0	0
 nominei	1	0	1	0	0	0
 nominem	19	0	19	0	0	0
@@ -5475,7 +5462,6 @@ nominest	1	0	1	0	0	0
 nominet	14	0	14	0	0	0
 nominetis	1	0	1	0	0	0
 nominetur	21	3	18	0	0	0
-nomine͜	1	0	0	0	0	1
 nomini	142	1	123	2	1	15
 nominibus	486	23	449	3	9	2
 nominibusque	9	0	9	0	0	0
@@ -5531,7 +5517,6 @@ nonacris	3	1	2	0	0	0
 nonacrius	1	0	1	0	0	0
 nonacusi	1	0	0	1	0	0
 nonae	20	0	16	0	3	1
-nonaeum	1	0	0	1	0	0
 nonagenaria	1	0	1	0	0	0
 nonagenarius	3	0	3	0	0	0
 nonagenis	3	0	2	0	0	1
@@ -5544,7 +5529,7 @@ nonagesima	3	0	0	0	0	3
 nonagesimo	25	0	6	0	0	19
 nonagesimoque	1	0	0	0	0	1
 nonagesimum	9	0	9	0	0	0
-nonagesim＇us	1	0	0	0	0	1
+nonagesimus	1	0	0	0	0	1
 nonagiens	1	0	1	0	0	0
 nonagies	2	0	2	0	0	0
 nonaginta	72	5	53	6	0	8
@@ -6188,7 +6173,7 @@ notu	3	0	3	0	0	0
 notuere	1	0	1	0	0	0
 notuerunt	1	0	1	0	0	0
 notuit	1	0	1	0	0	0
-notum	297	4	270	7	1	15
+notum	298	4	270	8	1	15
 notumque	14	0	14	0	0	0
 notus	209	0	190	0	0	19
 notusque	15	0	14	0	0	1
@@ -6621,7 +6606,7 @@ nror	1	0	0	0	0	1
 nrs	1	1	0	0	0	0
 nrt	1	0	1	0	0	0
 nrᾶcepistlat	1	0	0	1	0	0
-ns	141	40	7	66	2	26
+ns	139	40	7	64	2	26
 nsa	2	0	0	1	0	1
 nsaath	1	0	0	1	0	0
 nsanp	1	0	0	0	0	1
@@ -6668,7 +6653,7 @@ nsuλxsu	1	1	0	0	0	0
 nsy	1	1	0	0	0	0
 nšmth	2	0	0	0	0	2
 nsϲ	1	1	0	0	0	0
-nt	47	8	5	11	3	20
+nt	48	8	5	12	3	20
 nta	2	0	0	0	0	2
 ntae	1	0	0	1	0	0
 ntano	1	0	0	1	0	0
@@ -6682,7 +6667,7 @@ nteo	1	0	0	0	0	1
 nter	1	0	1	0	0	0
 ntes	2	0	0	0	1	1
 nth	1	0	0	0	1	0
-nti	21	0	0	7	1	13
+nti	20	0	0	6	1	13
 ntia	2	0	0	0	0	2
 ntibus	2	0	1	0	0	1
 ntiiii	1	0	0	0	0	1
@@ -7075,10 +7060,9 @@ nullique	40	0	35	3	0	2
 nullis	416	10	397	1	0	8
 nullisne	1	0	1	0	0	0
 nullisque	19	1	18	0	0	0
-nullius	469	7	454	3	0	5
+nullius	471	7	454	3	0	7
 nulliusque	2	0	2	0	0	0
 nullī	1	0	1	0	0	0
-nulli＇us	2	0	0	0	0	2
 nullo	1667	41	1576	14	4	32
 nullodum	2	0	2	0	0	0
 nullon	2	0	2	0	0	0
@@ -7096,7 +7080,7 @@ nullum	1693	42	1617	4	5	25
 nullumne	6	0	6	0	0	0
 nullumque	29	2	26	0	0	1
 nullumst	2	0	2	0	0	0
-nullus	744	17	638	4	1	84
+nullus	745	17	638	5	1	84
 nullusne	2	0	2	0	0	0
 nullusnest	1	0	1	0	0	0
 nullusque	9	0	7	0	0	2
@@ -7324,12 +7308,11 @@ numerous	3	0	0	0	3	0
 numeru	3	0	1	0	0	2
 numerum	806	19	750	3	14	20
 numerumque	20	0	20	0	0	0
-numerus	614	26	497	46	35	10
+numerus	616	26	497	46	35	12
 numerusque	11	1	10	0	0	0
 numerusτα	1	0	0	0	1	0
 numeráto	1	0	0	0	0	1
 numeró	2	0	2	0	0	0
-numer＇us	2	0	0	0	0	2
 numesianum	1	0	0	1	0	0
 numestio	2	0	2	0	0	0
 numestium	2	0	2	0	0	0
@@ -7859,7 +7842,7 @@ nurusque	13	0	13	0	0	0
 nurusue	1	0	1	0	0	0
 nuruue	1	0	1	0	0	0
 nuruumque	1	0	1	0	0	0
-nus	125	0	5	32	14	74
+nus	127	0	5	32	14	76
 nuscetur	1	0	0	1	0	0
 nuscitiones	2	0	2	0	0	0
 nuscitiosum	3	0	3	0	0	0
@@ -8407,7 +8390,6 @@ nφ	1	1	0	0	0	0
 nψ	1	0	0	0	1	0
 nψh	1	0	0	0	0	1
 nϲ	12	12	0	0	0	0
-n＇us	2	0	0	0	0	2
 \.
 
 

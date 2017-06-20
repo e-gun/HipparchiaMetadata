@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_e OWNER TO hippa_wr;
 --
 
 COPY wordcounts_e (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-e	11849	5438	5659	166	145	441
+e	11856	5438	5659	170	148	441
 ea	12894	313	12329	67	31	154
 eaa	1	0	1	0	0	0
 eaalomo	1	0	0	0	0	1
@@ -106,7 +106,7 @@ eamulus	1	0	0	0	0	1
 eamus	87	0	85	2	0	0
 eamusque	1	0	1	0	0	0
 ean	2	0	1	0	0	1
-eancepeostrec	1	0	0	0	1	0
+eancepeostre	1	0	0	0	1	0
 eandem	904	23	863	5	2	11
 eandemque	55	5	49	0	0	1
 eandém	1	0	1	0	0	0
@@ -187,7 +187,7 @@ eaοὖν	1	1	0	0	0	0
 eaχρῶμα	1	1	0	0	0	0
 eaἀξιοῦϲί	1	1	0	0	0	0
 eaὡϲαύτωϲ	1	1	0	0	0	0
-eb	16	14	0	2	0	0
+eb	17	14	0	3	0	0
 ebantius	1	0	0	0	0	1
 ebarb	10	10	0	0	0	0
 ebarbmatr	1	1	0	0	0	0
@@ -274,7 +274,6 @@ eblandito	1	0	1	0	0	0
 eblanditum	1	0	1	0	0	0
 eblanditur	2	0	2	0	0	0
 eblythaei	1	0	1	0	0	0
-ebmt	1	0	0	1	0	0
 ebna	1	0	0	0	0	1
 ebo	7	0	1	0	0	6
 ebor	1	0	1	0	0	0
@@ -434,7 +433,7 @@ ebyso	1	0	1	0	0	0
 ebíbere	1	0	1	0	0	0
 ebθ	2	2	0	0	0	0
 ebθb	2	2	0	0	0	0
-ec	45	7	9	6	3	20
+ec	46	7	9	6	4	20
 eca	2	0	0	1	0	1
 ecaergas	1	0	1	0	0	0
 ecaesent	1	0	0	1	0	0
@@ -489,7 +488,7 @@ eccle	2	0	0	0	0	2
 ecclecie	1	0	0	0	0	1
 eccles	32	30	0	0	0	2
 ecclesi	4	0	0	0	0	4
-ecclesia	263	1	15	29	6	212
+ecclesia	264	1	15	29	6	213
 ecclesiae	411	15	7	90	0	299
 ecclesiaeque	2	0	0	0	0	2
 ecclesiam	155	2	8	14	0	131
@@ -508,7 +507,7 @@ ecclesiastico	1	0	1	0	0	0
 ecclesiasticorym	1	1	0	0	0	0
 ecclesiazysas	1	1	0	0	0	0
 ecclesiaéoperis	1	0	0	0	0	1
-ecclesie	283	0	0	1	0	282
+ecclesie	285	0	0	1	0	284
 ecclesieque	1	0	0	0	0	1
 ecclesiȩ	5	0	0	0	0	5
 ecclesiis	9	0	1	1	0	7
@@ -525,8 +524,6 @@ ecclisiar	1	0	0	1	0	0
 ecclisiarum	1	0	0	1	0	0
 eccllesie	3	0	0	0	0	3
 ecclεs	1	0	0	0	0	1
-eccl＇esia	1	0	0	0	0	1
-eccl＇esie	2	0	0	0	0	2
 eccos	9	0	9	0	0	0
 eccui	2	0	2	0	0	0
 ecculesiam	1	0	0	0	0	1
@@ -536,6 +533,7 @@ eccám	1	0	1	0	0	0
 eccás	1	0	1	0	0	0
 eccúm	6	0	6	0	0	0
 ecdemeticus	2	0	2	0	0	0
+ecdh	1	0	0	0	0	1
 ecdici	1	0	1	0	0	0
 ecdicos	2	0	2	0	0	0
 ecdicus	1	0	1	0	0	0
@@ -543,7 +541,6 @@ ecdini	1	0	1	0	0	0
 ecdippa	1	0	1	0	0	0
 ecdoto	1	0	0	0	0	1
 ecdotoicu	1	0	0	0	0	1
-ecd͜h	1	0	0	0	0	1
 ecdθ	1	1	0	0	0	0
 ece	4	2	0	0	0	2
 ecec	1	0	0	0	0	1
@@ -723,7 +720,6 @@ echus	1	1	0	0	0	0
 eci	2	0	0	1	0	1
 eciam	11	7	0	0	0	4
 ecidere	1	0	0	0	1	0
-ecii	1	0	0	0	1	0
 ecile	3	0	0	0	2	1
 ecillu	1	0	0	1	0	0
 ecin	1	0	0	0	1	0
@@ -839,10 +835,10 @@ ectropas	1	0	1	0	0	0
 ectropion	1	0	1	0	0	0
 ectse	1	0	0	1	0	0
 ectum	1	0	0	0	0	1
+ectus	1	0	0	0	0	1
 ectypa	2	0	2	0	0	0
 ectypas	1	0	1	0	0	0
 ectypon	1	0	0	0	1	0
-ect＇us	1	0	0	0	0	1
 ecu	2	1	0	0	0	1
 ecua	3	0	0	0	0	3
 eculei	3	0	3	0	0	0
@@ -859,18 +855,18 @@ eculum	1	0	1	0	0	0
 ecum	34	2	29	3	0	0
 ecuo	1	0	0	0	0	1
 ecurria	1	0	1	0	0	0
-ecus	19	0	17	0	1	1
+ecus	18	0	17	0	0	1
 ecusne	1	0	1	0	0	0
 ecuóluere	1	0	1	0	0	0
 ecuφoωδ	1	1	0	0	0	0
+ecuφyω	1	1	0	0	0	0
 ecuφδ	3	3	0	0	0	0
 ecuφω	2	2	0	0	0	0
 ecuφωδ	7	7	0	0	0	0
-ecu⌉φyω	1	1	0	0	0	0
 ecyniorum	1	1	0	0	0	0
 ecástor	3	0	3	0	0	0
 ecúleum	1	0	1	0	0	0
-ed	738	667	1	24	20	26
+ed	739	667	1	25	20	26
 eda	1	0	0	1	0	0
 edace	1	0	1	0	0	0
 edacem	5	0	5	0	0	0
@@ -962,7 +958,7 @@ ederis	3	0	3	0	0	0
 ederit	11	0	11	0	0	0
 edern	1	0	0	0	0	1
 ederunt	2	0	2	0	0	0
-edes	16	0	13	0	0	3
+edes	17	0	13	0	0	4
 edesco	1	0	1	0	0	0
 edesitae	1	0	1	0	0	0
 edessa	1	0	1	0	0	0
@@ -978,9 +974,10 @@ edetur	3	2	1	0	0	0
 edeus	2	0	0	0	0	2
 edgar	1	1	0	0	0	0
 edge	9	0	0	0	5	4
-edi	77	4	63	8	0	2
+edhiluualdi	1	0	0	0	0	1
+edi	78	4	63	9	0	2
 edibus	3	0	0	0	0	3
-edic	4	0	0	0	1	3
+edic	5	0	0	0	2	3
 edicam	5	0	5	0	0	0
 edicamus	1	0	1	0	0	0
 edicant	1	0	1	0	0	0
@@ -1221,6 +1218,7 @@ edituros	1	0	1	0	0	0
 editurum	3	0	3	0	0	0
 editurus	5	1	4	0	0	0
 editus	87	3	77	0	3	4
+edium	1	0	0	1	0	0
 edixeram	1	0	1	0	0	0
 edixerant	1	0	1	0	0	0
 edixeras	2	0	2	0	0	0
@@ -1545,19 +1543,15 @@ edísti	1	0	1	0	0	0
 edúcta	1	0	1	0	0	0
 edúlibus	1	0	1	0	0	0
 edúnt	1	0	1	0	0	0
-ed͜es	1	0	0	0	0	1
-ed͜hiluualdi	1	0	0	0	0	1
-ee	36	28	0	4	1	3
+ee	38	28	0	5	2	3
 eeaomnia	1	0	0	1	0	0
 eec	1	0	0	1	0	0
 eeccataio	1	0	0	0	1	0
-eecceeen	1	0	0	1	0	0
 eecclesiam	2	0	0	0	0	2
-eecep	1	0	0	0	1	0
 eecit	1	0	0	0	0	1
-eeee	1	0	0	1	0	0
+eee	1	0	0	1	0	0
 eeeras	1	0	0	1	0	0
-eeexctiogenteee	1	0	0	1	0	0
+eeexctio	1	0	0	1	0	0
 eei	1	0	0	0	0	1
 eel	1	0	0	1	0	0
 eemera	1	0	0	1	0	0
@@ -2551,7 +2545,7 @@ egenum	15	0	7	0	0	8
 egenus	9	0	4	0	0	5
 egeo	26	2	24	0	0	0
 egeor	1	0	1	0	0	0
-eger	6	0	0	6	0	0
+eger	7	0	0	7	0	0
 egeram	11	0	11	0	0	0
 egerant	14	0	14	0	0	0
 egeras	3	0	3	0	0	0
@@ -2596,7 +2590,6 @@ egerminauit	1	0	1	0	0	0
 egerminent	1	0	1	0	0	0
 egerminet	1	0	1	0	0	0
 egero	21	0	21	0	0	0
-egerp	1	0	0	1	0	0
 egerunt	90	2	87	0	0	1
 egeruntque	1	0	1	0	0	0
 egeruntur	3	0	3	0	0	0
@@ -2658,7 +2651,7 @@ egidio	6	0	0	0	0	6
 egidius	4	0	0	0	0	4
 egigni	1	0	1	0	0	0
 egil	2	0	0	0	0	2
-egilbert＇us	2	0	0	0	0	2
+egilbertus	2	0	0	0	0	2
 egilia	1	0	1	0	0	0
 egilio	1	0	1	0	0	0
 egilis	2	0	0	0	0	2
@@ -2809,12 +2802,11 @@ egregiosque	3	0	3	0	0	0
 egregissime	1	0	1	0	0	0
 egregium	179	1	163	0	2	13
 egregiumque	3	0	3	0	0	0
-egregius	194	3	108	1	3	79
+egregius	195	3	108	1	3	80
 egregiusque	3	0	3	0	0	0
 egregiè	1	0	0	0	0	1
 egregié	2	0	2	0	0	0
 egregiíssima	1	0	1	0	0	0
-egregi＇us	1	0	0	0	0	1
 egregrius	1	0	0	0	0	1
 egressa	49	1	48	0	0	0
 egressae	8	0	8	0	0	0
@@ -2982,7 +2974,7 @@ ehθs	1	1	0	0	0	0
 ehθsu	1	1	0	0	0	0
 ehθt	3	3	0	0	0	0
 ehθu	6	6	0	0	0	0
-ei	7488	109	7096	131	16	136
+ei	7490	109	7096	133	16	136
 eia	11	0	10	0	0	1
 eiabus	1	0	0	1	0	0
 eiaculabitur	1	0	1	0	0	0
@@ -2995,6 +2987,8 @@ eiaculent	1	0	1	0	0	0
 eiae	1	0	0	0	0	1
 eiam	1	0	0	0	1	0
 eiarinon	1	0	1	0	0	0
+eias	1	0	0	1	0	0
+eib	2	0	0	2	0	0
 eice	1	0	1	0	0	0
 eicere	21	0	21	0	0	0
 eicerem	2	0	2	0	0	0
@@ -3234,10 +3228,10 @@ eiurem	1	0	1	0	0	0
 eiurent	1	0	1	0	0	0
 eiures	1	0	1	0	0	0
 eiuro	2	0	2	0	0	0
-eius	16990	266	15386	218	162	958
+eius	17024	266	15386	218	162	992
 eiusd	15	12	0	0	0	3
 eiusde	1	0	0	1	0	0
-eiusdem	1523	62	1288	47	30	96
+eiusdem	1530	62	1288	47	30	103
 eiusdemmodi	7	1	6	0	0	0
 eiusdemq	1	0	0	0	0	1
 eiusdemqque	1	0	0	0	0	1
@@ -3260,8 +3254,6 @@ eī	1	0	1	0	0	0
 ei͡	31	0	31	0	0	0
 ei͡ne	1	0	1	0	0	0
 eiινον	1	0	0	0	1	0
-ei＇us	34	0	0	0	0	34
-ei＇usdem	7	0	0	0	0	7
 ej	1	1	0	0	0	0
 ejecisse	1	1	0	0	0	0
 ejecisset	1	1	0	0	0	0
@@ -3275,7 +3267,7 @@ ejusque	4	4	0	0	0	0
 ejysdem	1	1	0	0	0	0
 ek	2	2	0	0	0	0
 eka	1	0	0	0	1	0
-ekcbert＇us	1	0	0	0	0	1
+ekcbertus	1	0	0	0	0	1
 eke	1	0	0	0	1	0
 ekea	1	0	0	0	1	0
 ekeleese	1	0	0	0	1	0
@@ -3307,7 +3299,7 @@ ekone	1	0	0	0	1	0
 ekquin	2	0	0	0	0	2
 ekθ	1	1	0	0	0	0
 ekθθ	1	1	0	0	0	0
-el	104	57	22	8	0	17
+el	105	57	22	9	0	17
 ela	3	0	0	1	0	2
 elabar	1	0	1	0	0	0
 elabatur	2	0	2	0	0	0
@@ -3377,6 +3369,7 @@ elacatae	1	0	1	0	0	0
 elacio	1	1	0	0	0	0
 elactescit	1	0	1	0	0	0
 eladio	1	0	0	0	0	1
+elae	1	0	0	0	0	1
 elaea	9	0	9	0	0	0
 elaeae	4	0	4	0	0	0
 elaeam	14	0	14	0	0	0
@@ -3503,10 +3496,9 @@ elauer	3	0	3	0	0	0
 elauere	1	0	1	0	0	0
 elaui	3	0	3	0	0	0
 elautae	1	0	1	0	0	0
-ela͜e	1	0	0	0	0	1
 elba	1	0	0	1	0	0
 elbe	1	0	0	0	0	1
-elberic＇us	2	0	0	0	0	2
+elbericus	2	0	0	0	0	2
 elbocori	1	0	1	0	0	0
 elbora	2	0	0	0	0	2
 elceatctaecle	2	0	0	0	0	2
@@ -3523,6 +3515,7 @@ eldeuerta	1	0	0	0	0	1
 eldfredus	1	0	0	0	0	1
 eldoncia	1	0	0	0	0	1
 eldonciae	1	0	0	0	0	1
+eldsa	1	0	0	1	0	0
 ele	2	0	2	0	0	0
 elea	6	1	5	0	0	0
 eleae	3	0	3	0	0	0
@@ -3608,9 +3601,8 @@ electuram	1	0	1	0	0	0
 electuris	1	0	1	0	0	0
 electurum	3	0	3	0	0	0
 electurus	5	0	3	0	2	0
-electus	80	3	55	0	0	22
+electus	81	3	55	0	0	23
 electusque	3	0	3	0	0	0
-elect＇us	1	0	0	0	0	1
 eleemosinas	1	0	0	0	0	1
 eleemosyna	2	0	0	1	0	1
 eleemosynis	3	0	0	0	0	3
@@ -3901,8 +3893,7 @@ eleutherionem	1	0	0	1	0	0
 eleutherioni	2	0	0	2	0	0
 eleutherionis	1	0	0	1	0	0
 eleutheris	1	0	1	0	0	0
-eleutherius	2	0	0	1	0	1
-eleutheri＇us	1	0	0	0	0	1
+eleutherius	3	0	0	1	0	2
 eleuthernae	1	0	1	0	0	0
 eleutherocilicum	2	0	2	0	0	0
 eleutheros	1	0	1	0	0	0
@@ -4646,7 +4637,7 @@ elíciunt	1	0	1	0	0	0
 elíminat	2	0	2	0	0	0
 elíminor	1	0	1	0	0	0
 elóquere	3	0	3	0	0	0
-em	3279	3030	175	29	23	22
+em	3282	3030	175	32	23	22
 ema	12	10	0	1	0	1
 emacem	4	0	4	0	0	0
 emaceratos	1	0	1	0	0	0
@@ -5180,7 +5171,6 @@ emetiri	1	0	1	0	0	0
 emetiris	1	0	1	0	0	0
 emetitur	3	0	3	0	0	0
 emetiuntur	2	0	2	0	0	0
-emetrorum	1	0	0	1	0	0
 emetur	7	0	7	0	0	0
 emeum	2	1	1	0	0	0
 emfaticos	1	1	0	0	0	0
@@ -5806,7 +5796,7 @@ emθs	1	1	0	0	0	0
 emθt	1	1	0	0	0	0
 emθu	5	5	0	0	0	0
 emουcallinicu	1	0	0	1	0	0
-en	835	108	430	8	10	279
+en	839	108	430	12	10	279
 ena	16	7	1	0	1	7
 enabarr	2	0	0	0	0	2
 enabarri	2	0	0	0	0	2
@@ -6104,7 +6094,7 @@ engel	16	0	0	0	0	16
 engelberti	1	0	0	0	0	1
 engelbertus	4	0	0	0	0	4
 engelbr	1	1	0	0	0	0
-engelhard＇us	1	0	0	0	0	1
+engelhardus	1	0	0	0	0	1
 engelmatthäus	1	0	0	0	0	1
 engelmedaillons	1	0	0	0	0	1
 engeln	4	0	0	0	0	4
@@ -6411,7 +6401,7 @@ ensisque	2	0	2	0	0	0
 enspcf	1	0	0	0	0	1
 ensum	2	0	1	1	0	0
 ensurio	1	0	0	0	0	1
-ent	9	0	4	1	1	3
+ent	10	0	4	2	1	3
 entabent	1	0	0	1	0	0
 entade	1	0	0	0	0	1
 ente	2	0	0	1	1	0
@@ -6633,7 +6623,7 @@ enuolter	1	0	0	0	0	1
 enupsissent	1	0	1	0	0	0
 enupsisset	1	0	1	0	0	0
 enuptio	1	0	1	0	0	0
-enus	4	0	0	4	0	0
+enus	3	0	0	3	0	0
 enutriantur	1	0	1	0	0	0
 enutrienda	1	0	1	0	0	0
 enutriendo	1	1	0	0	0	0
@@ -6676,7 +6666,7 @@ eodrulfus	1	0	0	1	0	0
 eodum	1	0	1	0	0	0
 eodém	4	0	4	0	0	0
 eoffolenus	1	0	0	1	0	0
-eofrid͜h	1	0	0	0	0	1
+eofridh	1	0	0	0	0	1
 eofrīc	1	0	0	0	0	1
 eohaer	1	0	0	0	0	1
 eoi	17	0	16	0	0	1
@@ -6686,11 +6676,9 @@ eoisque	1	0	1	0	0	0
 eolalie	1	0	0	0	0	1
 eolalii	2	0	0	0	0	2
 eoli	1	0	0	1	0	0
-eomae	1	0	0	0	0	1
-eomaer	1	0	0	0	0	1
+eomae	2	0	0	0	0	2
+eomaer	2	0	0	0	0	2
 eomaris	1	0	0	1	0	0
-eoma͜e	1	0	0	0	0	1
-eoma͜er	1	0	0	0	0	1
 eomesind	1	0	0	1	0	0
 eomini	1	0	0	1	0	0
 eomori	1	0	1	0	0	0
@@ -6772,7 +6760,7 @@ eo͡s	4	0	4	0	0	0
 eoδemq	1	0	0	0	0	1
 eoδemque	1	0	0	0	0	1
 eoωδ	1	1	0	0	0	0
-ep	718	541	162	2	7	6
+ep	719	541	162	2	8	6
 epa	2	0	0	0	1	1
 epacta	14	0	0	0	0	14
 epactae	1	0	0	0	0	1
@@ -7334,7 +7322,6 @@ episcopus	481	7	0	15	0	459
 episcopusq	1	0	0	0	0	1
 episcopym	3	3	0	0	0	0
 episcopys	1	1	0	0	0	0
-episcop＇us	1	0	0	0	0	1
 episcous	1	0	0	1	0	0
 episcp	1	1	0	0	0	0
 episcpt	1	0	0	0	0	1
@@ -7483,6 +7470,7 @@ epiust	1	0	1	0	0	0
 epizephyrii	5	0	5	0	0	0
 epizygis	1	0	1	0	0	0
 epjac	1	0	0	0	0	1
+epli	1	0	0	1	0	0
 epm	2	1	0	0	0	1
 epnlidas	1	0	1	0	0	0
 epo	2	0	0	0	0	2
@@ -7860,7 +7848,7 @@ equus	234	4	213	0	2	15
 equusque	3	0	3	0	0	0
 equéster	1	0	0	0	0	1
 equí	3	0	3	0	0	0
-er	152	34	61	20	6	31
+er	154	34	61	21	7	31
 era	547	0	51	2	1	493
 eraaus	1	0	0	1	0	0
 erabris	1	0	0	1	0	0
@@ -8200,7 +8188,7 @@ eresus	1	0	1	0	0	0
 eret	1	0	0	0	0	1
 ereta	2	0	1	1	0	0
 eretes	1	1	0	0	0	0
-ereti	3	0	3	0	0	0
+ereti	4	0	3	1	0	0
 ereto	2	0	2	0	0	0
 eretria	16	0	15	0	1	0
 eretriaci	1	0	1	0	0	0
@@ -8917,7 +8905,6 @@ errorum	11	1	10	0	0	0
 errosthae	1	1	0	0	0	0
 erroue	2	0	2	0	0	0
 errror	1	1	0	0	0	0
-errumpumqu	1	0	0	1	0	0
 erráns	2	0	2	0	0	0
 errátio	1	0	1	0	0	0
 errór	3	0	3	0	0	0
@@ -8942,7 +8929,7 @@ ertemode	1	0	0	0	0	1
 ertheilt	1	0	0	0	0	1
 erthus	4	0	0	4	0	0
 ertiae	1	0	0	0	1	0
-ertindurous	1	0	0	1	0	0
+ertinduro	1	0	0	1	0	0
 ertis	1	0	1	0	0	0
 erto	1	0	1	0	0	0
 ertolen	1	0	0	1	0	0
@@ -9243,7 +9230,7 @@ eruncato	1	0	1	0	0	0
 eruncent	1	0	1	0	0	0
 erundoque	1	0	0	0	0	1
 erungii	1	0	1	0	0	0
-erunt	1163	12	1105	6	3	37
+erunt	1164	12	1105	7	3	37
 eruntque	4	0	4	0	0	0
 eruntue	18	0	3	1	0	14
 eruo	20	1	18	1	0	0
@@ -9839,7 +9826,7 @@ esxuperi	1	0	0	0	0	1
 esychi	1	0	0	0	0	1
 esychius	1	0	0	0	0	1
 ešmunšillemi	2	0	0	0	2	0
-et	200601	9106	174281	2462	1887	12865
+et	200607	9106	174281	2463	1888	12869
 eta	6	0	1	2	2	1
 etali	2	0	0	0	2	0
 etaliewese	1	0	0	0	1	0
@@ -9847,6 +9834,7 @@ etaliewi	1	0	0	0	1	0
 etalione	2	0	0	0	2	0
 etam	1	0	0	0	0	1
 etan	1	0	0	0	0	1
+etaom	1	0	0	1	0	0
 etart	1	0	0	0	0	1
 etas	12	0	0	0	0	12
 etase	1	0	0	0	1	0
@@ -9903,7 +9891,6 @@ eteoclis	4	0	4	0	0	0
 eteonon	1	0	1	0	0	0
 eteonos	1	0	1	0	0	0
 eteotama	2	0	0	0	2	0
-etepli	1	0	0	1	0	0
 eter	6	0	0	1	0	5
 etera	2	0	0	1	0	1
 etere	1	0	0	0	0	1
@@ -9953,7 +9940,9 @@ etgudd	2	2	0	0	0	0
 etguin	1	0	0	0	0	1
 eth	49	49	0	0	0	0
 etheesraes	1	0	1	0	0	0
+ethelbe	1	0	0	0	0	1
 etheluulf	1	0	0	0	0	1
+ethelwini	1	0	0	0	0	1
 ethemeam	1	0	1	0	0	0
 ethemon	2	0	2	0	0	0
 ethera	11	0	0	0	0	11
@@ -9989,10 +9978,8 @@ ethnica	1	1	0	0	0	0
 ethnicis	1	1	0	0	0	0
 ethnicon	1	0	0	0	1	0
 ethnicorum	1	1	0	0	0	0
-ethnicum	97	0	0	0	97	0
+ethnicum	99	0	0	0	99	0
 ethnicumνικεύϲ	1	0	0	0	1	0
-ethnicumρcκλεῖ	1	0	0	0	1	0
-ethnicumωι	1	0	0	0	1	0
 ethnicus	1	0	0	0	0	1
 ethnikon	3	0	0	0	3	0
 ethnikos	1	0	0	0	1	0
@@ -10007,13 +9994,13 @@ ethraui	1	0	1	0	0	0
 ethro	1	0	0	1	0	0
 ethrog	36	0	0	0	1	35
 ethronem	2	1	1	0	0	0
+ethus	1	0	0	0	0	1
 ethymantus	1	0	1	0	0	0
 ethymologiae	1	0	1	0	0	0
 ethymologice	1	0	1	0	0	0
 ethyopia	2	2	0	0	0	0
 ethyopum	2	2	0	0	0	0
 ethψmologia	1	1	0	0	0	0
-eth＇us	1	0	0	0	0	1
 eti	11	0	2	3	3	3
 etia	3	0	0	2	0	1
 etiam	23364	648	22436	53	62	165
@@ -10063,7 +10050,7 @@ etoke	2	0	0	0	2	0
 etokene	1	0	0	0	1	0
 etolus	1	0	1	0	0	0
 etor	1	0	0	1	0	0
-etorearerogen	1	0	0	1	0	0
+etoreare	1	0	0	1	0	0
 etos	1	0	0	1	0	0
 etpasto	1	0	1	0	0	0
 etpastum	1	0	1	0	0	0
@@ -10077,6 +10064,7 @@ etran	1	0	0	0	0	1
 etrans	1	0	1	0	0	0
 etrel	1	0	0	0	1	0
 etri	1	0	0	0	1	0
+etro	1	0	0	1	0	0
 etronius	1	0	0	1	0	0
 etruendmno	1	0	1	0	0	0
 etruri	1	0	1	0	0	0
@@ -10124,7 +10112,7 @@ ettitantes	1	0	1	0	0	0
 ettorigis	1	0	0	0	0	1
 ettritum	1	0	1	0	0	0
 ettxthh	1	0	0	0	0	1
-etu	2	1	0	0	0	1
+etu	4	1	0	2	0	1
 etua	1	0	0	0	0	1
 etudes	1	0	0	0	1	0
 etudus	1	0	0	1	0	0
@@ -10132,11 +10120,12 @@ etuio	1	0	1	0	0	0
 etul	1	0	0	0	0	1
 etulitum	1	0	0	0	0	1
 etumelitetaumetatiose	1	0	0	0	1	0
-etus	2	0	1	1	0	0
+etus	3	0	1	1	0	1
 etusserent	1	0	1	0	0	0
 etutam	1	0	1	0	0	0
 etuti	1	0	1	0	0	0
 etuticiie	1	0	0	0	1	0
+etutus	2	0	0	2	0	0
 etwa	9	8	0	0	1	0
 etwas	1	1	0	0	0	0
 etym	167	167	0	0	0	0
@@ -10154,15 +10143,12 @@ etymologika	1	1	0	0	0	0
 etymologus	3	2	1	0	0	0
 etymon	2	2	0	0	0	0
 etymum	1	0	1	0	0	0
-et͜helbe	1	0	0	0	0	1
-et͜helwini	1	0	0	0	0	1
 et͡	2	0	0	0	2	0
 etδυϲχρηϲτήματα	1	1	0	0	0	0
 etψm	18	18	0	0	0	0
 etψmologicis	1	1	0	0	0	0
 etψmologicym	1	1	0	0	0	0
-et＇us	1	0	0	0	0	1
-eu	256	162	45	7	6	36
+eu	258	163	45	8	6	36
 eua	39	0	3	0	1	35
 euacrius	2	0	0	0	0	2
 euacuandam	1	0	1	0	0	0
@@ -10740,8 +10726,7 @@ euergetem	1	1	0	0	0	0
 euergeten	1	1	0	0	0	0
 euergetes	5	1	4	0	0	0
 euergetis	2	1	1	0	0	0
-euergislus	2	0	0	0	0	2
-euergisl＇us	1	0	0	0	0	1
+euergislus	3	0	0	0	0	3
 euerhardo	1	0	0	0	0	1
 euerhardus	2	0	0	0	0	2
 eueris	3	0	3	0	0	0
@@ -11248,6 +11233,7 @@ eunapios	1	1	0	0	0	0
 eunapium	7	7	0	0	0	0
 eunapius	4	4	0	0	0	0
 euncell	1	0	0	1	0	0
+eund	1	0	0	1	0	0
 eundaemomnes	1	0	1	0	0	0
 eundem	928	43	861	18	0	6
 eundemne	1	0	1	0	0	0
@@ -11255,7 +11241,6 @@ eundemque	68	4	63	1	0	0
 eundeque	1	0	0	1	0	0
 eundi	50	0	49	0	0	1
 eundo	21	0	18	0	0	3
-eundriunt	1	0	0	1	0	0
 eundum	82	0	82	0	0	0
 eundumne	1	0	1	0	0	0
 euneon	2	0	2	0	0	0
@@ -12128,7 +12113,6 @@ euφω	3	3	0	0	0	0
 euφωδ	22	22	0	0	0	0
 euωδ	1	1	0	0	0	0
 euἴ	1	0	0	0	1	0
-eu⌉	1	1	0	0	0	0
 ewaldi	2	0	0	0	0	2
 ewaldos	1	0	0	0	0	1
 ewangelista	8	0	0	0	0	8
@@ -15349,6 +15333,7 @@ exiliumue	1	0	1	0	0	0
 exiliunt	9	0	9	0	0	0
 exilius	10	0	10	0	0	0
 exiliúm	1	0	1	0	0	0
+exill	1	0	0	1	0	0
 exiluere	9	0	9	0	0	0
 exiluerit	1	0	1	0	0	0
 exilui	3	0	3	0	0	0
@@ -15770,9 +15755,8 @@ exituros	2	0	2	0	0	0
 exiturum	20	1	17	2	0	0
 exiturumque	1	0	1	0	0	0
 exiturus	14	0	14	0	0	0
-exitus	396	5	383	0	1	7
+exitus	398	5	383	0	1	9
 exitusque	4	0	4	0	0	0
-exit＇us	2	0	0	0	0	2
 exiuerim	1	0	0	1	0	0
 exiui	2	0	1	0	0	1
 exiuimus	1	0	0	1	0	0
@@ -18240,7 +18224,7 @@ exquírendum	1	0	1	0	0	0
 exr	1	0	0	0	0	1
 exradicata	1	0	1	0	0	0
 exradicitus	2	0	2	0	0	0
-exreprenc	1	0	0	0	1	0
+exrepren	1	0	0	0	1	0
 exruhudec	1	0	0	1	0	0
 exs	7	0	0	2	3	2
 exsacrificabat	1	0	1	0	0	0
@@ -20414,8 +20398,7 @@ exuperii	4	0	0	0	0	4
 exuperio	3	0	0	1	0	2
 exuperiosus	1	0	0	0	0	1
 exuperium	1	0	0	1	0	0
-exuperius	2	0	0	0	0	2
-exuperi＇us	1	0	0	0	0	1
+exuperius	3	0	0	0	0	3
 exuperu	1	0	0	0	0	1
 exuperus	1	0	0	0	0	1
 exupius	1	0	0	0	0	1
@@ -20640,7 +20623,7 @@ ezecihel	1	0	0	0	0	1
 ezek	8	0	0	0	0	8
 ezekiel	4	0	0	0	0	4
 ezelin	1	0	0	0	0	1
-ezelin＇us	2	0	0	0	0	2
+ezelinus	2	0	0	0	0	2
 ezerre	1	0	0	0	0	1
 ezihiel	3	0	0	0	0	3
 ezonis	1	0	0	0	0	1
@@ -20680,18 +20663,18 @@ eûm	1	0	1	0	0	0
 eʃ	4	4	0	0	0	0
 ēad	1	0	0	0	0	1
 ēadburh	2	0	0	0	0	2
+ēadhelsuidh	1	0	0	0	0	1
 ēadm	1	0	0	0	0	1
+ēadred	1	0	0	0	0	1
 ēadu	1	0	0	0	0	1
 ēaduueard	1	0	0	0	0	1
 ēadward	1	0	0	0	0	1
-ēad͜helsuid͜h	1	0	0	0	0	1
 ēanred	1	0	0	0	0	1
 ēatber	1	0	0	0	0	1
+ēateėnne	1	0	0	0	0	1
 ēawen	1	0	0	0	0	1
 ēgī	1	0	1	0	0	0
 ēomund	1	0	0	0	0	1
-ē͜adred	1	0	0	0	0	1
-ē͜ateėnne	1	0	0	0	0	1
 ĕ	1	0	1	0	0	0
 ĕcastor	1	0	1	0	0	0
 ĕccam	3	0	3	0	0	0
@@ -20761,7 +20744,6 @@ e͂ppetr	1	0	0	1	0	0
 e͂ppetrwills	1	0	0	1	0	0
 e͂pzenpestm	1	0	0	1	0	0
 e͂wchr	1	0	0	1	0	0
-e͜t	4	0	0	0	0	4
 eγ	226	226	0	0	0	0
 eγlh	151	151	0	0	0	0
 eγm	11	11	0	0	0	0

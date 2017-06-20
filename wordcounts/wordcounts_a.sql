@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_a OWNER TO hippa_wr;
 --
 
 COPY wordcounts_a (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-a	63593	30081	29382	881	1433	1816
+a	63602	30081	29382	890	1433	1816
 aa	256	237	1	6	6	6
 aaa	2	0	0	0	1	1
 aaaa	1	0	0	0	0	1
@@ -154,7 +154,7 @@ aabcdhnappdrθtuxc	1	1	0	0	0	0
 aabcdhnapθtψaψbξa	1	1	0	0	0	0
 aabcdinappdrθtxψ	1	1	0	0	0	0
 aabcdpθt	1	1	0	0	0	0
-abacndppdsjuw	1	1	0	0	0	0
+abbaitae	1	0	0	0	1	0
 aabcfbhhalcmrbxξa	1	1	0	0	0	0
 aabcfdhhaψaξa	1	1	0	0	0	0
 aabcfdinaψaψb	1	1	0	0	0	0
@@ -222,7 +222,6 @@ aabnbψξa	1	1	0	0	0	0
 aabpd	1	1	0	0	0	0
 aabpdrθtxψaψb	1	1	0	0	0	0
 aabtu	1	1	0	0	0	0
-aabumarius	1	0	0	1	0	0
 aabξa	5	5	0	0	0	0
 aac	1	1	0	0	0	0
 aacc	1	0	0	0	0	1
@@ -243,7 +242,7 @@ aaim	26	26	0	0	0	0
 aaint	19	19	0	0	0	0
 aalaxis	1	0	0	0	0	1
 aalico	1	0	0	0	0	1
-aalrieana͜e	1	0	0	0	0	1
+aalrieanae	1	0	0	0	0	1
 aam	1	0	0	1	0	0
 aami	1	0	0	0	0	1
 aan	1	0	0	1	0	0
@@ -254,7 +253,7 @@ aaretate	1	0	0	0	0	1
 aaron	15	0	2	1	0	12
 aaronis	1	0	0	0	0	1
 aarons	1	0	0	0	0	1
-aas	3	0	0	3	0	0
+aas	1	0	0	1	0	0
 aasus	1	0	0	1	0	0
 aat	1	0	1	0	0	0
 aathibeli	2	0	0	2	0	0
@@ -267,10 +266,9 @@ aauuggustis	1	0	0	0	1	0
 aauugustis	1	0	0	0	0	1
 aaww	1	0	0	0	0	1
 aazza	1	0	0	0	0	1
-ab	25342	3251	20861	239	189	802
+ab	25345	3251	20861	242	189	802
 aba	11	3	0	2	0	6
 abaas	1	0	0	1	0	0
-ababep	1	0	0	1	0	0
 abac	1	1	0	0	0	0
 abacchae	1	0	1	0	0	0
 abaci	14	0	14	0	0	0
@@ -278,6 +276,7 @@ abacie	1	0	0	0	0	1
 abacis	3	0	3	0	0	0
 abacnd	1	1	0	0	0	0
 abacndppdsju	2	2	0	0	0	0
+abacndppdsjuw	1	1	0	0	0	0
 abacndppdsjuwxa	1	1	0	0	0	0
 abacndppdsjuwxxaψψa	2	2	0	0	0	0
 abaco	13	0	10	0	2	1
@@ -405,14 +404,13 @@ abbacu	1	0	0	0	0	1
 abbacuc	1	0	0	0	0	1
 abbacuch	1	0	0	0	0	1
 abbae	1	0	0	0	0	1
-abbaitae	1	0	0	0	1	0
 abbal	1	0	0	1	0	0
 abbalmaei	2	0	0	2	0	0
 abbam	1	0	0	1	0	0
 abban	3	0	0	3	0	0
-abbas	296	0	0	8	1	287
+abbas	297	0	0	8	1	288
 abbassium	1	0	1	0	0	0
-abbate	26	0	0	10	0	16
+abbate	28	0	0	10	0	18
 abbatem	14	0	0	2	0	12
 abbates	4	0	0	0	0	4
 abbati	27	0	0	2	0	25
@@ -420,7 +418,7 @@ abbatialem	1	0	0	0	0	1
 abbatiam	3	0	0	0	0	3
 abbatibus	1	0	0	0	0	1
 abbatie	2	0	0	0	0	2
-abbatis	104	0	0	3	0	101
+abbatis	105	0	0	3	0	102
 abbatisa	1	0	0	1	0	0
 abbatissa	45	0	0	6	0	39
 abbatissae	8	0	0	0	0	8
@@ -429,7 +427,6 @@ abbatisse	3	0	0	0	0	3
 abbatix	1	0	0	0	0	1
 abbatum	5	0	0	0	0	5
 abbatεm	2	0	0	0	0	2
-abbat＇e	2	0	0	0	0	2
 abbc	1	1	0	0	0	0
 abbcdfbhanappdtψψa	1	1	0	0	0	0
 abbcdfdhhaoppdruψψaψb	1	1	0	0	0	0
@@ -603,8 +600,6 @@ abbtxψa	1	1	0	0	0	0
 abbu	2	2	0	0	0	0
 abbuξa	1	1	0	0	0	0
 abbψaψb	1	1	0	0	0	0
-abb＇as	1	0	0	0	0	1
-abb＇atis	1	0	0	0	0	1
 abc	46	42	0	1	0	3
 abcc	1	1	0	0	0	0
 abccfgm	1	1	0	0	0	0
@@ -1312,7 +1307,6 @@ abelo	1	0	1	0	0	0
 abeloe	1	0	0	0	0	1
 abels	1	0	0	0	0	1
 abelux	2	0	2	0	0	0
-aben	1	0	0	1	0	0
 abenas	1	0	0	0	0	1
 abenathar	1	0	0	0	0	1
 abenna	1	0	0	0	0	1
@@ -1328,6 +1322,7 @@ abentulo	1	0	0	0	0	1
 abentur	2	0	0	2	0	0
 abeo	67	0	65	0	1	1
 abeoortis	1	0	1	0	0	0
+abep	1	0	0	1	0	0
 abequitauerint	1	0	1	0	0	0
 aber	6	2	0	0	3	1
 aberam	6	0	6	0	0	0
@@ -2658,7 +2653,7 @@ abruptus	8	0	8	0	0	0
 abrutis	1	0	0	1	0	0
 abréuiations	1	0	0	0	1	0
 abrθ	1	1	0	0	0	0
-abs	404	5	396	2	0	1
+abs	403	5	396	1	0	1
 absa	16	0	0	0	16	0
 absaeria	1	0	0	1	0	0
 absalom	1	0	0	0	0	1
@@ -2938,7 +2933,7 @@ absitque	2	0	2	0	0	0
 absitue	1	0	1	0	0	0
 absjuψb	1	1	0	0	0	0
 absjψaψb	1	1	0	0	0	0
-absmrum	1	0	0	1	0	0
+absm	1	0	0	1	0	0
 abso	1	0	1	0	0	0
 absoceris	1	0	1	0	0	0
 absolu	1	0	1	0	0	0
@@ -3492,6 +3487,7 @@ abuit	12	0	0	1	0	11
 abulitae	1	0	1	0	0	0
 abulites	2	0	2	0	0	0
 abulliane	1	0	0	0	0	1
+abumarius	1	0	0	1	0	0
 abumdantius	1	0	0	0	0	1
 abun	1	0	1	0	0	0
 abunculo	1	0	0	0	0	1
@@ -3686,7 +3682,7 @@ abψb	1	1	0	0	0	0
 abψdeni	5	5	0	0	0	0
 abψψa	1	1	0	0	0	0
 abϲ	1	1	0	0	0	0
-ac	18807	942	16854	66	105	840
+ac	18808	942	16854	67	105	840
 aca	7	1	0	1	4	1
 acaci	1	0	0	0	0	1
 acacia	23	0	23	0	0	0
@@ -3716,7 +3712,6 @@ academicum	5	1	4	0	0	0
 academicus	5	0	5	0	0	0
 acadira	1	0	1	0	0	0
 acae	1	0	0	0	1	0
-acaioniti	1	0	0	1	0	0
 acalanthida	2	0	2	0	0	0
 acalanthis	2	0	2	0	0	0
 acallia	1	0	0	1	0	0
@@ -5628,7 +5623,6 @@ acoletus	3	0	0	0	0	3
 acolit	2	0	0	0	0	2
 acoliti	1	0	0	0	0	1
 acolitus	7	0	0	0	0	7
-acollg	1	0	0	1	0	0
 acolothus	1	0	0	0	0	1
 acolutha	1	0	1	0	0	0
 acoluthus	2	0	0	0	0	2
@@ -5918,7 +5912,7 @@ actast	2	0	2	0	0	0
 acte	11	0	7	0	0	4
 actem	1	0	1	0	0	0
 acten	2	0	2	0	0	0
-acten＇us	1	0	0	0	0	1
+actenus	1	0	0	0	0	1
 acteonem	1	1	0	0	0	0
 actes	1	0	1	0	0	0
 acti	88	1	83	1	1	2
@@ -6060,7 +6054,7 @@ acturus	87	4	82	1	0	0
 acturusque	1	0	1	0	0	0
 acturust	2	0	2	0	0	0
 acturusue	1	0	0	0	0	1
-actus	343	4	307	1	2	29
+actus	344	4	307	1	2	30
 actusque	6	0	6	0	0	0
 actusue	4	0	4	0	0	0
 actutum	94	1	90	3	0	0
@@ -6072,7 +6066,6 @@ actyym	1	1	0	0	0	0
 actám	1	0	1	0	0	0
 actútum	2	0	2	0	0	0
 act˙	1	0	0	1	0	0
-act＇us	1	0	0	0	0	1
 acu	67	4	57	1	2	3
 acuam	1	0	1	0	0	0
 acuant	10	0	10	0	0	0
@@ -6243,7 +6236,7 @@ acθtψaψb	1	1	0	0	0	0
 acξa	4	4	0	0	0	0
 acψa	1	1	0	0	0	0
 acψξa	1	1	0	0	0	0
-ad	65378	4927	57428	845	280	1898
+ad	65379	4927	57428	846	280	1898
 ada	6	0	0	1	0	5
 adabrandus	2	0	0	0	0	2
 adacta	12	0	12	0	0	0
@@ -7183,8 +7176,7 @@ adelberchti	1	0	0	0	0	1
 adelbero	2	0	0	0	0	2
 adelberone	1	0	0	0	0	1
 adelberti	5	0	0	0	0	5
-adelbertus	7	0	0	0	0	7
-adelbert＇us	6	0	0	0	0	6
+adelbertus	13	0	0	0	0	13
 adelbraht	2	0	0	0	0	2
 adelche	2	0	0	0	0	2
 adelchis	1	0	0	0	0	1
@@ -8013,10 +8005,9 @@ adféctus	1	0	1	0	0	0
 adfért	1	0	1	0	0	0
 adfínitas	1	0	1	0	0	0
 adfórmido	1	0	1	0	0	0
-adg	2	2	0	0	0	0
+adg	4	2	0	2	0	0
 adgan	2	0	0	0	0	2
 adgandestrii	1	0	1	0	0	0
-adgeib	2	0	0	2	0	0
 adgemit	2	0	2	0	0	0
 adgerebant	1	0	1	0	0	0
 adgerebantur	1	0	1	0	0	0
@@ -8080,7 +8071,6 @@ adgnatικῶν	1	1	0	0	0	0
 adgnatοιϲ	1	1	0	0	0	0
 adgnatουϲ	3	3	0	0	0	0
 adgnatων	1	1	0	0	0	0
-adgni	1	0	0	1	0	0
 adgnita	7	0	7	0	0	0
 adgnitam	8	0	8	0	0	0
 adgnitis	2	0	2	0	0	0
@@ -8305,6 +8295,7 @@ adhalauerit	1	0	1	0	0	0
 adhanaopψa	1	1	0	0	0	0
 adhanaorsjψbξa	1	1	0	0	0	0
 adhaési	1	0	1	0	0	0
+adhe	1	0	0	0	0	1
 adheant	1	0	0	0	0	1
 adheleid	2	0	0	0	0	2
 adheleidis	2	0	0	0	0	2
@@ -8961,7 +8952,7 @@ adiudicatusque	1	0	1	0	0	0
 adiudicauerat	1	0	1	0	0	0
 adiudicauerit	7	0	7	0	0	0
 adiudicaueritis	1	0	1	0	0	0
-adiudicauim＇us	2	0	0	0	0	2
+adiudicauimus	2	0	0	0	0	2
 adiudicauit	8	0	8	0	0	0
 adiudicet	1	0	1	0	0	0
 adiudicetur	5	0	5	0	0	0
@@ -10308,11 +10299,11 @@ adnexuerat	1	0	1	0	0	0
 adnexuit	3	0	3	0	0	0
 adnexum	8	0	8	0	0	0
 adnexus	4	0	4	0	0	0
+adni	1	0	0	1	0	0
 adnichilabatur	1	0	0	0	0	1
 adnichilatos	1	0	0	0	0	1
 adnictat	1	0	1	0	0	0
 adnihilabatur	1	0	0	0	0	1
-adninotum	1	0	0	1	0	0
 adnis	1	0	0	0	0	1
 adnisa	1	0	1	0	0	0
 adnisam	1	0	1	0	0	0
@@ -11715,8 +11706,7 @@ adria	2	0	1	0	0	1
 adriacas	1	0	1	0	0	0
 adriani	13	0	1	0	2	10
 adriano	7	0	3	0	2	2
-adrianus	7	0	3	0	1	3
-adrian＇us	1	0	0	0	0	1
+adrianus	8	0	3	0	1	4
 adriatici	1	0	1	0	0	0
 adriatico	4	0	4	0	0	0
 adriaticum	13	0	13	0	0	0
@@ -13990,8 +13980,7 @@ aduocatum	47	0	47	0	0	0
 aduocatumque	1	0	1	0	0	0
 aduocatur	8	0	8	0	0	0
 aduocaturus	1	0	1	0	0	0
-aduocatus	69	0	47	17	0	5
-aduocat＇us	2	0	0	0	0	2
+aduocatus	71	0	47	17	0	7
 aduocaueram	1	0	1	0	0	0
 aduocauerat	4	0	4	0	0	0
 aduocauere	1	0	1	0	0	0
@@ -14217,7 +14206,6 @@ adît	1	0	1	0	0	0
 adón	1	0	1	0	0	0
 adóriant	1	0	1	0	0	0
 adúncis	1	0	1	0	0	0
-ad͜he	1	0	0	0	0	1
 adθ	4	4	0	0	0	0
 adλ	1	1	0	0	0	0
 adψ	1	1	0	0	0	0
@@ -14227,7 +14215,7 @@ adψaψbξa	1	1	0	0	0	0
 adψdeni	1	1	0	0	0	0
 adψψa	1	1	0	0	0	0
 adἡδονήν	1	1	0	0	0	0
-ae	273	26	113	18	59	57
+ae	278	26	113	20	59	60
 aea	6	0	4	2	0	0
 aeabens	1	0	0	0	1	0
 aeace	2	0	2	0	0	0
@@ -14250,6 +14238,7 @@ aeaco	1	0	1	0	0	0
 aeacon	5	0	5	0	0	0
 aeacum	6	0	6	0	0	0
 aeacus	29	1	28	0	0	0
+aeadan	1	0	0	0	0	1
 aeadem	1	0	0	1	0	0
 aeaea	6	0	6	0	0	0
 aeaeae	4	0	4	0	0	0
@@ -14306,12 +14295,11 @@ aeccl	3	0	0	3	0	0
 aecclaesiae	1	0	0	0	0	1
 aeccle	1	0	0	0	0	1
 aecclesia	13	0	0	0	0	13
-aecclesiae	23	0	0	1	0	22
+aecclesiae	25	0	0	1	0	24
 aecclesiaeque	1	0	0	0	0	1
 aecclesiam	7	0	0	0	0	7
 aecclesiaque	1	0	0	0	0	1
 aecclesias	1	0	0	0	0	1
-aecclesia͜e	2	0	0	0	0	2
 aecclesie	8	0	0	0	0	8
 aecclesiȩ	2	0	0	0	0	2
 aece	1	0	0	0	0	1
@@ -14570,6 +14558,7 @@ aedone	1	0	1	0	0	0
 aedonia	1	0	1	0	0	0
 aedos	3	0	3	0	0	0
 aedosa	1	0	1	0	0	0
+aedred	1	0	0	0	0	1
 aedronem	1	0	1	0	0	0
 aedu	1	0	0	0	1	0
 aeducatrici	1	0	0	0	0	1
@@ -14581,6 +14570,7 @@ aeduorum	2	0	2	0	0	0
 aeduos	7	0	7	0	0	0
 aedus	1	0	1	0	0	0
 aeduus	2	0	1	0	0	1
+aeduwen	1	0	0	0	0	1
 aedwa	1	0	0	0	0	1
 aedés	6	0	3	0	0	3
 aedíbus	1	0	1	0	0	0
@@ -14601,13 +14591,14 @@ aeetine	1	0	1	0	0	0
 aeetis	1	0	1	0	0	0
 aeetius	1	0	1	0	0	0
 aef	6	5	0	0	0	1
+aefern	1	0	0	0	0	1
 aeficio	2	0	1	0	1	0
 aeficius	3	0	0	0	3	0
 aefimus	1	0	0	0	0	1
-aeft	1	0	0	0	0	1
-aeftaer	2	0	0	0	0	2
+aeft	2	0	0	0	0	2
+aeftaer	4	0	0	0	0	4
 aefte	1	0	0	0	0	1
-aefter	4	0	0	0	0	4
+aefter	7	0	0	0	0	7
 aefulae	3	0	3	0	0	0
 aefulana	1	0	1	0	0	0
 aefulane	1	0	1	0	0	0
@@ -14648,6 +14639,7 @@ aegeatas	1	0	1	0	0	0
 aegeate	1	0	1	0	0	0
 aegei	19	1	18	0	0	0
 aegeidis	2	0	0	0	2	0
+aegelwardus	1	0	0	0	0	1
 aegenis	1	0	0	0	0	1
 aegenorum	2	0	0	0	0	2
 aegeo	9	0	9	0	0	0
@@ -14695,6 +14687,7 @@ aegii	2	0	2	0	0	0
 aegiis	1	0	1	0	0	0
 aegil	1	0	0	0	0	1
 aegila	1	0	1	0	0	0
+aegili	1	0	0	0	0	1
 aegilia	2	0	2	0	0	0
 aegilion	1	0	1	0	0	0
 aegilodes	1	0	1	0	0	0
@@ -14882,6 +14875,7 @@ aegrumue	1	0	1	0	0	0
 aegrést	1	0	1	0	0	0
 aegrótus	1	0	1	0	0	0
 aegupt	1	0	0	1	0	0
+aegured	1	0	0	0	0	1
 aegusam	1	0	1	0	0	0
 aegyp	1	0	1	0	0	0
 aegypt	1	0	0	0	1	0
@@ -14929,12 +14923,12 @@ aegψptiorum	1	1	0	0	0	0
 aeheeu	1	0	0	0	0	1
 aehi	1	0	0	0	1	0
 aehθ	5	5	0	0	0	0
-aei	7	0	0	5	1	1
+aei	6	0	0	4	1	1
 aeido	1	0	0	0	1	0
 aeilio	1	0	0	0	0	1
 aeiu	2	0	0	0	0	2
 aeius	8	0	0	0	1	7
-ael	85	52	0	6	8	19
+ael	86	52	0	6	8	20
 aelami	2	0	0	2	0	0
 aelamis	2	0	0	2	0	0
 aelamitae	1	0	1	0	0	0
@@ -14953,9 +14947,13 @@ aelemosinam	1	0	0	0	0	1
 aelemosinis	2	0	0	0	0	2
 aelena	1	0	0	0	0	1
 aelenaticum	1	1	0	0	0	0
+aelfflaed	2	0	0	0	0	2
+aelfgiuu	1	0	0	0	0	1
 aelfgyua	1	0	0	0	0	1
 aelfleaeda	1	0	0	0	0	1
 aelfred	1	0	0	0	0	1
+aelfrices	1	0	0	0	0	1
+aelfrici	2	0	0	0	0	2
 aeli	57	0	21	13	12	11
 aelia	85	0	54	6	6	19
 aeliabus	1	0	0	0	0	1
@@ -14991,17 +14989,20 @@ aellia	2	0	0	0	0	2
 aello	3	0	3	0	0	0
 aelloldus	1	0	0	0	0	1
 aellopoda	1	0	1	0	0	0
+aeln	1	0	0	0	0	1
 aelocutus	1	0	0	1	0	0
 aeloquentissimi	1	0	0	1	0	0
 aeloquio	3	0	0	0	0	3
 aelpis	1	0	0	0	0	1
 aelrabi	1	0	0	1	0	0
 aelri	1	0	0	0	0	1
+aelseldh	2	0	0	0	0	2
 aeluoihin	1	0	0	0	0	1
 aeluri	1	0	0	1	0	0
 aeluro	1	0	1	0	0	0
 aelurorum	1	0	1	0	0	0
 aeluros	1	0	1	0	0	0
+aelwyneys	2	0	0	0	0	2
 aelysiis	1	0	1	0	0	0
 aelysium	2	0	0	0	0	2
 aem	37	1	0	1	34	1
@@ -15253,6 +15254,7 @@ aepistulis	1	0	1	0	0	0
 aepodi	2	0	0	0	0	2
 aepoesu	1	0	0	0	1	0
 aepolium	1	0	1	0	0	0
+aepost	1	0	0	0	1	0
 aeps	1	0	0	1	0	0
 aepulari	1	0	1	0	0	0
 aepulas	2	0	1	0	0	1
@@ -15808,6 +15810,7 @@ aesculor	1	1	0	0	0	0
 aesculos	1	0	1	0	0	0
 aesculum	1	0	1	0	0	0
 aesculus	18	0	18	0	0	0
+aese	1	0	0	0	0	1
 aesei	1	0	0	0	0	1
 aesen	2	0	0	2	0	0
 aesenex	1	0	0	0	0	1
@@ -16114,7 +16117,7 @@ aestusue	2	0	2	0	0	0
 aestuum	4	1	3	0	0	0
 aesum	4	0	1	0	0	3
 aesyros	1	0	1	0	0	0
-aet	23	8	2	2	5	6
+aet	26	8	2	2	5	9
 aeta	1	0	1	0	0	0
 aetagus	1	0	0	1	0	0
 aetare	1	0	0	1	0	0
@@ -16204,6 +16207,8 @@ aeteruum	1	1	0	0	0	0
 aetes	1	0	0	0	1	0
 aetesias	1	0	1	0	0	0
 aetete	1	0	0	0	1	0
+aetferie	1	0	0	0	0	1
+aetḡadre	1	0	0	0	0	1
 aethalia	1	0	1	0	0	0
 aethaliam	6	3	3	0	0	0
 aethaliden	1	0	1	0	0	0
@@ -16212,6 +16217,7 @@ aethalion	1	0	1	0	0	0
 aethalis	1	0	1	0	0	0
 aethalo	1	0	1	0	0	0
 aethalon	1	0	1	0	0	0
+aethe	1	0	0	0	0	1
 aether	142	8	133	0	0	1
 aethera	225	7	175	0	0	43
 aetheraque	6	0	6	0	0	0
@@ -16284,6 +16290,7 @@ aethiopumque	4	0	4	0	0	0
 aethiopus	2	0	2	0	0	0
 aethipes	2	2	0	0	0	0
 aethlius	1	0	1	0	0	0
+aethlmāer	1	0	0	0	0	1
 aethna	1	1	0	0	0	0
 aetholus	1	1	0	0	0	0
 aethon	9	0	9	0	0	0
@@ -16298,6 +16305,7 @@ aethre	5	0	1	0	0	4
 aethria	2	0	2	0	0	0
 aethrio	1	0	1	0	0	0
 aethrione	3	0	3	0	0	0
+aeththlae	1	0	0	0	0	1
 aethusa	1	0	1	0	0	0
 aethusan	1	0	1	0	0	0
 aeti	1	0	0	0	0	1
@@ -16799,8 +16807,8 @@ afluunt	1	0	1	0	0	0
 afm	1	1	0	0	0	0
 afmc	3	3	0	0	0	0
 afo	1	0	0	0	0	1
+afoeddae	1	0	0	0	0	1
 afore	9	0	9	0	0	0
-afo͜edda͜e	1	0	0	0	0	1
 afr	1	0	0	0	0	1
 afra	10	0	8	1	0	1
 afrae	6	0	2	0	0	4
@@ -17405,8 +17413,7 @@ agilís	1	0	1	0	0	0
 agim	1	0	1	0	0	0
 agimu	2	0	2	0	0	0
 agimur	8	0	8	0	0	0
-agimus	143	1	139	1	0	2
-agim＇us	1	0	0	0	0	1
+agimus	144	1	139	1	0	3
 agin	2	0	2	0	0	0
 aginam	1	0	1	0	0	0
 aginanti	1	0	0	0	0	1
@@ -18167,7 +18174,6 @@ ahrensio	1	1	0	0	0	0
 ahtleta	1	0	0	0	0	1
 ahtyr	1	0	0	1	0	0
 ahurnenecga	2	0	0	0	0	2
-ahus	1	0	0	1	0	0
 ahusen	1	0	0	0	0	1
 ahw	1	1	0	0	0	0
 ahxψ	1	1	0	0	0	0
@@ -18177,7 +18183,7 @@ ahθtξa	1	1	0	0	0	0
 ahξa	2	2	0	0	0	0
 ahψa	2	2	0	0	0	0
 ahψaψb	1	1	0	0	0	0
-ai	114	91	5	1	10	7
+ai	115	91	5	2	10	7
 aia	3	0	1	0	0	2
 aiab	1	0	0	0	0	1
 aiac	1	1	0	0	0	0
@@ -18280,8 +18286,7 @@ aimaint	5	5	0	0	0	0
 aimar	1	0	0	0	0	1
 aimarus	1	0	0	0	0	1
 aimerici	1	0	0	0	0	1
-aimericus	7	0	0	0	0	7
-aimeric＇us	1	0	0	0	0	1
+aimericus	8	0	0	0	0	8
 aimilia	1	0	0	0	1	0
 aimilio	1	0	0	0	1	0
 aimilius	2	0	0	0	1	1
@@ -18428,7 +18433,7 @@ akropolis	1	0	0	0	1	0
 aktaion	1	1	0	0	0	0
 akuweusutiriψo	2	0	0	0	2	0
 akuzr	1	0	0	0	0	1
-al	1034	959	33	15	7	20
+al	1033	959	33	14	7	20
 ala	94	0	70	14	6	4
 alabanda	3	0	3	0	0	0
 alabandei	1	0	1	0	0	0
@@ -18641,9 +18646,8 @@ albanos	24	0	24	0	0	0
 albanosque	2	0	2	0	0	0
 albanoue	1	0	1	0	0	0
 albanum	42	0	39	0	0	3
-albanus	37	1	19	1	0	16
+albanus	38	1	19	1	0	17
 albanusque	1	0	0	0	0	1
-alban＇us	1	0	0	0	0	1
 albaque	12	0	12	0	0	0
 albaria	1	0	1	0	0	0
 albarig	1	0	0	0	0	1
@@ -18688,8 +18692,7 @@ albercthus	1	0	0	1	0	0
 albergum	1	0	0	0	0	1
 alberice	1	0	0	0	0	1
 alberici	1	0	0	0	0	1
-albericus	3	0	0	0	0	3
-alberic＇us	1	0	0	0	0	1
+albericus	4	0	0	0	0	4
 albero	6	0	0	0	0	6
 alberone	2	0	0	0	0	2
 alberonis	2	0	0	0	0	2
@@ -18698,9 +18701,8 @@ alberthus	1	0	0	1	0	0
 alberti	5	0	0	0	0	5
 alberto	3	0	0	0	0	3
 albertucio	1	0	0	0	0	1
-albertus	17	1	0	1	0	15
+albertus	18	1	0	1	0	16
 albertys	2	2	0	0	0	0
-albert＇us	1	0	0	0	0	1
 alberuc	2	0	0	0	0	2
 alberuma	1	0	0	0	0	1
 albes	2	0	1	0	0	1
@@ -18776,8 +18778,7 @@ albinouanum	4	0	4	0	0	0
 albinouanus	4	0	4	0	0	0
 albintimilium	1	0	1	0	0	0
 albinum	36	1	33	0	0	2
-albinus	81	0	63	0	0	18
-albin＇us	1	0	0	0	0	1
+albinus	82	0	63	0	0	19
 albio	4	1	2	1	0	0
 albiolo	1	0	0	1	0	0
 albion	1	0	1	0	0	0
@@ -18900,7 +18901,7 @@ alcestin	3	0	3	0	0	0
 alcestis	14	1	12	0	0	1
 alcetas	2	0	2	0	0	0
 alcetidas	1	0	1	0	0	0
-alcfrit͜hum	1	0	0	0	0	1
+alcfrithum	1	0	0	0	0	1
 alchalc	1	1	0	0	0	0
 alche	1	0	1	0	0	0
 alchim	4	4	0	0	0	0
@@ -19083,7 +19084,7 @@ aledius	1	0	1	0	0	0
 alee	1	0	0	1	0	0
 alef	1	0	0	0	0	1
 alegdun	1	0	0	0	0	1
-aleger＇us	1	0	0	0	0	1
+alegerus	1	0	0	0	0	1
 alegrati	1	0	0	0	0	1
 alegri	1	0	0	0	0	1
 alei	11	0	6	0	4	1
@@ -19442,6 +19443,7 @@ alice	1	0	0	0	1	0
 alicensi	1	0	0	0	0	1
 alicensis	2	0	0	0	0	2
 alicio	1	0	1	0	0	0
+aliclam	1	0	0	1	0	0
 alicubi	29	1	28	0	0	0
 alicui	324	2	311	3	1	7
 alicuiius	2	0	0	0	0	2
@@ -19843,6 +19845,7 @@ alkman	1	1	0	0	0	0
 all	16	5	0	1	8	2
 alla	1	0	0	0	0	1
 allaberetur	1	0	1	0	0	0
+allae	1	0	0	0	0	1
 allaei	1	0	0	1	0	0
 allamanisouri	5	0	0	0	5	0
 allantenses	1	0	1	0	0	0
@@ -19869,7 +19872,6 @@ allaturum	9	0	9	0	0	0
 allaturus	2	0	2	0	0	0
 allatus	17	1	12	1	1	2
 allatust	1	0	1	0	0	0
-alla͜e	1	0	0	0	0	1
 alle	4	2	0	0	2	0
 allec	4	0	4	0	0	0
 allecatum	1	0	1	0	0	0
@@ -20839,7 +20841,7 @@ alî	2	0	2	0	0	0
 alîs	1	0	1	0	0	0
 alîsque	1	0	1	0	0	0
 alúmnum	1	0	1	0	0	0
-am	282	45	101	20	47	69
+am	284	45	101	20	49	69
 ama	58	1	46	3	3	5
 amabam	13	1	12	0	0	0
 amabamus	3	0	3	0	0	0
@@ -20994,7 +20996,7 @@ amantur	12	0	12	0	0	0
 amantí	2	0	2	0	0	0
 amanuensibus	2	0	2	0	0	0
 amanum	11	0	11	0	0	0
-amanus	3	0	2	1	0	0
+amanus	2	0	2	0	0	0
 amar	1	0	0	1	0	0
 amara	89	2	75	2	0	10
 amaraci	1	0	1	0	0	0
@@ -21439,8 +21441,7 @@ ambitum	74	2	63	0	3	6
 ambitumque	1	0	1	0	0	0
 ambituque	3	1	2	0	0	0
 ambitur	13	0	13	0	0	0
-ambitus	152	2	146	0	0	4
-ambit＇us	1	0	0	0	0	1
+ambitus	153	2	146	0	0	5
 ambiu	2	0	2	0	0	0
 ambiuaretis	1	0	1	0	0	0
 ambiuaretos	1	0	1	0	0	0
@@ -21507,10 +21508,9 @@ ambrosio	5	0	1	0	1	3
 ambrosion	1	0	1	0	0	0
 ambrosios	1	0	1	0	0	0
 ambrosium	3	0	1	0	0	2
-ambrosius	31	0	1	0	0	30
+ambrosius	32	0	1	0	0	31
 ambrosiusque	1	0	1	0	0	0
-ambrosiu＇us	1	0	0	0	0	1
-ambrosi＇us	1	0	0	0	0	1
+ambrosiuus	1	0	0	0	0	1
 ambrossios	3	0	0	0	3	0
 ambrysus	2	0	2	0	0	0
 ambu	2	0	2	0	0	0
@@ -21665,7 +21665,7 @@ amemphsinum	2	2	0	0	0	0
 amemphsinus	1	1	0	0	0	0
 amemur	3	0	3	0	0	0
 amemus	15	1	14	0	0	0
-amen	385	0	3	0	4	378
+amen	386	0	3	0	5	378
 amena	2	0	0	0	0	2
 amenae	1	0	0	0	0	1
 amenanaque	1	0	1	0	0	0
@@ -21679,7 +21679,7 @@ amendicant	1	0	0	0	0	1
 ameniya	1	0	0	0	1	0
 amens	139	0	139	0	0	0
 amensque	3	0	3	0	0	0
-ament	85	0	85	0	0	0
+ament	86	0	85	0	0	1
 amenta	1	0	1	0	0	0
 amentaque	1	0	1	0	0	0
 amentatae	1	0	1	0	0	0
@@ -21707,7 +21707,6 @@ amentium	3	0	3	0	0	0
 amentius	1	0	1	0	0	0
 amento	1	0	1	0	0	0
 amentque	1	0	1	0	0	0
-amentum	1	0	0	0	1	0
 amentur	6	1	5	0	0	0
 amenturue	1	0	1	0	0	0
 amenum	2	0	0	0	0	2
@@ -21910,13 +21909,12 @@ amiculum	13	0	13	0	0	0
 amiculus	2	0	2	0	0	0
 amicum	533	6	511	3	1	12
 amicumque	6	0	4	0	1	1
-amicus	519	3	444	1	6	65
+amicus	520	3	444	1	6	66
 amicusque	4	0	4	0	0	0
 amicust	2	0	2	0	0	0
 amicás	1	0	1	0	0	0
 amicé	1	0	1	0	0	0
 amicíssime	1	0	1	0	0	0
-amic＇us	1	0	0	0	0	1
 amidea	1	0	0	1	0	0
 amidio	2	0	2	0	0	0
 amiectum	1	0	1	0	0	0
@@ -22964,7 +22962,6 @@ amrg	9	9	0	0	0	0
 amrus	1	0	0	1	0	0
 ams	1	0	0	0	1	0
 amsancti	3	0	3	0	0	0
-amsi	1	0	0	1	0	0
 amtorgim	2	0	2	0	0	0
 amtur	1	0	0	0	0	1
 amtξa	1	1	0	0	0	0
@@ -23161,7 +23158,7 @@ amʃ	1	1	0	0	0	0
 amεn	1	0	0	0	0	1
 amψa	1	1	0	0	0	0
 an	11797	901	10083	21	52	740
-ana	41	1	26	1	8	5
+ana	43	1	26	3	8	5
 anab	50	50	0	0	0	0
 anabasim	1	0	1	0	0	0
 anabasis	3	0	3	0	0	0
@@ -23412,7 +23409,7 @@ anatés	1	0	1	0	0	0
 anatεma	1	0	0	0	0	1
 anatξa	1	1	0	0	0	0
 anauros	1	0	1	0	0	0
-anaus	2	0	0	1	0	1
+anaus	1	0	0	0	0	1
 anausin	1	0	1	0	0	0
 anausis	2	0	2	0	0	0
 anauξa	1	1	0	0	0	0
@@ -23683,7 +23680,7 @@ andociden	1	0	1	0	0	0
 andocidi	1	0	1	0	0	0
 andocog	1	0	0	0	0	1
 andocos	1	0	0	0	0	1
-andoin＇us	1	0	0	0	0	1
+andoinus	1	0	0	0	0	1
 andokid	1	1	0	0	0	0
 andolen	1	0	0	1	0	0
 andosisclus	1	0	0	0	0	1
@@ -23823,7 +23820,7 @@ andura	1	0	1	0	0	0
 ane	9	0	1	1	1	6
 anebaude	1	0	0	1	0	0
 anebi	2	2	0	0	0	0
-anec	1	1	0	0	0	0
+anec	2	1	0	1	0	0
 anecd	265	264	0	0	0	1
 anecdot	1	1	0	0	0	0
 anecdota	15	15	0	0	0	0
@@ -23865,6 +23862,7 @@ anera	1	0	0	1	0	0
 aneries	1	0	0	0	1	0
 anerio	1	0	1	0	0	0
 anerius	1	0	0	0	0	1
+anert	1	0	0	1	0	0
 anescit	1	0	1	0	0	0
 anesi	27	0	27	0	0	0
 aneso	6	0	6	0	0	0
@@ -23938,7 +23936,7 @@ angelicas	1	0	0	0	0	1
 angelicasque	3	0	0	0	0	3
 angelice	2	0	0	0	0	2
 angelicȩ	2	0	0	0	0	2
-angelici	8	0	0	0	0	8
+angelici	9	0	0	0	0	9
 angelicis	37	0	0	0	0	37
 angelicisque	3	0	0	0	0	3
 angelico	13	0	0	0	0	13
@@ -23955,10 +23953,8 @@ angelorumque	1	0	1	0	0	0
 angelos	10	0	8	1	0	1
 angelramnus	2	0	0	0	0	2
 angelum	15	0	4	0	0	11
-angelus	82	0	5	0	0	77
+angelus	84	0	5	0	0	79
 angelusa	1	0	0	0	0	1
-angel͜ic͜i	1	0	0	0	0	1
-angel＇us	2	0	0	0	0	2
 angem	1	0	0	1	0	0
 angens	2	0	2	0	0	0
 angentem	2	0	2	0	0	0
@@ -24830,7 +24826,7 @@ annuo	43	1	39	1	0	2
 annuorum	2	0	0	0	0	2
 annuos	45	0	43	1	1	0
 annuosque	1	0	1	0	0	0
-annus	1092	6	358	1	11	716
+annus	1093	6	358	1	11	717
 annuum	75	1	55	1	1	17
 annuumque	1	0	1	0	0	0
 annuus	16	0	16	0	0	0
@@ -24846,7 +24842,6 @@ annós	4	0	1	0	0	3
 annúm	3	0	3	0	0	0
 annúos	1	0	1	0	0	0
 ann͡is	1	0	0	0	1	0
-ann＇us	1	0	0	0	0	1
 ano	49	0	9	2	3	35
 anodaphus	1	1	0	0	0	0
 anodina	1	0	1	0	0	0
@@ -24965,9 +24960,8 @@ anseilmus	1	0	0	0	0	1
 anseisi	1	0	0	0	0	1
 anseisus	1	0	0	0	0	1
 anselmo	1	0	0	0	0	1
-anselmus	2	0	0	0	0	2
-ansel＇mus	2	0	0	0	0	2
-ansel＇us	1	0	0	0	0	1
+anselmus	4	0	0	0	0	4
+anselus	1	0	0	0	0	1
 anser	41	1	31	1	6	2
 anserculis	1	0	1	0	0	0
 ansere	16	0	16	0	0	0
@@ -24989,8 +24983,7 @@ anserisque	1	0	1	0	0	0
 anserum	16	0	16	0	0	0
 ansfridus	1	0	0	0	0	1
 anshcarius	1	0	0	0	0	1
-anshelmus	1	0	0	0	0	1
-anshelm＇us	2	0	0	0	0	2
+anshelmus	3	0	0	0	0	3
 ansibertus	1	0	0	0	0	1
 ansicht	1	1	0	0	0	0
 ansilafredus	1	0	0	0	0	1
@@ -25905,8 +25898,7 @@ antiquitatis	70	3	65	0	0	2
 antiquitatisque	3	0	3	0	0	0
 antiquitatium	1	0	1	0	0	0
 antiquitatum	8	2	6	0	0	0
-antiquitus	114	2	105	1	2	4
-antiquit＇us	1	0	0	0	0	1
+antiquitus	115	2	105	1	2	5
 antiquius	46	0	46	0	0	0
 antiquo	130	0	121	2	1	6
 antiquom	11	0	11	0	0	0
@@ -26006,9 +25998,8 @@ antiumque	1	0	1	0	0	0
 antius	12	0	4	1	1	6
 antlia	1	0	1	0	0	0
 antliam	1	0	1	0	0	0
-anto	7	0	2	3	1	1
+anto	9	0	2	5	1	1
 antodonius	2	0	0	0	0	2
-antoi	1	0	0	1	0	0
 antomasia	1	0	1	0	0	0
 anton	15	7	1	6	1	0
 antonatius	1	0	0	0	0	1
@@ -26080,7 +26071,6 @@ antorem	1	0	1	0	0	0
 antoren	2	0	2	0	0	0
 antores	1	0	1	0	0	0
 antorides	1	0	1	0	0	0
-antos	1	0	0	1	0	0
 antouacnius	1	0	0	1	0	0
 antr	2	1	1	0	0	0
 antra	94	0	79	0	0	15
@@ -26232,7 +26222,7 @@ anϲiimum	1	0	0	0	1	0
 ao	63	55	0	2	2	4
 aoa	1	0	0	1	0	0
 aoaltimus	1	0	0	0	0	1
-aob	2	0	0	0	1	1
+aob	3	0	0	1	1	1
 aoccaaneclictorbodesiussilimlimmimcolus	1	0	1	0	0	0
 aoco	1	0	0	0	1	0
 aoderada	1	0	0	0	0	1
@@ -26280,7 +26270,7 @@ aoum	6	0	6	0	0	0
 aoumque	1	0	1	0	0	0
 aous	3	0	3	0	0	0
 aoust	1	0	0	0	0	1
-ap	1199	993	177	14	3	12
+ap	1202	993	177	14	4	14
 apa	5	0	0	2	1	2
 apachm	1	0	0	1	0	0
 apadun	1	0	0	1	0	0
@@ -26335,7 +26325,7 @@ apaturos	1	0	1	0	0	0
 apauortene	1	0	1	0	0	0
 apb	7	7	0	0	0	0
 apbϲ	1	1	0	0	0	0
-apc	5	2	0	0	1	2
+apc	4	2	0	0	0	2
 apd	1	1	0	0	0	0
 apdrψξa	1	1	0	0	0	0
 apdψb	1	1	0	0	0	0
@@ -26744,6 +26734,7 @@ aple	1	0	1	0	0	0
 aplineas	1	0	0	0	0	1
 aplln	1	0	0	1	0	0
 aplostoli	1	0	0	0	0	1
+aplostolus	1	0	0	0	0	1
 apluda	1	0	1	0	0	0
 apludam	3	0	3	0	0	0
 aplunaris	1	0	0	1	0	0
@@ -26754,7 +26745,6 @@ aplustribus	1	0	1	0	0	0
 aplustris	1	0	1	0	0	0
 apluti	1	0	0	0	1	0
 aplysiae	1	0	1	0	0	0
-apl＇ostolus	1	0	0	0	0	1
 apmatys	1	1	0	0	0	0
 apmputaure	1	0	0	0	0	1
 apn	31	31	0	0	0	0
@@ -27031,8 +27021,7 @@ apostolicis	9	0	0	0	0	9
 apostolico	15	0	0	0	0	15
 apostolicos	4	0	0	0	0	4
 apostolicum	15	0	1	0	0	14
-apostolicus	27	0	0	4	0	23
-apostolic＇us	1	0	0	0	0	1
+apostolicus	28	0	0	4	0	24
 apostoliis	2	0	0	0	0	2
 apostolis	15	1	4	0	0	10
 apostolius	8	8	0	0	0	0
@@ -28117,10 +28106,9 @@ apts	1	0	0	0	0	1
 aptum	163	3	151	0	1	8
 aptumne	1	0	1	0	0	0
 aptumque	6	0	6	0	0	0
-aptus	144	3	105	0	0	36
+aptus	145	3	105	0	0	37
 aptusque	1	0	1	0	0	0
 aptξa	2	2	0	0	0	0
-apt＇us	1	0	0	0	0	1
 apu	8	4	2	0	2	0
 apua	5	0	5	0	0	0
 apuam	4	0	4	0	0	0
@@ -28220,13 +28208,11 @@ apξa	2	2	0	0	0	0
 apψ	1	1	0	0	0	0
 apψa	2	2	0	0	0	0
 apψb	1	1	0	0	0	0
-ap＇	2	0	0	0	0	2
-aq	3	1	1	0	0	1
+aq	4	1	1	1	0	1
 aqeste	1	0	0	0	0	1
 aqi	1	0	0	0	0	1
 aqileia	1	0	0	0	0	1
 aqilia	1	0	0	0	0	1
-aqo	1	0	0	1	0	0
 aqu	4	3	0	1	0	0
 aqua	2372	62	2258	15	5	32
 aquabantur	5	0	5	0	0	0
@@ -28612,6 +28598,7 @@ araeostylis	3	0	3	0	0	0
 araeostylo	1	0	1	0	0	0
 araeostylos	1	0	1	0	0	0
 araeque	10	0	10	0	0	0
+araerde	1	0	0	0	0	1
 araetheum	1	0	1	0	0	0
 araethus	2	0	2	0	0	0
 araethyrea	1	0	1	0	0	0
@@ -28804,7 +28791,6 @@ araxum	1	0	1	0	0	0
 araxus	1	0	1	0	0	0
 arazane	1	1	0	0	0	0
 arazanes	1	1	0	0	0	0
-ara͜erde	1	0	0	0	0	1
 arb	1	0	0	1	0	0
 arba	1	0	1	0	0	0
 arbace	1	0	1	0	0	0
@@ -29029,7 +29015,7 @@ arbutum	1	0	1	0	0	0
 arbutus	16	0	16	0	0	0
 arbψψa	1	1	0	0	0	0
 arc	131	121	1	3	3	3
-arca	197	1	96	7	4	89
+arca	198	1	96	8	4	89
 arcacius	1	0	0	0	0	1
 arcad	66	66	0	0	0	0
 arcada	17	1	16	0	0	0
@@ -29101,7 +29087,7 @@ arcarios	1	0	1	0	0	0
 arcaris	1	0	0	0	0	1
 arcarium	1	0	0	1	0	0
 arcarius	7	0	2	0	4	1
-arcas	55	0	53	1	0	1
+arcas	54	0	53	0	0	1
 arcasibi	1	0	0	0	0	1
 arcasin	1	0	1	0	0	0
 arcatur	3	0	0	0	0	3
@@ -29432,8 +29418,7 @@ archiepiscopis	2	0	0	1	0	1
 archiepiscopo	59	1	0	2	0	56
 archiepiscoporum	1	0	0	0	0	1
 archiepiscopum	6	2	0	0	0	4
-archiepiscopus	121	0	0	3	0	118
-archiepiscop＇us	1	0	0	0	0	1
+archiepiscopus	122	0	0	3	0	119
 archiepisopo	1	0	0	0	0	1
 archiepscopus	1	0	0	0	0	1
 archierei	2	0	0	0	2	0
@@ -29841,8 +29826,7 @@ ardiotheran	1	0	1	0	0	0
 ardiotheres	1	0	1	0	0	0
 ardit	1	0	0	0	0	1
 ardo	4	0	1	0	0	3
-ardoinus	2	0	0	0	0	2
-ardoin＇us	1	0	0	0	0	1
+ardoinus	3	0	0	0	0	3
 ardoneas	1	0	1	0	0	0
 ardonis	2	0	0	0	0	2
 ardor	209	2	204	0	0	3
@@ -31175,9 +31159,8 @@ armaturae	67	0	64	1	2	0
 armaturam	35	0	35	0	0	0
 armaturarum	4	0	0	0	0	4
 armaturas	2	0	2	0	0	0
-armatus	151	2	146	2	1	0
+armatus	152	2	146	2	1	1
 armatusque	7	0	7	0	0	0
-armat＇us	1	0	0	0	0	1
 armauerant	4	0	4	0	0	0
 armauerat	5	0	5	0	0	0
 armaueratque	1	0	1	0	0	0
@@ -31399,9 +31382,8 @@ arnobius	7	7	0	0	0	0
 arnold	1	1	0	0	0	0
 arnoldi	1	0	0	0	0	1
 arnoldo	11	0	0	0	0	11
-arnoldus	7	0	0	0	0	7
+arnoldus	11	0	0	0	0	11
 arnoldusque	1	0	0	0	0	1
-arnold＇us	4	0	0	0	0	4
 arnolf	2	0	0	0	0	2
 arnolfi	1	0	0	0	0	1
 arnolfus	1	0	0	0	0	1
@@ -31415,16 +31397,16 @@ arnualis	1	0	0	0	0	1
 arnulfe	2	0	0	0	0	2
 arnulfi	8	0	0	0	0	8
 arnulfo	1	0	0	0	0	1
-arnulfus	22	0	0	4	0	18
-arnulf＇us	1	0	0	0	0	1
+arnulfus	23	0	0	4	0	19
 arnulphi	3	0	0	0	0	3
 arnulphina	1	0	0	0	0	1
 arnulpho	1	0	0	0	0	1
 arnulphus	1	0	0	0	0	1
 arnum	4	0	3	1	0	0
 arnus	2	0	1	0	0	1
-aro	11	1	7	3	0	0
+aro	12	1	7	4	0	0
 arodil	1	0	0	0	0	1
+aroeran	1	0	0	0	0	1
 arogas	1	0	1	0	0	0
 arogontine	1	0	0	0	0	1
 aroidem	1	0	1	0	0	0
@@ -31438,14 +31420,13 @@ aromatiten	2	0	2	0	0	0
 aromatitis	2	0	2	0	0	0
 aromatum	1	0	1	0	0	0
 aron	18	0	8	0	0	10
-aros	3	0	1	2	0	0
+aros	2	0	1	1	0	0
 arosapen	1	0	1	0	0	0
 aroscit	1	0	1	0	0	0
 aroteras	1	0	1	0	0	0
 aroteres	2	0	2	0	0	0
 around	11	0	0	0	8	3
 arourai	1	0	0	0	1	0
-aro͜eran	1	0	0	0	0	1
 arpacduci	1	0	0	0	0	1
 arpacianus	1	0	0	0	0	1
 arpagii	1	0	0	0	0	1
@@ -31769,6 +31750,7 @@ arsini	2	0	0	0	1	1
 arsinico	1	0	1	0	0	0
 arsinios	1	0	0	1	0	0
 arsinna	1	0	1	0	0	0
+arsino	1	0	0	1	0	0
 arsinoae	3	1	2	0	0	0
 arsinoe	14	1	11	2	0	0
 arsinoen	10	3	7	0	0	0
@@ -31785,7 +31767,6 @@ arsinoiticae	1	0	1	0	0	0
 arsinoitu	2	0	0	2	0	0
 arsinoitum	3	0	0	2	1	0
 arsinooque	1	0	1	0	0	0
-arsinorium	1	0	0	1	0	0
 arsinoé	1	0	0	0	1	0
 arsinoën	3	1	2	0	0	0
 arsinoës	1	0	1	0	0	0
@@ -32289,7 +32270,7 @@ aráto	1	0	1	0	0	0
 arúndinem	1	0	1	0	0	0
 arθa	1	0	0	0	0	1
 arξa	2	2	0	0	0	0
-as	2534	2360	51	33	53	37
+as	2538	2360	51	37	53	37
 asa	3	0	0	0	1	2
 asachae	1	0	1	0	0	0
 asachaei	2	1	1	0	0	0
@@ -32297,6 +32278,7 @@ asadus	1	0	0	1	0	0
 asae	1	0	1	0	0	0
 asag	1	0	0	0	0	1
 asaitgen	1	0	0	0	0	1
+asalent	1	0	0	1	0	0
 asampatas	1	0	1	0	0	0
 asamus	1	0	1	0	0	0
 asanam	1	0	1	0	0	0
@@ -34285,7 +34267,7 @@ ategua	4	0	4	0	0	0
 ateguam	6	0	6	0	0	0
 ateguensium	1	0	1	0	0	0
 atei	8	0	6	0	2	0
-ateii	1	0	1	0	0	0
+ateii	2	0	1	0	1	0
 ateio	14	0	14	0	0	0
 ateium	6	0	6	0	0	0
 ateius	47	0	47	0	0	0
@@ -34407,6 +34389,7 @@ athe	3	0	3	0	0	0
 athea	1	0	1	0	0	0
 atheas	1	0	1	0	0	0
 athelani	2	0	0	0	1	1
+athelstan	1	0	0	0	0	1
 athen	583	582	0	0	1	0
 athena	14	0	0	0	13	1
 athenae	107	40	67	0	0	0
@@ -34562,6 +34545,7 @@ atia	6	0	5	0	0	1
 atiae	7	0	6	0	1	0
 atiam	4	0	4	0	0	0
 atianos	1	0	1	0	0	0
+atianu	1	0	0	1	0	0
 aticiano	1	0	0	0	0	1
 atico	1	0	0	1	0	0
 atidio	1	0	1	0	0	0
@@ -34672,6 +34656,7 @@ atlarico	1	0	0	0	0	1
 atlas	47	2	45	0	0	0
 atlectionibus	1	0	0	0	1	0
 atletis	1	0	0	0	0	1
+atlth	1	0	0	0	0	1
 atmen	1	0	1	0	0	0
 atmoderate	1	0	1	0	0	0
 atmodum	4	0	0	0	2	2
@@ -34704,20 +34689,19 @@ atoropose	1	0	0	0	1	0
 atos	1	0	0	0	0	1
 atossam	1	0	1	0	0	0
 atota	1	0	0	0	1	0
-atoui	1	0	0	0	0	1
+atoui	2	0	0	1	0	1
 atpeti	1	0	0	0	0	1
 atponere	1	0	0	0	0	1
 atq	12	0	0	0	0	12
 atqe	2	0	0	0	0	2
 atqua	1	0	0	1	0	0
 atquae	6	0	3	0	0	3
-atque	21449	388	20226	113	17	705
+atque	21451	388	20226	113	17	707
 atqui	492	24	468	0	0	0
 atquin	50	0	50	0	0	0
 atquisit	1	0	0	0	0	1
 atqué	4	0	4	0	0	0
 atquí	1	0	1	0	0	0
-atq＇ue	2	0	0	0	0	2
 atr	6	2	0	0	1	3
 atra	227	6	200	0	0	21
 atrabas	1	0	1	0	0	0
@@ -34913,8 +34897,7 @@ attacti	1	0	1	0	0	0
 attactu	7	0	7	0	0	0
 attactum	2	0	2	0	0	0
 attactumque	1	0	1	0	0	0
-attactus	1	0	1	0	0	0
-attact＇us	1	0	0	0	0	1
+attactus	2	0	1	0	0	1
 attae	2	0	2	0	0	0
 attaeiten	1	0	0	0	1	0
 attagen	4	0	4	0	0	0
@@ -35550,12 +35533,9 @@ atys	7	0	7	0	0	0
 atyst	1	0	0	0	1	0
 atíméti	1	0	0	0	1	0
 atós	1	0	1	0	0	0
-at͜eii	1	0	0	0	1	0
-at͜helstan	1	0	0	0	0	1
-at͜lth	1	0	0	0	0	1
 atθue	3	3	0	0	0	0
 atξa	5	5	0	0	0	0
-au	303	195	38	14	17	39
+au	304	195	38	14	18	39
 aua	3	0	0	1	0	2
 auada	2	0	0	2	0	0
 auae	1	0	0	0	1	0
@@ -35632,7 +35612,7 @@ aubert	2	2	0	0	0	0
 auberti	1	0	0	0	0	1
 aubertus	1	0	0	0	0	1
 aubingni	1	0	0	0	0	1
-auc	13	0	2	0	0	11
+auc	14	0	2	0	1	11
 aucc	1	0	0	0	0	1
 aucela	1	0	1	0	0	0
 aucella	1	0	1	0	0	0
@@ -35657,7 +35637,6 @@ aucioni	1	0	0	0	1	0
 aucipis	1	0	1	0	0	0
 aucipium	1	0	1	0	0	0
 aucissa	1	0	0	0	1	0
-aucpi	1	0	0	0	1	0
 auct	11	11	0	0	0	0
 aucta	110	1	97	0	2	10
 auctae	13	0	12	0	1	0
@@ -35892,7 +35871,7 @@ audasius	2	0	1	1	0	0
 audax	182	2	170	0	0	10
 audaxque	6	0	6	0	0	0
 audcharius	1	0	0	1	0	0
-aude	39	0	39	0	0	0
+aude	40	0	39	0	0	1
 audeam	28	0	28	0	0	0
 audeamus	12	0	11	1	0	0
 audeant	31	1	27	0	2	1
@@ -36219,9 +36198,8 @@ audocos	1	0	0	0	0	1
 audoeni	2	0	0	0	0	2
 audogisel	1	0	0	1	0	0
 audoini	1	0	0	0	0	1
-audoinus	2	0	0	0	0	2
+audoinus	3	0	0	0	0	3
 audoinusque	1	0	0	0	0	1
-audoin＇us	1	0	0	0	0	1
 audolen	2	0	0	2	0	0
 audolena	4	0	0	0	0	4
 audolendis	3	0	0	0	0	3
@@ -36265,6 +36243,7 @@ aue	134	0	45	1	12	76
 auea	1	0	0	0	0	1
 aueam	1	0	0	1	0	0
 aueat	4	0	0	0	0	4
+aueb	1	0	0	0	0	1
 auebantque	1	0	1	0	0	0
 auebas	1	0	1	0	0	0
 auebat	3	0	3	0	0	0
@@ -36397,8 +36376,7 @@ auernis	12	0	12	0	0	0
 auerno	25	0	25	0	0	0
 auernos	1	0	1	0	0	0
 auernum	15	0	15	0	0	0
-auernus	11	0	10	0	0	1
-auern＇us	1	0	0	0	0	1
+auernus	12	0	10	0	0	2
 auerr	1	1	0	0	0	0
 auerrat	1	0	1	0	0	0
 auerrere	3	0	3	0	0	0
@@ -36677,7 +36655,7 @@ auflage	1	1	0	0	0	0
 auflagern	1	0	0	0	1	0
 aufret	2	0	0	0	0	2
 aufri	2	0	0	2	0	0
-aufrn＇us	1	0	0	0	0	1
+aufrnus	1	0	0	0	0	1
 aufsatz	2	0	0	0	0	2
 aufugerat	2	0	2	0	0	0
 aufugere	2	0	2	0	0	0
@@ -36972,8 +36950,7 @@ augustine	2	0	0	0	0	2
 augustini	19	0	0	0	0	19
 augustino	1	0	1	0	0	0
 augustinorum	1	0	1	0	0	0
-augustinus	24	15	0	0	0	9
-augustin＇us	2	0	0	0	0	2
+augustinus	27	15	0	0	0	12
 augustior	8	0	8	0	0	0
 augustiora	1	0	1	0	0	0
 augustiore	5	0	5	0	0	0
@@ -37016,8 +36993,7 @@ augúrio	1	0	1	0	0	0
 augúrium	1	0	1	0	0	0
 augϲ	1	1	0	0	0	0
 augϲa	1	1	0	0	0	0
-aug＇ustin＇us	1	0	0	0	0	1
-aui	253	2	235	1	5	10
+aui	254	2	235	1	6	10
 auia	171	1	154	0	1	15
 auiae	61	0	47	0	4	10
 auiaeque	3	0	3	0	0	0
@@ -37515,8 +37491,7 @@ aureliorum	1	0	1	0	0	0
 aurelios	1	0	1	0	0	0
 aurelique	1	0	1	0	0	0
 aurelium	51	0	24	15	5	7
-aurelius	1694	1	74	1371	116	132
-aureliuss	1	0	0	1	0	0
+aurelius	1695	1	74	1372	116	132
 aureliussiur	1	0	0	1	0	0
 aurelió	1	0	0	0	0	1
 aurell	2	0	0	0	1	1
@@ -38356,8 +38331,6 @@ aŭdacia	2	0	2	0	0	0
 aŭdaciam	1	0	1	0	0	0
 aŭt	1	0	1	0	0	0
 aŭtem	2	0	2	0	0	0
-au͜de	1	0	0	0	0	1
-au͜eb	1	0	0	0	0	1
 auδεntε	1	0	0	0	0	1
 auεat	1	0	0	0	0	1
 auξa	3	3	0	0	0	0
@@ -38739,33 +38712,6 @@ ărgentum	3	0	3	0	0	0
 ăstutias	1	0	1	0	0	0
 ătque	10	0	10	0	0	0
 ăttente	1	0	1	0	0	0
-a͜e	3	0	0	0	0	3
-a͜eadan	1	0	0	0	0	1
-a͜edred	1	0	0	0	0	1
-a͜eduwen	1	0	0	0	0	1
-a͜efern	1	0	0	0	0	1
-a͜eft	1	0	0	0	0	1
-a͜efta͜er	2	0	0	0	0	2
-a͜efter	3	0	0	0	0	3
-a͜egelwardus	1	0	0	0	0	1
-a͜egili	1	0	0	0	0	1
-a͜egured	1	0	0	0	0	1
-a͜el	1	0	0	0	0	1
-a͜elffla͜ed	2	0	0	0	0	2
-a͜elfgiuu	1	0	0	0	0	1
-a͜elfrices	1	0	0	0	0	1
-a͜elfrici	2	0	0	0	0	2
-a͜eln	1	0	0	0	0	1
-a͜elseld͜h	2	0	0	0	0	2
-a͜elwyneys	2	0	0	0	0	2
-a͜ese	1	0	0	0	0	1
-a͜et	3	0	0	0	0	3
-a͜etferie	1	0	0	0	0	1
-a͜etḡadre	1	0	0	0	0	1
-a͜ethe	1	0	0	0	0	1
-a͜ethlmā͜er	1	0	0	0	0	1
-a͜et͜ht͜hla͜e	1	0	0	0	0	1
-a͜ment	1	0	0	0	0	1
 aα	7	7	0	0	0	0
 aβ	14	14	0	0	0	0
 aδ	4	1	0	0	0	3

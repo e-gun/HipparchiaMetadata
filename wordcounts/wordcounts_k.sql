@@ -109,7 +109,7 @@ kalendario	11	0	9	0	0	2
 kalendarium	6	0	5	1	0	0
 kalendaru	1	0	0	0	0	1
 kalendarum	75	0	25	19	1	30
-kalendas	2234	1	218	241	41	1733
+kalendas	2239	1	218	241	41	1738
 kalendasque	1	0	1	0	0	0
 kalende	1	0	0	0	0	1
 kalendennis	1	0	0	0	0	1
@@ -164,9 +164,7 @@ kalypso	3	1	0	0	1	1
 kalátorem	1	0	0	0	0	1
 kalén	1	0	0	0	1	0
 kaléndae	1	0	1	0	0	0
-kal͜endas	2	0	0	0	0	2
 kalῶs	1	0	0	1	0	0
-kal＇endas	2	0	0	0	0	2
 kam	1	0	0	0	0	1
 kamasu	1	0	0	0	0	1
 kamee	1	0	0	0	0	1
@@ -300,8 +298,7 @@ karole	6	0	0	0	0	6
 karoli	44	0	0	0	0	44
 karolo	21	0	0	0	0	21
 karolum	4	0	0	0	0	4
-karolus	59	0	0	0	0	59
-karol＇us	1	0	0	0	0	1
+karolus	60	0	0	0	0	60
 karos	1	0	0	0	0	1
 karosque	1	0	0	0	0	1
 karotaiose	1	0	0	0	1	0
@@ -1061,8 +1058,8 @@ küfischer	1	0	0	0	0	1
 kühn	19	19	0	0	0	0
 küssende	1	0	0	0	0	1
 küsterus	1	1	0	0	0	0
-k̄ynin͜g	1	0	0	0	0	1
-k̄ynin͜gc	1	0	0	0	0	1
+k̄yning	1	0	0	0	0	1
+k̄yningc	1	0	0	0	0	1
 kά	1	0	0	0	1	0
 kάριον	1	0	0	0	1	0
 kα	1	1	0	0	0	0
@@ -1083,7 +1080,6 @@ kψi	1	1	0	0	0	0
 kψpω	1	1	0	0	0	0
 kψrill	5	5	0	0	0	0
 kψrillos	2	2	0	0	0	0
-k＇alendas	1	0	0	0	0	1
 \.
 
 

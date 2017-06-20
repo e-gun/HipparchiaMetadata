@@ -42,8 +42,8 @@ ALTER TABLE wordcounts_r OWNER TO hippa_wr;
 --
 
 COPY wordcounts_r (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-r	6042	5159	496	110	58	219
-ra	90	14	17	15	18	26
+r	6048	5159	496	114	60	219
+ra	92	14	17	15	18	28
 raabe	1	1	0	0	0	0
 raammas	1	0	0	1	0	0
 raas	1	0	0	1	0	0
@@ -404,8 +404,7 @@ raimundi	9	0	0	0	0	9
 raimundinus	1	0	0	0	0	1
 raimundo	4	0	0	0	0	4
 raimundum	2	0	0	0	0	2
-raimundus	64	0	0	0	0	64
-raimund＇us	1	0	0	0	0	1
+raimundus	65	0	0	0	0	65
 raimuns	1	0	0	0	0	1
 raimunus	2	0	0	0	0	2
 rainald	1	0	0	0	0	1
@@ -598,7 +597,7 @@ ranocori	2	0	0	0	0	2
 ranorum	1	0	1	0	0	0
 ranouigio	1	0	0	0	0	1
 ranpiis	1	0	0	1	0	0
-ranraed	1	0	0	1	0	0
+ranra	1	0	0	1	0	0
 rant	8	0	5	0	1	2
 rantes	1	0	1	0	0	0
 ranti	2	0	1	0	1	0
@@ -1249,6 +1248,7 @@ raucitate	1	0	1	0	0	0
 raucitatem	5	0	5	0	0	0
 raucitati	1	0	1	0	0	0
 raucitatibus	1	0	1	0	0	0
+raucmadationa	1	0	0	0	1	0
 rauco	34	0	34	0	0	0
 raucoque	2	0	2	0	0	0
 raucorum	1	0	1	0	0	0
@@ -1327,7 +1327,6 @@ raγe	1	0	0	0	0	1
 raξa	1	1	0	0	0	0
 raψ	1	1	0	0	0	0
 raψa	1	1	0	0	0	0
-ra＇	2	0	0	0	0	2
 rb	5	2	0	0	1	2
 rbarb	19	19	0	0	0	0
 rbarbmatr	3	3	0	0	0	0
@@ -1370,9 +1369,9 @@ rcpapgr	3	0	0	3	0	0
 rcpr	2	0	0	2	0	0
 rcs	2	1	0	0	0	1
 rcu	2	1	0	0	0	1
-rcu⌉mnsy	1	1	0	0	0	0
-rcu⌉msy	1	1	0	0	0	0
-rcu⌉sy	1	1	0	0	0	0
+rcumnsy	1	1	0	0	0	0
+rcumsy	1	1	0	0	0	0
+rcusy	1	1	0	0	0	0
 rcʃ	5	5	0	0	0	0
 rd	7	1	0	0	5	1
 rda	2	0	0	0	0	2
@@ -1384,7 +1383,7 @@ rdiam	1	0	0	1	0	0
 rdlis	1	0	0	0	0	1
 rdos	3	0	0	1	0	2
 rdus	2	0	0	1	0	1
-re	6400	216	6032	54	20	78
+re	6406	216	6032	60	20	78
 rea	56	0	50	0	0	6
 reabse	1	0	1	0	0	0
 reacceptam	1	0	0	1	0	0
@@ -1801,6 +1800,7 @@ receptat	18	0	15	0	0	3
 receptator	1	0	1	0	0	0
 receptatoribus	3	0	3	0	0	0
 receptatorum	1	0	1	0	0	0
+receptcd	1	0	0	0	0	1
 recepte	1	0	1	0	0	0
 receptes	1	0	1	0	0	0
 receptet	8	0	6	0	0	2
@@ -1840,7 +1840,6 @@ recepturusne	1	0	1	0	0	0
 receptus	165	1	147	0	0	17
 receptusque	7	0	7	0	0	0
 receptácula	1	0	0	0	0	1
-recept͜cd	1	0	0	0	0	1
 reces	9	0	1	0	0	8
 receserund	1	0	0	0	0	1
 receset	2	0	0	0	0	2
@@ -3304,8 +3303,7 @@ redditast	1	0	1	0	0	0
 redditaue	1	0	1	0	0	0
 reddite	42	0	40	0	0	2
 redditi	29	0	28	0	0	1
-redditibus	5	0	0	2	0	3
-redditib＇us	1	0	0	0	0	1
+redditibus	6	0	0	2	0	4
 redditio	7	0	3	0	0	4
 redditione	2	0	1	0	0	1
 redditionem	1	0	1	0	0	0
@@ -3544,7 +3542,7 @@ redibitionem	1	0	0	1	0	0
 redibitur	1	0	1	0	0	0
 redibo	5	0	5	0	0	0
 redibunt	2	0	1	0	0	1
-redic	2	0	0	0	2	0
+redic	1	0	0	0	1	0
 rediculi	3	0	3	0	0	0
 redidit	1	0	0	0	0	1
 redie	1	0	1	0	0	0
@@ -3990,7 +3988,6 @@ reedificatus	1	0	0	0	0	1
 reedificauit	1	0	0	0	0	1
 reeessit	1	0	0	0	0	1
 reei	1	0	1	0	0	0
-reent	1	0	0	1	0	0
 reescunt	1	0	0	0	0	1
 reet	1	0	0	1	0	0
 reeutamo	1	0	0	0	1	0
@@ -5033,10 +5030,10 @@ reginas	10	0	10	0	0	0
 reginbaldi	2	0	0	0	0	2
 reginbaldo	1	0	0	0	0	1
 reginbaldus	3	0	0	0	0	3
-reginbold＇us	2	0	0	0	0	2
+reginboldus	2	0	0	0	0	2
 regine	12	0	1	0	4	7
 reginȩ	1	0	0	0	0	1
-reginhard＇us	1	0	0	0	0	1
+reginhardus	1	0	0	0	0	1
 regini	8	0	7	0	0	1
 reginis	13	0	13	0	0	0
 reginisque	1	0	1	0	0	0
@@ -5047,8 +5044,7 @@ reginorum	4	0	4	0	0	0
 reginos	3	0	3	0	0	0
 regint	11	11	0	0	0	0
 reginum	4	0	4	0	0	0
-reginus	6	0	5	0	0	1
-regin＇us	1	0	0	0	0	1
+reginus	7	0	5	0	0	2
 regio	504	8	486	4	0	6
 region	2	0	1	0	1	0
 regiona	1	0	1	0	0	0
@@ -5158,7 +5154,7 @@ regnarunt	6	1	5	0	0	0
 regnas	12	0	6	0	0	6
 regnasse	20	0	20	0	0	0
 regnasset	10	2	8	0	0	0
-regnat	93	1	62	0	0	30
+regnat	94	1	62	0	0	31
 regnata	20	0	20	0	0	0
 regnatam	1	0	1	0	0	0
 regnataque	2	0	2	0	0	0
@@ -5175,7 +5171,6 @@ regnatura	1	0	1	0	0	0
 regnaturae	1	0	1	0	0	0
 regnaturum	14	1	13	0	0	0
 regnaturus	6	0	5	0	0	1
-regnat͜	1	0	0	0	0	1
 regnaue	1	0	1	0	0	0
 regnauerat	6	0	6	0	0	0
 regnauere	4	0	4	0	0	0
@@ -5916,10 +5911,9 @@ religiost	1	0	1	0	0	0
 religiosum	98	0	97	0	0	1
 religiosummo	1	0	1	0	0	0
 religiosumque	2	0	2	0	0	0
-religiosus	62	0	55	0	0	7
+religiosus	63	0	55	0	0	8
 religiosusa	1	0	0	0	0	1
 religiosáus	1	0	0	0	0	1
-religios＇us	1	0	0	0	0	1
 religáta	1	0	1	0	0	0
 relin	1	0	1	0	0	0
 relinco	2	0	0	2	0	0
@@ -6176,7 +6170,7 @@ relínqui	1	0	1	0	0	0
 relíqui	3	0	3	0	0	0
 relíquimus	1	0	1	0	0	0
 relíqüom	1	0	1	0	0	0
-rem	7610	157	7364	50	10	29
+rem	7611	157	7364	50	11	29
 rema	4	2	1	0	0	1
 remacli	1	0	0	0	0	1
 remaclii	1	0	0	0	0	1
@@ -8815,7 +8809,7 @@ requiesciit	2	0	0	0	0	2
 requiescimus	1	0	1	0	0	0
 requiescint	1	0	0	0	0	1
 requiescis	5	0	1	0	0	4
-requiescit	1369	0	19	4	2	1344
+requiescit	1370	0	19	4	2	1345
 requiescitanastasius	1	0	0	0	0	1
 requiescite	2	0	1	0	0	1
 requiescitemerita	1	0	0	0	0	1
@@ -8987,7 +8981,6 @@ requuiebet	1	0	0	0	0	1
 requíreret	1	0	1	0	0	0
 requηscit	3	0	0	0	0	3
 reqyieyit	1	0	0	0	0	1
-req͜uiescit	1	0	0	0	0	1
 rer	20	20	0	0	0	0
 rere	18	0	18	0	0	0
 rereliqua	1	0	1	0	0	0
@@ -11192,7 +11185,6 @@ reualuerit	1	0	1	0	0	0
 reualui	1	0	1	0	0	0
 reualuisset	1	0	1	0	0	0
 reualuit	1	0	1	0	0	0
-reuazaro	1	0	0	1	0	0
 reubibl	1	0	0	0	0	1
 reudigni	1	0	1	0	0	0
 reudolfus	2	0	0	0	0	2
@@ -11318,8 +11310,7 @@ reuerendissimo	10	0	0	3	0	7
 reuerendissimus	2	0	0	0	0	2
 reuerendo	27	0	1	17	0	9
 reuerendum	6	0	1	4	0	1
-reuerendus	21	1	4	7	0	9
-reuerend＇us	1	0	0	0	0	1
+reuerendus	22	1	4	7	0	10
 reuerens	7	0	7	0	0	0
 reuerentem	1	0	1	0	0	0
 reuerenter	6	0	3	0	0	3
@@ -11801,7 +11792,6 @@ reuortor	7	0	7	0	0	0
 reus	773	0	768	0	0	5
 reusque	2	0	2	0	0	0
 reutilo	1	0	0	0	0	1
-reutrelicta	1	0	0	1	0	0
 reuu	3	3	0	0	0	0
 reuulsa	12	0	9	0	0	3
 reuulsae	2	0	2	0	0	0
@@ -11896,7 +11886,6 @@ rgine	1	0	0	0	0	1
 rgius	1	0	0	0	0	1
 rgn	1	1	0	0	0	0
 rgoni	1	0	0	0	0	1
-rgri	1	0	0	1	0	0
 rgs	1	1	0	0	0	0
 rguu	1	1	0	0	0	0
 rh	341	340	0	0	0	1
@@ -12312,7 +12301,7 @@ rhéni	1	0	0	0	0	1
 rhétoricasti	1	0	1	0	0	0
 rhétorissas	1	0	1	0	0	0
 rhêtor	1	0	1	0	0	0
-ri	116	19	16	23	14	44
+ri	117	19	16	24	14	44
 ria	24	0	0	3	2	19
 riac	1	0	0	0	1	0
 riaco	1	0	0	1	0	0
@@ -12343,12 +12332,11 @@ ribus	7	0	3	2	0	2
 ric	3	0	0	0	0	3
 rica	6	0	6	0	0	0
 ricae	3	0	3	0	0	0
+ricaes	1	0	0	0	0	1
 ricam	7	0	7	0	0	0
 ricardis	2	0	0	0	0	2
-ricardus	3	0	0	0	0	3
-ricard＇us	2	0	0	0	0	2
+ricardus	5	0	0	0	0	5
 ricati	3	0	0	0	0	3
-rica͜es	1	0	0	0	0	1
 ricbodo	2	0	0	0	0	2
 riccardi	1	0	0	0	0	1
 riccaridi	1	0	0	0	0	1
@@ -12365,8 +12353,7 @@ richard	1	0	0	0	0	1
 richardi	1	0	0	0	0	1
 richardo	4	0	0	0	0	4
 richardum	1	0	0	0	0	1
-richardus	6	0	0	0	0	6
-richard＇us	2	0	0	0	0	2
+richardus	8	0	0	0	0	8
 richari	1	0	0	0	0	1
 richarii	4	0	0	0	0	4
 richarium	1	0	0	0	0	1
@@ -12727,7 +12714,7 @@ rihlindis	1	0	0	0	0	1
 riho	1	0	0	0	0	1
 rii	3	0	0	0	1	2
 riicia	1	0	0	0	0	1
-riicna͜e	1	0	0	0	0	1
+riicnae	1	0	0	0	0	1
 riiet	2	0	0	0	1	1
 riis	1	0	0	0	0	1
 riliqiae	1	0	0	0	0	1
@@ -13007,8 +12994,9 @@ riuique	2	0	2	0	0	0
 riuis	66	0	60	4	0	2
 riuisque	1	0	1	0	0	0
 riuit	1	0	0	1	0	0
-rium	5	0	2	2	0	1
+rium	6	0	2	3	0	1
 riunius	1	0	1	0	0	0
+riunt	1	0	0	1	0	0
 riuo	58	0	54	1	2	1
 riuoi	1	0	0	0	1	0
 riuolo	1	0	1	0	0	0
@@ -13032,7 +13020,7 @@ riuum	67	1	57	0	4	5
 riuumque	1	0	1	0	0	0
 riuus	55	0	51	2	0	2
 riuális	1	0	1	0	0	0
-riwin＇us	2	0	0	0	0	2
+riwinus	2	0	0	0	0	2
 riwose	2	0	0	0	2	0
 rix	1	0	0	0	0	1
 rixa	49	2	47	0	0	0
@@ -13361,8 +13349,7 @@ rodoraque	2	0	0	0	0	2
 rodoïdes	1	0	0	0	0	1
 rodulfi	1	0	0	0	0	1
 rodulfo	1	0	0	0	0	1
-rodulfus	3	0	0	0	0	3
-rodulf＇us	1	0	0	0	0	1
+rodulfus	4	0	0	0	0	4
 rodulph	1	0	0	0	0	1
 rodulphi	1	0	0	0	0	1
 rodum	2	0	2	0	0	0
@@ -13371,7 +13358,7 @@ rodus	4	0	4	0	0	0
 roe	3	2	0	1	0	0
 roeia	1	0	0	0	0	1
 roesch	14	0	0	0	14	0
-roetberhta͜e	1	0	0	0	0	1
+roetberhtae	1	0	0	0	0	1
 roffiaco	1	0	0	1	0	0
 roffiii	1	0	0	0	1	0
 rofi	2	0	0	0	0	2
@@ -13550,6 +13537,7 @@ roge	2	0	1	1	0	0
 rogem	30	0	30	0	0	0
 rogemur	2	0	2	0	0	0
 rogemus	9	0	8	0	0	1
+rogen	1	0	0	1	0	0
 rogent	9	0	7	0	0	2
 rogentque	1	0	1	0	0	0
 rogentur	4	0	4	0	0	0
@@ -13647,12 +13635,11 @@ roll	2	0	0	0	0	2
 rollandus	1	0	0	0	0	1
 rolls	2	0	0	0	0	2
 rolo	1	0	0	0	0	1
-rom	151	123	5	3	2	18
-roma	784	6	677	3	17	81
+rom	152	123	5	4	2	18
+roma	785	6	677	3	18	81
 romaane	2	0	0	0	0	2
 romabo	1	0	1	0	0	0
-romaccleremiuruc	1	0	0	0	1	0
-romae	1579	7	1491	7	19	55
+romae	1580	7	1491	7	19	56
 romaene	5	0	5	0	0	0
 romaeon	1	1	0	0	0	0
 romaeque	5	0	5	0	0	0
@@ -13728,7 +13715,6 @@ romānae	1	0	1	0	0	0
 romāni	2	0	2	0	0	0
 romānōrum	2	0	2	0	0	0
 romānus	1	0	1	0	0	0
-roma͜e	1	0	0	0	0	1
 rombum	1	0	1	0	0	0
 rome	21	1	0	0	2	18
 romei	1	0	0	0	0	1
@@ -13805,7 +13791,7 @@ romulum	64	1	63	0	0	0
 romulumque	2	0	2	0	0	0
 romulus	199	4	185	1	2	7
 romulusque	1	0	1	0	0	0
-romus	3	0	2	1	0	0
+romus	2	0	2	0	0	0
 romwalus	1	0	0	0	0	1
 romyleae	1	0	1	0	0	0
 romyllus	1	0	0	0	0	1
@@ -14315,7 +14301,7 @@ rture	1	0	0	0	0	1
 rtus	2	0	0	1	0	1
 rtxxcψξa	1	1	0	0	0	0
 rty	1	0	0	0	1	0
-ru	1058	1037	3	5	4	9
+ru	1060	1039	3	5	4	9
 rua	6	3	1	0	1	1
 ruae	1	0	1	0	0	0
 ruald	20	20	0	0	0	0
@@ -14643,8 +14629,7 @@ rudiunt	1	0	1	0	0	0
 rudolf	1	0	0	0	0	1
 rudolfi	1	0	0	0	0	1
 rudolfo	1	0	0	0	0	1
-rudolfus	2	0	0	0	0	2
-rudolf＇us	1	0	0	0	0	1
+rudolfus	3	0	0	0	0	3
 rudolphi	1	0	0	0	0	1
 rudolphus	5	1	0	0	0	4
 rudore	1	0	1	0	0	0
@@ -14985,7 +14970,7 @@ rulo	1	0	0	0	0	1
 rult	3	3	0	0	0	0
 rultald	3	3	0	0	0	0
 rulzt	1	1	0	0	0	0
-rum	130	53	25	10	7	35
+rum	132	53	25	12	7	35
 ruma	5	1	2	0	0	2
 rumaldus	2	0	0	0	0	2
 rumam	2	0	2	0	0	0
@@ -15065,6 +15050,7 @@ rumorido	7	0	0	0	0	7
 rumoris	22	0	22	0	0	0
 rumorque	2	0	2	0	0	0
 rumorum	6	0	6	0	0	0
+rump	1	0	0	1	0	0
 rumpam	8	0	8	0	0	0
 rumpamus	3	0	3	0	0	0
 rumpant	7	0	7	0	0	0
@@ -15192,7 +15178,8 @@ running	4	0	0	0	4	0
 runno	2	0	0	0	0	2
 runrs	1	1	0	0	0	0
 runs	1	0	0	0	1	0
-runt	9	0	0	1	1	7
+runsy	1	1	0	0	0	0
+runt	10	0	0	2	1	7
 runtin	1	0	0	0	0	1
 ruo	4	0	4	0	0	0
 ruodbertus	1	0	0	0	0	1
@@ -15204,7 +15191,7 @@ ruodpertus	2	0	0	0	0	2
 ruodulfi	2	0	0	0	0	2
 ruodulfum	3	0	0	0	0	3
 ruont	3	0	3	0	0	0
-ruopert＇us	2	0	0	0	0	2
+ruopertus	2	0	0	0	0	2
 ruotgerus	1	0	0	0	0	1
 ruothardus	2	0	0	0	0	2
 ruothart	4	0	0	0	0	4
@@ -15226,8 +15213,7 @@ ruperint	1	0	1	0	0	0
 ruperis	2	0	2	0	0	0
 ruperit	35	0	32	0	0	3
 ruperti	1	0	0	0	0	1
-rupertus	1	0	0	0	0	1
-rupert＇us	1	0	0	0	0	1
+rupertus	2	0	0	0	0	2
 ruperunt	14	0	14	0	0	0
 rupes	142	1	141	0	0	0
 rupesque	18	0	18	0	0	0
@@ -15489,6 +15475,7 @@ rusum	18	0	18	0	0	0
 rusus	5	0	5	0	0	0
 rususque	1	0	1	0	0	0
 rusuula	3	0	0	0	0	3
+rusy	1	1	0	0	0	0
 ruta	102	0	100	0	0	2
 rutabula	1	0	1	0	0	0
 rutabulo	7	0	7	0	0	0
@@ -15610,7 +15597,7 @@ rutundum	6	0	5	0	1	0
 rutundus	3	0	3	0	0	0
 rutupinaque	1	0	1	0	0	0
 rutupinoue	1	0	1	0	0	0
-rutwic＇us	1	0	0	0	0	1
+rutwicus	1	0	0	0	0	1
 rutábulum	2	0	2	0	0	0
 ruu	1	0	1	0	0	0
 ruue	1	0	0	0	0	1
@@ -15639,9 +15626,6 @@ ruθbis	1	1	0	0	0	0
 ruθm	1	1	0	0	0	0
 ruψ	1	1	0	0	0	0
 ruψb	1	1	0	0	0	0
-ru⌉	2	2	0	0	0	0
-ru⌉nsy	1	1	0	0	0	0
-ru⌉sy	1	1	0	0	0	0
 rw	24	24	0	0	0	0
 rwchr	2	0	0	2	0	0
 rwk	2	1	0	0	0	1

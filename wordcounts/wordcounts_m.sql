@@ -42,8 +42,8 @@ ALTER TABLE wordcounts_m OWNER TO hippa_wr;
 --
 
 COPY wordcounts_m (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-m	31705	6309	4265	17699	778	2654
-ma	1233	1024	40	41	20	108
+m	31719	6309	4265	17709	782	2654
+ma	1234	1024	40	42	20	108
 maab	3	3	0	0	0	0
 maagb	1	1	0	0	0	0
 maagbi	1	1	0	0	0	0
@@ -779,7 +779,7 @@ madun	1	0	0	0	0	1
 madytos	2	0	2	0	0	0
 madytum	1	0	1	0	0	0
 madúlsam	1	0	1	0	0	0
-mae	13	0	2	4	0	7
+mae	14	0	2	4	0	8
 maeae	1	0	1	0	0	0
 maeander	9	0	8	0	1	0
 maeandrata	1	0	1	0	0	0
@@ -847,10 +847,10 @@ maelis	2	0	2	0	0	0
 maelium	18	0	18	0	0	0
 maelius	12	0	12	0	0	0
 maelo	2	0	1	0	0	1
+maem	1	0	0	0	1	0
 maemalio	1	0	1	0	0	0
 maemilus	1	0	0	1	0	0
 maemitesai	1	0	0	0	1	0
-maemli	1	0	0	0	1	0
 maemori	1	0	0	0	0	1
 maemoriae	5	0	0	0	0	5
 maemoriam	1	0	0	0	0	1
@@ -1408,7 +1408,7 @@ magnificentissima	4	0	4	0	0	0
 magnificentissimae	1	0	1	0	0	0
 magnificentissimam	5	0	5	0	0	0
 magnificentissimas	2	0	2	0	0	0
-magula	4	0	0	4	0	0
+magulf	2	0	0	0	0	2
 magnificentissime	6	0	6	0	0	0
 magnificentissimique	3	0	3	0	0	0
 magnificentissimis	2	0	2	0	0	0
@@ -1498,12 +1498,11 @@ magnufice	1	0	1	0	0	0
 magnum	1273	31	1196	1	5	40
 magnumque	55	0	53	0	0	2
 magnumst	2	0	2	0	0	0
-magnus	692	20	561	6	6	99
+magnus	694	20	561	6	6	101
 magnusfilia	2	0	2	0	0	0
 magnusfilius	2	0	2	0	0	0
 magnusque	17	0	17	0	0	0
 magnust	2	0	2	0	0	0
-magnu＇s	2	0	0	0	0	2
 magnym	1	1	0	0	0	0
 magnys	1	1	0	0	0	0
 magná	3	0	1	0	0	2
@@ -1531,7 +1530,7 @@ magram	1	0	1	0	0	0
 magrennio	1	0	0	0	0	1
 magtildis	1	0	0	0	0	1
 magudarim	1	0	1	0	0	0
-magulf	2	0	0	0	0	2
+magula	4	0	0	4	0	0
 magulfo	1	0	0	0	0	1
 magulfum	1	0	0	0	0	1
 magulla	1	0	1	0	0	0
@@ -1637,6 +1636,7 @@ mainfredus	1	0	0	0	0	1
 mainzer	1	0	0	0	0	1
 maio	35	0	19	1	0	15
 maioli	1	0	0	0	0	1
+maiopo	1	0	0	1	0	0
 maior	1498	24	1408	3	10	53
 maiora	494	5	483	0	0	6
 maioraque	29	0	29	0	0	0
@@ -1644,8 +1644,7 @@ maiorare	1	0	1	0	0	0
 maiorarius	1	0	0	0	1	0
 maioraue	2	0	2	0	0	0
 maiordomus	1	0	0	0	0	1
-maiore	834	6	808	5	3	12
-maiorec	1	0	0	0	1	0
+maiore	835	6	808	5	4	12
 maioreis	1	0	1	0	0	0
 maiorem	744	18	713	3	0	10
 maioremque	29	0	25	0	0	4
@@ -2848,7 +2847,7 @@ maneremus	3	0	3	0	0	0
 manerent	37	1	36	0	0	0
 manereque	1	0	1	0	0	0
 maneres	9	0	9	0	0	0
-maneret	117	1	102	0	0	14
+maneret	119	1	102	0	0	16
 maneretque	1	0	1	0	0	0
 maneretur	1	0	1	0	0	0
 maneri	1	0	1	0	0	0
@@ -2903,10 +2902,9 @@ manibiīs	4	0	4	0	0	0
 manibiís	4	0	0	0	0	4
 manibrio	1	0	1	0	0	0
 manibu	3	0	3	0	0	0
-manibus	1690	7	1226	11	291	155
+manibus	1691	7	1226	11	291	156
 manibusque	57	0	57	0	0	0
 manibusue	2	0	2	0	0	0
-manib＇us	1	0	0	0	0	1
 manica	5	0	3	1	1	0
 manicae	4	0	3	0	0	1
 manicaeque	3	0	3	0	0	0
@@ -3456,7 +3454,7 @@ manupretiosum	2	0	2	0	0	0
 manupretium	4	0	4	0	0	0
 manuque	61	0	55	0	0	6
 manureuelat	1	0	1	0	0	0
-manus	2841	46	2679	6	11	99
+manus	2842	46	2679	7	11	99
 manuscr	1	1	0	0	0	0
 manuscrits	3	3	0	0	0	0
 manuspretium	1	0	1	0	0	0
@@ -3762,14 +3760,13 @@ marculus	3	0	2	0	0	1
 marcum	90	2	67	9	7	5
 marcumque	3	0	3	0	0	0
 marcun	1	0	0	0	0	1
-marcus	641	3	345	65	78	150
+marcus	643	3	345	65	78	152
 marcusque	1	0	1	0	0	0
 marcwardi	1	0	0	0	0	1
 marcéntium	1	0	1	0	0	0
 marcí	1	0	1	0	0	0
 marcεlini	1	0	0	0	0	1
 marcεlli	1	0	0	0	0	1
-marc＇us	2	0	0	0	0	2
 mardani	1	0	1	0	0	0
 mardi	3	0	3	0	0	0
 mardis	1	0	1	0	0	0
@@ -3870,7 +3867,7 @@ margum	1	0	1	0	0	0
 margus	1	0	1	0	0	0
 marheus	1	0	0	1	0	0
 marhia	1	0	0	0	0	1
-mari	1349	58	1266	3	8	14
+mari	1350	58	1266	4	8	14
 maria	912	12	497	10	2	391
 mariae	161	0	3	8	0	150
 mariam	24	1	2	1	0	20
@@ -3966,7 +3963,7 @@ marioque	1	0	1	0	0	0
 marios	6	0	6	0	0	0
 mariosque	2	0	2	0	0	0
 marique	178	0	173	0	0	5
-maris	758	31	682	6	0	39
+maris	757	31	682	5	0	39
 marisaeum	1	1	0	0	0	0
 marisca	1	0	1	0	0	0
 mariscae	6	0	6	0	0	0
@@ -4351,9 +4348,8 @@ martinis	1	0	0	0	0	1
 martino	30	0	0	3	0	27
 martinula	1	0	0	0	1	0
 martinum	9	0	0	1	0	8
-martinus	95	0	0	0	1	94
+martinus	97	0	0	0	1	96
 martinusque	1	0	0	0	0	1
-martin＇us	2	0	0	0	0	2
 martio	102	1	97	1	0	3
 martiola	2	0	0	0	0	2
 martiolum	1	0	1	0	0	0
@@ -4491,7 +4487,7 @@ masaesylorumque	1	0	1	0	0	0
 masaesylum	1	0	1	0	0	0
 masala	1	1	0	0	0	0
 masariorum	1	0	0	0	0	1
-masari＇us	2	0	0	0	0	2
+masarius	2	0	0	0	0	2
 masary	1	0	0	0	0	1
 masathat	1	0	1	0	0	0
 masatos	1	0	1	0	0	0
@@ -4802,8 +4798,7 @@ materteram	4	0	4	0	0	0
 materteris	1	0	1	0	0	0
 materue	8	0	8	0	0	0
 mateum	1	0	0	0	0	1
-mateus	30	0	0	0	0	30
-mateu＇s	2	0	0	0	0	2
+mateus	32	0	0	0	0	32
 matexam	1	0	1	0	0	0
 matgunt	1	0	0	0	0	1
 math	190	180	0	0	0	10
@@ -4815,7 +4810,7 @@ matharei	1	0	0	1	0	0
 mathathia	1	1	0	0	0	0
 mathathiam	2	1	0	0	0	1
 mathathias	3	2	0	0	0	1
-mathea͜es	1	0	0	0	0	1
+matheaes	1	0	0	0	0	1
 mathee	3	0	0	0	0	3
 mathei	15	0	0	0	0	15
 mathelgae	1	0	1	0	0	0
@@ -5256,10 +5251,9 @@ mauortisque	1	0	1	0	0	0
 mauortium	1	0	1	0	0	0
 mauortius	14	0	14	0	0	0
 mauouih	1	0	0	0	0	1
-maur	1	0	0	1	0	0
+maur	2	0	0	2	0	0
 maura	24	0	10	0	0	14
 maurae	6	0	3	0	0	3
-mauraliclam	1	0	0	1	0	0
 mauram	2	0	2	0	0	0
 maurarum	2	0	1	0	0	1
 mauras	1	0	1	0	0	0
@@ -5299,8 +5293,7 @@ mauricii	40	0	0	2	1	37
 mauricini	1	0	0	0	0	1
 mauricio	25	0	1	1	0	23
 mauricium	2	0	0	0	0	2
-mauricius	28	0	1	0	1	26
-maurici＇us	2	0	0	0	0	2
+mauricius	30	0	1	0	1	28
 maurico	6	0	6	0	0	0
 mauricos	1	0	1	0	0	0
 mauricum	3	0	3	0	0	0
@@ -5444,8 +5437,7 @@ maximiani	62	1	1	4	4	52
 maximiano	200	0	3	10	43	144
 maximianum	7	1	3	0	0	3
 maximianumque	1	0	1	0	0	0
-maximianus	90	0	2	4	11	73
-maximian＇us	1	0	0	0	0	1
+maximianus	91	0	2	4	11	74
 maximilae	1	0	0	0	0	1
 maximilianeti	1	0	0	0	0	1
 maximiliano	1	0	0	0	0	1
@@ -5471,9 +5463,8 @@ maximinorum	2	0	2	0	0	0
 maximinos	4	0	4	0	0	0
 maximinu	1	0	0	1	0	0
 maximinum	50	7	41	0	0	2
-maximinus	92	0	49	1	6	36
+maximinus	93	0	49	1	6	37
 maximinusque	3	0	0	0	0	3
-maximin＇us	1	0	0	0	0	1
 maximique	11	0	10	0	0	1
 maximis	315	6	300	0	3	6
 maximisque	22	0	21	0	1	0
@@ -5582,7 +5573,6 @@ māluī	1	0	1	0	0	0
 mārcia	1	0	1	0	0	0
 mārtis	1	0	1	0	0	0
 mātris	1	0	1	0	0	0
-ma͜e	1	0	0	0	0	1
 maθ	4	4	0	0	0	0
 maθu	1	1	0	0	0	0
 maξimiano	1	0	0	0	0	1
@@ -5609,7 +5599,7 @@ mbriussurius	1	0	0	1	0	0
 mbt	2	2	0	0	0	0
 mbu	1	1	0	0	0	0
 mbus	1	0	0	1	0	0
-mc	106	90	0	1	4	11
+mc	104	90	0	1	2	11
 mcaius	2	0	0	2	0	0
 mcalc	1	1	0	0	0	0
 mcc	21	0	7	0	0	14
@@ -5911,7 +5901,7 @@ mdδuyas	29	29	0	0	0	0
 mdδya	30	30	0	0	0	0
 mdδyas	7	7	0	0	0	0
 mdθδkuyas	1	1	0	0	0	0
-me	18861	85	17739	266	37	734
+me	18862	85	17739	267	37	734
 mea	3951	14	3694	54	7	182
 meabat	1	0	1	0	0	0
 meabilem	1	0	1	0	0	0
@@ -6508,7 +6498,6 @@ medíocri	1	0	1	0	0	0
 medíocriter	1	0	1	0	0	0
 medúllitus	1	0	1	0	0	0
 mee	17	0	1	1	0	15
-meel	1	0	0	1	0	0
 meem	1	0	0	0	0	1
 meent	2	1	1	0	0	0
 meere	1	0	0	0	0	1
@@ -7146,7 +7135,7 @@ memaecylon	1	0	1	0	0	0
 memanamenoi	1	0	0	0	1	0
 member	1	0	0	0	1	0
 membr	2	1	0	0	0	1
-membra	1258	18	913	1	0	326
+membra	1259	18	913	1	0	327
 membrana	83	0	79	3	0	1
 membranaceae	2	1	1	0	0	0
 membranaceo	1	1	0	0	0	0
@@ -7190,7 +7179,6 @@ membrosior	1	0	1	0	0	0
 membrum	92	2	80	0	9	1
 membrumue	1	0	1	0	0	0
 membrís	1	0	1	0	0	0
-membr＇a	1	0	0	0	0	1
 meme	2	0	2	0	0	0
 memem	1	0	0	1	0	0
 mememor	1	0	0	0	0	1
@@ -7290,7 +7278,7 @@ memnonis	32	5	22	0	5	0
 memnonisque	1	0	1	0	0	0
 memo	15	0	1	1	1	12
 memoirs	1	1	0	0	0	0
-memor	355	8	263	1	3	80
+memor	356	8	263	2	3	80
 memora	19	1	16	0	0	2
 memorab	6	6	0	0	0	0
 memoraba	1	0	1	0	0	0
@@ -7456,7 +7444,6 @@ memorium	3	0	0	0	1	2
 memorius	13	0	0	0	0	13
 memoro	8	0	8	0	0	0
 memorque	10	0	10	0	0	0
-memors	1	0	0	1	0	0
 memorum	2	0	2	0	0	0
 memory	1	0	0	0	0	1
 memorábilem	1	0	1	0	0	0
@@ -7487,7 +7474,7 @@ memuria	1	0	0	0	0	1
 meménto	1	0	1	0	0	0
 memíneris	1	0	1	0	0	0
 memória	2	0	2	0	0	0
-men	486	112	258	1	13	102
+men	485	112	258	0	13	102
 mena	11	1	6	3	0	1
 menae	5	0	4	0	0	1
 menaechimis	1	0	1	0	0	0
@@ -7529,6 +7516,7 @@ menandros	1	0	1	0	0	0
 menandru	5	0	5	0	0	0
 menandrum	18	0	18	0	0	0
 menandrus	5	0	0	5	0	0
+menane	1	0	0	0	1	0
 menapi	1	0	1	0	0	0
 menapicae	3	0	0	0	2	1
 menapii	4	0	4	0	0	0
@@ -7731,8 +7719,7 @@ menhir	1	0	0	0	0	1
 menia	4	0	0	0	1	3
 menianum	1	0	1	0	0	0
 menias	1	0	1	0	0	0
-menibus	2	0	0	0	0	2
-menib＇us	1	0	0	0	0	1
+menibus	3	0	0	0	0	3
 menidan	1	0	1	0	0	0
 menidas	3	0	3	0	0	0
 menige	1	0	1	0	0	0
@@ -8315,9 +8302,8 @@ mercuris	6	0	0	0	0	6
 mercuriue	1	0	1	0	0	0
 mercurium	79	5	72	2	0	0
 mercuriumque	2	0	2	0	0	0
-mercurius	128	4	109	0	1	14
+mercurius	129	4	109	0	1	15
 mercuriusque	3	0	3	0	0	0
-mercuri＇us	1	0	0	0	0	1
 mercussam	2	0	0	0	0	2
 mercyrius	1	0	0	0	0	1
 mercáturam	2	0	2	0	0	0
@@ -8558,7 +8544,7 @@ meritissima	2	0	2	0	0	0
 meritissimo	7	0	7	0	0	0
 meritissimoque	1	0	0	0	0	1
 meritissumo	1	0	1	0	0	0
-merito	892	6	756	8	29	93
+merito	893	6	756	8	29	94
 meriton	1	0	1	0	0	0
 meritone	2	0	2	0	0	0
 meritoque	26	0	21	0	0	5
@@ -8780,7 +8766,7 @@ mescinio	5	0	5	0	0	0
 mescinium	2	0	2	0	0	0
 mescinius	3	0	2	0	1	0
 mescius	1	0	0	0	0	1
-mesde＇us	1	0	0	0	0	1
+mesdeus	1	0	0	0	0	1
 mese	10	0	2	0	0	8
 mesembria	2	0	2	0	0	0
 mesembriacos	1	0	1	0	0	0
@@ -8996,8 +8982,7 @@ mestraimus	4	4	0	0	0	0
 mestrium	1	0	1	0	0	0
 mestum	1	0	1	0	0	0
 mestumque	1	0	1	0	0	0
-mestus	3	0	0	0	0	3
-mest＇us	1	0	0	0	0	1
+mestus	4	0	0	0	0	4
 mesu	1	0	0	0	0	1
 mesua	1	0	1	0	0	0
 mesuleolus	1	0	0	0	0	1
@@ -9637,7 +9622,7 @@ mhthp	1	1	0	0	0	0
 mhuinδo	1	0	0	0	0	1
 mhθr	1	1	0	0	0	0
 mhἑρμίαϲ	1	0	0	1	0	0
-mi	1844	277	1442	64	17	44
+mi	1848	277	1442	66	19	44
 mia	23	18	1	1	1	2
 miaagb	1	1	0	0	0	0
 miab	12	12	0	0	0	0
@@ -9654,7 +9639,6 @@ miai	1	1	0	0	0	0
 miani	3	0	0	0	0	3
 mias	2	0	1	0	0	1
 mib	36	35	0	1	0	0
-miba	1	0	0	1	0	0
 mibbi	1	1	0	0	0	0
 mibe	1	0	0	1	0	0
 mibg	8	8	0	0	0	0
@@ -9714,7 +9698,7 @@ micet	8	0	7	0	0	1
 mich	24	18	0	0	0	6
 micha	4	3	0	0	0	1
 michaeas	1	0	0	0	0	1
-michael	63	4	0	0	1	58
+michael	64	4	0	0	1	59
 michaeli	5	0	0	0	0	5
 michaelidou	1	0	0	0	1	0
 michaelidounicolaou	18	0	0	0	18	0
@@ -9729,7 +9713,6 @@ michas	2	0	0	0	0	2
 michaud	1	0	0	0	1	0
 michaël	1	1	0	0	0	0
 michaëlis	1	0	0	0	0	1
-micha͜el	1	0	0	0	0	1
 michaηl	1	0	0	0	0	1
 micheam	1	0	0	0	0	1
 micheas	6	0	0	0	0	6
@@ -9772,7 +9755,6 @@ micuit	6	0	0	0	0	6
 micuitque	1	0	1	0	0	0
 micularum	1	0	1	0	0	0
 miculas	1	0	1	0	0	0
-micum	1	0	0	0	1	0
 micyllus	1	0	1	0	0	0
 micythe	1	0	1	0	0	0
 micythio	4	0	4	0	0	0
@@ -9895,6 +9877,7 @@ mihaeli	1	0	0	0	0	1
 mihaelis	1	0	0	0	0	1
 mihaelus	1	0	0	0	0	1
 mihailou	115	0	0	0	115	0
+mihc	1	0	0	0	0	1
 mihcaelis	1	0	0	0	0	1
 mihcipsa	1	0	1	0	0	0
 mihei	2	0	2	0	0	0
@@ -9909,15 +9892,13 @@ mihist	10	0	10	0	0	0
 mihī	1	0	1	0	0	0
 mihĭn	4	0	4	0	0	0
 mihí	16	0	15	0	0	1
-mih͜c	1	0	0	0	0	1
 mii	1	0	0	0	0	1
 miiarium	1	0	0	0	0	1
 miic	1	0	0	0	0	1
 miii	1	0	0	0	0	1
 miiicc	1	0	0	0	0	1
 miilia	1	0	0	0	1	0
-miis	2	0	2	0	0	0
-miisso	1	0	0	1	0	0
+miis	3	0	2	1	0	0
 miiuolui	1	0	0	0	1	0
 mii͡s	1	0	1	0	0	0
 mikael	2	0	0	0	0	2
@@ -9974,8 +9955,7 @@ milesius	40	18	21	0	1	0
 milesiusque	3	0	3	0	0	0
 milesmes	1	0	0	0	0	1
 milesne	2	0	2	0	0	0
-milesque	8	0	8	0	0	0
-milesq＇ue	1	0	0	0	0	1
+milesque	9	0	8	0	0	1
 milessimo	1	0	0	0	0	1
 milet	1	1	0	0	0	0
 milete	2	0	1	0	0	1
@@ -10524,7 +10504,7 @@ minister	110	0	72	0	1	37
 ministereris	1	0	1	0	0	0
 ministeria	85	1	84	0	0	0
 ministeriales	4	0	0	0	0	4
-ministerialib＇us	2	0	0	0	0	2
+ministerialibus	2	0	0	0	0	2
 ministeriaque	1	0	1	0	0	0
 ministerii	24	0	21	0	0	3
 ministeriique	1	0	1	0	0	0
@@ -10858,7 +10838,7 @@ minur	1	0	0	1	0	0
 minurrire	1	0	1	0	0	0
 minurriunt	1	0	1	0	0	0
 minurus	1	0	1	0	0	0
-minus	6258	85	5520	15	14	624
+minus	6259	85	5520	15	14	625
 minuscula	1	0	1	0	0	0
 minusculae	3	0	3	0	0	0
 minusculam	4	0	4	0	0	0
@@ -11785,6 +11765,7 @@ mitescít	1	0	1	0	0	0
 mitesque	2	0	2	0	0	0
 mitford	149	0	0	0	148	1
 mitgeteilt	4	2	0	0	2	0
+mith	3	0	0	0	0	3
 mitheorum	1	1	0	0	0	0
 mithimi	1	0	0	0	0	1
 mithini	1	0	0	0	0	1
@@ -12091,13 +12072,13 @@ mitylenis	6	0	6	0	0	0
 mitylo	1	0	1	0	0	0
 mityn	1	0	1	0	0	0
 mitíscere	1	0	1	0	0	0
-mit͜h	3	0	0	0	0	3
 miuiuilinus	1	0	0	1	0	0
 miulian	1	0	0	1	0	0
 miulius	6	0	0	6	0	0
 mium	3	0	2	1	0	0
 miuro	1	0	1	0	0	0
 miuron	2	0	2	0	0	0
+miuru	1	0	0	0	1	0
 miurum	1	0	1	0	0	0
 mius	6	1	1	2	2	0
 miuulec	1	0	1	0	0	0
@@ -12205,7 +12186,7 @@ mlxxxxu	1	0	0	1	0	0
 mlxxxxuiii	1	0	0	0	0	1
 mlyz	1	0	0	0	0	1
 mm	53	16	18	3	4	12
-mma	5	1	0	4	0	0
+mma	4	1	0	3	0	0
 mmandes	1	0	0	1	0	0
 mmanus	1	0	0	0	0	1
 mmar	1	0	0	1	0	0
@@ -12216,7 +12197,7 @@ mmcccxl	2	0	2	0	0	0
 mmccui	1	1	0	0	0	0
 mmccxiiii	1	0	1	0	0	0
 mmccxlii	1	1	0	0	0	0
-mmciwo͜e	1	0	0	0	0	1
+mmciwoe	1	0	0	0	0	1
 mmclxxis	1	0	0	1	0	0
 mmd	2	0	1	0	0	1
 mmdcc	1	0	1	0	0	0
@@ -13440,8 +13421,7 @@ monacosque	2	0	0	0	0	2
 monacu	2	0	0	0	0	2
 monacuhs	1	0	0	0	0	1
 monacum	1	0	0	0	0	1
-monacus	16	0	0	0	0	16
-monac＇us	1	0	0	0	0	1
+monacus	17	0	0	0	0	17
 monad	1	1	0	0	0	0
 monadicon	1	0	1	0	0	0
 monadis	1	0	0	0	0	1
@@ -13632,7 +13612,7 @@ monimenti	1	0	1	0	0	0
 monimentis	23	0	23	0	0	0
 monimento	9	0	7	0	1	1
 monimentorum	4	0	4	0	0	0
-monimentum	39	0	29	0	5	5
+monimentum	40	0	29	0	5	6
 monimentumque	1	0	1	0	0	0
 monimi	3	0	0	3	0	0
 monimo	2	0	1	0	0	1
@@ -14062,7 +14042,6 @@ monychiis	1	0	1	0	0	0
 monychus	3	0	3	0	0	0
 monéndus	1	0	1	0	0	0
 monére	1	0	1	0	0	0
-mon͜imentum	1	0	0	0	0	1
 moo	1	0	0	0	0	1
 moobis	1	0	1	0	0	0
 moon	2	0	0	0	1	1
@@ -14622,13 +14601,12 @@ mortuoue	1	0	1	0	0	0
 mortus	5	0	0	1	0	4
 mortuum	215	8	207	0	0	0
 mortuumque	4	0	4	0	0	0
-mortuus	397	4	358	2	0	33
+mortuus	398	4	358	2	0	34
 mortuusa	1	0	0	0	0	1
 mortuusque	2	0	2	0	0	0
 mortuust	2	0	2	0	0	0
 mortuálibus	1	0	1	0	0	0
 mortuóst	1	0	1	0	0	0
-mortu＇us	1	0	0	0	0	1
 mortáles	2	0	2	0	0	0
 mortálibus	2	0	2	0	0	0
 mortális	4	0	4	0	0	0
@@ -14735,10 +14713,9 @@ mothonem	1	0	1	0	0	0
 mothonen	2	0	2	0	0	0
 mothrim	1	0	1	0	0	0
 moti	56	1	55	0	0	0
-motibus	114	5	98	0	4	7
+motibus	115	5	98	0	4	8
 motibusque	3	0	3	0	0	0
 motibys	1	1	0	0	0	0
-motib＇us	1	0	0	0	0	1
 motif	1	0	0	0	0	1
 motilenum	1	0	1	0	0	0
 motio	3	0	2	0	0	1
@@ -14776,11 +14753,10 @@ moturi	3	0	1	2	0	0
 moturos	10	0	10	0	0	0
 moturum	13	0	13	0	0	0
 moturus	8	0	8	0	0	0
-motus	858	40	809	0	0	9
+motus	859	40	809	0	0	10
 motusque	34	1	33	0	0	0
 motusue	2	0	1	0	0	1
 motuum	7	0	7	0	0	0
-mot＇us	1	0	0	0	0	1
 moua	1	0	0	0	0	1
 moue	24	4	19	0	0	1
 moueam	1	0	1	0	0	0
@@ -14854,7 +14830,7 @@ moueor	28	1	27	0	0	0
 mouerant	13	0	13	0	0	0
 mouerat	52	0	52	0	0	0
 moueratque	1	0	1	0	0	0
-mouere	282	2	274	2	0	4
+mouere	283	2	274	2	0	5
 mouerem	1	0	1	0	0	0
 moueremur	1	0	1	0	0	0
 moueremus	1	0	1	0	0	0
@@ -14885,7 +14861,6 @@ moueto	1	0	1	0	0	0
 mouetque	2	0	2	0	0	0
 mouetur	174	4	169	0	0	1
 mouĕ	1	0	1	0	0	0
-moue͜re	1	0	0	0	0	1
 moui	24	0	24	0	0	0
 mouile	1	0	0	1	0	0
 mouilem	1	0	0	1	0	0
@@ -14977,7 +14952,7 @@ mque	4	0	1	1	1	1
 mquimil	1	0	0	1	0	0
 mquod	1	0	0	1	0	0
 mquta	1	0	0	1	0	0
-mr	10	1	1	1	2	5
+mr	9	1	1	1	1	5
 mra	2	0	0	0	0	2
 mras	25	25	0	0	0	0
 mrberrue	1	0	0	0	0	1
@@ -14989,7 +14964,7 @@ mrennius	1	0	0	1	0	0
 mrg	75	75	0	0	0	0
 mrgm	1	1	0	0	0	0
 mrhšwn	1	0	0	0	0	1
-mrie	1	0	0	1	0	0
+mri	1	0	0	1	0	0
 mrinocorurae	1	0	0	1	0	0
 mrkw	1	0	0	0	0	1
 mrm	7	7	0	0	0	0
@@ -15012,6 +14987,7 @@ mseex	1	0	0	0	0	1
 mseptem	1	0	0	1	0	0
 mses	1	0	0	0	0	1
 mseuero	1	0	0	1	0	0
+msi	1	0	0	1	0	0
 msignaui	1	0	0	1	0	0
 msiisalium	2	0	0	0	0	2
 msingularis	1	0	0	1	0	0
@@ -15034,7 +15010,7 @@ mškbr	2	0	0	0	0	2
 mškbw	3	0	0	0	0	3
 mškhbw	3	0	0	0	0	3
 msω	1	1	0	0	0	0
-mt	844	833	0	0	0	11
+mt	845	833	0	1	0	11
 mta	185	185	0	0	0	0
 mtaab	2	2	0	0	0	0
 mtaagbg	1	1	0	0	0	0
@@ -15360,7 +15336,7 @@ muliere	184	4	174	0	0	6
 mulierem	381	7	373	0	1	0
 mulieremque	1	0	1	0	0	0
 mulieremst	1	0	1	0	0	0
-mulieres	291	7	278	0	0	6
+mulieres	292	7	278	0	0	7
 mulieresque	5	1	4	0	0	0
 mulieri	310	3	303	0	0	4
 mulieribis	1	0	0	0	0	1
@@ -15716,7 +15692,6 @@ mulum	16	0	16	0	0	0
 mulumue	1	0	0	0	0	1
 mulus	15	0	15	0	0	0
 mulyeris	1	0	0	0	0	1
-mul＇ieres	1	0	0	0	0	1
 mum	5	0	3	2	0	0
 mumadomna	1	0	0	0	0	1
 mumlenau	1	0	0	0	0	1
@@ -15785,7 +15760,7 @@ mundensis	2	0	2	0	0	0
 mundeque	2	0	2	0	0	0
 mundesque	1	0	0	0	0	1
 mundetur	1	0	0	0	0	1
-mundi	1015	71	715	0	2	227
+mundi	1016	71	715	0	2	228
 mundialem	1	1	0	0	0	0
 mundialis	1	0	0	0	0	1
 mundicicatus	1	0	0	0	0	1
@@ -15836,7 +15811,6 @@ mundzuco	1	1	0	0	0	0
 mundítiis	2	0	2	0	0	0
 mundóst	1	0	1	0	0	0
 mundús	1	0	1	0	0	0
-mund͜i	1	0	0	0	0	1
 mune	3	0	0	0	0	3
 munegiselus	1	0	0	1	0	0
 munegisilo	2	0	0	2	0	0
@@ -16073,7 +16047,6 @@ munitúm	1	0	1	0	0	0
 muniueram	1	0	1	0	0	0
 muniuerant	1	0	1	0	0	0
 muniuerat	3	0	3	0	0	0
-muniuersa	2	0	0	2	0	0
 muniuerunt	2	0	2	0	0	0
 muniui	3	0	3	0	0	0
 muniuisset	1	0	1	0	0	0
@@ -16096,7 +16069,7 @@ muntinnus	1	0	0	0	0	1
 muntzenberg	1	0	0	0	0	1
 munu	2	0	2	0	0	0
 munuo	1	0	0	0	0	1
-munus	744	8	639	4	5	88
+munus	746	8	639	4	5	90
 munuscula	18	0	14	0	0	4
 munusculi	2	0	2	0	0	0
 munusculis	3	0	3	0	0	0
@@ -16112,7 +16085,6 @@ munéra	1	0	1	0	0	0
 munérigeruli	1	0	1	0	0	0
 munús	1	0	1	0	0	0
 munδi	1	0	0	0	0	1
-mun＇us	2	0	0	0	0	2
 muorbacensi	1	0	0	0	0	1
 muos	1	0	0	1	0	0
 muoωδ	1	1	0	0	0	0
@@ -17754,8 +17726,6 @@ mʃ	2	2	0	0	0	0
 m̊	5	0	5	0	0	0
 m̊i	1	0	1	0	0	0
 m̊s	1	0	1	0	0	0
-m͜aneret	2	0	0	0	0	2
-m͜erito	1	0	0	0	0	1
 mάρκου	3	0	0	0	3	0
 mάρκοϲ	1	0	0	0	1	0
 mέn	1	1	0	0	0	0
@@ -17853,7 +17823,7 @@ mμαρίαϲ	1	0	0	1	0	0
 mμελανᾶϲ	1	0	0	1	0	0
 mμετά	1	0	0	1	0	0
 mμηουία	2	0	0	2	0	0
-mμομωϲ	1	0	0	1	0	0
+mμομ	1	0	0	1	0	0
 mνααραῦϲ	1	0	0	1	0	0
 mξa	1	1	0	0	0	0
 mου	1	0	0	1	0	0
@@ -17861,7 +17831,7 @@ mοϲ	1	0	0	1	0	0
 mοῦνδοϲ	1	0	0	0	1	0
 mπ	1	1	0	0	0	0
 mπα	1	0	0	1	0	0
-mπειϲ	1	0	0	1	0	0
+mπε	1	0	0	1	0	0
 mπετεϲοῦχοϲ	1	0	0	1	0	0
 mπροκεχρῆϲθαι	1	0	0	1	0	0
 mπτολεμαῖϲ	1	0	0	1	0	0
@@ -17910,8 +17880,6 @@ mὁμοίωϲ	1	0	0	1	0	0
 mὑπέρ	1	0	0	1	0	0
 m●	21	0	0	21	0	0
 m☧	22	0	0	22	0	0
-m＇	5	0	0	5	0	0
-m＇inus	1	0	0	0	0	1
 \.
 
 

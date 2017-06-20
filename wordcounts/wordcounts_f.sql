@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_f OWNER TO hippa_wr;
 --
 
 COPY wordcounts_f (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-f	9203	7905	416	46	412	424
+f	9205	7905	416	48	412	424
 fa	39	8	8	7	2	14
 faaprob	1	0	0	1	0	0
 fab	176	144	4	1	17	10
@@ -461,6 +461,7 @@ faciatur	1	0	1	0	0	0
 faciaˊs	1	0	0	1	0	0
 facibus	99	4	92	0	0	3
 facibusque	11	0	11	0	0	0
+facicside	1	0	0	0	1	0
 facie	401	25	351	2	2	21
 faciebam	19	0	19	0	0	0
 faciebamus	1	0	1	0	0	0
@@ -794,7 +795,7 @@ facturusne	2	0	2	0	0	0
 facturusque	2	0	2	0	0	0
 facturust	1	0	1	0	0	0
 facturusue	1	0	1	0	0	0
-factus	1125	16	1043	12	2	52
+factus	1126	16	1043	12	2	53
 factusne	1	0	1	0	0	0
 factusque	4	0	4	0	0	0
 factust	5	0	5	0	0	0
@@ -806,7 +807,6 @@ factó	1	0	1	0	0	0
 factúm	4	0	4	0	0	0
 factúrus	1	0	1	0	0	0
 factúrust	1	0	1	0	0	0
-fact＇us	1	0	0	0	0	1
 facul	5	0	5	0	0	0
 facula	4	0	3	0	0	1
 faculae	1	0	1	0	0	0
@@ -1593,10 +1593,9 @@ famulu	2	0	0	0	0	2
 famulum	35	0	18	0	0	17
 famulumne	2	0	2	0	0	0
 famulumque	11	0	9	0	0	2
-famulus	240	0	25	0	0	215
+famulus	241	0	25	0	0	216
 famulusa	6	0	0	0	0	6
 famulusque	2	0	2	0	0	0
-famul＇us	1	0	0	0	0	1
 famur	1	0	1	0	0	0
 famyle	1	0	0	0	0	1
 famé	2	0	2	0	0	0
@@ -2405,6 +2404,7 @@ faunumque	1	0	1	0	0	0
 faunus	35	0	35	0	0	0
 faunusque	4	0	4	0	0	0
 fauo	5	0	4	0	1	0
+fauoetho	1	0	0	0	0	1
 fauoni	24	0	24	0	0	0
 fauoniana	2	0	2	0	0	0
 fauoniaster	1	0	1	0	0	0
@@ -2446,7 +2446,6 @@ fauorum	20	0	20	0	0	0
 fauos	45	3	41	0	0	1
 fauosque	1	0	1	0	0	0
 fauoˊre	1	0	0	1	0	0
-fauo͜et͜ho	1	0	0	0	0	1
 faup	1	1	0	0	0	0
 fauptwd	1	1	0	0	0	0
 fausani	1	0	0	0	0	1
@@ -2723,7 +2722,7 @@ februaria	1	0	0	0	0	1
 februariarum	4	0	1	1	0	2
 februarias	192	0	24	30	4	134
 februaries	1	0	0	0	0	1
-februarii	100	0	2	0	0	98
+februarii	103	0	2	0	0	101
 februariis	31	0	23	1	2	5
 februario	38	0	35	0	0	3
 februarium	9	0	9	0	0	0
@@ -2739,13 +2738,11 @@ februo	2	0	1	0	0	1
 februuarias	2	0	0	2	0	0
 februuaris	1	0	0	1	0	0
 februus	1	0	1	0	0	0
-febr＇uarii	1	0	0	0	0	1
 febs	2	0	0	0	0	2
 febuaria	1	0	0	0	0	1
 febuarias	4	0	0	0	0	4
 febuarii	1	0	0	0	0	1
 febus	2	0	0	0	0	2
-feb͜ruarii	2	0	0	0	0	2
 fec	149	92	0	1	4	52
 fecc	1	0	0	0	0	1
 fece	5	0	0	0	1	4
@@ -2780,17 +2777,16 @@ feceru	6	0	0	0	0	6
 fecerum	7	0	0	0	0	7
 fecerumt	1	0	0	0	0	1
 fecerun	4	0	0	0	0	4
-fecerunt	1047	11	529	20	36	451
+fecerunt	1048	11	529	20	36	452
 feceruntque	1	0	1	0	0	0
 feceruntritores	1	0	0	0	0	1
-fecerun͜t	1	0	0	0	0	1
 fecerut	5	0	0	0	0	5
-fecerut͜n	1	0	0	0	0	1
+fecerutn	1	0	0	0	0	1
 feceró	1	0	1	0	0	0
 fecet	32	0	0	0	0	32
 feci	649	3	550	21	7	68
 fecic	1	0	0	0	0	1
-fecid͜h	3	0	0	0	0	3
+fecidh	3	0	0	0	0	3
 feciiia	1	0	0	0	0	1
 feciit	1	0	0	0	0	1
 fecimus	195	1	177	3	0	14
@@ -4853,7 +4849,7 @@ fidulius	1	0	1	0	0	0
 fidum	44	0	41	0	0	3
 fidumque	7	0	7	0	0	0
 fidunt	4	0	4	0	0	0
-fidus	84	0	66	0	2	16
+fidus	85	0	66	0	2	17
 fidusque	6	0	6	0	0	0
 fidustium	1	0	1	0	0	0
 fidylen	1	0	1	0	0	0
@@ -4864,7 +4860,6 @@ fidélitatis	1	0	1	0	0	0
 fidés	1	0	1	0	0	0
 fidús	1	0	1	0	0	0
 fidεlis	2	0	0	0	0	2
-fid＇us	1	0	0	0	0	1
 fie	1	0	1	0	0	0
 fiebam	1	0	1	0	0	0
 fiebant	81	0	80	0	0	1
@@ -5086,7 +5081,7 @@ filete	2	0	0	0	1	1
 filetiani	1	0	0	0	1	0
 filetus	1	0	0	0	0	1
 filex	5	0	2	0	0	3
-fili	485	1	222	22	18	222
+fili	487	1	222	22	18	224
 filia	1360	13	1070	13	26	238
 filiabus	36	3	24	4	0	5
 filiabusque	1	0	0	0	0	1
@@ -5203,7 +5198,7 @@ filium	2468	42	2333	22	12	59
 filiumque	31	2	29	0	0	0
 filiumue	1	0	1	0	0	0
 filiun	1	0	0	0	0	1
-filius	3799	56	2989	76	266	412
+filius	3803	56	2989	76	266	416
 filiuscaro	1	0	0	0	0	1
 filiusneposproneposabnepos	1	0	1	0	0	0
 filiusneposproneposabneposadnepostrinepositem	1	0	1	0	0	0
@@ -5242,7 +5237,6 @@ filió	3	0	2	0	0	1
 filiórum	2	0	0	0	0	2
 filiós	2	0	1	0	0	1
 filiúm	1	0	1	0	0	0
-fili＇us	4	0	0	0	0	4
 filla	1	0	0	0	0	1
 fille	1	0	0	0	0	1
 fillezengazen	1	0	0	0	0	1
@@ -5658,7 +5652,7 @@ fircum	1	0	1	0	0	0
 fircus	1	0	1	0	0	0
 firenze	2	1	0	0	0	1
 firia	1	0	0	1	0	0
-firm	1	0	0	0	1	0
+firm	2	0	0	1	1	0
 firma	179	0	155	6	2	16
 firmabant	10	0	10	0	0	0
 firmabantur	4	0	4	0	0	0
@@ -5845,7 +5839,6 @@ firmo	89	1	76	2	4	6
 firmoque	2	0	2	0	0	0
 firmos	10	0	9	0	0	1
 firmosque	1	0	1	0	0	0
-firmri	1	0	0	1	0	0
 firmum	105	0	99	1	1	4
 firmumque	2	0	2	0	0	0
 firmus	59	0	38	5	5	11
@@ -7752,7 +7745,7 @@ folcaudus	1	0	0	0	0	1
 folceri	2	0	0	0	0	2
 folcheri	2	0	0	0	0	2
 folcmarus	3	0	0	0	0	3
-folcold＇us	1	0	0	0	0	1
+folcoldus	1	0	0	0	0	1
 folcolt	2	0	0	0	0	2
 folei	1	0	0	0	1	0
 foles	1	0	0	1	0	0
@@ -7826,7 +7819,7 @@ follow	9	4	0	0	5	0
 followed	8	1	0	0	6	1
 following	28	2	0	0	25	1
 follows	7	1	0	0	6	0
-folmar＇us	1	0	0	0	0	1
+folmarus	1	0	0	0	0	1
 folmenti	1	0	0	1	0	0
 foloae	1	0	1	0	0	0
 foloe	2	0	2	0	0	0
@@ -7860,9 +7853,8 @@ fondabet	3	0	0	0	0	3
 fondamen	1	0	0	0	0	1
 fondamentis	1	0	0	0	0	1
 fondamento	2	0	0	0	0	2
-fondata	1	0	0	0	0	1
+fondata	2	0	0	0	0	2
 fondator	2	0	0	0	0	2
-fondat͜a	1	0	0	0	0	1
 fondilos	1	0	1	0	0	0
 fonemata	1	0	1	0	0	0
 fongm	3	3	0	0	0	0
@@ -7926,6 +7918,7 @@ fora	75	0	73	0	0	2
 forabilia	1	0	1	0	0	0
 forabilis	1	0	1	0	0	0
 forabunt	1	0	1	0	0	0
+forae	1	0	0	0	0	1
 foramen	78	0	74	0	4	0
 foramina	115	3	111	0	0	1
 foraminaque	1	0	1	0	0	0
@@ -7958,7 +7951,6 @@ foratum	2	0	2	0	0	0
 foratur	1	0	1	0	0	0
 forauerit	1	0	1	0	0	0
 forăs	1	0	1	0	0	0
-fora͜e	1	0	0	0	0	1
 forb	1	0	0	0	0	1
 forc	1	0	1	0	0	0
 forceps	3	0	1	0	1	1
@@ -9180,9 +9172,8 @@ fratria	1	0	1	0	0	0
 fratriae	1	0	1	0	0	0
 fratrias	1	0	1	0	0	0
 fratrib	1	0	0	0	0	1
-fratribus	277	2	191	2	4	78
+fratribus	279	2	191	2	4	80
 fratribusque	20	0	3	0	0	17
-fratrib＇us	2	0	0	0	0	2
 fratricida	1	0	1	0	0	0
 fratricidam	1	0	1	0	0	0
 fratrique	18	0	18	0	0	0
@@ -9371,8 +9362,7 @@ fredenandus	3	0	0	0	0	3
 frederic	1	0	0	0	0	1
 frederici	9	0	0	0	0	9
 frederico	4	0	0	0	0	4
-fredericus	10	0	0	0	0	10
-frederic＇us	2	0	0	0	0	2
+fredericus	12	0	0	0	0	12
 fredesind	1	0	0	1	0	0
 fredinadi	1	0	0	0	0	1
 fredinandus	2	0	0	0	0	2
@@ -9797,8 +9787,9 @@ friderich	4	0	0	0	0	4
 friderici	16	0	0	0	0	16
 friderico	12	0	0	0	0	12
 fridericum	2	0	0	0	0	2
-fridericus	15	0	0	0	0	15
-frideric＇us	3	0	0	0	0	3
+fridericus	18	0	0	0	0	18
+fridhburgae	1	0	0	0	0	1
+fridhestano	2	0	0	0	0	2
 fridiburch	2	0	0	0	0	2
 fridicas	1	0	1	0	0	0
 fridici	1	0	0	0	0	1
@@ -9808,8 +9799,6 @@ fridila	1	0	0	0	0	1
 fridobertus	1	0	0	1	0	0
 fridricus	1	0	0	0	0	1
 fridus	2	0	0	0	0	2
-frid͜hburgae	1	0	0	0	0	1
-frid͜hestano	2	0	0	0	0	2
 friede	3	3	0	0	0	0
 friedfertigkeit	1	0	0	0	0	1
 friedl	48	48	0	0	0	0
@@ -9973,7 +9962,7 @@ fritamentis	1	0	1	0	0	0
 fritheburhc	2	0	0	0	0	2
 fritherat	1	0	0	0	0	1
 fritherich	2	0	0	0	0	2
-fritheric＇us	2	0	0	0	0	2
+frithericus	2	0	0	0	0	2
 friththerich	2	0	0	0	0	2
 fritillis	1	0	1	0	0	0
 fritillo	6	0	6	0	0	0
@@ -10229,13 +10218,12 @@ fructuosumue	1	0	1	0	0	0
 fructuosus	8	0	5	0	0	3
 fructuous	1	0	0	0	0	1
 fructuque	3	0	3	0	0	0
-fructus	1388	8	1348	0	3	29
+fructus	1389	8	1348	0	3	30
 fructusque	22	0	21	0	0	1
 fructuum	92	4	88	0	0	0
 fructuumque	2	0	2	0	0	0
 fructús	2	0	1	0	0	1
 fructûm	1	0	1	0	0	0
-fruct＇us	1	0	0	0	0	1
 frudem	1	0	1	0	0	0
 frudi	1	0	1	0	0	0
 fruebamur	2	0	2	0	0	0
@@ -11063,10 +11051,9 @@ fuibian	1	0	0	0	0	1
 fuid	2	0	0	1	0	1
 fuigetis	1	0	0	0	0	1
 fuiit	1	0	0	0	0	1
-fuimus	107	1	99	1	0	6
+fuimus	108	1	99	1	0	7
 fuimusque	1	0	1	0	0	0
 fuimusue	1	0	1	0	0	0
-fuim＇us	1	0	0	0	0	1
 fuique	1	0	0	0	0	1
 fuisse	3878	211	3615	3	10	39
 fuisseis	1	0	0	0	0	1
@@ -11433,7 +11420,6 @@ fuluus	13	0	12	0	0	1
 fuluó	1	0	0	0	0	1
 fulígine	1	0	1	0	0	0
 fum	2	2	0	0	0	0
-fuma	1	0	0	1	0	0
 fumabant	7	0	7	0	0	0
 fumabat	6	0	6	0	0	0
 fumabunt	1	0	1	0	0	0
@@ -11918,12 +11904,11 @@ funtanella	1	0	0	1	0	0
 funtaneto	1	0	0	1	0	0
 funtes	2	0	1	0	0	1
 funu	2	0	2	0	0	0
-funus	302	0	260	0	0	42
+funus	303	0	260	0	0	43
 funusne	1	0	1	0	0	0
 funusque	3	0	3	0	0	0
 funxeris	1	0	0	0	0	1
 funεsti	1	0	0	0	0	1
-fun＇us	1	0	0	0	0	1
 fup	16	16	0	0	0	0
 fuppr	1	1	0	0	0	0
 fupprbc	1	1	0	0	0	0
@@ -12240,13 +12225,12 @@ furéntem	1	0	1	0	0	0
 furénter	1	0	1	0	0	0
 fus	13	2	0	1	1	9
 fusa	84	0	82	0	0	2
-fusae	27	0	25	0	0	2
+fusae	28	0	25	0	0	3
 fusaeque	1	0	1	0	0	0
 fusam	11	0	9	0	0	2
 fusaque	5	0	5	0	0	0
 fusas	13	0	13	0	0	0
 fusasque	3	0	3	0	0	0
-fusa͜e	1	0	0	0	0	1
 fusca	27	0	25	0	0	2
 fuscabat	1	0	1	0	0	0
 fuscabatque	1	0	1	0	0	0
@@ -12727,7 +12711,6 @@ füsse	4	0	0	0	3	1
 füssen	1	0	0	0	0	1
 fʃ	12	12	0	0	0	0
 f̄ilium	1	0	1	0	0	0
-f͜il͜i	2	0	0	0	0	2
 fαβιανόϲ	1	0	0	0	1	0
 fε	1	0	0	1	0	0
 fεbrarias	1	0	0	0	0	1

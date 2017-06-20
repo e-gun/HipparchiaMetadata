@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_x OWNER TO hippa_wr;
 --
 
 COPY wordcounts_x (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-x	3661	1198	1279	143	198	843
+x	3662	1198	1279	143	199	843
 xa	9	7	0	0	0	2
 xami	1	0	0	0	1	0
 xancto	1	0	0	0	0	1
@@ -200,7 +200,7 @@ xfm	2	2	0	0	0	0
 xg	2	0	0	2	0	0
 xgii	1	0	0	1	0	0
 xgl	3	3	0	0	0	0
-xi	1271	403	227	39	87	515
+xi	1270	403	227	39	86	515
 xia	3	1	1	0	0	1
 xib	1	0	1	0	0	0
 xic	1	0	0	0	1	0
@@ -242,6 +242,7 @@ xillarium	1	0	0	1	0	0
 xim	1	0	0	0	0	1
 ximbertus	1	0	0	0	0	1
 ximena	1	0	0	0	0	1
+ximseioi	1	0	0	0	1	0
 xintatnnkorum	1	0	0	0	0	1
 xio	10	0	0	0	0	10
 xiph	306	306	0	0	0	0
@@ -345,7 +346,7 @@ xmintheus	1	0	0	0	1	0
 xmo	2	0	0	0	0	2
 xn	1	0	0	0	1	0
 xnir	1	0	0	0	0	1
-xo	33	0	0	0	0	33
+xo	34	0	0	0	0	34
 xoaias	1	0	0	1	0	0
 xoco	1	0	0	0	0	1
 xoitana	1	0	0	1	0	0
@@ -440,7 +441,7 @@ xuiἰ	5	0	0	0	5	0
 xulobalsamum	1	0	0	1	0	0
 xuo	6	0	0	0	0	6
 xuquindecimuiro	1	0	0	0	1	0
-xus	2	0	2	0	0	0
+xus	3	0	2	0	0	1
 xuste	1	0	0	0	0	1
 xuthi	2	0	2	0	0	0
 xutho	1	0	1	0	0	0
@@ -680,10 +681,8 @@ xystε	1	0	0	0	0	1
 xytus	1	0	0	0	0	1
 xýstilis	1	0	1	0	0	0
 x˙	1	0	0	1	0	0
-x͜o	1	0	0	0	0	1
 xί	1	0	0	0	1	0
 xαιρεϲτράτη	1	0	0	0	1	0
-xεωϲ	1	0	0	0	1	0
 xζʹ	2	0	0	0	0	2
 xοίνικαϲ	1	0	0	1	0	0
 xρisti	2	0	0	0	0	2
@@ -702,7 +701,6 @@ xϛi	19	0	0	0	0	19
 xϛii	24	0	0	0	1	23
 xϛiii	18	0	0	0	0	18
 xἰ	9	0	0	0	9	0
-x＇us	1	0	0	0	0	1
 \.
 
 

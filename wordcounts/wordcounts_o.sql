@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_o OWNER TO hippa_wr;
 --
 
 COPY wordcounts_o (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-o	5807	2240	2709	91	286	481
+o	5815	2240	2709	97	288	481
 oa	283	280	0	3	0	0
 oaa	14	14	0	0	0	0
 oab	17	17	0	0	0	0
@@ -54,7 +54,7 @@ oaerio	1	0	0	0	0	1
 oag	2	2	0	0	0	0
 oald	1	0	0	1	0	0
 oaldus	1	0	0	0	0	1
-oalric＇us	1	0	0	0	0	1
+oalricus	1	0	0	0	0	1
 oamst	3	0	0	3	0	0
 oan	1	0	0	0	1	0
 oanne	2	2	0	0	0	0
@@ -293,7 +293,7 @@ obeliscus	2	0	2	0	0	0
 obellius	1	0	0	0	1	0
 obelo	6	6	0	0	0	0
 obelos	10	10	0	0	0	0
-obeltilga＇us	1	0	0	0	0	1
+obeltilgaus	1	0	0	0	0	1
 obelum	1	1	0	0	0	0
 obelus	4	4	0	0	0	0
 oben	35	16	0	0	5	14
@@ -2164,9 +2164,8 @@ obsidia	3	0	3	0	0	0
 obsidialem	1	0	1	0	0	0
 obsidiani	1	0	1	0	0	0
 obsidiantur	1	0	1	0	0	0
-obsidibus	72	0	72	0	0	0
+obsidibus	74	0	72	0	0	2
 obsidibusque	8	0	8	0	0	0
-obsidib＇us	2	0	0	0	0	2
 obsidii	2	0	2	0	0	0
 obsidiis	1	0	1	0	0	0
 obsidio	49	0	49	0	0	0
@@ -3282,14 +3281,13 @@ obít	1	0	1	0	0	0
 obît	2	0	2	0	0	0
 obúnctula	1	0	1	0	0	0
 obιι	1	0	0	0	1	0
-oc	103	6	24	2	2	69
+oc	104	6	24	2	3	69
 oca	1	0	0	0	0	1
 ocae	1	0	0	1	0	0
 ocalee	2	0	2	0	0	0
 ocant	1	0	0	1	0	0
 ocapatostanees	1	0	0	0	0	1
 ocato	1	0	1	0	0	0
-ocaui	1	0	0	0	1	0
 ocazane	1	0	1	0	0	0
 ocb	2	0	0	0	0	2
 ocbane	1	0	0	1	0	0
@@ -4272,10 +4270,9 @@ octauo	905	16	831	3	0	55
 octauoque	2	0	2	0	0	0
 octauos	2	0	2	0	0	0
 octauum	50	1	43	2	1	3
-octauus	44	0	36	1	1	6
+octauus	45	0	36	1	1	7
 octauys	2	2	0	0	0	0
 octauαϲ	1	1	0	0	0	0
-octau＇us	1	0	0	0	0	1
 octb	10	0	1	0	0	9
 octbr	1	0	0	0	0	1
 octcb	1	0	0	0	0	1
@@ -4577,7 +4574,7 @@ odiss	1	0	0	1	0	0
 odisse	134	0	134	0	0	0
 odissem	8	0	8	0	0	0
 odissemus	2	0	2	0	0	0
-odissend＇us	1	0	0	0	0	1
+odissendus	1	0	0	0	0	1
 odissent	13	0	13	0	0	0
 odisses	4	0	4	0	0	0
 odisset	23	0	23	0	0	0
@@ -4725,7 +4722,7 @@ odí	3	0	3	0	0	0
 odóres	1	0	1	0	0	0
 odψsseam	1	1	0	0	0	0
 odψsseys	1	1	0	0	0	0
-oe	78	0	73	2	2	1
+oe	78	0	73	2	1	2
 oea	2	0	1	0	1	0
 oeace	1	0	1	0	0	0
 oeae	6	0	6	0	0	0
@@ -4835,6 +4832,7 @@ oeliem	1	0	1	0	0	0
 oelis	1	0	0	1	0	0
 oelkab	3	0	0	3	0	0
 oelotimotitusasokosoti	1	0	0	0	1	0
+oem	1	0	0	0	0	1
 oeme	1	0	1	0	0	0
 oemewosetoumeterose	1	0	0	0	1	0
 oen	3	0	1	0	2	0
@@ -4869,6 +4867,7 @@ oenide	1	0	1	0	0	0
 oeniden	6	0	6	0	0	0
 oenides	12	0	12	0	0	0
 oenigenos	1	0	1	0	0	0
+oenjcoeaeg	1	0	0	0	0	1
 oenobreche	1	0	1	0	0	0
 oenobreches	1	0	1	0	0	0
 oenococti	2	0	2	0	0	0
@@ -4926,7 +4925,6 @@ oeonata	1	0	0	0	0	1
 oeral	1	0	0	0	0	1
 oerem	39	0	0	39	0	0
 oeremsb	1	0	0	1	0	0
-oereti	1	0	0	1	0	0
 oertet	1	0	0	0	0	1
 oescensis	1	0	0	0	0	1
 oesco	2	0	0	0	0	2
@@ -4957,7 +4955,6 @@ oetaeos	2	0	2	0	0	0
 oetaeum	2	0	2	0	0	0
 oetaeus	5	0	5	0	0	0
 oetam	9	0	9	0	0	0
-oetaom	1	0	0	1	0	0
 oetapi	1	0	0	0	1	0
 oete	6	0	6	0	0	0
 oeten	8	0	8	0	0	0
@@ -5835,6 +5832,7 @@ ollaribus	1	0	1	0	0	0
 ollarum	3	0	2	0	0	1
 ollas	14	0	7	0	1	6
 olle	2	0	1	0	0	1
+ollg	1	0	0	1	0	0
 olli	46	0	44	0	0	2
 ollic	1	0	1	0	0	0
 ollicoqua	1	0	1	0	0	0
@@ -5920,7 +5918,7 @@ olusatro	1	0	1	0	0	0
 olusatrum	3	0	3	0	0	0
 olusculis	2	0	2	0	0	0
 oluublul	1	0	0	1	0	0
-olwwolt͜hu	1	0	0	0	0	1
+olwwolthu	1	0	0	0	0	1
 olxiii	1	1	0	0	0	0
 olybri	2	0	0	0	0	2
 olybrio	18	0	0	0	0	18
@@ -6252,7 +6250,7 @@ omnib	3	0	0	0	1	2
 omnibns	1	1	0	0	0	0
 omnibu	5	0	4	0	0	1
 omnibue	1	0	0	0	0	1
-omnibus	6293	112	5716	118	31	316
+omnibus	6298	112	5716	118	31	321
 omnibusne	5	0	5	0	0	0
 omnibusque	101	1	89	6	0	5
 omnibust	1	0	1	0	0	0
@@ -6260,7 +6258,6 @@ omnibusue	1	0	1	0	0	0
 omnibuz	1	0	0	0	0	1
 omnibys	1	0	0	0	0	1
 omnibús	1	0	1	0	0	0
-omnib＇us	5	0	0	0	0	5
 omnicana	1	0	1	0	0	0
 omnicarpae	1	0	1	0	0	0
 omnicolore	1	0	1	0	0	0
@@ -6874,7 +6871,7 @@ operator	1	0	0	0	0	1
 operatorio	1	0	0	0	0	1
 operatorium	1	0	0	0	0	1
 operatos	2	0	2	0	0	0
-operatum	10	0	8	0	0	2
+operatum	11	0	8	0	0	3
 operatur	9	0	7	0	0	2
 operatus	14	0	10	0	0	4
 operatúr	1	0	1	0	0	0
@@ -7017,7 +7014,6 @@ operást	1	0	1	0	0	0
 operé	1	0	1	0	0	0
 operíte	2	0	2	0	0	0
 operíto	1	0	1	0	0	0
-oper͜atum	1	0	0	0	0	1
 opes	848	5	780	0	0	63
 opesque	18	0	18	0	0	0
 opeta	1	0	0	0	0	1
@@ -7395,6 +7391,7 @@ oppdwψ	1	1	0	0	0	0
 oppectuntur	1	0	1	0	0	0
 oppedere	3	0	3	0	0	0
 oppegit	1	0	1	0	0	0
+oppenheim	2	0	0	0	0	2
 opperiamini	1	0	1	0	0	0
 opperiamur	3	0	3	0	0	0
 opperiantur	1	0	1	0	0	0
@@ -8516,7 +8513,7 @@ opuntiorum	4	0	4	0	0	0
 opuntios	1	0	1	0	0	0
 opuntius	3	0	3	0	0	0
 opupitolose	1	0	0	0	1	0
-opus	3297	37	2970	6	9	275
+opus	3305	37	2970	6	9	283
 opusc	12	12	0	0	0	0
 opuscula	6	1	5	0	0	0
 opusculi	1	0	1	0	0	0
@@ -8543,7 +8540,6 @@ opεm	2	0	0	0	0	2
 opθ	2	2	0	0	0	0
 opθtu	1	1	0	0	0	0
 opψa	1	1	0	0	0	0
-op＇us	8	0	0	0	0	8
 oque	1	0	1	0	0	0
 oquenti	1	0	1	0	0	0
 oquinísceret	1	0	1	0	0	0
@@ -9112,13 +9108,12 @@ orditurque	3	0	3	0	0	0
 ordiuntur	3	0	3	0	0	0
 ordlaa	1	0	0	0	0	1
 ordnung	1	0	0	0	1	0
-ordo	810	12	707	11	6	74
+ordo	811	12	707	12	6	74
 ordoni	1	0	0	0	0	1
 ordonii	4	0	0	0	0	4
 ordonius	4	0	0	0	0	4
 ordoque	3	0	3	0	0	0
 ordor	1	0	1	0	0	0
-ordos	1	0	0	1	0	0
 ordouicas	1	0	1	0	0	0
 ordouices	1	0	1	0	0	0
 ordouicum	1	0	1	0	0	0
@@ -9534,8 +9529,7 @@ ornatissimas	3	0	3	0	0	0
 ornatissime	7	0	7	0	0	0
 ornatissimeque	2	0	2	0	0	0
 ornatissimi	11	0	11	0	0	0
-ornatissimis	6	0	6	0	0	0
-ornatissimi＇s	2	0	0	0	0	2
+ornatissimis	8	0	6	0	0	2
 ornatissimo	9	0	9	0	0	0
 ornatissimoque	1	0	1	0	0	0
 ornatissimorum	4	0	4	0	0	0
@@ -9716,6 +9710,7 @@ orphne	1	0	1	0	0	0
 orphos	1	0	1	0	0	0
 orphum	1	0	1	0	0	0
 orphus	1	0	1	0	0	0
+orquato	1	0	0	1	0	0
 orr	3	0	0	3	0	0
 orrearius	1	0	0	1	0	0
 orrendis	1	0	0	0	0	1
@@ -10038,7 +10033,6 @@ oseanipiose	1	0	0	0	1	0
 osee	14	0	0	0	0	14
 oseh	1	0	0	0	0	1
 oselur	1	0	0	1	0	0
-osema	1	0	0	1	0	0
 osenat	1	0	0	0	0	1
 oseo	1	0	0	1	0	0
 oseretanasio	1	0	0	0	1	0
@@ -10120,9 +10114,8 @@ osseum	3	0	3	0	0	0
 osseus	2	0	2	0	0	0
 ossi	13	0	12	0	1	0
 ossiarthe	1	0	0	0	0	1
-ossibus	238	2	200	0	0	36
+ossibus	241	2	200	0	0	39
 ossibusque	1	0	1	0	0	0
-ossib＇us	3	0	0	0	0	3
 ossicula	2	0	2	0	0	0
 ossiculi	1	0	1	0	0	0
 ossiculis	3	1	2	0	0	0
@@ -10367,8 +10360,7 @@ ostiarii	15	0	7	6	0	2
 ostiariis	2	0	2	0	0	0
 ostiario	3	0	3	0	0	0
 ostiarium	2	0	2	0	0	0
-ostiarius	6	0	3	0	0	3
-ostiari＇us	1	0	0	0	0	1
+ostiarius	7	0	3	0	0	4
 ostiatim	7	0	7	0	0	0
 ostidimus	1	0	0	1	0	0
 ostiense	2	0	2	0	0	0
@@ -10468,7 +10460,7 @@ osus	5	0	3	1	0	1
 osusque	1	0	1	0	0	0
 oswaldi	2	0	0	0	0	2
 oswaldus	2	0	0	0	0	2
-oswiun͜g	1	0	0	0	0	1
+oswiung	1	0	0	0	0	1
 osyptrum	2	0	0	2	0	0
 osyris	2	0	2	0	0	0
 osyrites	1	1	0	0	0	0
@@ -10515,6 +10507,7 @@ other	26	1	0	0	24	1
 otherwise	1	0	0	0	1	0
 othia	3	0	0	0	0	3
 othilia	1	0	0	0	0	1
+othlae	1	0	0	0	0	1
 othmare	2	0	0	0	0	2
 othmari	1	0	0	0	0	1
 otho	151	1	71	0	0	79
@@ -10644,9 +10637,8 @@ otus	5	0	5	0	0	0
 otwno	1	1	0	0	0	0
 otx	1	0	0	0	1	0
 oty	1	0	0	0	0	1
-ot͜hla͜e	1	0	0	0	0	1
 ou	20	3	2	0	3	12
-oua	294	1	266	20	5	2
+oua	293	1	266	19	5	2
 ouadd	1	0	0	0	1	0
 ouaiss	1	0	0	0	0	1
 oual	2	0	0	0	1	1
@@ -10692,7 +10684,7 @@ ouatus	2	0	2	0	0	0
 ouāns	1	0	1	0	0	0
 oubiftte	1	0	0	0	0	1
 oudaldrici	1	0	0	0	0	1
-oudalricus	4	0	0	0	0	4
+oudalricus	5	0	0	0	0	5
 oue	18	0	15	0	0	3
 oueis	1	0	1	0	0	0
 ouem	37	0	32	0	0	5
@@ -10962,8 +10954,8 @@ oˊrem	1	0	0	1	0	0
 oˊros	1	0	0	1	0	0
 ōceanus	1	0	1	0	0	0
 ōsberecte	1	0	0	0	0	1
-ōsgȳd͜h	1	0	0	0	0	1
-ōsgȳt͜h	1	0	0	0	0	1
+ōsgȳdh	1	0	0	0	0	1
+ōsgȳth	1	0	0	0	0	1
 ōsiid	1	0	0	0	0	1
 ōstio	1	0	1	0	0	0
 ŏ	10	0	10	0	0	0
@@ -10990,11 +10982,6 @@ ŏstendere	1	0	1	0	0	0
 ŏstenderem	2	0	2	0	0	0
 o͂cpr	1	0	0	1	0	0
 o͂palexgiss	1	0	0	1	0	0
-o͜e	1	0	0	0	0	1
-o͜em	1	0	0	0	0	1
-o͜enjco͜ea͜eg	1	0	0	0	0	1
-o͜ppenheim	2	0	0	0	0	2
-o͜udalricus	1	0	0	0	0	1
 oδ	1	1	0	0	0	0
 oδείτ	1	0	0	0	1	0
 oθ	1	1	0	0	0	0
