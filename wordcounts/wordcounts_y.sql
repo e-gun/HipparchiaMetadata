@@ -84,7 +84,6 @@ yaμυkoi	1	0	0	0	1	0
 ybelin	1	0	0	0	0	1
 ybi	5	5	0	0	0	0
 ybrk	3	0	0	0	3	0
-yc	1	0	0	0	0	1
 ychibarcu	1	0	1	0	0	0
 ycine	1	0	0	0	0	1
 ycit	1	0	0	0	0	1
@@ -151,18 +150,19 @@ ygegpg	8	8	0	0	0	0
 ygegpm	3	3	0	0	0	0
 ygegpt	1	1	0	0	0	0
 ygegt	1	1	0	0	0	0
-ygendorp	1	0	0	0	0	1
 yguia	2	0	0	0	0	2
 ygumenus	1	0	0	0	0	1
+yg⟨e⟩ndorp	1	0	0	0	0	1
 yhabalathi	1	0	0	1	0	0
-yhl	11	11	0	0	0	0
+yhl	1	1	0	0	0	0
 yhlig	2	2	0	0	0	0
+yhl⟩	10	10	0	0	0	0
 yhsp	2	0	0	0	0	2
 yhwdh	2	0	0	0	0	2
-yhwsp	3	0	0	0	0	3
+yhwsp	2	0	0	0	0	2
 yhy	4	0	0	0	0	4
 yhzql	3	0	0	0	0	3
-yhzqyh	1	0	0	0	0	1
+yh⟨z⟩qyh	1	0	0	0	0	1
 yi	1	0	0	1	0	0
 yibieni	1	0	0	0	1	0
 yibius	1	0	0	1	0	0
@@ -174,7 +174,7 @@ yidegysel	1	0	0	1	0	0
 yidomaris	1	0	0	1	0	0
 yigilio	2	0	0	2	0	0
 yigilius	1	0	0	1	0	0
-yiii	2	0	0	0	0	2
+yiii	1	0	0	0	0	1
 yiiii	1	0	0	0	0	1
 yilcassino	3	0	0	3	0	0
 yilio	1	0	0	1	0	0
@@ -203,7 +203,6 @@ yirtute	3	0	0	3	0	0
 yisaac	1	0	0	0	0	1
 yitalis	2	0	0	2	0	0
 yitaliu	1	0	0	1	0	0
-yitam	1	0	0	0	0	1
 yiuario	1	0	0	1	0	0
 yiuian	1	0	0	1	0	0
 yixit	2	0	0	0	0	2
@@ -217,7 +216,8 @@ ylfoald	1	0	0	1	0	0
 ylfolaicus	1	0	0	1	0	0
 ylix	1	1	0	0	0	0
 ylixe	5	5	0	0	0	0
-ylixem	9	9	0	0	0	0
+ylixem	7	7	0	0	0	0
+ylixem⟩	2	2	0	0	0	0
 ylixes	11	11	0	0	0	0
 ylixēs	1	1	0	0	0	0
 ylixis	5	5	0	0	0	0
@@ -226,10 +226,11 @@ ylo	1	0	0	0	1	0
 ylp	2	0	0	1	1	0
 ylpi	6	0	0	1	5	0
 ylpia	4	0	0	2	1	1
-ylpiae	9	0	0	0	8	1
+ylpiae	8	0	0	0	8	0
 ylpian	4	4	0	0	0	0
 ylpianum	1	0	0	0	1	0
 ylpianus	1	0	0	1	0	0
+ylpia⟨e⟩	1	0	0	0	0	1
 ylpii	1	0	0	1	0	0
 ylpio	6	0	0	2	4	0
 ylpiu	1	0	0	1	0	0
@@ -328,15 +329,13 @@ you	2	0	0	0	1	1
 young	1	0	0	0	0	1
 youth	1	0	0	0	1	0
 youths	1	0	0	0	1	0
-yp	1	0	0	0	0	1
-ypacares	2	0	2	0	0	0
+ypacares	1	0	1	0	0	0
 ypallagen	1	0	1	0	0	0
 ypatio	4	0	0	0	0	4
 yperbolen	1	0	1	0	0	0
 yperechiam	1	0	0	0	0	1
 ypermestram	1	0	1	0	0	0
 ypoblattae	1	0	0	0	0	1
-ypobolen	1	0	1	0	0	0
 ypocistidos	1	0	1	0	0	0
 ypocondriis	1	0	1	0	0	0
 ypodecta	2	0	0	2	0	0
@@ -360,9 +359,9 @@ ypsichius	1	0	0	0	0	1
 ypsicrates	1	0	1	0	0	0
 ypsiuremeta	1	0	0	0	0	1
 ypz	137	0	0	137	0	0
-yqb	2	0	0	0	0	2
-yqsw	1	0	0	0	0	1
+yqb	1	0	0	0	0	1
 yqwb	2	0	0	0	0	2
+yq⟨s⟩w	1	0	0	0	0	1
 yr	26	23	0	1	0	2
 yran	1	0	0	0	1	0
 yraniae	1	0	0	0	1	0
@@ -442,16 +441,15 @@ ysaacius	1	0	0	0	0	1
 ysabellis	2	0	0	0	0	2
 ysacha	1	0	0	0	0	1
 ysagrio	1	0	0	0	0	1
-ysaiam	2	0	0	0	0	2
 ysaias	7	0	0	0	0	7
+ysai⟨a⟩m	2	0	0	0	0	2
 ysayas	2	0	0	0	0	2
 yscription	1	0	0	1	0	0
-yse	1	0	0	0	0	1
 ysen	9	9	0	0	0	0
 ysenach	1	0	0	0	0	1
-ysenburc	2	0	0	0	0	2
 ysener	17	17	0	0	0	0
 ysenernissen	1	1	0	0	0	0
+ysen⟨b⟩urc	2	0	0	0	0	2
 yshq	3	0	0	0	0	3
 ysimbertus	1	0	0	0	0	1
 ysiodoro	1	0	0	0	0	1
@@ -464,7 +462,7 @@ ysthyalm	1	0	1	0	0	0
 ysymbertus	1	0	0	0	0	1
 ysys	2	0	0	0	0	2
 yšrwn	2	0	0	0	0	2
-yt	40	39	0	0	0	1
+yt	38	37	0	0	0	1
 ytalie	1	0	0	0	0	1
 ytcumque	1	1	0	0	0	0
 yterii	2	0	0	0	0	2
@@ -541,11 +539,11 @@ yâ	1	0	0	0	0	1
 yûlad	1	0	0	0	0	1
 yıldız	1	0	0	0	1	0
 yαρᾶϲ	2	0	0	0	2	0
-yαρᾷ	1	0	0	0	1	0
 yαυ	2	0	0	0	2	0
 yιρθμεν	1	0	0	0	0	1
 yω	6	6	0	0	0	0
 yωm	1	1	0	0	0	0
+y⟨p⟩	1	0	0	0	0	1
 \.
 
 
