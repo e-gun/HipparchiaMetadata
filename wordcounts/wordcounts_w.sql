@@ -42,8 +42,8 @@ ALTER TABLE wordcounts_w OWNER TO hippa_wr;
 --
 
 COPY wordcounts_w (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-w	880	822	0	1	47	10
-wa	24	15	0	0	2	7
+w	883	826	0	1	46	10
+wa	27	15	0	0	2	10
 wabuetusus	1	0	0	0	0	1
 wace	1	0	0	0	1	0
 wachs	2	2	0	0	0	0
@@ -62,6 +62,7 @@ waeschke	8	8	0	0	0	0
 wag	1	0	0	0	0	1
 wagendenror	2	0	0	0	0	2
 wagner	10	10	0	0	0	0
+wahamsimia	1	0	0	0	0	1
 wahdihi	1	0	0	0	0	1
 wahrscheinlich	1	1	0	0	0	0
 waitz	1	1	0	0	0	0
@@ -70,13 +71,13 @@ walachfredi	2	0	0	0	0	2
 walafrid	2	0	0	0	0	2
 walahfredus	2	0	0	0	0	2
 walakanio	1	0	0	0	1	0
-walamun⟨st⟩er	1	0	0	0	0	1
+walamunster	1	0	0	0	0	1
 walathini	1	0	0	0	0	1
 walbank	10	0	0	0	10	0
 walbanks	1	0	0	0	1	0
 walburg	1	0	0	0	0	1
 walburgae	1	0	0	0	0	1
-walburge	1	0	0	0	0	1
+walburge	2	0	0	0	0	2
 walburgi	1	0	0	0	0	1
 walburgis	2	0	0	0	0	2
 walcher	1	0	0	0	0	1
@@ -113,7 +114,7 @@ walthero	1	0	0	0	0	1
 waltherus	8	0	0	0	0	8
 waltrudis	2	0	0	0	0	2
 waltz	1	1	0	0	0	0
-walz	49	49	0	0	0	0
+walz	50	50	0	0	0	0
 walzii	2	2	0	0	0	0
 wamarg	1	1	0	0	0	0
 wamba	2	0	0	0	0	2
@@ -159,7 +160,6 @@ wattenheim	1	0	0	0	0	1
 wattenhein	1	0	0	0	0	1
 watzinger	1	0	0	0	1	0
 waxc	2	2	0	0	0	0
-wa⟨h⟩amsimia	1	0	0	0	0	1
 wb	1	1	0	0	0	0
 wbisψψaψb	1	1	0	0	0	0
 wbkry	1	0	0	0	1	0
@@ -232,8 +232,9 @@ wenkebachpfaff	1	1	0	0	0	0
 wenn	3	3	0	0	0	0
 wenrada	1	0	0	0	0	1
 wentz	2	2	0	0	0	0
+weo	1	0	0	0	1	0
 weomado	1	0	0	0	0	1
-weomadus⟩	2	0	0	0	0	2
+weomadus	2	0	0	0	0	2
 wepiya	1	0	0	0	1	0
 wepo	1	0	0	0	1	0
 wer	3	2	0	0	0	1
@@ -245,8 +246,7 @@ were	4	2	0	0	1	1
 weresee	2	0	0	0	2	0
 weretase	2	0	0	0	2	0
 werf	18	18	0	0	0	0
-werfer	40	40	0	0	0	0
-werfer⟩	1	1	0	0	0	0
+werfer	41	41	0	0	0	0
 werinherus	1	0	0	0	0	1
 werkzeichen	8	0	0	0	8	0
 wernerus	1	0	0	0	0	1
@@ -275,14 +275,13 @@ westermann	6	6	0	0	0	0
 westermanni	1	1	0	0	0	0
 westliches	1	0	0	0	0	1
 wetei	14	0	0	0	14	0
-weteose	4	0	0	0	4	0
+weteose	6	0	0	0	6	0
 wetose	2	0	0	0	2	0
 wetsch	1	1	0	0	0	0
 wezel	1	0	0	0	0	1
 wezelin	1	0	0	0	0	1
 wezilo	1	0	0	0	0	1
 wezzel	1	0	0	0	0	1
-we⟨o⟩	1	0	0	0	1	0
 wgdwnt	2	0	0	0	0	2
 wgl	3	3	0	0	0	0
 whale	1	0	0	0	0	1
@@ -290,7 +289,7 @@ what	3	0	0	0	3	0
 wheelcross	2	0	0	0	0	2
 whether	7	0	0	0	7	0
 which	17	2	0	0	7	8
-while	1	0	0	0	0	1
+while	2	0	0	0	0	2
 whiston	1	1	0	0	0	0
 whitehead	4	0	0	0	4	0
 who	2	0	0	0	0	2
@@ -312,20 +311,20 @@ wicksnuffer	1	0	0	0	0	1
 wicksnuffers	1	0	0	0	0	1
 wictimilus	1	0	0	0	0	1
 widargildus	2	0	0	0	0	2
-widbertus	1	0	0	0	0	1
+widbertus	2	0	0	0	0	2
 wide	2	0	0	0	2	0
 widecho	1	0	0	0	0	1
 widegouo	1	0	0	0	0	1
 widekini	1	0	0	0	0	1
 widekino	1	0	0	0	0	1
-widerecus	1	0	0	0	0	1
+widerecus	2	0	0	0	0	2
 widerici	1	0	0	0	0	1
 widerlegungen	1	1	0	0	0	0
 widh	1	0	0	0	0	1
 wido	4	0	0	0	0	4
-widone	1	0	0	0	0	1
+widone	2	0	0	0	0	2
+widonem	1	0	0	0	0	1
 widonis	5	0	0	0	0	5
-widon⟨e⟩m	1	0	0	0	0	1
 wie	17	11	0	0	5	1
 wiebliche	1	0	0	0	0	1
 wieder	2	0	0	0	0	2
@@ -352,26 +351,25 @@ wilam	8	8	0	0	0	0
 wilamowitz	20	19	0	0	1	0
 wilbernus	1	0	0	0	0	1
 wileca	2	0	0	0	0	2
+wilelm	1	0	0	0	0	1
 wilelmi	2	0	0	0	0	2
 wilelmo	1	0	0	0	0	1
 wilelmus	2	0	0	0	0	2
 wileman	1	0	0	0	0	1
 wilemar	1	0	0	0	0	1
 wileyci	1	0	0	0	0	1
-wile⟨l⟩m	1	0	0	0	0	1
 wilgelm	1	0	0	0	0	1
 wilgelmum	2	0	0	0	0	2
 wilgisus	2	0	0	0	0	2
-wilhelm	174	1	0	0	169	4
+wilhelm	176	1	0	0	171	4
 wilhelmi	1	0	0	0	0	1
-wilhelmo	2	0	0	0	0	2
+wilhelmo	3	0	0	0	0	3
 wilhelms	1	0	0	0	1	0
 wilhelmus	9	0	0	0	0	9
-wilhelm⟩	1	0	0	0	1	0
 wilhem	7	0	0	0	7	0
 wiliarit	3	0	0	3	0	0
 wilielemus	1	0	0	0	0	1
-wilielmi	9	0	0	0	0	9
+wilielmi	11	0	0	0	0	11
 wilielmo	1	0	0	0	0	1
 wilielmus	1	0	0	0	0	1
 wiligelme	1	0	0	0	0	1
@@ -383,14 +381,15 @@ wilke	1	1	0	0	0	0
 willebrordi	1	0	0	0	0	1
 willeburgis	1	0	0	0	0	1
 willehelm	3	0	0	0	0	3
+willehild	1	0	0	0	0	1
 willelm	7	0	0	0	0	7
 willelma	2	0	0	0	0	2
-willelmi	17	0	0	0	0	17
+willelmi	18	0	0	0	0	18
 willelmini	1	0	0	0	0	1
 willelmo	3	0	0	0	0	3
 willelmot	2	0	0	0	0	2
-willelmum	2	0	0	0	0	2
-willelmus	45	0	0	0	0	45
+willelmum	4	0	0	0	0	4
+willelmus	46	0	0	0	0	46
 willem	1	0	0	0	0	1
 willeman	1	0	0	0	0	1
 willemsen	1	0	0	0	1	0
@@ -399,7 +398,6 @@ willer	1	0	0	0	0	1
 willero	2	0	0	0	0	2
 willerus	2	0	0	0	0	2
 willes	1	0	0	0	0	1
-wille⟨hi⟩ld	1	0	0	0	0	1
 william	2	2	0	0	0	0
 willibaldi	1	0	0	0	0	1
 willibirg	1	0	0	0	0	1
@@ -415,11 +413,10 @@ willipaldo	1	0	0	0	0	1
 willis	1	1	0	0	0	0
 wiltelmini	1	0	0	0	0	1
 wiltrudis	2	0	0	0	0	2
-wil⟨l⟩elmum	1	0	0	0	0	1
 wimapasamo	1	0	0	0	1	0
 wimara	1	0	0	0	0	1
 wimari	2	0	0	0	0	2
-wimer⟨sk⟩irch	1	0	0	0	0	1
+wimerskirch	1	0	0	0	0	1
 wimm	8	8	0	0	0	0
 wimmer	23	23	0	0	0	0
 winck	5	5	0	0	0	0
@@ -452,6 +449,7 @@ wirtenberg	1	0	0	0	0	1
 wirtenberge	1	0	0	0	0	1
 wirtnwerg	1	0	0	0	0	1
 wirtzburgum	1	0	0	0	0	1
+wirundi	2	0	0	0	0	2
 wirunt	2	0	0	0	0	2
 wirzburgensis	1	0	0	0	0	1
 wirzburgi	1	0	0	0	0	1
@@ -470,7 +468,7 @@ witellius	1	0	0	0	0	1
 witernensi	1	0	0	0	0	1
 witgario	1	0	0	0	0	1
 witgenstein	1	0	0	0	0	1
-with	192	3	0	0	96	93
+with	193	3	0	0	97	93
 withe	2	0	0	0	0	2
 within	23	0	0	0	20	3
 without	4	1	0	0	3	0
@@ -483,13 +481,9 @@ witterit	1	0	0	1	0	0
 witwen	1	0	0	0	0	1
 wiueraht	1	0	0	0	0	1
 wizeburgense	1	0	0	0	0	1
+wizenburgensis	1	0	0	0	0	1
 wizunburg	2	0	0	0	0	2
-wiz⟨e⟩nburg⟨e⟩nsis	1	0	0	0	0	1
-wi⟨db⟩ertus	1	0	0	0	0	1
-wi⟨lhel⟩mo	1	0	0	0	0	1
-wi⟨l⟩lelmus	1	0	0	0	0	1
-wi⟨ru⟩ndi	2	0	0	0	0	2
-wl	4	0	0	0	0	4
+wl	3	0	0	0	0	3
 wlabenius	1	0	0	0	0	1
 wlbn	1	0	0	0	0	1
 wlbnyhwn	1	0	0	0	0	1
@@ -528,7 +522,7 @@ woikone	1	0	0	0	1	0
 woikose	1	0	0	0	1	0
 woino	2	0	0	0	2	0
 woiwaniyase	1	0	0	0	1	0
-wolbero	2	0	0	0	0	2
+wolbero	3	0	0	0	0	3
 wolcenik	1	0	0	0	0	1
 wole	1	0	0	0	1	0
 wolf	1	1	0	0	0	0
@@ -551,7 +545,6 @@ wolken	2	0	0	0	0	2
 wolpertum	1	0	0	0	0	1
 wolskaconus	3	0	0	0	2	1
 woluisgazen	1	0	0	0	0	1
-wol⟨b⟩ero	1	0	0	0	0	1
 woman	4	0	0	0	3	1
 womari	1	0	0	0	0	1
 womarus	1	0	0	0	0	1
@@ -567,6 +560,7 @@ worden	3	1	0	0	2	0
 words	5	2	0	0	1	2
 worhte	3	0	0	0	0	3
 woring	1	0	0	0	0	1
+wormacensis	1	0	0	0	0	1
 wormacia	6	0	0	0	0	6
 wormaciam	1	0	0	0	0	1
 wormacianis	1	0	0	0	0	1
@@ -578,7 +572,7 @@ wormatiani	4	0	0	0	0	4
 wormatienses	3	0	0	0	0	3
 wormatiensi	5	0	0	0	0	5
 wormatiensibus	1	0	0	0	0	1
-wormatiensis	10	0	0	0	0	10
+wormatiensis	11	0	0	0	0	11
 wormatiensium	4	0	0	0	0	4
 wormell	2	2	0	0	0	0
 wormuciensis	2	0	0	0	0	2
@@ -603,7 +597,7 @@ wozu	1	1	0	0	0	0
 wp	1	1	0	0	0	0
 wphoto	3	0	0	0	3	0
 wr	5	0	0	0	0	5
-wreath	63	0	0	0	46	17
+wreath	64	0	0	0	47	17
 wreaths	2	0	0	0	2	0
 wri	1	0	0	0	0	1
 writing	2	0	0	0	2	0
@@ -630,7 +624,6 @@ wurd	1	0	0	0	0	1
 wurde	2	1	0	0	1	0
 wurzeburc	1	0	0	0	0	1
 würzburg	1	0	0	0	1	0
-wuϲ	1	0	0	0	1	0
 wwxa	1	1	0	0	0	0
 wx	1	1	0	0	0	0
 wxaxcψψa	2	2	0	0	0	0
@@ -669,9 +662,7 @@ wψaxa	1	1	0	0	0	0
 wωιϲ	1	0	0	0	1	0
 wϲ	3	3	0	0	0	0
 wὁ	1	0	0	0	1	0
-w⟨a⟩lburge	1	0	0	0	0	1
-w⟨o⟩rmacensis	1	0	0	0	0	1
-w⟩	1	1	0	0	0	0
+w﹨l	1	0	0	0	0	1
 \.
 
 
