@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_t OWNER TO hippa_wr;
 --
 
 COPY wordcounts_t (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-t	10651	8833	1061	73	272	412
+t	10650	8834	1061	71	272	412
 ta	243	35	34	20	87	67
 taamata	1	0	0	0	1	0
 taatris	1	0	0	0	0	1
@@ -612,7 +612,7 @@ taise	1	0	0	0	1	0
 taite	1	0	0	0	1	0
 taka	2	0	0	0	2	0
 takanasoti	1	0	0	0	1	0
-takasymata	1	0	0	0	1	0
+takasumata	1	0	0	0	1	0
 taken	6	0	0	0	0	6
 takes	2	0	0	0	1	1
 tako	1	0	0	0	1	0
@@ -633,7 +633,7 @@ talamo	4	0	0	0	1	3
 talamos	1	0	0	0	0	1
 talamosque	1	0	0	0	0	1
 talandrum	1	0	1	0	0	0
-talany	1	0	0	0	1	0
+talanu	1	0	0	0	1	0
 talao	1	0	1	0	0	0
 talarenses	1	0	1	0	0	0
 talares	1	0	1	0	0	0
@@ -1529,7 +1529,7 @@ tascen	1	0	1	0	0	0
 taschas	1	0	0	0	0	1
 tasci	1	0	1	0	0	0
 tasconio	1	0	1	0	0	0
-tase	49	0	0	0	49	0
+tase	50	0	0	0	50	0
 taseteo	1	0	0	0	1	0
 tasgaetinis	1	0	0	0	0	1
 tasgetii	1	0	1	0	0	0
@@ -1843,7 +1843,7 @@ tctf	2	2	0	0	0	0
 tcu	1	0	0	0	0	1
 tdtywn	1	0	0	0	0	1
 tdux	2	0	0	0	1	1
-te	18240	94	17235	179	41	691
+te	18241	94	17235	179	42	691
 tea	3	0	1	1	1	0
 teac	1	0	0	1	0	0
 teanam	1	0	1	0	0	0
@@ -1875,7 +1875,7 @@ teberianus	2	0	0	0	0	2
 tebestinae	1	0	0	0	0	1
 teblis	1	0	0	0	1	0
 tebt	3	2	0	1	0	0
-tebtynis	1	1	0	0	0	0
+tebtunis	1	1	0	0	0	0
 tebus	2	0	0	0	1	1
 tec	3	0	1	0	1	1
 teca	1	0	0	0	0	1
@@ -2450,7 +2450,7 @@ temisi	3	0	0	0	3	0
 temisitakoro	1	0	0	0	1	0
 temisitiose	1	0	0	0	1	0
 temisitiyau	1	0	0	0	1	0
-temisitokyparase	1	0	0	0	1	0
+temisitokuparase	1	0	0	0	1	0
 temisitonato	1	0	0	0	1	0
 temisus	1	0	1	0	0	0
 temitoi	2	0	0	0	2	0
@@ -3833,7 +3833,7 @@ teretisque	2	0	2	0	0	0
 teretiusque	1	0	1	0	0	0
 teretrum	2	0	0	0	0	2
 teretur	2	0	2	0	0	0
-teretywo	1	0	0	0	1	0
+teretuwo	1	0	0	0	1	0
 tereu	1	0	1	0	0	0
 tereuentinates	1	0	1	0	0	0
 tereum	4	0	4	0	0	0
@@ -4495,23 +4495,21 @@ tertiost	2	0	2	0	0	0
 tertioue	3	0	3	0	0	0
 tertis	1	0	1	0	0	0
 tertiu	14	0	0	2	0	12
-tertium	799	10	759	3	3	24
+tertium	802	13	759	3	3	24
 tertiumne	2	0	2	0	0	0
 tertiumque	7	0	7	0	0	0
-tertius	461	11	380	1	10	59
+tertius	468	18	380	1	10	59
 tertiusque	1	0	1	0	0	0
-tertiym	3	3	0	0	0	0
-tertiys	7	7	0	0	0	0
 tertorio	1	0	0	1	0	0
 tertu	4	1	0	0	0	3
 tertulini	1	0	0	0	0	1
-tertull	2	2	0	0	0	0
+tertull	13	13	0	0	0	0
 tertulla	10	0	3	0	2	5
 tertullae	6	0	3	0	0	3
 tertullam	3	0	3	0	0	0
 tertulle	1	0	0	0	0	1
 tertulli	3	0	0	0	3	0
-tertullian	4	4	0	0	0	0
+tertullian	12	12	0	0	0	0
 tertulliano	6	0	6	0	0	0
 tertullianum	10	0	10	0	0	0
 tertullianus	30	24	6	0	0	0
@@ -4521,8 +4519,6 @@ tertullo	24	0	3	16	4	1
 tertullum	8	0	6	0	2	0
 tertullus	5	0	3	0	0	2
 tertum	1	0	1	0	0	0
-tertyll	11	11	0	0	0	0
-tertyllian	8	8	0	0	0	0
 tertyllo	1	0	0	0	1	0
 tertyllus	2	0	0	0	1	1
 tertía	1	0	1	0	0	0
@@ -4954,7 +4950,7 @@ tetolun	2	0	0	0	0	2
 tetomo	1	0	0	0	1	0
 tetonea	1	0	0	0	1	0
 tetopi	1	0	0	0	0	1
-tetowaseomoneky	1	0	0	0	1	0
+tetowaseomoneku	1	0	0	0	1	0
 tetquini	1	0	0	0	0	1
 tetr	1	0	0	0	0	1
 tetra	15	1	10	0	0	4
@@ -5269,7 +5265,7 @@ texite	1	0	1	0	0	0
 texitque	1	0	1	0	0	0
 texitur	19	0	19	0	0	0
 texor	1	0	0	0	0	1
-text	17165	1194	0	15834	108	29
+text	17177	1194	0	15846	108	29
 texta	35	0	35	0	0	0
 textae	3	0	3	0	0	0
 textam	8	0	8	0	0	0
@@ -5322,8 +5318,7 @@ textura	7	0	7	0	0	0
 texturae	1	0	1	0	0	0
 texturam	1	0	1	0	0	0
 texturas	2	0	2	0	0	0
-textus	36	15	4	6	5	6
-textys	1	1	0	0	0	0
+textus	37	16	4	6	5	6
 texuandri	1	0	1	0	0	0
 texuerat	1	0	1	0	0	0
 texuerunt	2	0	2	0	0	0
@@ -5353,7 +5348,6 @@ tger	1	0	0	0	0	1
 tgf	75	75	0	0	0	0
 th	1389	897	469	11	8	4
 tha	3	0	1	0	0	2
-thab	1	1	0	0	0	0
 thabbora	1	0	0	0	0	1
 thabenam	1	0	1	0	0	0
 thabenenses	1	0	1	0	0	0
@@ -5362,6 +5356,7 @@ thabor	3	0	0	0	0	3
 thabraca	3	0	3	0	0	0
 thabsia	1	0	1	0	0	0
 thabusion	1	0	1	0	0	0
+thabόr	1	1	0	0	0	0
 thadal	1	0	0	0	0	1
 thaddaeus	2	0	0	0	0	2
 thaddeus	5	0	0	0	0	5
@@ -5637,7 +5632,7 @@ thebaide	5	0	3	0	2	0
 thebaidem	2	0	2	0	0	0
 thebaides	1	0	1	0	0	0
 thebaidi	4	2	2	0	0	0
-thebaidis	22	3	7	10	2	0
+thebaidis	23	3	7	11	2	0
 thebaidos	21	1	5	13	1	1
 thebais	10	1	9	0	0	0
 thebaite	1	0	1	0	0	0
@@ -6104,10 +6099,10 @@ theotoku	1	0	0	0	0	1
 theotímum	1	0	1	0	0	0
 theoxena	5	0	5	0	0	0
 theoxenus	2	0	2	0	0	0
+theoy	1	1	0	0	0	0
 theoδoberti	1	0	0	0	0	1
 theoδorus	1	0	0	0	0	1
 theoδosi	1	0	0	0	0	1
-theoψ	1	1	0	0	0	0
 ther	149	86	60	0	0	3
 thera	6	0	6	0	0	0
 therae	1	0	1	0	0	0
@@ -6296,7 +6291,7 @@ thesleff	1	1	0	0	0	0
 thesm	47	47	0	0	0	0
 thesmoph	10	10	0	0	0	0
 thesmophoria	4	1	3	0	0	0
-thesmophoriazysas	1	1	0	0	0	0
+thesmophoriazusas	1	1	0	0	0	0
 thesmophoriis	1	0	1	0	0	0
 thesmothetai	1	0	0	0	1	0
 thesmothetarum	2	0	0	0	2	0
@@ -6767,6 +6762,7 @@ thrasyleonis	2	0	2	0	0	0
 thrasylle	1	0	1	0	0	0
 thrasylli	9	0	7	0	2	0
 thrasyllo	6	0	6	0	0	0
+thrasyllos	1	1	0	0	0	0
 thrasyllum	3	0	3	0	0	0
 thrasyllus	13	0	13	0	0	0
 thrasymacho	3	1	2	0	0	0
@@ -6776,7 +6772,6 @@ thrasymachus	10	3	7	0	0	0
 thrasymedem	1	1	0	0	0	0
 thrasymedes	2	0	2	0	0	0
 thrasymennum	1	0	1	0	0	0
-thrasψllos	1	1	0	0	0	0
 thrausi	1	0	1	0	0	0
 thrauston	1	0	1	0	0	0
 thrax	15	3	11	0	1	0
@@ -6881,7 +6876,7 @@ thuesta	1	0	1	0	0	0
 thugenid	1	1	0	0	0	0
 thui	1	0	0	0	0	1
 thuk	4	4	0	0	0	0
-thukyd	2	2	0	0	0	0
+thukyd	10	10	0	0	0	0
 thule	6	1	4	0	0	1
 thulgilo	2	0	0	2	0	0
 thulgilone	4	0	0	4	0	0
@@ -6992,7 +6987,6 @@ thyias	11	1	10	0	0	0
 thyillus	3	1	2	0	0	0
 thyillusque	1	0	1	0	0	0
 thyio	1	0	1	0	0	0
-thykψd	8	8	0	0	0	0
 thylacistae	1	0	1	0	0	0
 thylacus	1	0	1	0	0	0
 thylae	1	0	1	0	0	0
@@ -7211,9 +7205,8 @@ tiberis˙	1	0	0	1	0	0
 tiberiu	1	0	0	1	0	0
 tiberium	112	0	108	1	3	0
 tiberiumque	1	0	1	0	0	0
-tiberius	183	2	152	4	18	7
+tiberius	184	3	152	4	18	7
 tiberiusque	1	0	1	0	0	0
-tiberiys	1	1	0	0	0	0
 tiberím	1	0	0	0	0	1
 tibi	12934	55	12058	119	12	690
 tibia	85	1	84	0	0	0
@@ -7516,9 +7509,8 @@ timaios	4	4	0	0	0	0
 timakora	1	0	0	0	1	0
 timakorase	2	0	0	0	2	0
 timakoratii	1	0	0	0	1	0
-timakorau	3	0	0	0	3	0
-timakoray	1	0	0	0	1	0
-timaky	1	0	0	0	1	0
+timakorau	4	0	0	0	4	0
+timaku	1	0	0	0	1	0
 timandram	1	0	1	0	0	0
 timandri	1	1	0	0	0	0
 timanthe	1	0	1	0	0	0
@@ -7811,9 +7803,8 @@ timotheae	1	0	0	0	0	1
 timothei	10	0	7	0	0	3
 timotheo	5	0	4	0	0	1
 timotheum	12	2	9	0	0	1
-timotheus	20	0	12	0	1	7
+timotheus	21	1	12	0	1	7
 timotheusa	1	0	0	0	0	1
-timotheys	1	1	0	0	0	0
 timotoro	1	0	0	0	1	0
 timowanakoto	1	0	0	0	1	0
 timowanakotose	3	0	0	0	3	0
@@ -7849,9 +7840,9 @@ timuit	135	0	130	0	0	5
 timuitque	7	0	6	0	0	1
 timuitue	1	0	1	0	0	0
 timukereteose	1	0	0	0	1	0
+timukeretose	1	0	0	0	1	0
 timuli	1	0	0	0	0	1
 timum	1	0	1	0	0	0
-timykeretose	1	0	0	0	1	0
 timéntis	1	0	1	0	0	0
 timére	1	0	1	0	0	0
 timór	2	0	2	0	0	0
@@ -7997,7 +7988,7 @@ tinnulaque	1	0	1	0	0	0
 tinnulas	2	0	2	0	0	0
 tinnulos	1	0	1	0	0	0
 tinnungulus	1	0	1	0	0	0
-tino	18	0	0	0	1	17
+tino	19	0	0	0	1	18
 tinorum	1	0	0	0	0	1
 tinos	2	0	1	0	0	1
 tinosque	1	0	1	0	0	0
@@ -8138,7 +8129,7 @@ tirynthie	2	0	2	0	0	0
 tirynthii	2	1	1	0	0	0
 tirynthium	2	0	2	0	0	0
 tirynthius	59	0	59	0	0	0
-tis	58	1	23	5	5	24
+tis	59	1	23	5	5	25
 tisa	1	0	0	0	0	1
 tisaeae	1	0	1	0	0	0
 tisaeo	1	0	1	0	0	0
@@ -8325,6 +8316,7 @@ titios	3	0	3	0	0	0
 titioue	1	0	1	0	0	0
 titirusculus	1	0	0	0	0	1
 titiseniam	1	0	1	0	0	0
+titit	1	0	0	0	0	1
 titito	1	0	0	0	0	1
 tititolum	1	0	0	0	0	1
 titiulum	2	0	0	0	0	2
@@ -8404,7 +8396,7 @@ titulle	2	0	2	0	0	0
 titulm	1	0	0	0	0	1
 titulo	299	7	174	8	32	78
 titulom	2	0	0	0	0	2
-titulorum	9	1	3	0	2	3
+titulorum	10	2	3	0	2	3
 titulos	75	3	52	0	2	18
 titulosque	4	0	2	0	0	2
 titulu	16	0	0	0	0	16
@@ -8427,7 +8419,6 @@ titurnius	1	0	1	0	0	0
 titus	139	1	72	16	42	8
 titusorca	1	0	0	0	0	1
 tityi	9	0	9	0	0	0
-titylorym	1	1	0	0	0	0
 titylum	1	0	0	0	0	1
 tityo	4	0	4	0	0	0
 tityon	8	0	8	0	0	0
@@ -8521,7 +8512,8 @@ tnsla	1	0	0	1	0	0
 tnudach	1	0	0	0	0	1
 tnw	1	1	0	0	0	0
 tnwh	2	0	0	0	0	2
-to	520	24	17	10	317	152
+tnwx	1	0	0	0	1	0
+to	521	24	17	10	318	152
 toa	1	0	0	0	1	0
 toali	1	0	1	0	0	0
 toanata	1	0	0	0	1	0
@@ -9117,7 +9109,7 @@ tonuit	14	0	14	0	0	0
 tonum	16	2	14	0	0	0
 tonus	1	0	1	0	0	0
 too	4	1	0	0	3	0
-toorey	1	0	0	0	1	0
+tooreu	1	0	0	0	1	0
 tooridae	2	0	0	0	0	2
 toosisatotena	1	0	0	0	1	0
 top	57	26	0	0	23	8
@@ -9718,11 +9710,12 @@ toue	1	0	0	1	0	0
 touisaci	2	0	0	0	0	2
 toup	1	1	0	0	0	0
 touratsoglou	3	0	0	0	3	0
-tous	1	0	1	0	0	0
+tous	2	1	1	0	0	0
 tousburch	1	0	0	0	0	1
 toutas	1	0	0	0	0	1
-toute	3	0	0	0	1	2
+toute	2	0	0	0	0	2
 toutomotulum	1	0	1	0	0	0
+toutέstin	1	1	0	0	0	0
 towenai	2	0	0	0	2	0
 towenaiorosia	1	0	0	0	1	0
 toweteose	1	0	0	0	1	0
@@ -9747,8 +9740,6 @@ toxotes	1	0	0	0	1	0
 toxotius	1	0	1	0	0	0
 toxíle	1	0	1	0	0	0
 toxílus	1	0	1	0	0	0
-toys	1	1	0	0	0	0
-toytέstin	1	1	0	0	0	0
 tozmaseu	13	0	0	0	13	0
 tozzi	1	0	0	0	1	0
 tōta	1	0	1	0	0	0
@@ -9758,6 +9749,7 @@ tp	1	0	0	0	0	1
 tpie	1	0	0	0	0	1
 tpis	1	0	0	0	0	1
 tpws	2	0	0	0	0	2
+tqep	1	1	0	0	0	0
 tque	2	0	0	0	0	2
 tr	6841	6450	360	8	7	16
 tra	11	0	3	2	2	4
@@ -9992,7 +9984,7 @@ tractorium	2	0	2	0	0	0
 tractorum	2	0	2	0	0	0
 tractos	7	0	7	0	0	0
 tractosque	1	0	1	0	0	0
-tractu	175	8	166	0	0	1
+tractu	176	9	166	0	0	1
 tractum	140	1	137	0	0	2
 tractumque	2	0	2	0	0	0
 tractuque	5	0	5	0	0	0
@@ -10006,7 +9998,6 @@ tracturus	3	0	3	0	0	0
 tractus	133	1	127	0	0	5
 tractusque	9	0	9	0	0	0
 tractūs	1	0	1	0	0	0
-tracty	1	1	0	0	0	0
 tractáre	1	0	1	0	0	0
 tractáte	1	0	1	0	0	0
 tractús	1	0	0	0	0	1
@@ -10406,7 +10397,7 @@ traiana	1	0	0	1	0	0
 traianae	27	0	0	8	19	0
 traianarum	4	0	0	0	3	1
 traiane	5	0	2	0	2	1
-traianensiym	1	0	0	0	0	1
+traianensium	1	0	0	0	0	1
 traianeon	4	0	0	0	4	0
 traiani	223	0	66	17	88	52
 traianique	1	0	1	0	0	0
@@ -12609,7 +12600,7 @@ tribusnatu	1	0	1	0	0	0
 tribusne	2	0	2	0	0	0
 tribusque	9	0	9	0	0	0
 tribusue	8	0	8	0	0	0
-tributa	100	4	91	2	2	1
+tributa	101	5	91	2	2	1
 tributae	5	0	5	0	0	0
 tributam	9	1	8	0	0	0
 tributaque	1	0	1	0	0	0
@@ -12649,7 +12640,6 @@ tribuunt	30	3	26	0	1	0
 tribuuntur	18	0	17	0	0	1
 tribūnicia	1	0	1	0	0	0
 tribūniciae	1	0	1	0	0	0
-tribyta	1	1	0	0	0	0
 tribú	1	0	1	0	0	0
 tribúnicia	1	0	0	0	0	1
 tribúniciae	1	0	0	0	0	1
@@ -12750,7 +12740,7 @@ triclinio	48	0	42	0	0	6
 tricliniorum	8	0	8	0	0	0
 triclinium	55	0	53	0	1	1
 tricliniumque	1	0	1	0	0	0
-tricliniys	1	1	0	0	0	0
+triclinius	1	1	0	0	0	0
 triclínio	1	0	1	0	0	0
 trico	1	0	1	0	0	0
 tricocco	1	0	1	0	0	0
@@ -14270,7 +14260,7 @@ ttt	8	6	0	0	0	2
 tttil	1	1	0	0	0	0
 ttu	3	0	0	0	3	0
 ttuert	1	0	0	0	0	1
-tu	9457	73	8903	21	18	442
+tu	9470	84	8903	21	18	444
 tua	3690	12	3360	23	4	291
 tuadi	1	0	1	0	0	0
 tuae	1322	2	1236	20	6	58
@@ -14436,7 +14426,6 @@ tudici	1	0	1	0	0	0
 tudiclabis	2	0	2	0	0	0
 tudicula	1	0	1	0	0	0
 tudiculasse	1	0	1	0	0	0
-tudine	1	0	0	1	0	0
 tuditani	7	0	7	0	0	0
 tuditano	19	0	19	0	0	0
 tuditanoque	1	0	1	0	0	0
@@ -14567,7 +14556,7 @@ tuĭ	3	0	3	0	0	0
 tui͡	6	0	6	0	0	0
 tui͡s	5	0	5	0	0	0
 tuka	2	0	0	0	2	0
-tukai	43	0	0	0	43	0
+tukai	47	0	0	0	47	0
 tukaiminona	2	0	0	0	2	0
 tul	3	0	0	3	0	0
 tulcis	1	0	1	0	0	0
@@ -15040,11 +15029,12 @@ tuo͡	11	0	11	0	0	0
 tuo͡m	10	0	10	0	0	0
 tuo͡mne	1	0	1	0	0	0
 tuo͡s	1	0	1	0	0	0
+tuporinu	1	0	0	0	1	0
 tuq	1	0	1	0	0	0
 tuque	204	0	187	0	0	17
 tuquidem	2	0	2	0	0	0
 tuquum	1	1	0	0	0	0
-tur	207	162	25	8	5	7
+tur	208	162	25	8	6	7
 tura	119	0	118	1	0	0
 turae	2	0	1	0	0	1
 turamqne	1	0	0	0	0	1
@@ -15291,6 +15281,7 @@ turcio	7	0	0	0	0	7
 turcium	1	0	0	0	0	1
 turcius	1	0	0	0	0	1
 turco	1	0	0	0	0	1
+turcobyzantina	1	1	0	0	0	0
 turdae	1	0	1	0	0	0
 turdam	2	0	2	0	0	0
 turdario	1	0	1	0	0	0
@@ -15591,7 +15582,7 @@ turrino	1	0	1	0	0	0
 turrinum	1	0	1	0	0	0
 turrinus	10	0	10	0	0	0
 turrique	1	0	1	0	0	0
-turris	128	4	114	0	1	9
+turris	129	5	114	0	1	9
 turrisque	3	0	3	0	0	0
 turrita	6	0	6	0	0	0
 turritae	4	0	4	0	0	0
@@ -15636,7 +15627,7 @@ turundis	1	0	1	0	0	0
 turus	3	0	0	0	1	2
 turusiya	1	0	0	0	1	0
 turyn	6	6	0	0	0	0
-tus	117	0	59	8	3	47
+tus	118	0	59	8	3	48
 tusa	32	0	32	0	0	0
 tusae	18	0	18	0	0	0
 tusaeque	2	0	2	0	0	0
@@ -15644,7 +15635,7 @@ tusam	3	0	3	0	0	0
 tusamque	1	0	1	0	0	0
 tusaque	1	0	1	0	0	0
 tusas	1	0	1	0	0	0
-tusc	40	40	0	0	0	0
+tusc	41	41	0	0	0	0
 tusca	14	0	13	0	0	1
 tuscae	4	0	4	0	0	0
 tuscanensis	1	0	0	0	0	1
@@ -15721,7 +15712,7 @@ tusisque	1	0	1	0	0	0
 tuso	10	0	9	0	1	0
 tusorum	2	0	2	0	0	0
 tusos	1	0	1	0	0	0
-tusotoro	1	0	0	0	1	0
+tusotoro	2	0	0	0	2	0
 tusque	1	0	1	0	0	0
 tuss	1	0	1	0	0	0
 tusse	1	0	1	0	0	0
@@ -15945,19 +15936,22 @@ tutétur	2	0	2	0	0	0
 tutó	1	0	1	0	0	0
 tutóri	1	0	0	0	1	0
 tutúm	1	0	1	0	0	0
+tutἑ	1	0	0	0	1	0
 tuu	3	0	0	1	0	2
 tuuibull	1	0	0	0	1	0
 tuum	1502	5	1385	11	2	99
 tuumne	3	0	3	0	0	0
 tuumque	26	0	26	0	0	0
 tuuos	1	0	0	1	0	0
-tuus	857	5	764	2	0	86
+tuus	855	5	764	2	0	84
 tuusque	8	0	8	0	0	0
 tuusue	1	0	1	0	0	0
 tuwanoi	1	0	0	0	1	0
 tux	2	0	2	0	0	0
 tuxc	1	1	0	0	0	0
-tuxcψψaψbξa	1	1	0	0	0	0
+tuxcyyaybξa	1	1	0	0	0	0
+tuya	2	2	0	0	0	0
+tuyayb	1	1	0	0	0	0
 tuzzelingerius	1	0	0	0	0	1
 tuá	6	0	4	0	0	2
 tuám	2	0	2	0	0	0
@@ -15974,8 +15968,6 @@ tūto	1	0	1	0	0	0
 tŭ	52	0	52	0	0	0
 tŭm	9	0	9	0	0	0
 tuξa	1	1	0	0	0	0
-tuψa	2	2	0	0	0	0
-tuψaψb	1	1	0	0	0	0
 tw	6	6	0	0	0	0
 twb	3	0	0	0	0	3
 twd	3	3	0	0	0	0
@@ -15992,12 +15984,15 @@ twο	1	0	0	0	1	0
 tx	4	3	0	0	0	1
 txb	5	5	0	0	0	0
 txt	2	0	0	0	2	0
-txψ	1	1	0	0	0	0
-ty	12	11	0	0	0	1
+txy	1	1	0	0	0	0
+ty	6	5	0	0	0	1
+tya	7	7	0	0	0	0
 tyae	1	0	0	0	0	1
 tyan	3	3	0	0	0	0
 tyana	2	0	2	0	0	0
 tyanam	1	0	1	0	0	0
+tyayb	1	1	0	0	0	0
+tyb	2	2	0	0	0	0
 tybae	1	0	1	0	0	0
 tyberiadensis	1	0	0	0	0	1
 tyberiadis	1	0	0	0	0	1
@@ -16044,7 +16039,6 @@ tydis	1	0	1	0	0	0
 tyfoea	1	0	1	0	0	0
 tyfonam	1	0	1	0	0	0
 tygris	2	0	0	0	0	2
-tykai	4	0	0	0	4	0
 tyle	3	1	2	0	0	0
 tylen	2	1	1	0	0	0
 tyleni	1	0	1	0	0	0
@@ -16156,12 +16150,11 @@ typicus	1	0	0	0	0	1
 typis	1	1	0	0	0	0
 typo	7	1	6	0	0	0
 typon	1	0	1	0	0	0
-typorinu	1	0	0	0	1	0
 typos	2	0	2	0	0	0
 typothetas	1	1	0	0	0	0
 typum	7	0	5	0	0	2
 typus	7	1	3	0	0	3
-tyr	28	27	0	0	1	0
+tyr	32	32	0	0	0	0
 tyra	6	1	5	0	0	0
 tyracinenses	1	0	1	0	0	0
 tyracinum	1	0	1	0	0	0
@@ -16226,7 +16219,6 @@ tyranos	1	0	0	0	1	0
 tyranus	1	0	0	0	0	1
 tyras	1	0	1	0	0	0
 tyrcae	1	0	1	0	0	0
-tyrcobψzantina	1	1	0	0	0	0
 tyren	3	0	3	0	0	0
 tyrenos	1	1	0	0	0	0
 tyres	3	0	3	0	0	0
@@ -16310,7 +16302,6 @@ tyrrhidae	3	0	3	0	0	0
 tyrrhum	2	0	2	0	0	0
 tyrrhus	2	0	2	0	0	0
 tyrrhusque	2	0	2	0	0	0
-tyrris	1	1	0	0	0	0
 tyrsin	1	0	1	0	0	0
 tyrsus	1	0	0	0	0	1
 tyrsígerae	1	0	1	0	0	0
@@ -16324,24 +16315,21 @@ tyrtaios	1	1	0	0	0	0
 tyrum	10	0	10	0	0	0
 tyrus	3	1	1	0	0	1
 tyránni	1	0	1	0	0	0
-tysc	1	1	0	0	0	0
 tyscon	1	0	1	0	0	0
 tysdritanae	1	0	1	0	0	0
 tysdrum	3	0	3	0	0	0
-tysotoro	1	0	0	0	1	0
 tyteque	1	0	0	0	0	1
 tytine	1	0	0	1	0	0
 tyto	1	0	1	0	0	0
 tytyre	1	0	0	0	0	1
-tytἑ	1	0	0	0	1	0
 tz	373	373	0	0	0	0
 tzaliconi	2	0	0	2	0	0
 tzc	1	1	0	0	0	0
 tzetbzes	1	1	0	0	0	0
-tzetz	137	137	0	0	0	0
+tzetz	138	138	0	0	0	0
 tzetzae	4	4	0	0	0	0
 tzetzes	676	676	0	0	0	0
-tzetzianym	1	1	0	0	0	0
+tzetzianum	1	1	0	0	0	0
 tzia	1	0	0	0	0	1
 tziaphalias	8	0	0	0	8	0
 tzinitzini	1	0	0	0	0	1
@@ -16562,22 +16550,19 @@ týndaro	1	0	1	0	0	0
 týpana	1	0	1	0	0	0
 ṫbt	1	0	0	0	1	0
 tάcews	1	0	0	1	0	0
+tάs	1	0	0	1	0	0
+tήν	1	0	0	1	0	0
 tί	1	1	0	0	0	0
 tαργηλιῶνοϲ	1	0	0	0	1	0
 tε	5	0	0	0	0	5
 tεcnon	1	0	0	0	0	1
 tεrtio	1	0	0	0	0	1
 tεstamεnto	1	0	0	0	0	1
-tθep	1	1	0	0	0	0
 tλxsub	1	1	0	0	0	0
 tξa	8	8	0	0	0	0
-tψ	5	5	0	0	0	0
-tψa	7	7	0	0	0	0
-tψaψb	1	1	0	0	0	0
-tψb	2	2	0	0	0	0
-tψr	5	5	0	0	0	0
 tό	2	1	0	1	0	0
 tόmos	1	0	0	1	0	0
+tόn	1	1	0	0	0	0
 tύpon	1	1	0	0	0	0
 tἑ	1	0	0	0	1	0
 tῆs	3	1	0	2	0	0

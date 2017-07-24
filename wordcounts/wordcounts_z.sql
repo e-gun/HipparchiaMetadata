@@ -42,7 +42,7 @@ ALTER TABLE wordcounts_z OWNER TO hippa_wr;
 --
 
 COPY wordcounts_z (entry_name, total_count, gr_count, lt_count, dp_count, in_count, ch_count) FROM stdin;
-z	1514	1417	26	27	37	7
+z	1516	1418	26	27	38	7
 za	14	9	0	3	0	2
 zab	1	0	0	1	0	0
 zaba	1	0	1	0	0	0
@@ -268,20 +268,20 @@ zemae	1	0	1	0	0	0
 zemam	1	0	1	0	0	0
 zemas	1	0	1	0	0	0
 zemlia	1	0	0	0	1	0
-zen	18	14	0	4	0	0
+zen	19	15	0	4	0	0
 zena	1	0	0	1	0	0
 zenarion	2	0	0	2	0	0
 zenaspim	2	0	0	0	0	2
 zendeboldus	2	0	0	0	0	2
 zeno	152	86	56	0	3	7
-zenob	70	70	0	0	0	0
+zenob	78	78	0	0	0	0
 zenobi	1	0	0	1	0	0
 zenobia	26	0	25	0	0	1
 zenobiae	6	0	6	0	0	0
 zenobiam	10	0	10	0	0	0
 zenobii	2	2	0	0	0	0
 zenobio	2	1	0	1	0	0
-zenobius	38	35	0	3	0	0
+zenobius	41	38	0	3	0	0
 zenod	2	2	0	0	0	0
 zenodius	1	0	0	0	0	1
 zenodo	1	0	0	1	0	0
@@ -403,7 +403,7 @@ zeuxippum	5	0	5	0	0	0
 zeuxippus	3	0	3	0	0	0
 zeuxis	14	0	14	0	0	0
 zezabelis	2	0	0	0	0	2
-zh	2	0	0	0	0	2
+zh	3	0	0	0	1	2
 zhem	2	0	0	0	0	2
 ziaconus	1	0	0	0	0	1
 zias	1	0	0	0	0	1
@@ -465,7 +465,7 @@ zizyforum	2	0	0	0	1	1
 zkd	1	0	0	0	0	1
 zkr	1	0	0	0	0	1
 zkrwnh	2	0	0	0	0	2
-zkrwnw	2	0	0	0	0	2
+zkrwnw	3	0	0	0	1	2
 zmaragde	1	0	1	0	0	0
 zmaragdi	12	0	1	0	11	0
 zmaragdinum	1	0	1	0	0	0
@@ -538,8 +538,7 @@ zoippo	1	0	1	0	0	0
 zoippum	1	0	1	0	0	0
 zoippus	1	0	1	0	0	0
 zokarise	1	0	0	0	1	0
-zokorau	1	0	0	0	1	0
-zokoray	1	0	0	0	1	0
+zokorau	2	0	0	0	2	0
 zolinapia	1	0	0	0	1	0
 zollfrei	1	0	0	0	0	1
 zolra	2	0	0	0	0	2
@@ -549,7 +548,7 @@ zon	133	133	0	0	0	0
 zona	53	3	39	0	3	8
 zonae	14	0	14	0	0	0
 zonaeque	1	0	1	0	0	0
-zonaeys	1	1	0	0	0	0
+zonaeus	1	1	0	0	0	0
 zonam	29	1	27	0	0	1
 zonamque	1	0	1	0	0	0
 zonar	10	10	0	0	0	0
@@ -645,6 +644,7 @@ zoticus	10	0	3	0	2	5
 zotimo	2	0	0	0	2	0
 zoton	2	1	1	0	0	0
 zotose	1	0	0	0	1	0
+zou	1	0	0	0	1	0
 zowaiose	1	0	0	0	1	0
 zowakorase	1	0	0	0	1	0
 zowalio	1	0	0	0	1	0
@@ -663,13 +663,12 @@ zowokere	1	0	0	0	1	0
 zoworo	1	0	0	0	1	0
 zowotemise	2	0	0	0	2	0
 zowotemiwose	1	0	0	0	1	0
-zoy	1	0	0	0	1	0
 zoyli	4	0	0	0	0	4
 zozimas	1	0	0	0	0	1
 zpe	5	3	0	0	1	1
 zrw	3	0	0	0	0	3
 ztg	1	1	0	0	0	0
-zu	202	173	1	0	6	22
+zu	205	176	1	0	6	22
 zuaiene	1	0	0	0	0	1
 zuckungsl	1	1	0	0	0	0
 zueinander	1	0	0	0	0	1
@@ -713,7 +712,6 @@ zwickel	1	0	0	0	0	1
 zwischen	29	5	0	0	6	18
 zwölf	5	0	0	0	1	4
 zwölffachen	1	0	0	0	0	1
-zy	3	3	0	0	0	0
 zygere	1	0	1	0	0	0
 zygiae	1	0	1	0	0	0
 zygiam	1	0	1	0	0	0
